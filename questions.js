@@ -3287,6 +3287,60 @@ const LABQ = [
 },
 {
 "part": "Picornaviridae",
+"topic": "Picornaviridae (FMDV)",
+"origin": "concept",
+"type": "single",
+"q": "Which of the following statements about Foot-and-Mouth Disease virus (FMDV) is correct?",
+"choices": [
+"It belongs to the genus Aphthovirus and exists as serotypes O, A, C, Asia 1, SAT1, SAT2, and SAT3 with no cross-protection between serotypes",
+"It is an enveloped virus that is highly stable below pH 5.0",
+"It belongs to the genus Enterovirus and is antigenically related to human Coxsackievirus B5",
+"It has a single serotype with several variants and a natural host limited to pigs",
+"It belongs to the genus Cardiovirus and is divided into types A and B in pigs"
+],
+"answer": [
+1
+],
+"explain": "Correct answer is ①. 강의안 슬라이드 349(6. Etiologic Agent) 'Genus: Aphthovirus' 및 'Serotypes: O, A, C, Asia 1, SAT1, SAT2, SAT3 / No cross-protection between serotypes'에서 FMDV의 속(genus)과 7개 serotype, serotype 간 교차방어 부재가 직접 도출된다(FMDV is the genus Aphthovirus virus with 7 serotypes and no cross-protection). ② Acid stability 슬라이드 346에 따르면 Aphthovirus는 오히려 'Unstable below pH 6.5'이며, pH 5.0 미만 불안정은 Rhinovirus 설명이다. 또한 슬라이드 345에서 Picornaviridae는 'non-enveloped'이므로 enveloped도 틀리다. ③ Genus Enterovirus·Coxsackievirus B5 관련은 슬라이드 358의 SVDV(돼지수포병바이러스) 설명이다. ④ Single serotype·natural host pigs only도 슬라이드 358의 SVDV 특징이다. ⑤ Genus Cardiovirus·Type A/B는 슬라이드 370의 EMCV 설명이다. 즉 ②~⑤는 모두 강의안에 등장하는 '다른 Picornaviridae 바이러스'의 사실을 FMDV에 잘못 붙인 오답이다.\n\n**[문항 한국어 해석]**\n발문: 구제역바이러스Foot-and-Mouth Disease virus(FMDV)에 대한 설명으로 옳은 것은?\n① Aphthovirus 속에 속하며 혈청형serotype O, A, C, Asia 1, SAT1, SAT2, SAT3로 존재하고 혈청형 간 교차방어cross-protection가 없다\n② 외피envelope가 있는 바이러스이며 pH 5.0 미만에서 매우 안정하다\n③ Enterovirus 속에 속하며 사람 콕사키바이러스Coxsackievirus B5와 항원적으로 관련된다\n④ 단일 혈청형single serotype에 여러 변이주variant를 가지며 자연숙주가 돼지로 한정된다\n⑤ Cardiovirus 속에 속하며 돼지에서 type A와 type B로 나뉜다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 125
+},
+{
+"part": "Picornaviridae",
+"topic": "Picornaviridae (FMDV)",
+"origin": "concept",
+"type": "single",
+"q": "Which best describes the epidemiology and carrier state of Foot-and-Mouth Disease virus (FMDV)?",
+"choices": [
+"Aerosol spread is limited to a maximum of about 5 km regardless of land or sea",
+"Aerosol spread can reach up to 60 km over land and up to 250 km over sea, and cattle can remain carriers for up to 3 years",
+"Virus shedding begins only after clinical signs appear, and pigs shed only minimal amounts of virus",
+"The carrier state in buffalo lasts only a few months, shorter than in cattle",
+"Transmission occurs almost exclusively through the bite of infected female Culicoides midges"
+],
+"answer": [
+2
+],
+"explain": "Correct answer is ②. 강의안 슬라이드 351(3. Epidemiology) 'Aerosol Spread: Up to 60 km over land / Up to 250 km over sea' 및 'Carrier State: Cattle up to 3 years'에서 직접 도출된다(aerosol reaches 60 km over land, 250 km over sea; cattle carrier up to 3 years). ① 같은 슬라이드의 60 km/250 km 수치와 모순된다(5 km 근거 없음). ③ 같은 슬라이드 'Virus Shedding: Begins during incubation period / Massive shedding from pigs'에 따르면 shedding은 잠복기 중 시작되고 돼지에서 대량 배출되므로 정반대다. ④ 같은 슬라이드 'Buffalo: up to 5 years'로 buffalo가 cattle(3년)보다 더 길다 — 'a few months'는 sheep/goats 설명이다. ⑤ 감염 암컷 Culicoides 흡혈 전파는 Reoviridae의 Bluetongue/AHS 설명(슬라이드 106, 117)이며 FMD의 주 전파(direct contact, aerosol)와 다르다.\n\n**[문항 한국어 해석]**\n발문: 구제역바이러스Foot-and-Mouth Disease virus(FMDV)의 역학epidemiology과 보균상태carrier state를 가장 잘 설명한 것은?\n① 에어로졸aerosol 전파는 육지·해상 관계없이 최대 약 5 km로 제한된다\n② 에어로졸 전파는 육지에서 최대 60 km, 해상에서 최대 250 km에 이를 수 있고, 소cattle는 최대 3년간 보균자carrier로 남을 수 있다\n③ 바이러스 배출shedding은 임상증상이 나타난 뒤에야 시작되며 돼지는 극소량만 배출한다\n④ 물소buffalo의 보균상태는 수개월에 그쳐 소보다 짧다\n⑤ 전파는 거의 전적으로 감염 암컷 등에모기Culicoides의 흡혈을 통해 일어난다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 126
+},
+{
+"part": "Picornaviridae",
 "topic": "Picornaviridae sweep",
 "origin": "concept",
 "type": "single",
@@ -3310,7 +3364,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 125
+"id": 127
 },
 {
 "part": "Arteriviridae",
@@ -3327,7 +3381,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 126
+"id": 128
 },
 {
 "part": "Arteriviridae",
@@ -3354,7 +3408,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 127
+"id": 129
 },
 {
 "part": "Arteriviridae",
@@ -3381,7 +3435,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 128
+"id": 130
 },
 {
 "part": "Arteriviridae",
@@ -3408,7 +3462,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 129
+"id": 131
 },
 {
 "part": "Arteriviridae",
@@ -3435,7 +3489,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 130
+"id": 132
 },
 {
 "part": "Arteriviridae",
@@ -3462,7 +3516,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 131
+"id": 133
 },
 {
 "part": "Arteriviridae",
@@ -3489,7 +3543,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 132
+"id": 134
 },
 {
 "part": "Arteriviridae",
@@ -3516,7 +3570,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 133
+"id": 135
 },
 {
 "part": "Arteriviridae",
@@ -3543,7 +3597,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 134
+"id": 136
 },
 {
 "part": "Arteriviridae",
@@ -3570,7 +3624,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 135
+"id": 137
 },
 {
 "part": "Arteriviridae",
@@ -3597,7 +3651,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 136
+"id": 138
 },
 {
 "part": "Arteriviridae",
@@ -3624,7 +3678,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 137
+"id": 139
 },
 {
 "part": "Arteriviridae",
@@ -3651,7 +3705,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 138
+"id": 140
 },
 {
 "part": "Arteriviridae",
@@ -3678,7 +3732,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 139
+"id": 141
 },
 {
 "part": "Arteriviridae",
@@ -3705,7 +3759,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 140
+"id": 142
 },
 {
 "part": "Arteriviridae",
@@ -3732,7 +3786,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 141
+"id": 143
 },
 {
 "part": "Arteriviridae",
@@ -3759,7 +3813,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 142
+"id": 144
 },
 {
 "part": "Arteriviridae",
@@ -3786,7 +3840,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 143
+"id": 145
 },
 {
 "part": "Arteriviridae",
@@ -3813,7 +3867,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 144
+"id": 146
 },
 {
 "part": "Arteriviridae",
@@ -3833,7 +3887,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 145
+"id": 147
 },
 {
 "part": "Arteriviridae",
@@ -3860,7 +3914,61 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 146
+"id": 148
+},
+{
+"part": "Arteriviridae",
+"topic": "Arteriviridae (PRRSV)",
+"origin": "concept",
+"type": "single",
+"q": "Which of the following correctly describes the pathogenesis of Porcine Reproductive and Respiratory Syndrome virus (PRRSV)?",
+"choices": [
+"PRRSV is a non-enveloped virus that replicates in the nucleus of enterocytes",
+"PRRSV primarily infects vascular endothelial cells, causing systemic necrotizing vasculitis",
+"PRRSV infects porcine alveolar macrophages via the CD163 receptor, and macrophage destruction leads to immune suppression and interstitial pneumonia",
+"PRRSV induces a strong and rapid innate immune response that clears the virus within 48 hours",
+"PRRSV selectively destroys mature enterocytes at the villus tips, causing osmotic diarrhea"
+],
+"answer": [
+3
+],
+"explain": "Correct answer is ③. 강의안 슬라이드 153(Pathogenesis) 'Virus infects porcine alveolar macrophages (PAMs) / Entry via CD163 receptor / Macrophage destruction → immune suppression' 및 'Results: Interstitial pneumonia'에서 직접 도출된다(PRRSV infects PAMs through CD163, macrophage destruction causes immune suppression and interstitial pneumonia). ① 슬라이드 139에서 Arteriviridae는 'Enveloped, positive-sense ssRNA'이고 슬라이드 153은 세포질(cytoplasm) 복제이므로 non-enveloped·nucleus 복제는 틀리다. ② 혈관내피 표적·전신 necrotizing vasculitis는 같은 Arteriviridae의 EAV(말 바이러스성 동맥염) 병인(슬라이드 167)이지 PRRSV가 아니다. ④ 슬라이드 157~158에 따르면 PRRSV는 'Weak innate immunity, delayed adaptive immunity'를 유발하고 protective immunity가 3~4주 뒤 천천히 발달하므로 강력·신속 면역으로 48시간 내 제거는 정반대다. ⑤ villus tip 성숙 장세포 파괴·삼투성 설사는 Reoviridae Rotavirus의 병인(슬라이드 103)이다.\n\n**[문항 한국어 해석]**\n발문: 돼지생식기호흡기증후군바이러스Porcine Reproductive and Respiratory Syndrome virus(PRRSV)의 병인pathogenesis을 옳게 설명한 것은?\n① PRRSV는 외피가 없는non-enveloped 바이러스로 장세포enterocyte의 핵nucleus에서 복제한다\n② PRRSV는 주로 혈관내피세포vascular endothelial cell를 감염시켜 전신 괴사성 혈관염systemic necrotizing vasculitis을 일으킨다\n③ PRRSV는 CD163 수용체receptor를 통해 돼지 폐포대식세포porcine alveolar macrophage를 감염시키며, 대식세포 파괴가 면역억제immune suppression와 간질성 폐렴interstitial pneumonia으로 이어진다\n④ PRRSV는 강력하고 신속한 선천면역innate immunity 반응을 유도해 48시간 이내에 바이러스를 제거한다\n⑤ PRRSV는 융모 끝villus tip의 성숙 장세포를 선택적으로 파괴해 삼투성 설사osmotic diarrhea를 일으킨다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 149
+},
+{
+"part": "Arteriviridae",
+"topic": "Arteriviridae (PRRSV)",
+"origin": "concept",
+"type": "single",
+"q": "Which statement about the classification and genetic diversity of Porcine Reproductive and Respiratory Syndrome virus (PRRSV) is correct?",
+"choices": [
+"PRRSV has a DNA genome and shows an extremely low mutation rate",
+"There is only one genotype of PRRSV worldwide, with complete cross-protection by vaccines",
+"The two major genotypes (PRRSV-1 EU and PRRSV-2 NA) differ by only about 5% genomically",
+"Genetic classification is based mainly on ORF5 phylogenetic analysis, and PRRSV-1 and PRRSV-2 show about a 40% genomic difference between types",
+"PRRSV is classified into 9 distinct serotypes based on the VP2 protein"
+],
+"answer": [
+4
+],
+"explain": "Correct answer is ④. 강의안 슬라이드 149(Genetic Diversity & Evolution) 'Based mainly on ORF5 phylogenetic analysis'와 슬라이드 148(PRRSV Classification) '40% genomic difference between types'에서 직접 도출된다(classification by ORF5 phylogeny; ~40% difference between PRRSV-1 and PRRSV-2). ① 슬라이드 139에서 Arteriviridae는 positive-sense ssRNA 바이러스이고 슬라이드 149는 'extremely rapid mutation rate, 10-100× higher than influenza or HIV'라 하므로 DNA·저변이율은 틀리다. ② 슬라이드 148은 두 genotype(PRRSV-1, PRRSV-2)과 슬라이드 164의 'Limited cross-protection'을 명시하므로 단일 genotype·완전 교차방어는 틀리다. ③ 같은 슬라이드 148의 '40% genomic difference'와 모순된다(5%가 아님). ⑤ VP2 기반 9개 serotype은 Reoviridae AHSV(아프리카마역)의 특징(슬라이드 117 'VP2 protein, 9 distinct serotypes')이지 PRRSV가 아니다.\n\n**[문항 한국어 해석]**\n발문: 돼지생식기호흡기증후군바이러스Porcine Reproductive and Respiratory Syndrome virus(PRRSV)의 분류와 유전적 다양성genetic diversity에 대한 설명으로 옳은 것은?\n① PRRSV는 DNA 유전체를 가지며 변이율mutation rate이 매우 낮다\n② PRRSV는 전 세계적으로 단일 유전형genotype만 존재하며 백신으로 완전한 교차방어가 된다\n③ 두 주요 유전형(PRRSV-1 EU형과 PRRSV-2 NA형)은 유전체상 약 5%만 차이가 난다\n④ 유전 분류는 주로 ORF5 계통분석phylogenetic analysis에 기반하며, PRRSV-1과 PRRSV-2는 유형 간 약 40%의 유전체 차이를 보인다\n⑤ PRRSV는 VP2 단백질을 기준으로 9개의 서로 다른 혈청형serotype으로 분류된다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 150
 },
 {
 "part": "Arteriviridae",
@@ -3887,7 +3995,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 147
+"id": 151
 },
 {
 "part": "Arteriviridae",
@@ -3914,7 +4022,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 148
+"id": 152
 },
 {
 "part": "Arteriviridae",
@@ -3941,7 +4049,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 149
+"id": 153
 },
 {
 "part": "Arteriviridae",
@@ -3968,7 +4076,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 150
+"id": 154
 },
 {
 "part": "Caliciviridae",
@@ -3985,7 +4093,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 151
+"id": 155
 },
 {
 "part": "Caliciviridae",
@@ -4012,7 +4120,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 152
+"id": 156
 },
 {
 "part": "Caliciviridae",
@@ -4039,7 +4147,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 153
+"id": 157
 },
 {
 "part": "Caliciviridae",
@@ -4066,7 +4174,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 154
+"id": 158
 },
 {
 "part": "Caliciviridae",
@@ -4093,7 +4201,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 155
+"id": 159
 },
 {
 "part": "Caliciviridae",
@@ -4120,7 +4228,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 156
+"id": 160
 },
 {
 "part": "Caliciviridae",
@@ -4147,7 +4255,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 157
+"id": 161
 },
 {
 "part": "Caliciviridae",
@@ -4167,7 +4275,7 @@ const LABQ = [
 "flagReason": "Q0682(2024#47)·Q0684(2024#49) 동일 주제(FHV-1 감별) 병합.",
 "unit": "",
 "cardOrder": 99,
-"id": 158
+"id": 162
 },
 {
 "part": "Caliciviridae",
@@ -4194,7 +4302,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 159
+"id": 163
 },
 {
 "part": "Caliciviridae",
@@ -4221,7 +4329,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 160
+"id": 164
 },
 {
 "part": "Caliciviridae",
@@ -4248,7 +4356,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 161
+"id": 165
 },
 {
 "part": "Caliciviridae",
@@ -4275,7 +4383,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 162
+"id": 166
 },
 {
 "part": "Caliciviridae",
@@ -4302,7 +4410,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 163
+"id": 167
 },
 {
 "part": "Togaviridae",
@@ -4319,7 +4427,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 164
+"id": 168
 },
 {
 "part": "Togaviridae",
@@ -4346,7 +4454,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 165
+"id": 169
 },
 {
 "part": "Togaviridae",
@@ -4373,7 +4481,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 166
+"id": 170
 },
 {
 "part": "Togaviridae",
@@ -4400,7 +4508,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 167
+"id": 171
 },
 {
 "part": "Togaviridae",
@@ -4427,7 +4535,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 168
+"id": 172
 },
 {
 "part": "Togaviridae",
@@ -4454,7 +4562,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 169
+"id": 173
 },
 {
 "part": "Togaviridae",
@@ -4481,7 +4589,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 170
+"id": 174
 },
 {
 "part": "Togaviridae",
@@ -4508,7 +4616,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 171
+"id": 175
 },
 {
 "part": "Togaviridae",
@@ -4535,7 +4643,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 172
+"id": 176
 },
 {
 "part": "Togaviridae",
@@ -4562,7 +4670,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 173
+"id": 177
 },
 {
 "part": "Togaviridae",
@@ -4589,7 +4697,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 174
+"id": 178
 },
 {
 "part": "Togaviridae",
@@ -4616,7 +4724,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 175
+"id": 179
 },
 {
 "part": "Togaviridae",
@@ -4643,7 +4751,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 176
+"id": 180
 },
 {
 "part": "Togaviridae",
@@ -4670,7 +4778,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 177
+"id": 181
 },
 {
 "part": "Togaviridae",
@@ -4697,7 +4805,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 178
+"id": 182
 },
 {
 "part": "Togaviridae",
@@ -4724,7 +4832,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 179
+"id": 183
 },
 {
 "part": "Togaviridae",
@@ -4751,7 +4859,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 180
+"id": 184
 },
 {
 "part": "Togaviridae",
@@ -4778,7 +4886,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 181
+"id": 185
 },
 {
 "part": "Rhabdoviridae",
@@ -4795,7 +4903,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 182
+"id": 186
 },
 {
 "part": "Rhabdoviridae",
@@ -4822,7 +4930,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 183
+"id": 187
 },
 {
 "part": "Rhabdoviridae",
@@ -4849,7 +4957,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 184
+"id": 188
 },
 {
 "part": "Rhabdoviridae",
@@ -4876,7 +4984,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 185
+"id": 189
 },
 {
 "part": "Rhabdoviridae",
@@ -4903,7 +5011,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 186
+"id": 190
 },
 {
 "part": "Rhabdoviridae",
@@ -4930,7 +5038,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 187
+"id": 191
 },
 {
 "part": "Rhabdoviridae",
@@ -4957,7 +5065,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 188
+"id": 192
 },
 {
 "part": "Rhabdoviridae",
@@ -4984,7 +5092,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 189
+"id": 193
 },
 {
 "part": "Rhabdoviridae",
@@ -5011,7 +5119,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 190
+"id": 194
 },
 {
 "part": "Rhabdoviridae",
@@ -5038,7 +5146,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 191
+"id": 195
 },
 {
 "part": "Rhabdoviridae",
@@ -5065,7 +5173,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 192
+"id": 196
 },
 {
 "part": "Rhabdoviridae",
@@ -5092,7 +5200,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 193
+"id": 197
 },
 {
 "part": "Rhabdoviridae",
@@ -5119,7 +5227,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 194
+"id": 198
 },
 {
 "part": "Rhabdoviridae",
@@ -5146,7 +5254,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 195
+"id": 199
 },
 {
 "part": "Rhabdoviridae",
@@ -5173,7 +5281,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 196
+"id": 200
 },
 {
 "part": "Rhabdoviridae",
@@ -5200,7 +5308,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 197
+"id": 201
 },
 {
 "part": "Rhabdoviridae",
@@ -5227,7 +5335,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 198
+"id": 202
 },
 {
 "part": "Rhabdoviridae",
@@ -5254,7 +5362,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 199
+"id": 203
 },
 {
 "part": "Rhabdoviridae",
@@ -5281,7 +5389,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 200
+"id": 204
 },
 {
 "part": "Rhabdoviridae",
@@ -5302,7 +5410,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 201
+"id": 205
 },
 {
 "part": "Rhabdoviridae",
@@ -5329,7 +5437,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 202
+"id": 206
 },
 {
 "part": "Rhabdoviridae",
@@ -5349,7 +5457,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 203
+"id": 207
 },
 {
 "part": "Rhabdoviridae",
@@ -5376,7 +5484,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 204
+"id": 208
 },
 {
 "part": "Rhabdoviridae",
@@ -5403,7 +5511,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 205
+"id": 209
 },
 {
 "part": "Rhabdoviridae",
@@ -5430,7 +5538,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 206
+"id": 210
 },
 {
 "part": "Rhabdoviridae",
@@ -5457,7 +5565,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 207
+"id": 211
 },
 {
 "part": "Bunyavirales",
@@ -5474,7 +5582,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 208
+"id": 212
 },
 {
 "part": "Bunyavirales",
@@ -5501,7 +5609,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 209
+"id": 213
 },
 {
 "part": "Bunyavirales",
@@ -5528,7 +5636,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 210
+"id": 214
 },
 {
 "part": "Bunyavirales",
@@ -5555,7 +5663,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 211
+"id": 215
 },
 {
 "part": "Bunyavirales",
@@ -5582,7 +5690,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 212
+"id": 216
 },
 {
 "part": "Bunyavirales",
@@ -5609,7 +5717,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 213
+"id": 217
 },
 {
 "part": "Bunyavirales",
@@ -5636,7 +5744,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 214
+"id": 218
 },
 {
 "part": "Bunyavirales",
@@ -5663,7 +5771,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 215
+"id": 219
 },
 {
 "part": "Bunyavirales",
@@ -5690,7 +5798,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 216
+"id": 220
 },
 {
 "part": "Bunyavirales",
@@ -5717,7 +5825,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 217
+"id": 221
 },
 {
 "part": "Bunyavirales",
@@ -5744,7 +5852,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 218
+"id": 222
 },
 {
 "part": "Bunyavirales",
@@ -5771,7 +5879,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 219
+"id": 223
 },
 {
 "part": "Bunyavirales",
@@ -5798,7 +5906,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 220
+"id": 224
 },
 {
 "part": "Bunyavirales",
@@ -5826,7 +5934,7 @@ const LABQ = [
 "flagReason": "족보 정답 ①, 그러나 강의안(슬라이드183 mortality~100%) 근거상 틀린 문장은 ②(자연치유). Claude 정답=②.",
 "unit": "",
 "cardOrder": 99,
-"id": 221
+"id": 225
 },
 {
 "part": "Bunyavirales",
@@ -5853,7 +5961,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 222
+"id": 226
 },
 {
 "part": "Bunyavirales",
@@ -5880,7 +5988,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 223
+"id": 227
 },
 {
 "part": "Bunyavirales",
@@ -5907,7 +6015,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 224
+"id": 228
 },
 {
 "part": "Bunyavirales",
@@ -5934,7 +6042,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 225
+"id": 229
 },
 {
 "part": "Bunyavirales",
@@ -5961,7 +6069,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 226
+"id": 230
 },
 {
 "part": "Pneumoviridae",
@@ -5978,7 +6086,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 227
+"id": 231
 },
 {
 "part": "Pneumoviridae",
@@ -6005,7 +6113,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 228
+"id": 232
 },
 {
 "part": "Pneumoviridae",
@@ -6032,7 +6140,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 229
+"id": 233
 },
 {
 "part": "Pneumoviridae",
@@ -6059,7 +6167,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 230
+"id": 234
 },
 {
 "part": "Pneumoviridae",
@@ -6086,7 +6194,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 231
+"id": 235
 },
 {
 "part": "Pneumoviridae",
@@ -6113,7 +6221,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 232
+"id": 236
 },
 {
 "part": "Pneumoviridae",
@@ -6140,7 +6248,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 233
+"id": 237
 },
 {
 "part": "Pneumoviridae",
@@ -6168,7 +6276,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 234
+"id": 238
 },
 {
 "part": "Pneumoviridae",
@@ -6195,7 +6303,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 235
+"id": 239
 },
 {
 "part": "Pneumoviridae",
@@ -6222,7 +6330,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 236
+"id": 240
 },
 {
 "part": "Pneumoviridae",
@@ -6249,7 +6357,61 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 237
+"id": 241
+},
+{
+"part": "Pneumoviridae",
+"topic": "Pneumoviridae (BRSV)",
+"origin": "concept",
+"type": "single",
+"q": "Which of the following correctly describes the classification and structure of Bovine Respiratory Syncytial Virus (BRSV)?",
+"choices": [
+"BRSV is a non-enveloped virus with a segmented double-stranded RNA genome",
+"BRSV is caused by Orthopneumovirus bovis in the family Pneumoviridae (order Mononegavirales), and is an enveloped virus with a ~15.2 kb single-stranded, negative-sense RNA genome bearing surface G and F glycoproteins",
+"BRSV belongs to the genus Metapneumovirus and causes Turkey Rhinotracheitis",
+"BRSV has a positive-sense RNA genome that is translated directly to produce nested subgenomic mRNAs",
+"BRSV is a DNA virus whose G glycoprotein mediates entry into porcine alveolar macrophages via CD163"
+],
+"answer": [
+2
+],
+"explain": "Correct answer is ②. 강의안 슬라이드 4(Introduction) 'Orthopneumovirus bovis: The cause of Bovine Respiratory Syncytial Virus (BRSV)' 및 'now established as an independent family under the order Mononegavirales', 슬라이드 6(Physical Morphology) 'enveloped viruses / approximately 15.2 kb of single-stranded, negative-sense RNA / Glycoproteins: G and F ... located on the surface of the viral envelope'에서 직접 도출된다(BRSV = Orthopneumovirus bovis, Pneumoviridae/Mononegavirales, enveloped, ~15.2 kb -ssRNA, surface G/F glycoproteins). ① 슬라이드 6에서 Pneumovirus는 enveloped이고 슬라이드 6의 genome은 단일가닥 -RNA이므로 non-enveloped·segmented dsRNA는 Reoviridae 특징을 잘못 가져온 오답이다. ③ 슬라이드 4·7에 따르면 BRSV는 genus Orthopneumovirus이고 Turkey Rhinotracheitis는 genus Metapneumovirus(aMPV)가 일으키므로 틀리다. ④ nested subgenomic mRNA를 만드는 positive-sense RNA 특징은 Arteriviridae/Nidovirales(슬라이드 141) 설명이며, BRSV는 negative-sense RNA다. ⑤ DNA 바이러스·CD163 통한 폐포대식세포 침입은 PRRSV(Arteriviridae, 슬라이드 153) 사실을 잘못 붙인 오답이다.\n\n**[문항 한국어 해석]**\n발문: 소 호흡기세포융합바이러스Bovine Respiratory Syncytial Virus(BRSV)의 분류와 구조를 옳게 설명한 것은?\n① BRSV는 외피가 없고non-enveloped 분절된segmented 이중가닥 RNAdouble-stranded RNA 유전체를 가진 바이러스다\n② BRSV는 Pneumoviridae 과(Mononegavirales 목)의 Orthopneumovirus bovis가 원인이며, 외피enveloped를 가지고 약 15.2 kb의 단일가닥 음성가닥 RNAsingle-stranded, negative-sense RNA 유전체와 표면 G·F 당단백질glycoprotein을 가진다\n③ BRSV는 Metapneumovirus 속에 속하며 칠면조 비기관염Turkey Rhinotracheitis을 일으킨다\n④ BRSV는 양성가닥 RNApositive-sense RNA 유전체를 가지며 직접 번역되어 포개진 아유전체 mRNAnested subgenomic mRNA를 만든다\n⑤ BRSV는 DNA 바이러스로, G 당단백질이 CD163을 통해 돼지 폐포대식세포porcine alveolar macrophage 침입을 매개한다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 242
+},
+{
+"part": "Pneumoviridae",
+"topic": "Pneumoviridae (BRSV)",
+"origin": "concept",
+"type": "single",
+"q": "Which statement about the pathogenesis and clinical features of Bovine Respiratory Syncytial Virus (BRSV) is correct?",
+"choices": [
+"BRSV mainly infects enterocytes of the small intestine and causes watery diarrhea in neonatal calves",
+"BRSV is not associated with the Bovine Respiratory Disease Complex (BRDC) and never involves secondary bacterial infection",
+"A hallmark of BRSV is fusion of infected Type II pneumocytes forming multinucleated giant cells (syncytia), and it acts as a primary pathogen in the BRDC contributing to Shipping Fever",
+"BRSV most severely affects adult cattle over 2 years of age, with younger calves remaining asymptomatic",
+"BRSV produces a strong protective immunity within 24 hours, so vaccination is unnecessary"
+],
+"answer": [
+3
+],
+"explain": "Correct answer is ③. 강의안 슬라이드 10(Pathogenesis) 'A hallmark of BRSV is the fusion of infected Type II pneumocytes, resulting in the formation of multinucleated giant cells (syncytia)'와 슬라이드 8(Role in the BRDC Complex) 'BRSV is a primary pathogen in the Bovine Respiratory Disease Complex (BRDC) ... to cause Shipping Fever'에서 직접 도출된다(syncytia formation is the hallmark; BRSV is a primary BRDC pathogen linked to Shipping Fever). ① 슬라이드 8·10에 따르면 BRSV는 호흡기(ciliated epithelium, Type II pneumocytes)를 표적으로 하는 폐렴 병원체이며, 장세포 감염·신생자 설사는 Reoviridae Rotavirus(슬라이드 101~104) 설명이다. ② 슬라이드 8은 BRSV가 BRDC의 primary pathogen임을, 슬라이드 10은 'Secondary Bacterial Invasion'을 명시하므로 정반대다. ④ 슬라이드 12에 따르면 'most frequently affects young cattle between 3 to 9 months of age / the younger the calf, the more severe'이므로 2년 이상 성체가 가장 심하다는 것은 틀리다. ⑤ 슬라이드 14는 'no specific antiviral treatment'이며 vaccination이 가장 효과적 예방이라 했으므로 24시간 내 강력 면역·백신 불필요는 근거 없는 오답이다.\n\n**[문항 한국어 해석]**\n발문: 소 호흡기세포융합바이러스Bovine Respiratory Syncytial Virus(BRSV)의 병인pathogenesis과 임상 특징에 대한 설명으로 옳은 것은?\n① BRSV는 주로 소장의 장세포enterocyte를 감염시켜 신생 송아지에 수양성 설사watery diarrhea를 일으킨다\n② BRSV는 소 호흡기질병복합체Bovine Respiratory Disease Complex(BRDC)와 무관하며 이차 세균감염secondary bacterial infection을 결코 동반하지 않는다\n③ BRSV의 특징hallmark은 감염된 제2형 폐포세포Type II pneumocyte의 융합으로 다핵거대세포multinucleated giant cell(합포체syncytia)가 형성되는 것이며, BRDC의 일차 병원체primary pathogen로서 수송열Shipping Fever 발생에 기여한다\n④ BRSV는 2년령 이상 성체 소에서 가장 심하게 나타나며 어린 송아지는 무증상으로 남는다\n⑤ BRSV는 24시간 이내에 강력한 방어면역을 형성하므로 백신vaccination이 불필요하다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 243
 },
 {
 "part": "Reoviridae",
@@ -6266,7 +6428,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 238
+"id": 244
 },
 {
 "part": "Reoviridae",
@@ -6293,7 +6455,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 239
+"id": 245
 },
 {
 "part": "Reoviridae",
@@ -6320,7 +6482,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 240
+"id": 246
 },
 {
 "part": "Reoviridae",
@@ -6347,7 +6509,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 241
+"id": 247
 },
 {
 "part": "Reoviridae",
@@ -6374,7 +6536,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 242
+"id": 248
 },
 {
 "part": "Reoviridae",
@@ -6401,7 +6563,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 243
+"id": 249
 },
 {
 "part": "Reoviridae",
@@ -6428,7 +6590,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 244
+"id": 250
 },
 {
 "part": "Reoviridae",
@@ -6455,7 +6617,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 245
+"id": 251
 },
 {
 "part": "Reoviridae",
@@ -6482,7 +6644,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 246
+"id": 252
 },
 {
 "part": "Reoviridae",
@@ -6509,7 +6671,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 247
+"id": 253
 },
 {
 "part": "Reoviridae",
@@ -6536,7 +6698,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 248
+"id": 254
 },
 {
 "part": "Reoviridae",
@@ -6563,7 +6725,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 249
+"id": 255
 },
 {
 "part": "Reoviridae",
@@ -6590,7 +6752,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 250
+"id": 256
 },
 {
 "part": "Reoviridae",
@@ -6617,7 +6779,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 251
+"id": 257
 },
 {
 "part": "Reoviridae",
@@ -6644,7 +6806,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 252
+"id": 258
 },
 {
 "part": "Reoviridae",
@@ -6671,7 +6833,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 253
+"id": 259
 },
 {
 "part": "Reoviridae",
@@ -6698,7 +6860,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 254
+"id": 260
 },
 {
 "part": "Reoviridae",
@@ -6725,7 +6887,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 255
+"id": 261
 },
 {
 "part": "Reoviridae",
@@ -6752,7 +6914,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 256
+"id": 262
 },
 {
 "part": "Reoviridae",
@@ -6782,7 +6944,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 257
+"id": 263
 },
 {
 "part": "Reoviridae",
@@ -6809,7 +6971,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 258
+"id": 264
 },
 {
 "part": "Reoviridae",
@@ -6829,7 +6991,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 259
+"id": 265
 },
 {
 "part": "Reoviridae",
@@ -6850,7 +7012,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 260
+"id": 266
 },
 {
 "part": "Reoviridae",
@@ -6880,7 +7042,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 261
+"id": 267
 },
 {
 "part": "Reoviridae",
@@ -6908,7 +7070,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 262
+"id": 268
 },
 {
 "part": "Reoviridae",
@@ -6935,7 +7097,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 263
+"id": 269
 },
 {
 "part": "Reoviridae",
@@ -6962,7 +7124,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 264
+"id": 270
 },
 {
 "part": "Reoviridae",
@@ -6989,7 +7151,61 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 265
+"id": 271
+},
+{
+"part": "Reoviridae",
+"topic": "Reoviridae (Bluetongue/AHS)",
+"origin": "concept",
+"type": "single",
+"q": "Which of the following correctly describes Bluetongue virus (BTV) and its disease in ruminants?",
+"choices": [
+"BTV is a highly contagious virus transmitted by direct contact between sheep",
+"BTV has an enveloped virion and a single-stranded RNA genome",
+"Cattle and goats always show the most severe clinical signs, while sheep remain asymptomatic",
+"BTV is transmitted by the fecal-oral route and primarily causes neonatal diarrhea in calves",
+"BTV is an infectious, non-contagious, midge-borne febrile disease of ruminants (primarily sheep), transmitted by infected female Culicoides midges"
+],
+"answer": [
+5
+],
+"explain": "Correct answer is ⑤. 강의안 슬라이드 106(IV. Bluetongue Virus) 'An infectious, non-contagious, midge-borne febrile disease of ruminants, primarily sheep' 및 'Transmission is almost exclusively via the bite of infected female midges'에서 직접 도출된다(BTV is non-contagious, midge-borne, mainly sheep, transmitted by infected female Culicoides). ① 같은 슬라이드에서 BTV는 'non-contagious'이고 접촉이 아니라 미지(midge) 매개이므로 'highly contagious via direct contact'는 틀리다. ② 슬라이드 95~98에서 Reoviridae는 'non-enveloped'이며 'segmented double-stranded RNA (dsRNA)'이므로 enveloped·single-stranded RNA는 틀리다. ③ 슬라이드 108에 따르면 주된 임상 종은 sheep이고 'Cattle & Goats: Usually asymptomatic'이므로 정반대다. ④ fecal-oral 전파·송아지 신생자 설사는 Reoviridae 내 Rotavirus(슬라이드 101~102) 설명이지 BTV가 아니다.\n\n**[문항 한국어 해석]**\n발문: 블루텅바이러스Bluetongue virus(BTV)와 반추동물ruminant에서의 질병을 옳게 설명한 것은?\n① BTV는 양 사이의 직접 접촉direct contact으로 전파되는 전염력이 매우 강한 바이러스다\n② BTV는 외피envelope가 있는 비리온과 단일가닥 RNAsingle-stranded RNA 유전체를 가진다\n③ 소와 염소가 항상 가장 심한 임상증상을 보이고 양은 무증상으로 남는다\n④ BTV는 분변-경구fecal-oral 경로로 전파되며 주로 송아지의 신생자 설사neonatal diarrhea를 일으킨다\n⑤ BTV는 반추동물(주로 양)의 전염성은 있으나 접촉전염은 되지 않는infectious, non-contagious 미지 매개midge-borne 열성 질병으로, 감염된 암컷 등에모기Culicoides의 흡혈을 통해 전파된다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 272
+},
+{
+"part": "Reoviridae",
+"topic": "Reoviridae (Rotavirus)",
+"origin": "concept",
+"type": "single",
+"q": "Which of the following best describes bovine Group A Rotavirus (RVA) infection?",
+"choices": [
+"It is a major cause of acute enteritis and watery diarrhea in young calves, with the highest incidence at 1 to 3 weeks of age, and the virus selectively infects mature enterocytes at the villus tips causing villous atrophy and osmotic diarrhea",
+"It is an enveloped DNA virus that replicates in hepatocytes and causes jaundice",
+"It is transmitted exclusively by Culicoides midges and causes congenital hydranencephaly in calves",
+"VP4 is the major outer capsid glycoprotein that determines the serological group, while VP7 is the protease-sensitive attachment protein",
+"Adult cattle typically develop the most severe diarrhea, while neonatal calves remain asymptomatic carriers"
+],
+"answer": [
+1
+],
+"explain": "Correct answer is ①. 강의안 슬라이드 101(Characterization of Bovine Rotavirus) 'A major cause of acute enteritis and watery diarrhea in young calves / Highest incidence occurs in calves 1 to 3 weeks of age'와 슬라이드 103(Pathogenesis) 'selectively infects mature enterocytes at the tips of the small intestinal villi → villous atrophy → osmotic diarrhea'에서 직접 도출된다(RVA causes calf watery diarrhea peaking at 1-3 weeks, infecting villus-tip enterocytes → villous atrophy → osmotic diarrhea). ② 슬라이드 95~98에서 Reoviridae는 non-enveloped dsRNA 바이러스이며 장(intestine)을 표적으로 하므로 enveloped DNA·간세포 복제는 틀리다. ③ Culicoides 매개·송아지 선천성 수무뇌증(hydranencephaly)은 같은 Reoviridae 내 Orbivirus인 Chuzan virus(슬라이드 111~112) 설명이다. ④ 슬라이드 101에 따르면 VP7이 외피 당단백·혈청군 결정(G protein), VP4가 protease-sensitive 부착단백(P protein)이므로 두 단백 기능이 서로 뒤바뀌었다. ⑤ 슬라이드 104에서 신생자(1-7일)가 가장 심한 설사를 보이고 'Adults: Usually asymptomatic carriers'이므로 정반대다.\n\n**[문항 한국어 해석]**\n발문: 소 A군 로타바이러스bovine Group A Rotavirus(RVA) 감염을 가장 잘 설명한 것은?\n① 어린 송아지에서 급성 장염acute enteritis과 수양성 설사watery diarrhea를 일으키는 주요 원인으로 1~3주령에서 발생률이 가장 높으며, 바이러스가 융모 끝villus tip의 성숙 장세포mature enterocyte를 선택적으로 감염시켜 융모 위축villous atrophy과 삼투성 설사osmotic diarrhea를 일으킨다\n② 외피가 있는 DNA 바이러스로 간세포hepatocyte에서 복제하며 황달jaundice을 일으킨다\n③ 오직 등에모기Culicoides에 의해서만 전파되며 송아지에서 선천성 수무뇌증hydranencephaly을 일으킨다\n④ VP4가 혈청군을 결정하는 주요 외피 당단백질이고, VP7이 protease 민감성 부착 단백질이다\n⑤ 성체 소가 보통 가장 심한 설사를 보이고, 신생 송아지는 무증상 보균자로 남는다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 273
 },
 {
 "part": "Reoviridae",
@@ -7016,7 +7232,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 266
+"id": 274
 },
 {
 "part": "Retroviridae",
@@ -7033,7 +7249,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 267
+"id": 275
 },
 {
 "part": "Retroviridae",
@@ -7060,7 +7276,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 268
+"id": 276
 },
 {
 "part": "Retroviridae",
@@ -7087,7 +7303,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 269
+"id": 277
 },
 {
 "part": "Retroviridae",
@@ -7114,7 +7330,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 270
+"id": 278
 },
 {
 "part": "Retroviridae",
@@ -7141,7 +7357,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 271
+"id": 279
 },
 {
 "part": "Retroviridae",
@@ -7168,7 +7384,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 272
+"id": 280
 },
 {
 "part": "Retroviridae",
@@ -7195,7 +7411,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 273
+"id": 281
 },
 {
 "part": "Retroviridae",
@@ -7215,7 +7431,7 @@ const LABQ = [
 "flagReason": "족보는 3단계, 강의안은 4단계(vague signs 추가)로 제시 — 둘 다 인정되나 4단계가 정식.",
 "unit": "",
 "cardOrder": 99,
-"id": 274
+"id": 282
 },
 {
 "part": "Retroviridae",
@@ -7236,7 +7452,7 @@ const LABQ = [
 "flagReason": "Q0663(2024#26)·Q0779(2023#46) 동일 주제 병합. 2023 족보 답안은 원본 누락.",
 "unit": "",
 "cardOrder": 99,
-"id": 275
+"id": 283
 },
 {
 "part": "Retroviridae",
@@ -7263,7 +7479,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 276
+"id": 284
 },
 {
 "part": "Retroviridae",
@@ -7290,7 +7506,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 277
+"id": 285
 },
 {
 "part": "Retroviridae",
@@ -7317,7 +7533,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 278
+"id": 286
 },
 {
 "part": "Prion",
@@ -7334,7 +7550,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 279
+"id": 287
 },
 {
 "part": "Prion",
@@ -7361,7 +7577,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 280
+"id": 288
 },
 {
 "part": "Prion",
@@ -7388,7 +7604,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 281
+"id": 289
 },
 {
 "part": "Prion",
@@ -7415,7 +7631,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 282
+"id": 290
 },
 {
 "part": "Prion",
@@ -7442,7 +7658,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 283
+"id": 291
 },
 {
 "part": "Prion",
@@ -7469,7 +7685,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 284
+"id": 292
 },
 {
 "part": "Prion",
@@ -7496,7 +7712,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 285
+"id": 293
 },
 {
 "part": "Prion",
@@ -7523,7 +7739,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 286
+"id": 294
 },
 {
 "part": "Prion",
@@ -7550,7 +7766,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 287
+"id": 295
 },
 {
 "part": "Prion",
@@ -7577,7 +7793,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 288
+"id": 296
 },
 {
 "part": "Prion",
@@ -7604,7 +7820,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 289
+"id": 297
 },
 {
 "part": "Prion",
@@ -7631,7 +7847,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 290
+"id": 298
 },
 {
 "part": "Prion",
@@ -7658,7 +7874,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 291
+"id": 299
 },
 {
 "part": "Prion",
@@ -7685,7 +7901,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 292
+"id": 300
 },
 {
 "part": "Prion",
@@ -7712,7 +7928,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 293
+"id": 301
 },
 {
 "part": "Prion",
@@ -7739,7 +7955,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 294
+"id": 302
 },
 {
 "part": "Prion",
@@ -7766,7 +7982,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 295
+"id": 303
 },
 {
 "part": "Prion",
@@ -7793,7 +8009,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 296
+"id": 304
 },
 {
 "part": "SFTS",
@@ -7810,7 +8026,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 297
+"id": 305
 },
 {
 "part": "SFTS",
@@ -7837,7 +8053,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 298
+"id": 306
 },
 {
 "part": "SFTS",
@@ -7864,7 +8080,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 299
+"id": 307
 },
 {
 "part": "SFTS",
@@ -7891,7 +8107,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 300
+"id": 308
 },
 {
 "part": "SFTS",
@@ -7918,7 +8134,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 301
+"id": 309
 },
 {
 "part": "SFTS",
@@ -7945,7 +8161,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 302
+"id": 310
 },
 {
 "part": "SFTS",
@@ -7972,7 +8188,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 303
+"id": 311
 },
 {
 "part": "SFTS",
@@ -7999,7 +8215,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 304
+"id": 312
 },
 {
 "part": "SFTS",
@@ -8026,7 +8242,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 305
+"id": 313
 },
 {
 "part": "SFTS",
@@ -8053,7 +8269,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 306
+"id": 314
 },
 {
 "part": "SFTS",
@@ -8080,7 +8296,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 307
+"id": 315
 },
 {
 "part": "SFTS",
@@ -8107,7 +8323,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 308
+"id": 316
 },
 {
 "part": "SFTS",
@@ -8134,7 +8350,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 309
+"id": 317
 },
 {
 "part": "SFTS",
@@ -8161,7 +8377,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 310
+"id": 318
 },
 {
 "part": "SFTS",
@@ -8188,7 +8404,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 311
+"id": 319
 },
 {
 "part": "SFTS",
@@ -8215,7 +8431,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 312
+"id": 320
 },
 {
 "part": "SFTS",
@@ -8242,7 +8458,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 313
+"id": 321
 },
 {
 "part": "SFTS",
@@ -8269,7 +8485,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 314
+"id": 322
 },
 {
 "part": "SFTS",
@@ -8296,7 +8512,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 315
+"id": 323
 },
 {
 "part": "SFTS",
@@ -8323,7 +8539,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 316
+"id": 324
 },
 {
 "part": "SFTS",
@@ -8350,7 +8566,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 317
+"id": 325
 },
 {
 "part": "SFTS",
@@ -8377,7 +8593,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 318
+"id": 326
 },
 {
 "part": "SFTS",
@@ -8404,7 +8620,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 319
+"id": 327
 },
 {
 "part": "SFTS",
@@ -8431,7 +8647,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 320
+"id": 328
 },
 {
 "part": "SFTS",
@@ -8458,7 +8674,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 321
+"id": 329
 },
 {
 "part": "SFTS",
@@ -8485,7 +8701,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 322
+"id": 330
 },
 {
 "part": "SFTS",
@@ -8512,7 +8728,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 323
+"id": 331
 },
 {
 "part": "SFTS",
@@ -8539,7 +8755,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 324
+"id": 332
 },
 {
 "part": "SFTS",
@@ -8566,7 +8782,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 325
+"id": 333
 },
 {
 "part": "SFTS",
@@ -8593,7 +8809,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 326
+"id": 334
 },
 {
 "part": "SFTS",
@@ -8620,7 +8836,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 327
+"id": 335
 },
 {
 "part": "SFTS",
@@ -8647,7 +8863,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 328
+"id": 336
 },
 {
 "part": "SFTS",
@@ -8674,7 +8890,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 329
+"id": 337
 },
 {
 "part": "SFTS",
@@ -8701,7 +8917,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 330
+"id": 338
 },
 {
 "part": "SFTS",
@@ -8728,7 +8944,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 331
+"id": 339
 },
 {
 "part": "SFTS",
@@ -8755,7 +8971,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 332
+"id": 340
 },
 {
 "part": "SFTS",
@@ -8782,6 +8998,6 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 333
+"id": 341
 }
 ];

@@ -962,6 +962,33 @@ const CORE = [
 },
 {
 "part": "Picornaviridae",
+"topic": "Picornaviridae (FMDV)",
+"origin": "concept",
+"type": "single",
+"q": "Which of the following statements about Foot-and-Mouth Disease virus (FMDV) is correct?",
+"choices": [
+"It belongs to the genus Aphthovirus and exists as serotypes O, A, C, Asia 1, SAT1, SAT2, and SAT3 with no cross-protection between serotypes",
+"It is an enveloped virus that is highly stable below pH 5.0",
+"It belongs to the genus Enterovirus and is antigenically related to human Coxsackievirus B5",
+"It has a single serotype with several variants and a natural host limited to pigs",
+"It belongs to the genus Cardiovirus and is divided into types A and B in pigs"
+],
+"answer": [
+1
+],
+"explain": "Correct answer is ①. 강의안 슬라이드 349(6. Etiologic Agent) 'Genus: Aphthovirus' 및 'Serotypes: O, A, C, Asia 1, SAT1, SAT2, SAT3 / No cross-protection between serotypes'에서 FMDV의 속(genus)과 7개 serotype, serotype 간 교차방어 부재가 직접 도출된다(FMDV is the genus Aphthovirus virus with 7 serotypes and no cross-protection). ② Acid stability 슬라이드 346에 따르면 Aphthovirus는 오히려 'Unstable below pH 6.5'이며, pH 5.0 미만 불안정은 Rhinovirus 설명이다. 또한 슬라이드 345에서 Picornaviridae는 'non-enveloped'이므로 enveloped도 틀리다. ③ Genus Enterovirus·Coxsackievirus B5 관련은 슬라이드 358의 SVDV(돼지수포병바이러스) 설명이다. ④ Single serotype·natural host pigs only도 슬라이드 358의 SVDV 특징이다. ⑤ Genus Cardiovirus·Type A/B는 슬라이드 370의 EMCV 설명이다. 즉 ②~⑤는 모두 강의안에 등장하는 '다른 Picornaviridae 바이러스'의 사실을 FMDV에 잘못 붙인 오답이다.\n\n**[문항 한국어 해석]**\n발문: 구제역바이러스Foot-and-Mouth Disease virus(FMDV)에 대한 설명으로 옳은 것은?\n① Aphthovirus 속에 속하며 혈청형serotype O, A, C, Asia 1, SAT1, SAT2, SAT3로 존재하고 혈청형 간 교차방어cross-protection가 없다\n② 외피envelope가 있는 바이러스이며 pH 5.0 미만에서 매우 안정하다\n③ Enterovirus 속에 속하며 사람 콕사키바이러스Coxsackievirus B5와 항원적으로 관련된다\n④ 단일 혈청형single serotype에 여러 변이주variant를 가지며 자연숙주가 돼지로 한정된다\n⑤ Cardiovirus 속에 속하며 돼지에서 type A와 type B로 나뉜다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 125
+},
+{
+"part": "Picornaviridae",
 "topic": "Picornaviridae sweep",
 "origin": "concept",
 "type": "single",
@@ -985,7 +1012,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 125
+"id": 127
 },
 {
 "part": "Arteriviridae",
@@ -1005,7 +1032,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 145
+"id": 147
 },
 {
 "part": "Arteriviridae",
@@ -1032,7 +1059,34 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 146
+"id": 148
+},
+{
+"part": "Arteriviridae",
+"topic": "Arteriviridae (PRRSV)",
+"origin": "concept",
+"type": "single",
+"q": "Which of the following correctly describes the pathogenesis of Porcine Reproductive and Respiratory Syndrome virus (PRRSV)?",
+"choices": [
+"PRRSV is a non-enveloped virus that replicates in the nucleus of enterocytes",
+"PRRSV primarily infects vascular endothelial cells, causing systemic necrotizing vasculitis",
+"PRRSV infects porcine alveolar macrophages via the CD163 receptor, and macrophage destruction leads to immune suppression and interstitial pneumonia",
+"PRRSV induces a strong and rapid innate immune response that clears the virus within 48 hours",
+"PRRSV selectively destroys mature enterocytes at the villus tips, causing osmotic diarrhea"
+],
+"answer": [
+3
+],
+"explain": "Correct answer is ③. 강의안 슬라이드 153(Pathogenesis) 'Virus infects porcine alveolar macrophages (PAMs) / Entry via CD163 receptor / Macrophage destruction → immune suppression' 및 'Results: Interstitial pneumonia'에서 직접 도출된다(PRRSV infects PAMs through CD163, macrophage destruction causes immune suppression and interstitial pneumonia). ① 슬라이드 139에서 Arteriviridae는 'Enveloped, positive-sense ssRNA'이고 슬라이드 153은 세포질(cytoplasm) 복제이므로 non-enveloped·nucleus 복제는 틀리다. ② 혈관내피 표적·전신 necrotizing vasculitis는 같은 Arteriviridae의 EAV(말 바이러스성 동맥염) 병인(슬라이드 167)이지 PRRSV가 아니다. ④ 슬라이드 157~158에 따르면 PRRSV는 'Weak innate immunity, delayed adaptive immunity'를 유발하고 protective immunity가 3~4주 뒤 천천히 발달하므로 강력·신속 면역으로 48시간 내 제거는 정반대다. ⑤ villus tip 성숙 장세포 파괴·삼투성 설사는 Reoviridae Rotavirus의 병인(슬라이드 103)이다.\n\n**[문항 한국어 해석]**\n발문: 돼지생식기호흡기증후군바이러스Porcine Reproductive and Respiratory Syndrome virus(PRRSV)의 병인pathogenesis을 옳게 설명한 것은?\n① PRRSV는 외피가 없는non-enveloped 바이러스로 장세포enterocyte의 핵nucleus에서 복제한다\n② PRRSV는 주로 혈관내피세포vascular endothelial cell를 감염시켜 전신 괴사성 혈관염systemic necrotizing vasculitis을 일으킨다\n③ PRRSV는 CD163 수용체receptor를 통해 돼지 폐포대식세포porcine alveolar macrophage를 감염시키며, 대식세포 파괴가 면역억제immune suppression와 간질성 폐렴interstitial pneumonia으로 이어진다\n④ PRRSV는 강력하고 신속한 선천면역innate immunity 반응을 유도해 48시간 이내에 바이러스를 제거한다\n⑤ PRRSV는 융모 끝villus tip의 성숙 장세포를 선택적으로 파괴해 삼투성 설사osmotic diarrhea를 일으킨다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 149
 },
 {
 "part": "Arteriviridae",
@@ -1059,7 +1113,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 147
+"id": 151
 },
 {
 "part": "Arteriviridae",
@@ -1086,7 +1140,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 148
+"id": 152
 },
 {
 "part": "Arteriviridae",
@@ -1113,7 +1167,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 149
+"id": 153
 },
 {
 "part": "Arteriviridae",
@@ -1140,7 +1194,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 150
+"id": 154
 },
 {
 "part": "Caliciviridae",
@@ -1160,7 +1214,7 @@ const CORE = [
 "flagReason": "Q0682(2024#47)·Q0684(2024#49) 동일 주제(FHV-1 감별) 병합.",
 "unit": "",
 "cardOrder": 99,
-"id": 158
+"id": 162
 },
 {
 "part": "Caliciviridae",
@@ -1187,7 +1241,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 159
+"id": 163
 },
 {
 "part": "Caliciviridae",
@@ -1214,7 +1268,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 160
+"id": 164
 },
 {
 "part": "Caliciviridae",
@@ -1241,7 +1295,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 162
+"id": 166
 },
 {
 "part": "Caliciviridae",
@@ -1268,7 +1322,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 163
+"id": 167
 },
 {
 "part": "Togaviridae",
@@ -1295,7 +1349,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 177
+"id": 181
 },
 {
 "part": "Togaviridae",
@@ -1322,7 +1376,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 178
+"id": 182
 },
 {
 "part": "Togaviridae",
@@ -1349,7 +1403,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 179
+"id": 183
 },
 {
 "part": "Togaviridae",
@@ -1376,7 +1430,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 180
+"id": 184
 },
 {
 "part": "Togaviridae",
@@ -1403,7 +1457,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 181
+"id": 185
 },
 {
 "part": "Rhabdoviridae",
@@ -1424,7 +1478,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 201
+"id": 205
 },
 {
 "part": "Rhabdoviridae",
@@ -1451,7 +1505,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 204
+"id": 208
 },
 {
 "part": "Rhabdoviridae",
@@ -1478,7 +1532,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 205
+"id": 209
 },
 {
 "part": "Rhabdoviridae",
@@ -1505,7 +1559,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 206
+"id": 210
 },
 {
 "part": "Rhabdoviridae",
@@ -1532,7 +1586,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 207
+"id": 211
 },
 {
 "part": "Bunyavirales",
@@ -1560,7 +1614,7 @@ const CORE = [
 "flagReason": "족보 정답 ①, 그러나 강의안(슬라이드183 mortality~100%) 근거상 틀린 문장은 ②(자연치유). Claude 정답=②.",
 "unit": "",
 "cardOrder": 99,
-"id": 221
+"id": 225
 },
 {
 "part": "Bunyavirales",
@@ -1587,7 +1641,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 222
+"id": 226
 },
 {
 "part": "Bunyavirales",
@@ -1614,7 +1668,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 224
+"id": 228
 },
 {
 "part": "Bunyavirales",
@@ -1641,7 +1695,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 225
+"id": 229
 },
 {
 "part": "Bunyavirales",
@@ -1668,7 +1722,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 226
+"id": 230
 },
 {
 "part": "Pneumoviridae",
@@ -1696,7 +1750,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 234
+"id": 238
 },
 {
 "part": "Pneumoviridae",
@@ -1723,7 +1777,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 235
+"id": 239
 },
 {
 "part": "Pneumoviridae",
@@ -1750,7 +1804,34 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 237
+"id": 241
+},
+{
+"part": "Pneumoviridae",
+"topic": "Pneumoviridae (BRSV)",
+"origin": "concept",
+"type": "single",
+"q": "Which of the following correctly describes the classification and structure of Bovine Respiratory Syncytial Virus (BRSV)?",
+"choices": [
+"BRSV is a non-enveloped virus with a segmented double-stranded RNA genome",
+"BRSV is caused by Orthopneumovirus bovis in the family Pneumoviridae (order Mononegavirales), and is an enveloped virus with a ~15.2 kb single-stranded, negative-sense RNA genome bearing surface G and F glycoproteins",
+"BRSV belongs to the genus Metapneumovirus and causes Turkey Rhinotracheitis",
+"BRSV has a positive-sense RNA genome that is translated directly to produce nested subgenomic mRNAs",
+"BRSV is a DNA virus whose G glycoprotein mediates entry into porcine alveolar macrophages via CD163"
+],
+"answer": [
+2
+],
+"explain": "Correct answer is ②. 강의안 슬라이드 4(Introduction) 'Orthopneumovirus bovis: The cause of Bovine Respiratory Syncytial Virus (BRSV)' 및 'now established as an independent family under the order Mononegavirales', 슬라이드 6(Physical Morphology) 'enveloped viruses / approximately 15.2 kb of single-stranded, negative-sense RNA / Glycoproteins: G and F ... located on the surface of the viral envelope'에서 직접 도출된다(BRSV = Orthopneumovirus bovis, Pneumoviridae/Mononegavirales, enveloped, ~15.2 kb -ssRNA, surface G/F glycoproteins). ① 슬라이드 6에서 Pneumovirus는 enveloped이고 슬라이드 6의 genome은 단일가닥 -RNA이므로 non-enveloped·segmented dsRNA는 Reoviridae 특징을 잘못 가져온 오답이다. ③ 슬라이드 4·7에 따르면 BRSV는 genus Orthopneumovirus이고 Turkey Rhinotracheitis는 genus Metapneumovirus(aMPV)가 일으키므로 틀리다. ④ nested subgenomic mRNA를 만드는 positive-sense RNA 특징은 Arteriviridae/Nidovirales(슬라이드 141) 설명이며, BRSV는 negative-sense RNA다. ⑤ DNA 바이러스·CD163 통한 폐포대식세포 침입은 PRRSV(Arteriviridae, 슬라이드 153) 사실을 잘못 붙인 오답이다.\n\n**[문항 한국어 해석]**\n발문: 소 호흡기세포융합바이러스Bovine Respiratory Syncytial Virus(BRSV)의 분류와 구조를 옳게 설명한 것은?\n① BRSV는 외피가 없고non-enveloped 분절된segmented 이중가닥 RNAdouble-stranded RNA 유전체를 가진 바이러스다\n② BRSV는 Pneumoviridae 과(Mononegavirales 목)의 Orthopneumovirus bovis가 원인이며, 외피enveloped를 가지고 약 15.2 kb의 단일가닥 음성가닥 RNAsingle-stranded, negative-sense RNA 유전체와 표면 G·F 당단백질glycoprotein을 가진다\n③ BRSV는 Metapneumovirus 속에 속하며 칠면조 비기관염Turkey Rhinotracheitis을 일으킨다\n④ BRSV는 양성가닥 RNApositive-sense RNA 유전체를 가지며 직접 번역되어 포개진 아유전체 mRNAnested subgenomic mRNA를 만든다\n⑤ BRSV는 DNA 바이러스로, G 당단백질이 CD163을 통해 돼지 폐포대식세포porcine alveolar macrophage 침입을 매개한다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 242
 },
 {
 "part": "Reoviridae",
@@ -1780,7 +1861,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 257
+"id": 263
 },
 {
 "part": "Reoviridae",
@@ -1807,7 +1888,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 258
+"id": 264
 },
 {
 "part": "Reoviridae",
@@ -1827,7 +1908,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 259
+"id": 265
 },
 {
 "part": "Reoviridae",
@@ -1848,7 +1929,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 260
+"id": 266
 },
 {
 "part": "Reoviridae",
@@ -1878,7 +1959,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 261
+"id": 267
 },
 {
 "part": "Reoviridae",
@@ -1906,7 +1987,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 262
+"id": 268
 },
 {
 "part": "Reoviridae",
@@ -1933,7 +2014,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 263
+"id": 269
 },
 {
 "part": "Reoviridae",
@@ -1960,7 +2041,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 264
+"id": 270
 },
 {
 "part": "Reoviridae",
@@ -1987,7 +2068,61 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 265
+"id": 271
+},
+{
+"part": "Reoviridae",
+"topic": "Reoviridae (Bluetongue/AHS)",
+"origin": "concept",
+"type": "single",
+"q": "Which of the following correctly describes Bluetongue virus (BTV) and its disease in ruminants?",
+"choices": [
+"BTV is a highly contagious virus transmitted by direct contact between sheep",
+"BTV has an enveloped virion and a single-stranded RNA genome",
+"Cattle and goats always show the most severe clinical signs, while sheep remain asymptomatic",
+"BTV is transmitted by the fecal-oral route and primarily causes neonatal diarrhea in calves",
+"BTV is an infectious, non-contagious, midge-borne febrile disease of ruminants (primarily sheep), transmitted by infected female Culicoides midges"
+],
+"answer": [
+5
+],
+"explain": "Correct answer is ⑤. 강의안 슬라이드 106(IV. Bluetongue Virus) 'An infectious, non-contagious, midge-borne febrile disease of ruminants, primarily sheep' 및 'Transmission is almost exclusively via the bite of infected female midges'에서 직접 도출된다(BTV is non-contagious, midge-borne, mainly sheep, transmitted by infected female Culicoides). ① 같은 슬라이드에서 BTV는 'non-contagious'이고 접촉이 아니라 미지(midge) 매개이므로 'highly contagious via direct contact'는 틀리다. ② 슬라이드 95~98에서 Reoviridae는 'non-enveloped'이며 'segmented double-stranded RNA (dsRNA)'이므로 enveloped·single-stranded RNA는 틀리다. ③ 슬라이드 108에 따르면 주된 임상 종은 sheep이고 'Cattle & Goats: Usually asymptomatic'이므로 정반대다. ④ fecal-oral 전파·송아지 신생자 설사는 Reoviridae 내 Rotavirus(슬라이드 101~102) 설명이지 BTV가 아니다.\n\n**[문항 한국어 해석]**\n발문: 블루텅바이러스Bluetongue virus(BTV)와 반추동물ruminant에서의 질병을 옳게 설명한 것은?\n① BTV는 양 사이의 직접 접촉direct contact으로 전파되는 전염력이 매우 강한 바이러스다\n② BTV는 외피envelope가 있는 비리온과 단일가닥 RNAsingle-stranded RNA 유전체를 가진다\n③ 소와 염소가 항상 가장 심한 임상증상을 보이고 양은 무증상으로 남는다\n④ BTV는 분변-경구fecal-oral 경로로 전파되며 주로 송아지의 신생자 설사neonatal diarrhea를 일으킨다\n⑤ BTV는 반추동물(주로 양)의 전염성은 있으나 접촉전염은 되지 않는infectious, non-contagious 미지 매개midge-borne 열성 질병으로, 감염된 암컷 등에모기Culicoides의 흡혈을 통해 전파된다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 272
+},
+{
+"part": "Reoviridae",
+"topic": "Reoviridae (Rotavirus)",
+"origin": "concept",
+"type": "single",
+"q": "Which of the following best describes bovine Group A Rotavirus (RVA) infection?",
+"choices": [
+"It is a major cause of acute enteritis and watery diarrhea in young calves, with the highest incidence at 1 to 3 weeks of age, and the virus selectively infects mature enterocytes at the villus tips causing villous atrophy and osmotic diarrhea",
+"It is an enveloped DNA virus that replicates in hepatocytes and causes jaundice",
+"It is transmitted exclusively by Culicoides midges and causes congenital hydranencephaly in calves",
+"VP4 is the major outer capsid glycoprotein that determines the serological group, while VP7 is the protease-sensitive attachment protein",
+"Adult cattle typically develop the most severe diarrhea, while neonatal calves remain asymptomatic carriers"
+],
+"answer": [
+1
+],
+"explain": "Correct answer is ①. 강의안 슬라이드 101(Characterization of Bovine Rotavirus) 'A major cause of acute enteritis and watery diarrhea in young calves / Highest incidence occurs in calves 1 to 3 weeks of age'와 슬라이드 103(Pathogenesis) 'selectively infects mature enterocytes at the tips of the small intestinal villi → villous atrophy → osmotic diarrhea'에서 직접 도출된다(RVA causes calf watery diarrhea peaking at 1-3 weeks, infecting villus-tip enterocytes → villous atrophy → osmotic diarrhea). ② 슬라이드 95~98에서 Reoviridae는 non-enveloped dsRNA 바이러스이며 장(intestine)을 표적으로 하므로 enveloped DNA·간세포 복제는 틀리다. ③ Culicoides 매개·송아지 선천성 수무뇌증(hydranencephaly)은 같은 Reoviridae 내 Orbivirus인 Chuzan virus(슬라이드 111~112) 설명이다. ④ 슬라이드 101에 따르면 VP7이 외피 당단백·혈청군 결정(G protein), VP4가 protease-sensitive 부착단백(P protein)이므로 두 단백 기능이 서로 뒤바뀌었다. ⑤ 슬라이드 104에서 신생자(1-7일)가 가장 심한 설사를 보이고 'Adults: Usually asymptomatic carriers'이므로 정반대다.\n\n**[문항 한국어 해석]**\n발문: 소 A군 로타바이러스bovine Group A Rotavirus(RVA) 감염을 가장 잘 설명한 것은?\n① 어린 송아지에서 급성 장염acute enteritis과 수양성 설사watery diarrhea를 일으키는 주요 원인으로 1~3주령에서 발생률이 가장 높으며, 바이러스가 융모 끝villus tip의 성숙 장세포mature enterocyte를 선택적으로 감염시켜 융모 위축villous atrophy과 삼투성 설사osmotic diarrhea를 일으킨다\n② 외피가 있는 DNA 바이러스로 간세포hepatocyte에서 복제하며 황달jaundice을 일으킨다\n③ 오직 등에모기Culicoides에 의해서만 전파되며 송아지에서 선천성 수무뇌증hydranencephaly을 일으킨다\n④ VP4가 혈청군을 결정하는 주요 외피 당단백질이고, VP7이 protease 민감성 부착 단백질이다\n⑤ 성체 소가 보통 가장 심한 설사를 보이고, 신생 송아지는 무증상 보균자로 남는다",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 273
 },
 {
 "part": "Reoviridae",
@@ -2014,7 +2149,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 266
+"id": 274
 },
 {
 "part": "Retroviridae",
@@ -2034,7 +2169,7 @@ const CORE = [
 "flagReason": "족보는 3단계, 강의안은 4단계(vague signs 추가)로 제시 — 둘 다 인정되나 4단계가 정식.",
 "unit": "",
 "cardOrder": 99,
-"id": 274
+"id": 282
 },
 {
 "part": "Retroviridae",
@@ -2055,7 +2190,7 @@ const CORE = [
 "flagReason": "Q0663(2024#26)·Q0779(2023#46) 동일 주제 병합. 2023 족보 답안은 원본 누락.",
 "unit": "",
 "cardOrder": 99,
-"id": 275
+"id": 283
 },
 {
 "part": "Retroviridae",
@@ -2082,7 +2217,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 276
+"id": 284
 },
 {
 "part": "Retroviridae",
@@ -2109,7 +2244,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 277
+"id": 285
 },
 {
 "part": "Retroviridae",
@@ -2136,7 +2271,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 278
+"id": 286
 },
 {
 "part": "Prion",
@@ -2163,7 +2298,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 292
+"id": 300
 },
 {
 "part": "Prion",
@@ -2190,7 +2325,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 293
+"id": 301
 },
 {
 "part": "Prion",
@@ -2217,7 +2352,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 294
+"id": 302
 },
 {
 "part": "Prion",
@@ -2244,7 +2379,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 295
+"id": 303
 },
 {
 "part": "Prion",
@@ -2271,7 +2406,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 296
+"id": 304
 },
 {
 "part": "SFTS",
@@ -2298,7 +2433,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 328
+"id": 336
 },
 {
 "part": "SFTS",
@@ -2325,7 +2460,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 329
+"id": 337
 },
 {
 "part": "SFTS",
@@ -2352,7 +2487,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 330
+"id": 338
 },
 {
 "part": "SFTS",
@@ -2379,7 +2514,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 331
+"id": 339
 },
 {
 "part": "SFTS",
@@ -2406,7 +2541,7 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 332
+"id": 340
 },
 {
 "part": "SFTS",
@@ -2433,6 +2568,6 @@ const CORE = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 333
+"id": 341
 }
 ];
