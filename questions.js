@@ -39,6 +39,7 @@ const LABQ = [
 "<b>핵내봉입체</b> 대표 병리",
 "<b>cell-to-cell</b> 융합 전파"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Herpesviridae <em>외피·dsDNA·평생잠복</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">virion</div><div class=\"pls\"><span class=\"pl\"><b>외피</b> 소독제·ether에 약함</span><span class=\"pl\"><b>선형 dsDNA</b> ~125–290kb</span><span class=\"pl\"><b>핵내봉입체</b> 대표 병리</span></div></div><div class=\"pb\"><div class=\"pc\">복제</div><div class=\"pls\"><span class=\"pl\"><b>핵 내 복제</b> fusion 진입</span><span class=\"pl\"><b>cell-to-cell</b> 융합 전파</span></div></div><div class=\"pb\"><div class=\"pc\">3아과</div><div class=\"pls\"><span class=\"pl\"><b>Alpha</b> 감각신경절 잠복·신경친화</span><span class=\"pl\"><b>Beta</b> 림프구·세포비대</span><span class=\"pl\"><b>Gamma</b> 림프조직</span></div></div><div class=\"pb\"><div class=\"pc\">병인</div><div class=\"pls\"><span class=\"pl\"><b>잠복</b> 핵 내 episomal</span><span class=\"pl\"><b>재활성</b> 스트레스·shedding</span></div></div><div class=\"pb\"><div class=\"pc\">면역회피</div><div class=\"pls\"><span class=\"pl\"><b>gE</b> Fc수용체</span><span class=\"pl\"><b>vIL-10</b> 면역억제</span></div></div></div></div>",
 "exams": [],
 "flag": false,
 "flagReason": "",
@@ -147,6 +148,7 @@ const LABQ = [
 "<b>BHV-2</b> 궤양성 유두염·가성LSD",
 "<b>BHV-5</b> 송아지 뇌염, 치사율~100%"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">소 herpesvirus <em>alphaherpes·번호별 질병</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">BHV-1</div><div class=\"pls\"><span class=\"pl\"><b>IBR</b> 호흡기·red nose·유산</span><span class=\"pl\"><b>IPV</b> 생식기·viremia 없음</span><span class=\"pl\"><b>gE결손 DIVA</b> 근절백신</span></div></div><div class=\"pb\"><div class=\"pc\">BHV-2</div><div class=\"pls\"><span class=\"pl\"><b>BUM</b> 궤양성 유두염</span><span class=\"pl\"><b>가성LSD</b> 중심함몰 결절</span></div></div><div class=\"pb\"><div class=\"pc\">BHV-5</div><div class=\"pls\"><span class=\"pl\"><b>송아지 뇌염</b> 6개월 미만</span><span class=\"pl\"><b>치사율~100%</b> 발생률 낮음</span></div></div></div></div>",
 "exams": [],
 "flag": false,
 "flagReason": "",
@@ -255,6 +257,7 @@ const LABQ = [
 "<b>소·사슴</b> dead-end host",
 "<b>BHV-4</b> 대개 불현성 번식질환"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">MCF <em>gamma·면역매개 혈관염</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">원인</div><div class=\"pls\"><span class=\"pl\"><b>AHV-1</b> 누(아프리카)</span><span class=\"pl\"><b>OvHV-2</b> 양(전세계)</span><span class=\"pl\"><b>소·사슴</b> dead-end host</span></div></div><div class=\"pb\"><div class=\"pc\">기전</div><div class=\"pls\"><span class=\"pl\"><b>면역매개</b> CD8+·NK 활성화</span><span class=\"pl\"><b>vasculitis</b> 혈관염 손상</span></div></div><div class=\"pb\"><div class=\"pc\">증상</div><div class=\"pls\"><span class=\"pl\"><b>각막혼탁</b> 양측·실명</span><span class=\"pl\"><b>혈변</b> 장점막 미란</span><span class=\"pl\"><b>고치사율</b> 7일 내 치명</span></div></div><div class=\"pb\"><div class=\"pc\">BHV-4</div><div class=\"pls\"><span class=\"pl\"><b>불현성</b> 번식질환·gamma</span></div></div></div></div>",
 "exams": [],
 "flag": false,
 "flagReason": "",
@@ -363,6 +366,7 @@ const LABQ = [
 "<b>소변·분변</b> 배출 안 함",
 "<b>gE/TK marker</b> 백신·PCMV 90% carrier"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Aujeszky <em>Suid HV-1·가성광견병</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">natural host</div><div class=\"pls\"><span class=\"pl\"><b>돼지</b> reservoir·연령의존</span><span class=\"pl\"><b>자돈</b> 치사율~100%</span><span class=\"pl\"><b>모돈</b> 유산</span></div></div><div class=\"pb\"><div class=\"pc\">2차숙주</div><div class=\"pls\"><span class=\"pl\"><b>소·개·고양이</b> mad itch</span><span class=\"pl\"><b>개</b> 광견병 닮으나 공격성 없음</span></div></div><div class=\"pb\"><div class=\"pc\">전파</div><div class=\"pls\"><span class=\"pl\"><b>타액·비즙</b> nose-to-nose</span><span class=\"pl\"><b>소변·분변</b> 배출 안 함</span></div></div><div class=\"pb\"><div class=\"pc\">예방</div><div class=\"pls\"><span class=\"pl\"><b>gE/TK marker</b> 백신·근절</span></div></div><div class=\"pb\"><div class=\"pc\">PCMV</div><div class=\"pls\"><span class=\"pl\"><b>betaherpes</b> 90% carrier</span></div></div></div></div>",
 "exams": [],
 "flag": false,
 "flagReason": "",
@@ -471,6 +475,7 @@ const LABQ = [
 "<b>EHV-2/5/7</b> gamma, 결막·폐",
 "<b>CapHV-1</b> BHV-1 닮음, 염소만 감수성"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">말 herpesvirus <em>EHV 번호별 질병</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">EHV-1</div><div class=\"pls\"><span class=\"pl\"><b>유산</b> 태반 혈관염</span><span class=\"pl\"><b>CNS</b> 척수 혈관염</span><span class=\"pl\"><b>viremia·HA+</b> 혈관내피 tropism</span></div></div><div class=\"pb\"><div class=\"pc\">EHV-4</div><div class=\"pls\"><span class=\"pl\"><b>호흡기</b> viremia 드묾·HA-</span></div></div><div class=\"pb\"><div class=\"pc\">EHV-3</div><div class=\"pls\"><span class=\"pl\"><b>교미성 발진</b> 번식력 영향 없음</span></div></div><div class=\"pb\"><div class=\"pc\">EHV-2/5/7</div><div class=\"pls\"><span class=\"pl\"><b>gamma</b> 결막·폐</span></div></div><div class=\"pb\"><div class=\"pc\">CapHV-1</div><div class=\"pls\"><span class=\"pl\"><b>염소만 감수성</b> BHV-1 닮음</span></div></div></div></div>",
 "exams": [],
 "flag": false,
 "flagReason": "",
@@ -579,6 +584,7 @@ const LABQ = [
 "<b>FCV 감별</b> tongue ulcer는 calicivirus",
 "<b>B virus</b> 원숭이 경미·사람 치명"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">CHV-1·FHV-1·B virus <em>종별 alphaherpes</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">CHV-1</div><div class=\"pls\"><span class=\"pl\"><b>저온 복제</b> ~33°C</span><span class=\"pl\"><b>신생 강아지</b> 무열·치사~100%</span><span class=\"pl\"><b>대처</b> 체온 올리기</span></div></div><div class=\"pb\"><div class=\"pc\">FHV-1</div><div class=\"pls\"><span class=\"pl\"><b>묘 비기관염</b> 삼차신경절 잠복</span><span class=\"pl\"><b>궤양성 각막염</b> 심한 안구질환</span><span class=\"pl\"><b>FCV 감별</b> tongue ulcer는 calici</span></div></div><div class=\"pb\"><div class=\"pc\">B virus</div><div class=\"pls\"><span class=\"pl\"><b>원숭이</b> 경미한 수포</span><span class=\"pl\"><b>사람</b> 치명적 인수공통</span></div></div></div></div>",
 "exams": [],
 "flag": false,
 "flagReason": "",
@@ -1441,6 +1447,7 @@ const LABQ = [
 "<b>면역회피 유전자</b> 풍부(말단부)",
 "<b>2아과</b> Chordo/Entomopoxvirinae"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Poxviridae <em>대형 dsDNA·세포질 복제</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">구조</div><div class=\"pls\"><span class=\"pl\"><b>벽돌형</b> 220×450nm</span><span class=\"pl\"><b>parapox</b> 타원형 예외</span><span class=\"pl\"><b>선형 dsDNA</b> ~130kb</span></div></div><div class=\"pb\"><div class=\"pc\">복제</div><div class=\"pls\"><span class=\"pl\"><b>세포질 복제</b> 자체효소 보유</span><span class=\"pl\"><b>방출</b> exocytosis·lysis</span></div></div><div class=\"pb\"><div class=\"pc\">유전체</div><div class=\"pls\"><span class=\"pl\"><b>중심부</b> 복제·구조유전자</span><span class=\"pl\"><b>말단부</b> 면역회피 유전자</span></div></div><div class=\"pb\"><div class=\"pc\">분류</div><div class=\"pls\"><span class=\"pl\"><b>Chordopox</b> 척추동물</span><span class=\"pl\"><b>Entomopox</b> 곤충</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -1548,6 +1555,7 @@ const LABQ = [
 "<b>합병증</b> 유산·orchitis·불임",
 "<b>감별</b> 가성LSD(BHV-2)"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Capripoxvirus <em>~96% 상동·구별 불가</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">3종</div><div class=\"pls\"><span class=\"pl\"><b>LSDV</b> 소 럼피스킨</span><span class=\"pl\"><b>SPPV</b> 양두</span><span class=\"pl\"><b>GTPV</b> 산양두</span></div></div><div class=\"pb\"><div class=\"pc\">LSD</div><div class=\"pls\"><span class=\"pl\"><b>피부 결절</b> sit-fast·흉터</span><span class=\"pl\"><b>합병증</b> 유산·orchitis·불임</span><span class=\"pl\"><b>국내 제1종</b> 2023 최초</span></div></div><div class=\"pb\"><div class=\"pc\">전파</div><div class=\"pls\"><span class=\"pl\"><b>곤충 기계적</b> 모기·파리·진드기</span></div></div><div class=\"pb\"><div class=\"pc\">감별</div><div class=\"pls\"><span class=\"pl\"><b>가성LSD</b> BHV-2</span><span class=\"pl\"><b>FMD·bluetongue·MCF</b></span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -1655,6 +1663,7 @@ const LABQ = [
 "<b>corticosteroid</b> 금기·백신 없음",
 "<b>Mpox·Variola·Vaccinia</b> 같은 속"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Orthopoxvirus <em>Cowpox·Variola·Vaccinia·Mpox</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">Cowpox</div><div class=\"pls\"><span class=\"pl\"><b>zoonotic</b> 소·고양이·사람</span><span class=\"pl\"><b>설치류</b> 주요 보유숙주</span><span class=\"pl\"><b>Jenner</b> 천연두 백신 유래</span></div></div><div class=\"pb\"><div class=\"pc\">Feline cowpox</div><div class=\"pls\"><span class=\"pl\"><b>설치류 물려</b> 감염</span><span class=\"pl\"><b>면역저하</b> FeLV/FIV 악화</span><span class=\"pl\"><b>corticosteroid</b> 금기·백신 없음</span></div></div><div class=\"pb\"><div class=\"pc\">기타</div><div class=\"pls\"><span class=\"pl\"><b>Mpox</b> 농포성 발진</span><span class=\"pl\"><b>Variola·Vaccinia</b> 같은 속</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -1762,6 +1771,7 @@ const LABQ = [
 "<b>BPS</b> 소 구진성 구내염",
 "<b>BPS 감별</b> FMD·수포성구내염"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Parapoxvirus <em>타원형·모두 zoonotic</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">Orf</div><div class=\"pls\"><span class=\"pl\"><b>양·염소</b> 입술·잇몸·혀</span><span class=\"pl\"><b>경과</b> papule→pustule→scab</span></div></div><div class=\"pb\"><div class=\"pc\">Pseudocowpox</div><div class=\"pls\"><span class=\"pl\"><b>소 유두</b> 말굽형 가피</span><span class=\"pl\"><b>milker's nodule</b> 사람 손가락</span></div></div><div class=\"pb\"><div class=\"pc\">BPS</div><div class=\"pls\"><span class=\"pl\"><b>소 구내염</b> 입술·콧구멍·혀</span><span class=\"pl\"><b>감별</b> FMD·수포성구내염</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -1869,6 +1879,7 @@ const LABQ = [
 "<b>European rabbit</b> 치명적·국내 제3종",
 "<b>벡터</b> 절지동물 전파"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Sui·Avi·Lepori <em>돈두·계두·점액종</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">Swinepox</div><div class=\"pls\"><span class=\"pl\"><b>돼지 이</b> Hematopinus suis</span><span class=\"pl\"><b>복부</b> 털 적은 부위</span><span class=\"pl\"><b>감별</b> FMD·VS·SVD</span></div></div><div class=\"pb\"><div class=\"pc\">Fowlpox</div><div class=\"pls\"><span class=\"pl\"><b>계두</b> Avipox·모기 전파</span></div></div><div class=\"pb\"><div class=\"pc\">Myxomatosis</div><div class=\"pls\"><span class=\"pl\"><b>European rabbit</b> 치명적</span><span class=\"pl\"><b>국내 제3종</b> 절지동물 벡터</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -2571,6 +2582,7 @@ const LABQ = [
 "<b>Aphthovirus</b> pH 6.5 미만 불안정(예외)",
 "<b>전파</b> fecal-oral·FMDV/SVDV 지속감염"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Picornaviridae <em>~30nm 무외피 +ssRNA</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">구조</div><div class=\"pls\"><span class=\"pl\"><b>~30nm</b> 무외피·정이십면체</span><span class=\"pl\"><b>+ssRNA</b> 그 자체가 mRNA·세포질 복제</span><span class=\"pl\"><b>VP1~4</b> 캡시드 단백 4종</span></div></div><div class=\"pb\"><div class=\"pc\">환경저항</div><div class=\"pls\"><span class=\"pl\"><b>지질용매</b> 저항(ether·chloroform)</span><span class=\"pl\"><b>Aphthovirus</b> pH 6.5 미만 불안정(예외)</span><span class=\"pl\"><b>Rhinovirus</b> pH 5.0 미만 불안정</span></div></div><div class=\"pb\"><div class=\"pc\">전파</div><div class=\"pls\"><span class=\"pl\"><b>fecal-oral</b> 주경로·aerosol·fomites</span><span class=\"pl\"><b>지속감염</b> FMDV·SVDV 대표</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -2678,6 +2690,7 @@ const LABQ = [
 "<b>Tiger heart</b> 어린동물 심근염→급사",
 "<b>불활화백신</b> serotype-specific·살처분"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">FMDV <em>Aphthovirus·시험 최빈출</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">원인·혈청형</div><div class=\"pls\"><span class=\"pl\"><b>Aphthovirus</b> 구제역바이러스</span><span class=\"pl\"><b>7혈청형</b> O·A·C·Asia1·SAT1~3</span><span class=\"pl\"><b>교차방어 없음</b> serotype-specific</span></div></div><div class=\"pb\"><div class=\"pc\">숙주·법정</div><div class=\"pls\"><span class=\"pl\"><b>우제류</b>만 감수성(말·사람 X)</span><span class=\"pl\"><b>제1종·WOAH ListA</b> 법정전염병</span></div></div><div class=\"pb\"><div class=\"pc\">임상</div><div class=\"pls\"><span class=\"pl\"><b>소</b> 발열·침흘림·구강수포</span><span class=\"pl\"><b>Tiger heart</b> 어린동물 심근염→급사</span></div></div><div class=\"pb\"><div class=\"pc\">진단·방역</div><div class=\"pls\"><span class=\"pl\"><b>NSP ELISA</b> 감염/백신 구분</span><span class=\"pl\"><b>감별</b> VS·SVD·VES·Senecavirus</span><span class=\"pl\"><b>불활화백신</b> 살처분·약 6개월</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -2785,6 +2798,7 @@ const LABQ = [
 "<b>Sacbrood</b> Iflavirus·꿀벌유충 sac-like",
 "<b>방역</b> EMC=설치류구제·SBV=군체제거"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Picorna 곁가지 <em>4종 감별</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">SVD</div><div class=\"pls\"><span class=\"pl\"><b>Enterovirus</b> 돼지만</span><span class=\"pl\"><b>FMD 구별불가</b> 핵심 감별</span><span class=\"pl\"><b>단일 혈청형</b> 냉동 돈육 안정</span></div></div><div class=\"pb\"><div class=\"pc\">Teschovirus</div><div class=\"pls\"><span class=\"pl\"><b>돼지 폴리오</b> 뇌척수염</span><span class=\"pl\"><b>VP1</b> genotyping</span><span class=\"pl\"><b>비화농성</b> polioencephalomyelitis</span></div></div><div class=\"pb\"><div class=\"pc\">EMC</div><div class=\"pls\"><span class=\"pl\"><b>Cardiovirus</b> 설치류 reservoir</span><span class=\"pl\"><b>자돈</b> 급사·치사율 ~100%</span><span class=\"pl\"><b>성돈</b> 번식장애·유산</span><span class=\"pl\"><b>방역</b> 설치류 구제</span></div></div><div class=\"pb\"><div class=\"pc\">Sacbrood</div><div class=\"pls\"><span class=\"pl\"><b>Iflavirus</b> 꿀벌유충</span><span class=\"pl\"><b>sac-like</b> 번데기화 실패</span><span class=\"pl\"><b>방제</b> 군체 제거·소독</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -3163,6 +3177,7 @@ const LABQ = [
 "<b>LDV</b> 설치류 / <b>SHFV</b> 영장류",
 "<b>지질용매</b> 민감(외피)"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Arteriviridae <em>외피 +ssRNA·Nidovirales</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">분류·구조</div><div class=\"pls\"><span class=\"pl\"><b>외피·+ssRNA</b> Picorna와 차이=외피</span><span class=\"pl\"><b>50-74nm</b> spherical~pleomorphic</span></div></div><div class=\"pb\"><div class=\"pc\">Nidovirales</div><div class=\"pls\"><span class=\"pl\"><b>Coronaviridae</b> 근연</span><span class=\"pl\"><b>sg mRNA</b> nested set로 구조단백 번역</span></div></div><div class=\"pb\"><div class=\"pc\">속·숙주</div><div class=\"pls\"><span class=\"pl\"><b>EAV</b> 말 / <b>PRRSV</b> 돼지</span><span class=\"pl\"><b>LDV</b> 설치류 / <b>SHFV</b> 영장류</span></div></div><div class=\"pb\"><div class=\"pc\">환경</div><div class=\"pls\"><span class=\"pl\"><b>-70℃</b> 안정</span><span class=\"pl\"><b>지질용매</b> 민감(외피)</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -3270,6 +3285,7 @@ const LABQ = [
 "<b>모돈</b> 후기유산·사산·약자돈",
 "<b>제3종·WOAH</b> 지속감염·면역지연"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">PRRS <em>PAM 감염·번식+호흡기</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">병인</div><div class=\"pls\"><span class=\"pl\"><b>PAM</b> 폐포대식세포 감염</span><span class=\"pl\"><b>CD163</b> entry 수용체</span><span class=\"pl\"><b>면역억제</b> 2차감염·간질성폐렴</span></div></div><div class=\"pb\"><div class=\"pc\">분류</div><div class=\"pls\"><span class=\"pl\"><b>PRRSV-1/2</b> EU·NA형·유전차 40%</span><span class=\"pl\"><b>ORF5</b> 유전분류 기반</span><span class=\"pl\"><b>고변이</b> 재조합·신변이주</span></div></div><div class=\"pb\"><div class=\"pc\">임상</div><div class=\"pls\"><span class=\"pl\"><b>모돈</b> 후기유산·사산·약자돈</span><span class=\"pl\"><b>자돈</b> 발열·호흡곤란·blue ear</span></div></div><div class=\"pb\"><div class=\"pc\">면역·법정</div><div class=\"pls\"><span class=\"pl\"><b>지속감염</b> carrier 수개월 배출</span><span class=\"pl\"><b>면역지연</b> nsps가 IFN 억제</span><span class=\"pl\"><b>제3종·WOAH</b> 보고 대상</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -3377,6 +3393,7 @@ const LABQ = [
 "<b>백신</b> MLV ARVAC·면역 2년",
 "<b>LDV</b> Gammaarterivirus·설치류"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">EAV <em>말 전신혈관염·정액전파</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">원인·전파</div><div class=\"pls\"><span class=\"pl\"><b>Alphaarterivirus</b> 말</span><span class=\"pl\"><b>respiratory</b> 비말·aerosol</span><span class=\"pl\"><b>venereal</b> 정액·교배 전파</span></div></div><div class=\"pb\"><div class=\"pc\">병인</div><div class=\"pls\"><span class=\"pl\"><b>pan-vasculitis</b> 전신 혈관염</span><span class=\"pl\"><b>괴사성 혈관염</b> 부종·출혈·유산</span></div></div><div class=\"pb\"><div class=\"pc\">지속감염</div><div class=\"pls\"><span class=\"pl\"><b>종마 carrier</b> 정액 배출</span><span class=\"pl\"><b>androgen 의존</b> 암말·거세마 X</span></div></div><div class=\"pb\"><div class=\"pc\">예방·LDV</div><div class=\"pls\"><span class=\"pl\"><b>MLV ARVAC</b> 면역 최소 2년</span><span class=\"pl\"><b>LDV</b> Gammaarterivirus·설치류</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -3705,6 +3722,7 @@ const LABQ = [
 "<b>VESV</b> 돼지 수포·FMD 감별",
 "<b>감별</b> FCV vs FHV-1"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Caliciviridae <em>컵모양 무외피 +ssRNA</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">공통성상</div><div class=\"pls\"><span class=\"pl\"><b>calix</b> 컵모양 함몰</span><span class=\"pl\"><b>무외피 +ssRNA</b> RNA가 곧 mRNA</span><span class=\"pl\"><b>환경저항</b> 강함(무외피)</span></div></div><div class=\"pb\"><div class=\"pc\">FCV</div><div class=\"pls\"><span class=\"pl\"><b>고양이</b> 구강궤양·상부호흡기</span><span class=\"pl\"><b>감별</b> FHV-1</span></div></div><div class=\"pb\"><div class=\"pc\">RHDV</div><div class=\"pls\"><span class=\"pl\"><b>토끼</b> 간괴사·DIC</span><span class=\"pl\"><b>폐사>90%</b> 급성 고치사</span></div></div><div class=\"pb\"><div class=\"pc\">VESV</div><div class=\"pls\"><span class=\"pl\"><b>돼지</b> 수포성 질병</span><span class=\"pl\"><b>FMD 감별</b> 임상 구별불가</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -4004,6 +4022,7 @@ const LABQ = [
 "<b>E1·E2</b> 표면 spike 당단백",
 "<b>chikungunya</b> 발열·발진·관절통"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Togaviridae <em>모기매개 외피 +ssRNA과</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">유전체</div><div class=\"pls\"><span class=\"pl\"><b>+ssRNA</b> 양성가닥 직접 mRNA</span><span class=\"pl\"><b>11~12kb</b> 단일 선형</span></div></div><div class=\"pb\"><div class=\"pc\">분류</div><div class=\"pls\"><span class=\"pl\"><b>Alphavirus</b> 주속·Sindbis prototype</span><span class=\"pl\"><b>Rubivirus</b> 또 다른 속</span></div></div><div class=\"pb\"><div class=\"pc\">매개</div><div class=\"pls\"><span class=\"pl\"><b>arbovirus</b> 절지동물 매개</span><span class=\"pl\"><b>모기</b> 곤충+척추동물 증식</span></div></div><div class=\"pb\"><div class=\"pc\">구조</div><div class=\"pls\"><span class=\"pl\"><b>외피</b> toga(겉옷)에서 유래</span><span class=\"pl\"><b>E1·E2</b> 표면 spike 당단백</span></div></div><div class=\"pb\"><div class=\"pc\">사람병</div><div class=\"pls\"><span class=\"pl\"><b>chikungunya</b> 발열·발진·관절통</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -4111,6 +4130,7 @@ const LABQ = [
 "<b>VEE</b> 말=증폭숙주·설치류저장소",
 "<b>perivascular cuffing</b> 회색질 뇌염병변"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">말뇌염 3종 <em>dead-end vs 증폭</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">바이러스</div><div class=\"pls\"><span class=\"pl\"><b>EEE·WEE·VEE</b> 인수공통 말뇌염</span></div></div><div class=\"pb\"><div class=\"pc\">매개</div><div class=\"pls\"><span class=\"pl\"><b>모기</b> 공통 생물학적 매개체</span></div></div><div class=\"pb\"><div class=\"pc\">저장소</div><div class=\"pls\"><span class=\"pl\"><b>야생조류</b> EEE·WEE reservoir</span><span class=\"pl\"><b>설치류</b> VEE reservoir</span></div></div><div class=\"pb\"><div class=\"pc\">숙주역할</div><div class=\"pls\"><span class=\"pl\"><b>dead-end</b> EEE·WEE 말·사람 증폭못함</span><span class=\"pl\"><b>증폭숙주</b> VEE 말 high-titer</span></div></div><div class=\"pb\"><div class=\"pc\">병리</div><div class=\"pls\"><span class=\"pl\"><b>perivascular cuffing</b> 회색질 뇌염</span><span class=\"pl\"><b>치명률</b> EEE 50~90% 최고</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -4370,6 +4390,7 @@ const LABQ = [
 "<b>host range</b> 척추·무척추·식물",
 "<b>핵심속</b> Lyssa·Vesiculo·Ephemero"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Rhabdoviridae <em>탄환형 외피 -ssRNA</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">형태·게놈</div><div class=\"pls\"><span class=\"pl\"><b>탄환형</b> rhabdos(막대)·bullet-shaped</span><span class=\"pl\"><b>-ssRNA</b> 비분절 음성가닥</span></div></div><div class=\"pb\"><div class=\"pc\">구조단백</div><div class=\"pls\"><span class=\"pl\"><b>N-P-M-G-L</b> 5대 단백(3'→5')</span><span class=\"pl\"><b>G</b> 표면 spike·부착</span><span class=\"pl\"><b>L</b> RNA 중합효소</span></div></div><div class=\"pb\"><div class=\"pc\">성상</div><div class=\"pls\"><span class=\"pl\"><b>외피</b> 환경 매우 민감</span><span class=\"pl\"><b>host range</b> 척추·무척추·식물</span></div></div><div class=\"pb\"><div class=\"pc\">핵심 속</div><div class=\"pls\"><span class=\"pl\"><b>Lyssavirus</b> 광견병</span><span class=\"pl\"><b>Vesiculovirus</b> VSV</span><span class=\"pl\"><b>Ephemerovirus</b> BEFV</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -4477,6 +4498,7 @@ const LABQ = [
 "<b>Negri body</b> 해마·소뇌 봉입체",
 "<b>FAT</b> gold standard·PEP·bait vaccine"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Rabies <em>신경친화·치사율 ~100%</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">원인</div><div class=\"pls\"><span class=\"pl\"><b>Lyssavirus</b> CNS·인수공통</span><span class=\"pl\"><b>Hydrophobia</b> 공수병</span><span class=\"pl\"><b>strain</b> Street·Fixed virus</span></div></div><div class=\"pb\"><div class=\"pc\">병인경로</div><div class=\"pls\"><span class=\"pl\"><b>retrograde</b> 말초신경→CNS 축삭수송</span><span class=\"pl\"><b>centrifugal</b> 뇌→침샘→saliva 전파</span></div></div><div class=\"pb\"><div class=\"pc\">임상</div><div class=\"pls\"><span class=\"pl\"><b>전구기</b> 미묘한 행동변화</span><span class=\"pl\"><b>furious</b> 광폭형·거품침</span><span class=\"pl\"><b>dumb</b> 마비형·연하불능→사망</span></div></div><div class=\"pb\"><div class=\"pc\">진단·관리</div><div class=\"pls\"><span class=\"pl\"><b>Negri body</b> 해마·소뇌 봉입체</span><span class=\"pl\"><b>FAT</b> gold standard</span><span class=\"pl\"><b>PEP·bait vaccine</b> 노출후·야생동물</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -4584,6 +4606,7 @@ const LABQ = [
 "<b>VS 감별</b> FMD 구별불가→FMD 취급",
 "<b>말</b> FMD X·수포는 VS 시사"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">BEF vs VS <em>3일열 vs 수포(FMD감별)</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">BEF</div><div class=\"pls\"><span class=\"pl\"><b>Ephemerovirus</b> 소 3-Day Sickness</span><span class=\"pl\"><b>수포 없음</b> FMD 혼동·모기매개</span><span class=\"pl\"><b>유량 70%↓</b> 회복후 정상복귀</span></div></div><div class=\"pb\"><div class=\"pc\">VS</div><div class=\"pls\"><span class=\"pl\"><b>Vesiculovirus</b> 입·젖꼭지·발 수포</span><span class=\"pl\"><b>중층편평상피</b> 표적·세포용해</span><span class=\"pl\"><b>소·말·돼지</b> 인수공통 가능</span></div></div><div class=\"pb\"><div class=\"pc\">FMD 감별</div><div class=\"pls\"><span class=\"pl\"><b>VS=FMD 구별불가</b> 확진전 FMD 취급</span><span class=\"pl\"><b>말</b> FMD X·수포는 VS 시사</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -5038,6 +5061,7 @@ const LABQ = [
 "<b>Peribunya</b> Akabane 기형",
 "<b>Phenui</b> RVF·SFTS 인수공통"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Bunyavirales <em>분절 -ssRNA·절지매개</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">게놈·구조</div><div class=\"pls\"><span class=\"pl\"><b>L·M·S</b> 3분절·외피·80~120nm</span><span class=\"pl\"><b>L</b> RNA 중합효소</span><span class=\"pl\"><b>M</b> glycoprotein·<b>S</b> N단백</span></div></div><div class=\"pb\"><div class=\"pc\">Bornaviridae</div><div class=\"pls\"><span class=\"pl\"><b>핵 복제</b> 예외·neurotropic</span><span class=\"pl\"><b>Joest-Degen body</b> 핵내 봉입체</span></div></div><div class=\"pb\"><div class=\"pc\">Nairoviridae</div><div class=\"pls\"><span class=\"pl\"><b>진드기</b> 매개</span><span class=\"pl\"><b>NSD</b> 출혈성위장염·CCHF 근연</span></div></div><div class=\"pb\"><div class=\"pc\">Peribunya·Phenui</div><div class=\"pls\"><span class=\"pl\"><b>Akabane</b> 선천기형</span><span class=\"pl\"><b>RVF</b> 모기·간괴사·유산</span><span class=\"pl\"><b>SFTS</b> 진드기·인수공통</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -5145,6 +5169,7 @@ const LABQ = [
 "<b>SFTS</b> 진드기·인수공통",
 "<b>구분키</b> 모기=RVF/Akabane·진드기=NSD/CCHF/SFTS"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Bunya 감별 <em>매개체×결과로 구분</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">RVF</div><div class=\"pls\"><span class=\"pl\"><b>모기</b> 인수공통</span><span class=\"pl\"><b>간괴사·유산</b> 신생자 폐사>90%</span></div></div><div class=\"pb\"><div class=\"pc\">Akabane</div><div class=\"pls\"><span class=\"pl\"><b>midge·모기</b> 매개</span><span class=\"pl\"><b>선천기형</b> 임신주령별(수두증·관절만곡)</span></div></div><div class=\"pb\"><div class=\"pc\">NSD·CCHF</div><div class=\"pls\"><span class=\"pl\"><b>진드기</b> 매개</span><span class=\"pl\"><b>NSD</b> 출혈성위장염 폐사 90%</span><span class=\"pl\"><b>CCHF</b> 출혈열·인수공통</span></div></div><div class=\"pb\"><div class=\"pc\">SFTS</div><div class=\"pls\"><span class=\"pl\"><b>진드기</b> 인수공통</span><span class=\"pl\"><b>Phenuiviridae</b> 계열</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -5515,6 +5540,7 @@ const LABQ = [
 "<b>다가백신</b> 단독보다 mixed 권장",
 "<b>CPnV</b> 개 CIRDC 관련 뉴모"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Pneumoviridae <em>호흡기 syncytium·2차감염 깔개</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">유전체</div><div class=\"pls\"><span class=\"pl\"><b>-ssRNA</b> 외피·약 15.2kb</span><span class=\"pl\"><b>G/F 당단백</b> attachment·fusion</span></div></div><div class=\"pb\"><div class=\"pc\">BRSV</div><div class=\"pls\"><span class=\"pl\"><b>송아지 폐렴</b> BRDC 주병원체</span><span class=\"pl\"><b>syncytia</b> Type II 폐세포융합 hallmark</span></div></div><div class=\"pb\"><div class=\"pc\">경과</div><div class=\"pls\"><span class=\"pl\"><b>2차 세균감염</b> 면역억제→항생제 관리</span></div></div><div class=\"pb\"><div class=\"pc\">예방</div><div class=\"pls\"><span class=\"pl\"><b>다가백신</b> 단독보다 mixed 권장</span></div></div><div class=\"pb\"><div class=\"pc\">개</div><div class=\"pls\"><span class=\"pl\"><b>CPnV</b> CIRDC 관련 뉴모</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -5748,6 +5774,7 @@ const LABQ = [
 "<b>환경저항</b> Orbi·Rota 매우 안정",
 "<b>protease</b> 감염성↑"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Reoviridae <em>분절 dsRNA·재집합</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">게놈·구조</div><div class=\"pls\"><span class=\"pl\"><b>dsRNA</b> 10~12분절·약 85nm</span><span class=\"pl\"><b>무외피</b> 다층 정이십면체 캡시드</span></div></div><div class=\"pb\"><div class=\"pc\">2아과</div><div class=\"pls\"><span class=\"pl\"><b>Spinareovirinae</b> spike/turret 돌기</span><span class=\"pl\"><b>Sedoreovirinae</b> smooth surface</span></div></div><div class=\"pb\"><div class=\"pc\">항원변이</div><div class=\"pls\"><span class=\"pl\"><b>SHIFT</b> 재집합·segment 교환·급격</span><span class=\"pl\"><b>DRIFT</b> 점돌연변이 누적·점진</span></div></div><div class=\"pb\"><div class=\"pc\">환경저항</div><div class=\"pls\"><span class=\"pl\"><b>Orbi·Rota</b> 매우 안정</span><span class=\"pl\"><b>protease</b> 감염성↑</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -5855,6 +5882,7 @@ const LABQ = [
 "<b>VP4/VP7</b> P·G형(G6P[5] 등)",
 "<b>돼지</b> PoRVA·TGE/PED 혼합 치명적"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Rotavirus <em>신생설사·융모끝 파괴</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">병기전</div><div class=\"pls\"><span class=\"pl\"><b>융모끝</b> 성숙 장세포 파괴(crypt 아님)</span><span class=\"pl\"><b>villous atrophy</b> 흡수장애·삼투성 설사</span><span class=\"pl\"><b>NSP4</b> enterotoxin·분비성 설사</span></div></div><div class=\"pb\"><div class=\"pc\">Bovine</div><div class=\"pls\"><span class=\"pl\"><b>송아지</b> 1~3주령 급성장염</span><span class=\"pl\"><b>성체</b> 무증상 reservoir</span><span class=\"pl\"><b>VP4/VP7</b> P·G형(G6P[5])</span></div></div><div class=\"pb\"><div class=\"pc\">Porcine</div><div class=\"pls\"><span class=\"pl\"><b>PoRVA</b> 포유·이유자돈</span><span class=\"pl\"><b>TGE/PED 혼합</b> 사망률 ~100%</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -5962,6 +5990,7 @@ const LABQ = [
 "<b>Ibaraki</b> 소 삼킴장애·인두마비",
 "<b>매개</b> Culicoides 등 절지동물"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Orbivirus <em>매개충 출혈·기형병군</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">Bluetongue</div><div class=\"pls\"><span class=\"pl\"><b>양</b> Culicoides·청색증</span><span class=\"pl\"><b>내피세포</b> 표적·혈전·출혈</span><span class=\"pl\"><b>백신</b> MLV 태아기형·불활화 안전</span></div></div><div class=\"pb\"><div class=\"pc\">AHS</div><div class=\"pls\"><span class=\"pl\"><b>말</b> 최대 95% 사망</span><span class=\"pl\"><b>Dunkop</b> 폐형 95~100%</span><span class=\"pl\"><b>Dikkop</b> 심장형 약 50%</span></div></div><div class=\"pb\"><div class=\"pc\">Chuzan</div><div class=\"pls\"><span class=\"pl\"><b>송아지</b> 선천기형 HCH</span><span class=\"pl\"><b>C. oxystoma</b> 매개</span></div></div><div class=\"pb\"><div class=\"pc\">Ibaraki</div><div class=\"pls\"><span class=\"pl\"><b>소</b> 삼킴장애·인두마비</span><span class=\"pl\"><b>EHDV serotype 2</b> 흡인성 폐렴</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -6428,6 +6457,7 @@ const LABQ = [
 "<b>FeLV/FIV</b> 고양이 백혈병·AIDS",
 "<b>EIAV</b> 마전염성빈혈·Coggins test"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Retroviridae <em>역전사로 provirus 삽입</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">복제</div><div class=\"pls\"><span class=\"pl\"><b>역전사</b> RNA→dsDNA</span><span class=\"pl\"><b>provirus</b> 숙주 genome 삽입</span></div></div><div class=\"pb\"><div class=\"pc\">유전자</div><div class=\"pls\"><span class=\"pl\"><b>gag/pol/env</b> 구조단백·효소·외피당단백</span></div></div><div class=\"pb\"><div class=\"pc\">면역결핍</div><div class=\"pls\"><span class=\"pl\"><b>Lentivirus</b> EIAV·FIV·MVV·CAEV</span></div></div><div class=\"pb\"><div class=\"pc\">종양</div><div class=\"pls\"><span class=\"pl\"><b>BLV</b> 소 백혈병·Tax/Rex</span><span class=\"pl\"><b>FeLV</b> 고양이 백혈병</span></div></div><div class=\"pb\"><div class=\"pc\">진단</div><div class=\"pls\"><span class=\"pl\"><b>EIAV</b> 마전염성빈혈·Coggins test</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -6674,6 +6704,7 @@ const LABQ = [
 "<b>불활화</b> 차아염소산나트륨·뜨거운 NaOH",
 "<b>spongiform</b> 회색질 미세공포"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">프리온 <em>핵산없는 단백질 감염체</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">질환군</div><div class=\"pls\"><span class=\"pl\"><b>TSE</b> 긴잠복·무염증 신경퇴행</span></div></div><div class=\"pb\"><div class=\"pc\">구조전환</div><div class=\"pls\"><span class=\"pl\"><b>PrPc→PrPsc</b> α-나선→β-시트</span><span class=\"pl\"><b>안정화</b> Protease K 저항</span></div></div><div class=\"pb\"><div class=\"pc\">저항성</div><div class=\"pls\"><span class=\"pl\"><b>일반소독 저항</b> 알코올·포르말린은 오히려 안정화</span><span class=\"pl\"><b>불활화</b> 차아염소산나트륨·뜨거운 NaOH</span></div></div><div class=\"pb\"><div class=\"pc\">병변</div><div class=\"pls\"><span class=\"pl\"><b>spongiform</b> 회색질 미세공포</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],
@@ -6781,6 +6812,7 @@ const LABQ = [
 "<b>IHC</b> PrP^Sc 검출 gold standard",
 "<b>MBM금지·SRM</b> 핵심 관리정책"
 ],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">주요 프리온병 <em>3대 TSE 감별·정책</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">BSE</div><div class=\"pls\"><span class=\"pl\"><b>소</b> 광우병·MBM급여</span><span class=\"pl\"><b>vCJD</b> 사람 연관</span></div></div><div class=\"pb\"><div class=\"pc\">Scrapie</div><div class=\"pls\"><span class=\"pl\"><b>양</b> 신생기 모체전파</span><span class=\"pl\"><b>심한 가려움</b> 특징·ARR/VRQ</span></div></div><div class=\"pb\"><div class=\"pc\">CWD</div><div class=\"pls\"><span class=\"pl\"><b>사슴</b> 타액·소변·분변 전파</span><span class=\"pl\"><b>가려움 없음</b> Scrapie 감별점</span></div></div><div class=\"pb\"><div class=\"pc\">진단</div><div class=\"pls\"><span class=\"pl\"><b>IHC</b> PrPsc 검출 gold standard</span></div></div><div class=\"pb\"><div class=\"pc\">정책</div><div class=\"pls\"><span class=\"pl\"><b>MBM금지</b> 반추동물 사료 금지</span><span class=\"pl\"><b>SRM</b> 특정위험물질 제거</span></div></div></div></div>",
 "answer": [],
 "choices": [],
 "exams": [],

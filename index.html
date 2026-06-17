@@ -178,6 +178,20 @@
   .cmini-chips{display:flex;flex-wrap:wrap;gap:6px}
   .cchip{background:var(--bg-card);border:1px solid var(--border);border-radius:8px;padding:4px 11px;font-size:12.6px;line-height:1.45;color:var(--text-primary)}
   .cchip b{color:var(--accent);font-weight:800}
+  /* 개념카드 미니 트리 */
+  .cmtree{background:linear-gradient(180deg,var(--accent-soft),transparent);border:1px solid var(--accent);border-radius:12px;padding:12px 15px;margin:3px 0 15px}
+  .cmt-h{font-size:13px;font-weight:800;color:var(--accent);margin-bottom:10px;display:flex;align-items:center;gap:6px}
+  .ptree.mini{margin:0}
+  .ptree.mini .proot{font-size:13.5px;padding:6px 12px;border-radius:9px;margin-bottom:0}
+  .ptree.mini .proot em{font-size:11px}
+  .ptree.mini .pbranches{margin-left:18px;border-left-color:var(--accent);border-left-width:2px}
+  .ptree.mini .pb{padding:5px 0}
+  .ptree.mini .pb::before{width:15px;border-color:var(--accent)}
+  .ptree.mini .pc{margin-left:16px;cursor:default;min-width:46px;font-size:12px;padding:4px 10px}
+  .ptree.mini .pc::after{content:''}
+  .ptree.mini .pc:hover{box-shadow:none;transform:none;filter:none}
+  .ptree.mini .pls{padding-left:12px;gap:5px}
+  .ptree.mini .pl{font-size:12.3px;padding:3px 9px}
   .explanation table.md-t{border-collapse:collapse;width:100%;margin:9px 0;font-size:12.5px;display:block;overflow-x:auto}
   .explanation table.md-t th,.explanation table.md-t td{border:1px solid var(--border);padding:6px 9px;text-align:left;vertical-align:top;white-space:normal}
   .explanation table.md-t th{background:var(--tag-bg);font-weight:800;white-space:nowrap}
@@ -391,7 +405,8 @@ function cardHtml(q){
   }
   if(q.origin==='summary'){
     h+=`<div class="concept-title">📖 ${esc(q.topic)} — 핵심개념</div>`;
-    if(q.chips&&q.chips.length){h+=`<div class="cmini"><div class="cmini-gist">📍 ${q.gist?esc(q.gist):'한눈에'}</div><div class="cmini-chips">${q.chips.map(c=>'<span class="cchip">'+c+'</span>').join('')}</div></div>`;}
+    if(q.minitree){h+=`<div class="cmtree"><div class="cmt-h">🗂 구조 한눈에${q.gist?' · '+esc(q.gist):''}</div>${q.minitree}</div>`;}
+    else if(q.chips&&q.chips.length){h+=`<div class="cmini"><div class="cmini-gist">📍 ${q.gist?esc(q.gist):'한눈에'}</div><div class="cmini-chips">${q.chips.map(c=>'<span class="cchip">'+c+'</span>').join('')}</div></div>`;}
     h+=`<div class="explanation" style="margin-top:0">${md(q.explain)}</div>`;
     return h+`</div>`;
   }
