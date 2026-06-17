@@ -793,146 +793,6 @@ const LABQ = [
 },
 {
 "part": "Herpesviridae",
-"topic": "Gallid herpesvirus 1(ILT, 전염성 후두기관염)",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 Gallid herpesvirus 1(전염성 후두기관염, ILT) 감염증에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"Gallid herpesvirus 1은 이환율이 100%이고 치사율은 20–70%에 달한다.",
-"Gallid herpesvirus 1은 감염이 느리게 전파되어 4주 미만의 육계에서는 피해가 적다.",
-"Gallid herpesvirus 1은 닭과 꿩에서 전염성 후두기관염을 일으킨다.",
-"Gallid herpesvirus 1은 대부분의 연령에서 감수성이 있지만 4–18개월에 가장 흔히 발생한다.",
-"Gallid herpesvirus 1은 low virulence strain 감염 시 diphtheria성 위막을 형성하여 폐사에 이르게 한다."
-],
-"answer": [
-5
-],
-"explain": "**A. 배경**\nGallid herpesvirus 1은 닭의 전염성 후두기관염(ILT)을 일으키는 alphaherpesvirus다. 본 문항은 ILT의 역학·병형(고병원성 vs 저병원성)을 묻는다.\n\n**B. 포인트**\n위막(diphtheritic membrane)을 형성해 심한 폐사에 이르게 하는 것이 'high virulence strain'인지 'low virulence strain'인지가 핵심 함정이다.\n\n**C. 정답 근거 (E가 틀림)**\nE ✗ \"low virulence strain 감염 시 diphtheria성 위막을 형성하여 폐사\"는 **틀림**. 위막 형성과 높은 폐사를 동반하는 중증형은 🔴**high(고)병원성 strain**의 특징이고, low virulence strain은 경미한 결막염·생산성 저하 정도의 경증형을 일으킨다. 'low'와 'high'를 뒤바꾼 것이 오류다. 따라서 가장 알맞지 않은 선지는 E다.\n\n**D. 오답 소거**\nA·B·C·D는 ILT의 일반 역학(높은 이환율, 전파·연령 분포, 닭·꿩 감수성)에 부합하는 진술로, E만큼 명백한 오류가 아니다.\n\n**E. 함정 및 강의안 범위 주의**\n⚠️ **본 herpesvirus 강의안(현지연 교수)에는 Gallid herpesvirus 1(ILT) 단독 슬라이드가 없다**(분류표 슬라이드 263에 alphaherpesvirus 예시로 Marek만 언급). 이 문항은 과거 다른 강사(박병주)의 강의 내용을 반영한 기출이므로, 제공된 현지연 교수 강의안만으로는 A–D 수치(이환율·치사율·연령)를 직접 검증할 근거가 없다. 다만 herpesvirus 일반 원리상 'high virulence = 위막·심한 폐사 / low virulence = 경증'이라는 병원성-중증도 관계로 E가 오류임은 판정 가능하다. 족보 정답(5)과 일치한다.",
-"exam": "2021-중간",
-"exams": [
-"2021-중간"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 31
-},
-{
-"part": "Herpesviridae",
-"topic": "Gallid herpesvirus 2(Marek's disease)",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 Gallid herpesvirus 2(Marek's disease) 감염증에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"감염 시 lymphoma와 같은 신생물이 장기에 발생할 수 있다.",
-"닭에게 감염되어 lymphoproliferative disease를 발생시키며 80%에 달하는 높은 치사율을 보인다.",
-"감염 시 다리 및 날개에 마비 증세를 보이며, 앞뒤로 다리를 벌리고 있는 특징적인 자세를 취한다.",
-"감염되어 신경증상을 일으키는 개체의 신경에서 육안병변은 확인되지 않아 진단이 어렵다.",
-"Josef Marek이 발견하여 Marek's disease로 불린다."
-],
-"answer": [
-4
-],
-"explain": "**A. 배경**\nGallid herpesvirus 2는 닭의 Marek's disease를 일으키며, 분류상 alphaherpesvirus지만 림프증식성 종양(lymphoma)을 형성하는 점이 특징이다(강의안 분류표 슬라이드 263에 'Marek's disease virus'가 alphaherpesvirus 예시로 등장).\n\n**B. 포인트**\nMarek 신경형의 병변을 '육안으로 확인 가능한가'가 핵심 함정이다. Marek은 말초신경의 비후·종대가 육안으로 관찰되는 대표적 종양/신경병이다.\n\n**C. 정답 근거 (D가 틀림)**\nD ✗ \"신경에서 육안병변이 확인되지 않아 진단이 어렵다\"는 **틀림**. Marek's disease의 신경형은 🔴**말초신경(좌골신경 등)의 비대·종대·비대칭성 비후**가 육안으로 뚜렷이 관찰되어 진단 단서가 된다(다리를 앞뒤로 벌리는 'splits' 자세와 연결). 육안병변이 없다는 진술은 오류다. 따라서 가장 알맞지 않은 선지는 D다.\n\n**D. 오답 소거**\nA ✓ 장기에 lymphoma성 신생물 발생 — 맞음(Marek = 림프증식성 종양).\nB ✓ 닭에서 lymphoproliferative disease, 높은 치사율 — 맞음.\nC ✓ 다리·날개 마비, 앞뒤로 다리 벌린 특징적 자세 — Marek 신경형의 전형.\nE ✓ Josef Marek이 발견 → 병명 유래 — 맞음.\n\n**E. 함정 및 강의안 범위 주의**\n⚠️ **본 현지연 교수 강의안에는 Marek's disease 단독 슬라이드가 없다**(분류표에 바이러스명만 등장). 이 문항은 과거 박병주 강사 강의 기반 기출이므로, 제공 강의안만으로는 치사율(80%) 등 수치를 직접 검증할 근거가 없다. 다만 Marek 신경형이 '말초신경 종대(육안 확인 가능)'를 특징으로 한다는 일반 병리 지식으로 D가 오류임은 판정 가능하며 족보 정답(4)과 일치한다. 강의안 근거 보강이 필요한 문항이다.",
-"exam": "2021-중간",
-"exams": [
-"2021-중간"
-],
-"freq": 1,
-"flag": true,
-"flagReason": "현지연 교수 강의안에 Marek's disease(Gallid HV-2) 단독 슬라이드가 없어 세부 수치(치사율 80% 등)는 강의안으로 직접 검증 불가. 정답(D=육안병변 확인됨)은 일반 병리지식으로 판정. 강의안 보강 필요.",
-"unit": "",
-"cardOrder": 99,
-"id": 32
-},
-{
-"part": "Herpesviridae",
-"topic": "Herpes simplex virus(HSV)",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 Herpes simplex virus(HSV)에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"HSV는 각막에 감염하여 각막염을 발생시키며 각막성 실명을 초래할 수 있다.",
-"HSV-1과 2는 모두 입에서 수포를 형성하지만 생식기 herpes 감염증의 대부분은 2에 의하여 발생한다.",
-"HSV는 1과 2로 구분된다.",
-"HSV는 주로 입술 피부 상피세포에서 latent(잠복) 기간을 보낸다.",
-"HSV-1에 의하여 산발적인 뇌염이 발생할 수 있다."
-],
-"answer": [
-4
-],
-"explain": "**A. 배경**\nHSV(herpes simplex virus)는 alphaherpesvirus로 강의안 분류표(슬라이드 263)에 alphaherpesvirus 예시로 등장한다. alphaherpesvirus의 핵심 잠복 부위는 🔴**감각신경절(sensory ganglia)**이다.\n\n**B. 포인트**\nHSV의 '잠복 부위'가 핵심 함정이다. HSV는 피부 상피가 아니라 감각신경절(삼차신경절 등)에 잠복한다.\n\n**C. 정답 근거 (D가 틀림)**\nD ✗ \"주로 입술 피부 상피세포에서 latent 기간을 보낸다\"는 **틀림**. 강의안 슬라이드 263·265는 🔴**alphaherpesvirus의 잠복 부위 = sensory ganglia(감각신경절, 삼차/천추 신경절)**라고 명시한다. HSV도 alphaherpesvirus이므로 입술 상피가 아니라 삼차신경절에 잠복한다(상피는 1차 복제·재발 병변 부위). 따라서 가장 알맞지 않은 선지는 D다.\n\n**D. 오답 소거**\nA ✓ 각막염·각막성 실명(herpetic keratitis) — alphaherpesvirus의 안구병변(슬라이드 265 keratitis·corneal ulcer)과 부합.\nB ✓ HSV-1/2 모두 구강 수포 가능하나 생식기 herpes는 주로 HSV-2 — 일반적 HSV 역학으로 오류 아님.\nC ✓ HSV는 1·2형으로 구분 — 맞음.\nE ✓ HSV-1 산발성 뇌염 — alphaherpesvirus의 신경침습(encephalitis, 슬라이드 265 nervous system)과 부합.\n\n**E. 함정 및 강의안 범위 주의**\n⚠️ 본 강의안에 HSV 단독 슬라이드는 없으나, 정답을 가르는 핵심('alpha = 감각신경절 잠복')은 강의안 슬라이드 263·265로 명확히 판정 가능하다. 출제자는 '1차 복제 부위(상피) ↔ 잠복 부위(신경절)'를 혼동시킨다 — alphaherpesvirus는 상피에서 복제하고 감각신경절에 잠복한다.",
-"exam": "2021-중간",
-"exams": [
-"2021-중간"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 33
-},
-{
-"part": "Herpesviridae",
-"topic": "Varicella-Zoster Virus(VZV)",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 Varicella-Zoster Virus(VZV)에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"VZV는 dorsal root ganglia에 잠복하여 존재하다가 대상포진(shingles)을 발생시킨다.",
-"Chicken pox(수두)의 원인체이다.",
-"VZV는 주로 호흡기와 병변의 접촉을 통하여 전염된다.",
-"일반적으로 삼차신경에는 잘 감염되지 않는 특징이 있다.",
-"Cranial nerve에 감염하여 안면근육에 마비를 일으킨다."
-],
-"answer": [
-4
-],
-"explain": "**A. 배경**\nVZV는 alphaherpesvirus로 강의안 분류표(슬라이드 263)에 alphaherpesvirus 예시로 등장한다. 사람에서 수두(varicella)와 대상포진(zoster)을 일으키며 감각신경절에 잠복한다.\n\n**B. 포인트**\nVZV가 삼차신경(trigeminal nerve)에 감염하는지 여부가 핵심 함정이다. alphaherpesvirus는 삼차신경절을 포함한 감각신경절에 잠복·재활성화한다.\n\n**C. 정답 근거 (D가 틀림)**\nD ✗ \"삼차신경에는 잘 감염되지 않는다\"는 **틀림**. alphaherpesvirus(VZV 포함)의 대표 잠복 부위가 🔴**삼차신경절을 포함한 감각신경절**이다(강의안 슬라이드 263·265 \"Sensory ganglia (trigeminal, sacral)\"). 실제로 VZV 대상포진은 삼차신경 분지(안구대상포진)에서도 흔히 발생한다. 따라서 '삼차신경에 잘 감염 안 됨'은 오류이며 가장 알맞지 않은 선지는 D다.\n\n**D. 오답 소거**\nA ✓ dorsal root ganglia 잠복 → 대상포진(shingles) — alphaherpesvirus의 감각신경절 잠복(슬라이드 265)과 부합.\nB ✓ 수두(chicken pox) 원인체 — 맞음.\nC ✓ 호흡기·병변 접촉 전파 — herpesvirus 전파(direct contact·aerosol, 슬라이드 264)와 부합.\nE ✓ cranial nerve(뇌신경) 감염으로 안면마비 — alphaherpesvirus의 신경침습 범주로 오류 아님.\n\n**E. 함정 및 강의안 범위 주의**\n⚠️ 본 강의안에 VZV 단독 슬라이드는 없으나, 정답 핵심('alpha = 삼차신경절 등 감각신경절 잠복')은 강의안 슬라이드 263·265로 명확히 판정된다. 출제자는 '삼차신경 비감염'이라는 그럴듯한 거짓을 끼워 넣는다 — alphaherpesvirus의 대표 잠복지가 바로 삼차신경절임을 기억하라.",
-"exam": "2021-중간",
-"exams": [
-"2021-중간"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 34
-},
-{
-"part": "Herpesviridae",
-"topic": "genome 특성",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 herpesvirus의 genome에 대한 설명으로 가장 알맞지 않은 것은?",
-"choices": [
-"G:C의 구성 비율이 진핵생물의 DNA에 비해 매우 다양하다.",
-"바이러스의 genome에는 다양한 repeat sequence가 존재한다.",
-"바이러스의 유전자는 단일 polyprotein을 생성한다.",
-"바이러스의 genome은 감염 후 episome을 형성한다.",
-"바이러스 genome의 크기는 108–300 kbp이다."
-],
-"answer": [
-3
-],
-"explain": "**A. 배경**\nHerpesvirus genome은 선형 dsDNA로 약 100개 유전자를 코딩하며(강의안 슬라이드 258), 잠복 시 핵 안에서 🔴**episomal DNA**로 존재한다(슬라이드 261·265).\n\n**B. 포인트**\nDNA 바이러스의 유전자 발현 방식이 핵심이다. herpesvirus는 약 100개의 개별 유전자를 각각 전사·번역한다 — RNA 바이러스처럼 하나의 거대 polyprotein을 잘라 쓰지 않는다.\n\n**C. 정답 근거 (C가 틀림)**\nC ✗ \"단일 polyprotein을 생성한다\"는 **틀림**. 강의안 슬라이드 258은 herpesvirus가 🔴**약 100개의 유전자(approximately 100 genes)**를 코딩한다고 명시하며, 발현도 IE/E/L 시기별 개별 유전자 단위로 일어난다(슬라이드 260). 단일 polyprotein 전략은 herpesvirus가 아니다. 따라서 가장 알맞지 않은 선지는 C다.\n\n**D. 오답 소거**\nA ✓ G:C 비율이 다양함 — 강의안 직접 명시는 없으나 herpesvirus genome 일반 특성으로 C만큼 틀리지 않음.\nB ✓ repeat sequence 존재 — 강의안 직접 명시 없으나 오류 아님.\nD ✓ episome 형성 — 🔴맞음(슬라이드 261 \"Episomal DNA\", 슬라이드 265 \"persists as episomal DNA\").\nE ✓ 크기 108–300 kbp — 강의안의 ~125–290 kb(슬라이드 258)와 근접, 오류로 보기 어려움.\n\n**E. 함정**\n출제자는 'DNA 바이러스 = 개별 유전자 다수' vs 'RNA 바이러스 = polyprotein'을 구분시키려 한다. herpesvirus는 ~100개 유전자를 시기별로 발현하므로 single polyprotein 진술이 결정적 오류다. (A·B의 세부 수치는 제공 강의안에 직접 근거가 없으나, 정답 C는 강의안 슬라이드 258로 명확히 판정된다.)",
-"exam": "2021-중간",
-"exams": [
-"2021-중간"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 35
-},
-{
-"part": "Herpesviridae",
 "topic": "persistent infection 기전(주관식)",
 "origin": "jokbo",
 "type": "short",
@@ -950,7 +810,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 36
+"id": 31
 },
 {
 "part": "Herpesviridae",
@@ -981,7 +841,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 37
+"id": 32
 },
 {
 "part": "Herpesviridae",
@@ -1009,69 +869,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 38
-},
-{
-"part": "Herpesviridae",
-"topic": "면역조절 단백질(mimicry)",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 herpesvirus의 면역조절 단백질이 mimic하는(흉내내는) 단백질이 아닌 것은?",
-"choices": [
-"Immunoglobulin",
-"Protease inhibitor",
-"Chemokine receptor homologue",
-"Chemokine-binding protein",
-"Chemokine (agonistic to antagonistic)"
-],
-"answer": [
-2
-],
-"explain": "**A. 배경**\nHerpesvirus는 숙주 면역을 회피하는 단백질을 코딩한다. 강의안 슬라이드 258은 ① **gE → Fc receptor(면역글로불린 Fc 결합)** ② **vIL-10 homolog(사이토카인 모방·virokine)** ③ **MHC downregulation**을 제시한다.\n\n**B. 포인트**\n선지 중 herpesvirus가 '모방/간섭'한다고 보기 어려운 단백질을 고른다. 핵심은 면역 관련 분자(면역글로불린·사이토카인/케모카인·그 수용체)인지 여부다.\n\n**C. 정답 근거 (B가 답)**\nB(Protease inhibitor) ✗ — herpesvirus 면역조절 단백질이 모방하는 표적으로 보기 어렵다. 강의안이 제시하는 면역회피 기전은 Fc receptor(gE, 면역글로불린 관련), IL-10/케모카인 모방(virokine)에 집중되어 있고, **단백질분해효소 억제제(protease inhibitor) 모방은 강의안 근거에 없다**. 따라서 'mimic하는 것이 아닌 것'은 Protease inhibitor다.\n\n**D. 오답 소거**\nA(Immunoglobulin) ✓ — gE가 Fc receptor로 작용해 항체(immunoglobulin) 매개반응을 간섭하므로 면역글로불린 관련 모방에 해당(슬라이드 258).\nC(Chemokine receptor homologue) ✓ — 케모카인 수용체 모방은 herpesvirus 면역회피의 전형. vIL-10 등 virokine·viroceptor 개념과 연결(슬라이드 258 vIL-10 homolog).\nD(Chemokine-binding protein) ✓ — 케모카인 결합단백 역시 면역조절 모방 범주.\nE(Chemokine agonist/antagonist) ✓ — 케모카인 작용/길항 모방도 면역조절에 해당.\n\n**E. 함정**\n족보 정답이 회차마다 2(Protease inhibitor) 또는 1(Immunoglobulin)으로 갈린다(Q0869는 1번 위치 = Protease inhibitor를 정답으로 표기). 정답의 '내용'은 일관되게 **Protease inhibitor**다 — 선지 순서만 다르다. 강의안이 명시하는 모방 표적은 면역글로불린(Fc)·사이토카인/케모카인 계열이며 protease inhibitor는 빠진다.",
-"exam": "2024-중간",
-"exams": [
-"2024-중간",
-"2023-중간",
-"2022-중간",
-"2021-중간"
-],
-"freq": 5,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 39
-},
-{
-"part": "Herpesviridae",
-"topic": "발현 유전자(IE/E/L)",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 herpesvirus의 발현 유전자에 대한 설명으로 가장 알맞지 않은 것은?",
-"choices": [
-"Immediate early·early·late gene은 세포의 RNA polymerase II를 이용해 전사된다.",
-"Immediate early(α)·early gene(β)은 바이러스의 복제와 전사 조절 기능을 담당한다.",
-"Late gene은 non-structural protein(비구조단백질)을 생성한다.",
-"Non-essential gene은 숙주의 면역조절 기능을 한다.",
-"UL과 US 방향이 여러 방향으로 존재할 수 있다."
-],
-"answer": [
-3
-],
-"explain": "**A. 배경**\nHerpesvirus 유전자는 시간 순서로 immediate-early(α) → early(β) → late(γ)로 발현된다(강의안 슬라이드 260 도식의 Immediate-early/Early/Late transcription).\n\n**B. 포인트**\n각 시기 유전자의 '기능'을 매칭한다. 특히 **late gene이 만드는 산물이 구조단백질인지 비구조단백질인지**가 핵심 함정이다.\n\n**C. 정답 근거 (C가 틀림)**\nC ✗ \"Late gene이 non-structural protein을 생성한다\"는 **틀림**. late(γ) 유전자는 캡시드·외피 등 🔴**structural protein(구조단백질)**을 만든다. 복제·전사 조절(비구조)은 IE(α)·early(β)의 몫이다(개념상 IE·E가 조절단백, L이 구조단백). 따라서 가장 알맞지 않은 선지는 C다.\n\n**D. 오답 소거**\nA ✓ herpesvirus는 숙주 핵 안에서 복제하며 숙주 RNA polymerase II로 전사 — 강의안의 '핵 내 복제'(슬라이드 260)와 일치하는 일반 herpesvirus 특성.\nB ✓ IE(α)·E(β)는 복제·전사 조절 기능 담당 — 맞음.\nD ✓ non-essential gene이 면역조절 기능(예: gE Fc receptor, vIL-10) — 강의안 슬라이드 258의 면역회피 유전자와 일치.\nE ✓ UL/US 영역 방향성(genome 재배열) 진술 — 강의안에 직접 명시는 없으나 C만큼 명백히 틀리지 않아 오답.\n\n**E. 함정**\n족보 정답은 일관되게 3(Late gene = non-structural protein)이다. 출제자가 노리는 함정은 '구조 ↔ 비구조' 뒤바꾸기. 'late = 구조단백질'을 기억하면 된다. (단, IE/E/L의 RNA pol II·UL/US 세부는 제공 강의안에 명시 기술이 적어, 정답을 가르는 C 외 선지는 강의안 슬라이드 260 도식의 발현 단계 흐름을 근거로 판정했다.)",
-"exam": "2024-중간",
-"exams": [
-"2024-중간",
-"2023-중간",
-"2022-중간",
-"2021-중간"
-],
-"freq": 4,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 40
+"id": 33
 },
 {
 "part": "Herpesviridae",
@@ -1102,7 +900,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 41
+"id": 34
 },
 {
 "part": "Herpesviridae",
@@ -1129,7 +927,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 42
+"id": 35
 },
 {
 "part": "Herpesviridae",
@@ -1149,7 +947,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 43
+"id": 36
 },
 {
 "part": "Herpesviridae",
@@ -1171,7 +969,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 44
+"id": 37
 },
 {
 "part": "Herpesviridae",
@@ -1201,27 +999,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 45
-},
-{
-"part": "Herpesviridae",
-"topic": "전자현미경 형태 식별(주관식)",
-"origin": "jokbo",
-"type": "short",
-"q": "다음 전자현미경 사진 3장에 맞는 것을 보기에서 찾아 쓰시오. (보기: Order Herpesvirales, Family Adenoviridae, Family Asfarviridae)",
-"choices": [],
-"answer": [],
-"explain": "**모범답안**: (족보 원본) 왼쪽부터 **Order Herpesvirales – Family Adenoviridae – Family Asfarviridae**.\n\n**배경·식별 포인트**\nHerpesvirus는 🔴**enveloped(외피 보유)** 바이러스로, EM상 icosahedral capsid(~125nm) 바깥을 lipid envelope가 둘러싼 비교적 큰 입자로 보인다(강의안 슬라이드 258·259, crop p0259 구조도식 참조: envelope·tegument·capsid·core 층상 구조). 외피와 tegument(무정형 단백질층)의 존재가 식별 단서다.\n- Adenoviridae: 외피 없는(non-enveloped) icosahedral capsid로, herpesvirus보다 작고 외피층이 없어 윤곽이 또렷한 정이십면체로 관찰된다.\n- Asfarviridae(ASFV 계열): 외피를 가진 매우 큰 정이십면체 DNA 바이러스.\n\n**주의**: Adenoviridae·Asfarviridae의 EM 형태 세부는 본 herpesvirus 강의안 범위 밖이므로, 본 강의안만으로는 herpesvirus 입자(외피+tegument+icosahedral capsid 층상 구조)의 식별 근거만 확실하다. 시험에서는 herpesvirus의 '외피 보유 + tegument층 + 정이십면체 캡시드' 특징(슬라이드 259, crop p0259)을 기준으로 herpesvirus를 골라내는 것이 핵심이다.",
-"exam": "2024-중간",
-"exams": [
-"2024-중간"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 46
+"id": 38
 },
 {
 "part": "Herpesviridae",
@@ -1248,7 +1026,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 47
+"id": 39
 },
 {
 "part": "Herpesviridae",
@@ -1275,7 +1053,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 48
+"id": 40
 },
 {
 "part": "Herpesviridae",
@@ -1302,7 +1080,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 49
+"id": 41
 },
 {
 "part": "Herpesviridae",
@@ -1329,7 +1107,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 50
+"id": 42
 },
 {
 "part": "Herpesviridae",
@@ -1356,7 +1134,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 51
+"id": 43
 },
 {
 "part": "Herpesviridae",
@@ -1383,7 +1161,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 52
+"id": 44
 },
 {
 "part": "Herpesviridae",
@@ -1410,7 +1188,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 53
+"id": 45
 },
 {
 "part": "Poxviridae",
@@ -1427,7 +1205,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 54
+"id": 46
 },
 {
 "part": "Poxviridae",
@@ -1453,7 +1231,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 55
+"id": 47
 },
 {
 "part": "Poxviridae",
@@ -1480,7 +1258,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 56
+"id": 48
 },
 {
 "part": "Poxviridae",
@@ -1507,7 +1285,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 57
+"id": 49
 },
 {
 "part": "Poxviridae",
@@ -1534,7 +1312,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 58
+"id": 50
 },
 {
 "part": "Poxviridae",
@@ -1561,7 +1339,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 59
+"id": 51
 },
 {
 "part": "Poxviridae",
@@ -1588,7 +1366,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 60
+"id": 52
 },
 {
 "part": "Poxviridae",
@@ -1615,7 +1393,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 61
+"id": 53
 },
 {
 "part": "Poxviridae",
@@ -1642,7 +1420,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 62
+"id": 54
 },
 {
 "part": "Poxviridae",
@@ -1669,7 +1447,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 63
+"id": 55
 },
 {
 "part": "Poxviridae",
@@ -1696,7 +1474,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 64
+"id": 56
 },
 {
 "part": "Poxviridae",
@@ -1723,7 +1501,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 65
+"id": 57
 },
 {
 "part": "Poxviridae",
@@ -1750,7 +1528,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 66
+"id": 58
 },
 {
 "part": "Poxviridae",
@@ -1777,7 +1555,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 67
+"id": 59
 },
 {
 "part": "Poxviridae",
@@ -1804,7 +1582,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 68
+"id": 60
 },
 {
 "part": "Poxviridae",
@@ -1831,7 +1609,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 69
+"id": 61
 },
 {
 "part": "Poxviridae",
@@ -1858,7 +1636,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 70
+"id": 62
 },
 {
 "part": "Poxviridae",
@@ -1885,7 +1663,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 71
+"id": 63
 },
 {
 "part": "Poxviridae",
@@ -1912,7 +1690,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 72
+"id": 64
 },
 {
 "part": "Poxviridae",
@@ -1939,7 +1717,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 73
+"id": 65
 },
 {
 "part": "Poxviridae",
@@ -1966,94 +1744,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 74
-},
-{
-"part": "Poxviridae",
-"topic": "Capripoxvirus LSDV·SPPV·GTPV 공통점",
-"origin": "jokbo",
-"type": "single",
-"q": "LSDV, SPPV, GTPV에 대한 설명으로 옳지 않은 것은?",
-"choices": [
-"유전적 상동성이 높다.",
-"높은 숙주 특이성을 가진다.",
-"모두 법정감염병에 해당된다.",
-"LSDV에 대한 백신만 상용화 되어있다."
-],
-"answer": [
-4
-],
-"explain": "**A. 배경** LSDV·SPPV·GTPV는 모두 Capripoxvirus로, **유전적 상동성 ~96%로 매우 높고 혈청·면역학적으로 구별 불가**(Slide 397, 431). 각각 소·양·염소에 질병을 일으키며 백신은 LSD·sheeppox/goatpox 모두 live attenuated vaccine이 존재한다(Slide 404, 436).\\n\\n**B. 포인트** '옳지 않은 것' 1개 고르기. 백신 상용화 범위가 함정.\\n\\n**C. 정답 근거** ✗ ④ 'LSDV 백신만 상용화' → **틀림**. 강의안은 LSD(Slide 404 'Live attenuated vaccine available')뿐 아니라 **sheeppox/goatpox도 vaccination available**(Slide 436)이라 명시한다. 정답 ④.\\n\\n**D. 오답 소거**\\n✓ ① 유전적 상동성 높음 — Slide 397 '~96%', 옳음.\\n✓ ② 높은 숙주 특이성 — Capripoxvirus는 좁은 숙주범위(소/양·염소)를 보이므로 옳다고 볼 수 있음.\\n✓ ③ 모두 법정감염병 — LSD는 국내 제1종(Slide 415), sheeppox/goatpox도 국가관리 대상 질병으로 제시되어 옳음.\\n\\n**E. 함정** '①·②·③이 모두 맞다'고 느끼면 ④의 '백신만'이라는 한정어를 놓치기 쉽다. 강의안에 sheeppox/goatpox 백신도 명시되어 있으니 ④가 명백한 오류. 족보 정답 ④와 일치.",
-"exam": "2025-기말",
-"exams": [
-"2025-기말"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 75
-},
-{
-"part": "Poxviridae",
-"topic": "Capripoxvirus 전파·LSD",
-"origin": "jokbo",
-"type": "single",
-"q": "Capripoxvirus에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"Capripoxvirus는 곤충에 의해 감염이 불가능하다.",
-"Sheeppox는 치사율이 50~100%에 이르는 치명적인 질병을 유발한다.",
-"Sheeppox는 European sheep이 감수성이 제일 높다.",
-"Lumpy skin disease virus는 소의 피부에 둥글고 딱딱한 nodule을 형성한다.",
-"Lumpy skin disease virus는 소의 유산을 발생시킨다."
-],
-"answer": [
-1
-],
-"explain": "**A. 배경** Capripoxvirus(LSDV·SPPV·GTPV)는 **절지동물에 의한 기계적 전파**가 핵심 경로다(강의안 Slide 392·399, LSD '모기·흡혈파리·진드기에 의한 mechanical transmission'). 'arthropod transmission'이 sheeppox에서도 일어난다고 명시(Slide 392).\\n\\n**B. 포인트** '가장 알맞지 않은(틀린) 것'을 고르는 문제. 곤충 전파 가능 여부가 핵심.\\n\\n**C. 정답 근거** ✗ ① '곤충에 의해 감염이 **불가능**하다' → **틀림**. Capripoxvirus는 절지동물 기계적 전파가 오히려 주요 경로다. 정답은 ①.\\n\\n**D. 오답 소거**\\n✓ ④ LSDV가 소 피부에 둥글고 딱딱한 nodule(firm nodule 0.5~5cm) 형성 — 강의안 Slide 400 일치, 옳음.\\n✓ ⑤ LSDV가 유산 유발 — Slide 401 'Abortion' 합병증, 옳음.\\n② Sheeppox 치사율 50~100%, ③ European sheep 감수성 최고 — 본 강의안에는 수치·품종 진술이 **없으나**, 문항 구조상 명백히 틀린 것은 ①이므로 ②③은 정답 후보가 아니다.\\n\\n**E. 함정** ②③은 강의안에 근거가 없어 진위 확인이 어렵지만, 출제 의도는 '곤충 전파 불가'라는 명백한 오류(①)를 잡는 것. 족보 정답 ①과 일치.",
-"exam": "2025-기말",
-"exams": [
-"2025-기말",
-"2024-중간",
-"2023-중간",
-"2022-중간",
-"2021-중간"
-],
-"freq": 5,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 76
-},
-{
-"part": "Poxviridae",
-"topic": "Fowlpox (계두)",
-"origin": "jokbo",
-"type": "single",
-"q": "Fowlpox virus에 대한 특성 중 가장 알맞지 않은 것은?",
-"choices": [
-"Cutaneous form(Dry)은 얼굴과 벼슬 등에 병변이 발생하고 눈 주위가 붓는 임상증상을 보인다.",
-"Fowlpox는 주로 진드기를 통한 감염이 일반적이다.",
-"주 감염대상은 닭과 칠면조이다.",
-"Diphtheritic form(Wet)은 호흡기에 섬유소성 삼출물이 형성되어 숨을 쉬기 어려워지는 임상증상을 보인다.",
-"치사율은 1-2%로 낮은 편이다."
-],
-"answer": [
-2
-],
-"explain": "**A. 배경** Fowlpox는 Avipoxvirus(Fowlpox virus)에 의한 가금 질병으로, 강의안 분류표(Slide 386·395)에 닭·칠면조 등이 대상으로 제시된다. Poxvirus의 절지동물 전파는 **기계적 전파**이며, 강의안 Slide 392는 avianpox의 매개로 **곤충(특히 모기)**을 든다('Mechanical transmission by insects: Avianpox').\\n\\n**B. 포인트** Fowlpox의 주된 매개체가 무엇인지가 핵심. '진드기 vs 모기/곤충'.\\n\\n**C. 정답 근거** ✗ ② 'Fowlpox는 주로 **진드기(tick)**를 통한 감염' → **틀림**. 강의안은 avianpox의 기계적 전파 매개로 **곤충(모기)**을 제시한다(Slide 392). 주된 매개는 진드기가 아니다. 정답 ②.\\n\\n**D. 오답 소거**\\n✓ ③ 주 감염대상 닭·칠면조 — Slide 395 표(Avipoxvirus: Fowlpox·Turkeypox)와 부합.\\n① cutaneous(dry)형 얼굴·벼슬 병변, ④ diphtheritic(wet)형 호흡기 섬유소성 삼출, ⑤ 낮은 치사율 — 이 dry/wet form 구분과 치사율 수치는 **본 강의안에 직접 기술이 없다**(강의안 limited). 다만 명백히 강의안과 어긋나는 보기는 ②(진드기)이므로 정답은 ②.\\n\\n**E. 함정** poxvirus 매개 곤충을 '진드기'로 바꿔치기하는 것이 함정. 강의안 기준 avianpox 매개는 모기 등 곤충의 기계적 전파다. 족보 정답 ②와 일치.",
-"exam": "2021-중간",
-"exams": [
-"2021-중간"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "①④⑤(dry/wet form, 치사율 1-2%)는 본 강의안에 기술 없음. 정답 ②(진드기 전파 오류)는 강의안 Slide 392(곤충·모기 기계적 전파) 근거로 확정 가능.",
-"unit": "",
-"cardOrder": 99,
-"id": 77
+"id": 66
 },
 {
 "part": "Poxviridae",
@@ -2075,63 +1766,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 78
-},
-{
-"part": "Poxviridae",
-"topic": "Myxoma virus·Molluscum contagiosum",
-"origin": "jokbo",
-"type": "single",
-"q": "Myxoma virus와 Molluscum contagiosum virus에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"Myxoma virus는 Australia에서 토끼의 개체수 조절을 위하여 도입하여 사용하였다.",
-"Molluscum contagiosum virus는 숙주 범위가 매우 넓어 자연적으로 대부분의 척추동물에 감염된다.",
-"Myxoma virus는 토끼에서 안면부 부종과 함께 폐사를 일으키는 질병원인체이다.",
-"Molluscum contagiosum virus는 피부와 점막에 그룹을 지어 flesh-colored papule을 형성하는 것이 특징이다.",
-"Molluscum contagiosum virus는 imiquimod를 사용하여 치료가 가능하다."
-],
-"answer": [
-2
-],
-"explain": "**A. 배경** Myxoma virus(Leporipoxvirus)는 토끼 점액종증의 원인체로, 강의안 Slide 443-445에 **안면부종·전신 점액종성 부종·매우 높은 치사율**이 명시된다. Molluscum contagiosum virus는 강의안 Slide 394에서 **강한 keratinocyte 친화의 국소 피부감염** 예로 등장한다.\\n\\n**B. 포인트** '가장 틀린 것' 고르기. Molluscum의 숙주범위가 핵심.\\n\\n**C. 정답 근거** ✗ ② 'Molluscum contagiosum이 **숙주범위가 매우 넓어 대부분 척추동물 감염**' → **틀림**. Molluscum contagiosum은 강한 keratinocyte 친화의 **국소 감염(localized)**으로 분류되며(Slide 394), 좁은 숙주 특이성을 보인다. '대부분 척추동물 감염'은 오류. 정답 ②.\\n\\n**D. 오답 소거**\\n✓ ③ Myxoma가 토끼 안면부종·폐사 — Slide 445 'Facial swelling, Very high mortality' 일치.\\n① Australia 토끼 개체수 조절 도입, ④ flesh-colored papule 군집, ⑤ imiquimod 치료 — 이들 세부는 **본 강의안에 직접 기술이 없으나**, 강의안 기준 명백한 오류는 ②(국소감염을 광범위 감염으로 왜곡)이므로 정답은 ②.\\n\\n**E. 함정** Molluscum이 사람에서 흔해 '광범위'로 착각하기 쉽지만, 강의안 분류상 **국소·keratinocyte 친화**다. 족보 정답 ②와 일치.",
-"exam": "2021-중간",
-"exams": [
-"2021-중간"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "①④⑤(Australia 도입·flesh-colored papule·imiquimod)는 본 강의안에 기술 없음. 정답 ②는 강의안 Slide 394(Molluscum=국소 keratinocyte 친화) 근거로 오류 확정 가능.",
-"unit": "",
-"cardOrder": 99,
-"id": 79
-},
-{
-"part": "Poxviridae",
-"topic": "Orthopoxvirus (Cowpox·Monkeypox 숙주범위)",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 Orthopoxvirus에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"Cowpox는 설치류에 의한 자연 숙주 감염이 일반적이다.",
-"Monkeypox는 사람에서 smallpox와 매우 유사한 병변을 형성한다.",
-"Cowpox는 고양이에게 감염 시 얼굴과 발에 궤양성 병변이 발생한다.",
-"Ectromelia virus는 마우스의 사지와 꼬리가 손실되는 것이 특징적인 임상증상이다.",
-"Buffalopox, Cowpox는 숙주의 범위가 매우 좁아 소에서만 감염이 가능하다."
-],
-"answer": [
-5
-],
-"explain": "**A. 배경** Orthopoxvirus 중 **Cowpox·Monkeypox는 넓은 숙주범위(Broad Host Range)**를 갖는다(강의안 Slide 394). Cowpox는 **소·고양이·사람**을 감염시키는 zoonotic 바이러스이며 **야생 설치류가 주 보유숙주**(Slide 405-407). 고양이 cowpox는 머리·발 등에 궤양성 병변(Slide 410-412).\\n\\n**B. 포인트** '가장 틀린 것' 고르기. Cowpox/Buffalopox의 숙주범위가 핵심.\\n\\n**C. 정답 근거** ✗ ⑤ 'Buffalopox·Cowpox는 숙주범위가 **매우 좁아 소에서만** 감염' → **틀림**. Cowpox는 **넓은 숙주범위**(소·고양이·사람·설치류)를 가지므로 '소에서만'은 정반대 오류(Slide 394·405). 정답 ⑤.\\n\\n**D. 오답 소거**\\n✓ ① Cowpox 설치류 자연숙주 감염 — Slide 407 'Wild rodents (major reservoir)' 일치.\\n✓ ② Monkeypox가 사람에서 smallpox 유사 병변 — Slide 395 표(Mpox: pustular rash)와 부합.\\n✓ ③ 고양이 cowpox 얼굴·발 궤양성 병변 — Slide 412 'Head, Forelimbs, crusted ulcers' 부합.\\n④ Ectromelia(mousepox) 사지·꼬리 손실 — 강의안에 직접 기술은 없으나 명백한 오류는 ⑤이므로 정답 후보 아님.\\n\\n**E. 함정** Cowpox라는 이름 때문에 '소 전용'으로 오해하기 쉽지만, 실제로는 **광범위 숙주(설치류 보유숙주·고양이·사람)**다. 족보 정답 ⑤와 일치.",
-"exam": "2021-중간",
-"exams": [
-"2021-중간"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 80
+"id": 67
 },
 {
 "part": "Poxviridae",
@@ -2159,95 +1794,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 81
-},
-{
-"part": "Poxviridae",
-"topic": "Poxvirus 감염 특성 (국소 vs 전신)",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 Poxvirus의 감염 특성에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"좁은 범위의 숙주를 갖는 바이러스는 camel poxvirus와 variola virus가 있다.",
-"Chordopoxvirus는 높은 고역가로 복제가 되는 특성을 갖고 있다.",
-"Poxvirus는 국소병변만을 일으킨다.",
-"Poxvirus는 특정 수용체에 의존하지 않고 세포에 감염되는 것으로 예상된다.",
-"Poxvirus는 다양한 세포에 감염이 가능하지만 주로 피부의 상피세포에 감염되는 특성이 있다."
-],
-"answer": [
-3
-],
-"explain": "**A. 배경** Poxvirus의 host range·pathogenesis는 강의안 Slide 394에 정리된다. **좁은 숙주범위: Camelpox·Variola**, 넓은 숙주범위: Cowpox·Monkeypox. 병인은 **전신감염(systemic, 다세포형 감염, 대부분 poxvirus 및 sheeppox 포함)**과 **국소 피부감염(localized, keratinocyte 친화 — Orf·Molluscum)**으로 나뉜다.\\n\\n**B. 포인트** '가장 틀린 것' 고르기. poxvirus가 '국소병변만' 일으키는지가 핵심.\\n\\n**C. 정답 근거** ✗ ③ 'Poxvirus는 **국소병변만**을 일으킨다' → **틀림**. 강의안은 **systemic infection**(LSD·sheeppox 등 전신감염)과 localized skin infection을 **모두** 제시한다(Slide 394, 401 LSD 전신 점막병변·합병증). 국소만은 오류. 정답 ③.\\n\\n**D. 오답 소거**\\n✓ ① 좁은 숙주: Camelpox·Variola — Slide 394 'Narrow Host Range' 일치.\\n✓ ⑤ 주로 피부 상피세포(keratinocyte) 친화 — Slide 394 'Strong keratinocyte tropism' 부합.\\n② 고역가 복제, ④ 수용체 비의존 감염 — 강의안에 직접 명시는 약하나, 명백한 오류는 ③이므로 정답 후보 아님.\\n\\n**E. 함정** Orf·Molluscum 같은 국소감염만 떠올리면 ③을 맞다고 착각. LSD·sheeppox는 발열·림프절병증·점막병변을 동반하는 **전신감염**임을 기억(Slide 394·401). 족보 정답 ③과 일치.",
-"exam": "2021-중간",
-"exams": [
-"2021-중간"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 82
-},
-{
-"part": "Poxviridae",
-"topic": "Poxvirus 구조 (core dsDNA)",
-"origin": "jokbo",
-"type": "single",
-"q": "Poxvirus의 구조에 대한 특성 중 가장 알맞지 않은 것은?",
-"choices": [
-"Poxvirus는 brick shape 또는 ovoid 형태를 갖고 있다.",
-"Parapoxvirus의 표면에는 실타래 모양의 tubule이 관찰된다.",
-"Poxvirus에 대한 중화항체는 envelope에 부착된다.",
-"core에는 순수하게 dsDNA만을 갖고 있다.",
-"입자 내에 lateral body가 관찰된다."
-],
-"answer": [
-4
-],
-"explain": "**A. 배경** Poxvirus virion은 대형 복합 구조다. 강의안 Slide 387에 따르면 **벽돌형(brick-shaped, parapox는 oval)**, 외막/내막, **lateral body**, **core**, core 안에 **DNA genome + viral enzymes(바이러스 효소)**가 함께 들어 있다. 즉 core는 DNA 단독이 아니라 전사·복제 효소를 동반한다.\\n\\n**B. 포인트** core의 내용물이 'DNA만'인지가 핵심. poxvirus는 자체 효소를 virion에 싣고 다니는 것이 결정적 특징(세포질 복제의 근거).\\n\\n**C. 정답 근거** ✗ ④ 'core에 **순수하게 dsDNA만**' → **틀림**. core에는 dsDNA뿐 아니라 **viral enzymes**(early transcription을 즉시 시작하는 효소 등)가 들어 있다(Slide 387 'DNA genome', 390 'Viral enzymes carried in the virion'). 정답 ④.\\n\\n**D. 오답 소거**\\n✓ ① brick/ovoid 형태 — Slide 387 일치.\\n✓ ② Parapoxvirus 표면의 실타래(tubule) 패턴 — 강의안은 parapox를 'regular surface pattern'으로 기술하며, 타원형의 규칙적 표면 구조가 전자현미경상 실타래/관 모양으로 보임. 옳음(서술형 Q에서도 동일하게 출제됨).\\n✓ ③ 중화항체가 envelope에 부착 — 외피 단백질이 중화 표적이 되므로 옳음.\\n✓ ⑤ lateral body 관찰 — Slide 387 라벨 일치.\\n\\n**E. 함정** 'core=DNA만'은 직관적으로 맞아 보이지만, poxvirus의 정체성은 **virion 내 효소 동반**에 있다. 족보 정답 ④와 일치.",
-"exam": "2024-중간",
-"exams": [
-"2024-중간",
-"2023-중간",
-"2022-중간",
-"2021-중간"
-],
-"freq": 4,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 83
-},
-{
-"part": "Poxviridae",
-"topic": "Poxvirus 면역회피 (chemokine 조절)",
-"origin": "jokbo",
-"type": "single",
-"q": "Poxvirus의 chemokine activity를 조절하는 방법에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"chemokine 수용체에 대한 homologous 발현",
-"chemokine의 homologous를 발현하여 chemokine의 수용체와 결합",
-"chemokine과 결합하여 중화",
-"chemokine의 분해효소를 발현",
-"chemokine의 세포내 pathway를 방해"
-],
-"answer": [
-4
-],
-"explain": "**A. 배경** Poxvirus는 terminal/early 유전자 산물로 다양한 **면역회피 단백질**을 만든다. chemokine 관련으로는 강의안 Slide 389에 **chemokine homolog(상동체)**와 **chemokine binding protein(chemokine 결합단백질)**이 명시되어 있다. 즉 ①수용체 homolog 발현, ②chemokine homolog로 수용체 점유, ③chemokine과 결합해 중화하는 방식이 인정된다.\\n\\n**B. 포인트** poxvirus가 실제로 쓰지 '않는' chemokine 조절 방식 찾기. '분해효소(protease)' 발현 여부가 함정.\\n\\n**C. 정답 근거** ✗ ④ 'chemokine **분해효소를 발현**' → **틀림**. 강의안의 면역회피 기전은 수용체/리간드 homolog 발현과 결합단백질을 통한 중화이지, chemokine을 효소로 직접 **분해**하는 방식은 제시되지 않는다(Slide 389). 정답 ④.\\n\\n**D. 오답 소거**\\n✓ ① chemokine 수용체 homolog 발현 — Slide 389 수용체 homolog 계열과 부합.\\n✓ ② chemokine homolog 발현으로 수용체 결합(차단) — 부합.\\n✓ ③ chemokine 결합·중화 — Slide 389 'Chemokine binding protein'과 부합.\\n✓ ⑤ 세포내 pathway 방해 — 면역회피·숙주반응 조절 단백질 범주에 부합(Slide 388-389).\\n\\n**E. 함정** ④의 '분해효소'는 그럴듯하지만 poxvirus의 chemokine 조절은 **결합·점유(decoy/중화)** 전략이지 단백질 분해가 아니다. 족보 정답 ④와 일치.",
-"exam": "2022-중간",
-"exams": [
-"2022-중간",
-"2021-중간"
-],
-"freq": 2,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 84
+"id": 68
 },
 {
 "part": "Poxviridae",
@@ -2275,7 +1822,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 85
+"id": 69
 },
 {
 "part": "Poxviridae",
@@ -2303,35 +1850,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 86
-},
-{
-"part": "Poxviridae",
-"topic": "Poxvirus 일반 특성·역사·분류",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 Poxvirus에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"사람, 척추동물, 곤충에 감염이 가능하다.",
-"바이러스는 기원전 1157년 이집트 파라오 람세스V에서 감염이 확인되었다.",
-"Smallpox는 현재 endemic하게 유지되며 발생하고 있다.",
-"Chordopoxvirinae는 척추동물에 감염이 가능한 바이러스이다.",
-"Entomopoxvirinae는 곤충에 감염이 가능한 바이러스이다."
-],
-"answer": [
-3
-],
-"explain": "**A. 배경** Poxviridae는 두 아과로 나뉜다 — **Chordopoxvirinae(척추동물)·Entomopoxvirinae(곤충)**(강의안 Slide 385). Smallpox(Variola)는 역사적으로 중요하지만 **Edward Jenner의 백신으로 박멸(eradicated)**되었다(Slide 384 '2. General Characteristics, eradicated through vaccination').\\n\\n**B. 포인트** '가장 틀린 것' 고르기. 천연두의 현재 상태가 핵심.\\n\\n**C. 정답 근거** ✗ ③ 'Smallpox가 현재 **endemic하게 유지·발생**' → **틀림**. 천연두는 백신으로 **박멸**되어 자연 발생하지 않는다(Slide 384). 정답 ③.\\n\\n**D. 오답 소거**\\n✓ ① 사람·척추동물·곤충 감염 — Chordopox(척추동물)·Entomopox(곤충) 양쪽 존재하므로 옳음.\\n✓ ④ Chordopoxvirinae=척추동물 감염 — Slide 385 일치.\\n✓ ⑤ Entomopoxvirinae=곤충 감염 — Slide 385 일치.\\n② 람세스V 미라 천연두 — 역사적 일화로 강의안에 직접 기술은 없으나, 명백한 오류는 ③이므로 정답 후보 아님.\\n\\n**E. 함정** '천연두 박멸'은 강의안의 핵심 메시지(Jenner). ③의 'endemic 유지'는 정반대 진술. 족보 정답 ③과 일치.",
-"exam": "2021-중간",
-"exams": [
-"2021-중간"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 87
+"id": 70
 },
 {
 "part": "Poxviridae",
@@ -2359,7 +1878,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 88
+"id": 71
 },
 {
 "part": "Poxviridae",
@@ -2381,35 +1900,7 @@ const LABQ = [
 "flagReason": "Q0625 족보 답안이 '타원형 규칙배열'을 일반 poxvirus 특징으로 잘못 서술. 강의안 Slide 387 기준 타원형·규칙적 표면은 Parapoxvirus의 특징이며 일반 poxvirus는 벽돌형·불규칙 배열이 옳음.",
 "unit": "",
 "cardOrder": 99,
-"id": 89
-},
-{
-"part": "Poxviridae",
-"topic": "Swinepox·Yatapox",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 Swinepox virus 및 Yatapox에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"Yatavirus는 열대 아프리카 원숭이에서 발생하는 질병으로 Yabapox와 tanapox가 있다.",
-"Swinepox virus는 이환율이 매우 낮아 전세계적으로 발생이 매우 적다.",
-"Swinepox virus는 capripoxviruses와 유전적으로 유사하게 연관되어 있다.",
-"Tanapox virus는 사람에게 감염이 가능하다.",
-"Swinepox virus는 전신에 papules이 발생되고 7일 후 crust를 형성한다."
-],
-"answer": [
-3
-],
-"explain": "**A. 배경** Swinepox는 **Suipoxvirus**에 속하는 별개의 속이다(강의안 Slide 386·425). 분류표상 Capripoxvirus(LSDV·sheeppox·goatpox)와는 **서로 다른 속**이다. 임상은 전신(특히 복부) papule→vesicle→pustule→scab이며 보통 self-limiting(Slide 427).\\n\\n**B. 포인트** '가장 틀린 것' 고르기. Swinepox의 속(genus) 분류가 핵심.\\n\\n**C. 정답 근거** ✗ ③ 'Swinepox virus가 **capripoxvirus와 유전적으로 유사**하게 연관' → **틀림**. Swinepox는 **Suipoxvirus**로 독립된 속이며, 강의안 분류(Slide 386)상 Capripoxvirus와 다른 계통이다. 정답 ③.\\n\\n**D. 오답 소거**\\n✓ ⑤ Swinepox 전신 papule 후 crust 형성 — Slide 427 'Papules...Scabs, over entire body' 부합('7일 후' 수치는 강의안에 명시 없음).\\n✓ ② Swinepox 발생 적음·관리 불량 농장 — Slide 425-426 부합.\\n① Yatapox(Yabapox·tanapox)가 열대 아프리카 원숭이 질병, ④ Tanapox 사람 감염 — 이들 Yatapox 세부는 **본 강의안에 기술이 없으나**, 강의안 기준 명백한 오류는 ③(속 분류 오류)이므로 정답은 ③.\\n\\n**E. 함정** 이름이 비슷한 'pox'들을 같은 속으로 묶는 것이 함정. Swinepox=Suipoxvirus, Capripox와 별개. 족보 정답 ③과 일치.",
-"exam": "2021-중간",
-"exams": [
-"2021-중간"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "①④(Yatapox/Tanapox 세부)는 본 강의안에 기술 없음. 정답 ③은 강의안 Slide 386 분류표(Swinepox=Suipoxvirus≠Capripoxvirus) 근거로 오류 확정 가능.",
-"unit": "",
-"cardOrder": 99,
-"id": 90
+"id": 72
 },
 {
 "part": "Poxviridae",
@@ -2436,7 +1927,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 91
+"id": 73
 },
 {
 "part": "Poxviridae",
@@ -2463,7 +1954,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 92
+"id": 74
 },
 {
 "part": "Poxviridae",
@@ -2490,7 +1981,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 93
+"id": 75
 },
 {
 "part": "Poxviridae",
@@ -2517,7 +2008,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 94
+"id": 76
 },
 {
 "part": "Poxviridae",
@@ -2544,7 +2035,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 95
+"id": 77
 },
 {
 "part": "Picornaviridae",
@@ -2561,7 +2052,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 96
+"id": 78
 },
 {
 "part": "Picornaviridae",
@@ -2588,7 +2079,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 97
+"id": 79
 },
 {
 "part": "Picornaviridae",
@@ -2615,7 +2106,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 98
+"id": 80
 },
 {
 "part": "Picornaviridae",
@@ -2642,7 +2133,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 99
+"id": 81
 },
 {
 "part": "Picornaviridae",
@@ -2669,7 +2160,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 100
+"id": 82
 },
 {
 "part": "Picornaviridae",
@@ -2696,7 +2187,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 101
+"id": 83
 },
 {
 "part": "Picornaviridae",
@@ -2723,7 +2214,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 102
+"id": 84
 },
 {
 "part": "Picornaviridae",
@@ -2750,7 +2241,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 103
+"id": 85
 },
 {
 "part": "Picornaviridae",
@@ -2777,7 +2268,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 104
+"id": 86
 },
 {
 "part": "Picornaviridae",
@@ -2804,7 +2295,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 105
+"id": 87
 },
 {
 "part": "Picornaviridae",
@@ -2831,7 +2322,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 106
+"id": 88
 },
 {
 "part": "Picornaviridae",
@@ -2858,7 +2349,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 107
+"id": 89
 },
 {
 "part": "Picornaviridae",
@@ -2885,34 +2376,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 108
-},
-{
-"part": "Picornaviridae",
-"topic": "EMCV 특성",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 EMCV(Encephalomyocarditis virus)에 관해 옳지 않은 것은?",
-"choices": [
-"현재 돼지에 쓸 수 있는 백신이 없다.",
-"natural host는 설치류이다.",
-"성돈에서 뇌심근염을 유발한다.",
-"육안적으로 Mulberry disease와 감별이 불가능하다."
-],
-"answer": [
-3
-],
-"explain": "A.배경: EMCV는 Genus Cardiovirus 바이러스로, 설치류(rodents)가 주요 reservoir이며 자돈에서 급성 심근염, 성돈에서 번식장애를 일으킨다(강의안 슬라이드 369~373). \nB.포인트: '옳지 않은 것'을 고른다. 연령별 임상상(자돈 vs 성돈)이 핵심 함정. \nC.정답근거: ✓ ③ '성돈(adult pig)에서 뇌심근염(심근염)을 유발한다'가 옳지 않다. 강의안 슬라이드 372에 따르면 🔴 심근염(myocarditis)·급사는 자돈(piglets)의 증상이고, 🔴 성돈은 번식장애(reproductive failure)·유산·미라화 태아가 특징이다. 즉 심근염을 성돈의 주증상으로 본 ③이 틀렸다. \nD.오답소거: ①돼지용 백신 — 강의안 슬라이드 375는 약독화·자가(autogenous) 백신을 언급하나 자가백신은 주로 동물원용이고 상용 돼지백신은 명시되지 않으므로 '돼지에 쓸 백신이 없다'는 서술은 강의안상 명백히 틀렸다고 단정하기 어렵다(오답으로 보기 약함). ②자연숙주 설치류 — 슬라이드 371에서 rodents가 major reservoir, 옳음. ④Mulberry disease(=mulberry heart disease, 비타민E/셀레늄 결핍성 심장병)와 육안 감별 — 강의안에는 직접 언급이 없는 항목. \nE.함정 및 flag: 이 문제는 연령별 증상 구분(자돈=심근염, 성돈=번식장애)이 핵심이며 그 기준으로 ③이 가장 명확한 오답이다. 다만 ①(돼지 백신)과 ④(Mulberry disease 감별)는 강의안에 직접 근거가 없어 단독 판정이 어렵다. 족보 정답도 ③으로 일치하나, 강의안 명시 범위를 벗어난 선지(①·④)가 섞여 있어 flag 처리. Mulberry heart disease 자체는 본 강의안 범위 밖.",
-"exam": "2025-중간",
-"exams": [
-"2025-중간"
-],
-"freq": 1,
-"flag": true,
-"flagReason": "③(자돈vs성돈 증상 구분)이 강의안 슬라이드372 근거로 명확한 오답·정답이나, 선지 ①(돼지용 백신 유무)·④(Mulberry disease 육안감별)는 강의안에 직접 근거가 없어 독립 판정 불가. 족보 정답 ③과는 일치.",
-"unit": "",
-"cardOrder": 99,
-"id": 109
+"id": 90
 },
 {
 "part": "Picornaviridae",
@@ -2932,34 +2396,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 110
-},
-{
-"part": "Picornaviridae",
-"topic": "FMD 감수성 동물·임상·심근염",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 구제역과 관련이 없는 것은?",
-"choices": [
-"공기를 통한 전파가 가능하다.",
-"입과 유방 주위에 수포성 병변을 일으킨다.",
-"말에게 감염 이력이 있다.",
-"6개월 미만의 송아지에게 감염시 심근염으로 인한 폐사가 일어날 수 있다."
-],
-"answer": [
-3
-],
-"explain": "A.배경: 구제역(FMD)은 🔴 우제류(cloven-hoofed: 소·돼지·양·염소·사슴·물소·낙타)에만 발생하는 초고전염성 수포성 질병이다(강의안 슬라이드 348). \nB.포인트: '구제역과 관련 없는 것' = FMD의 특성에 어긋나는 선지를 고른다. 숙주 범위·전파·병변을 따진다. \nC.정답근거: ✓ ③ '말 감염 이력' — 말은 기제류(odd-toed)로 우제류가 아니므로 FMD 감수성이 없다. 강의안 슬라이드 348의 감수성 동물 목록(cattle, pigs, sheep, goats, deer, buffalo, camel)에 말은 포함되지 않는다. 따라서 ③이 관련 없는 것(정답). \nD.오답소거: ①공기 전파 ✗ — aerosol spread는 육상 60km·해상 250km까지 가능(슬라이드 351), 옳음. ②입·유방 주위 수포 ✗ — 육안 병변이 입·혀·발·유두(teats)에 생김(슬라이드 354), 옳음. ④송아지 심근염 폐사 ✗ — 어린 동물에서 myocarditis→급사, 'Tiger heart' 병변(슬라이드 353), 옳음. \nE.함정: '말'은 horse라서 발굽 동물처럼 보이지만 단제(홑발굽) 기제류라 우제류가 아니다. 우제류=발굽이 둘로 갈라진(cloven) 동물이라는 정의를 정확히 기억할 것. 족보 정답도 ③으로 일치.",
-"exam": "2025-중간",
-"exams": [
-"2025-중간"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 111
+"id": 91
 },
 {
 "part": "Picornaviridae",
@@ -2982,29 +2419,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 112
-},
-{
-"part": "Picornaviridae",
-"topic": "FMD 전파 최소화 control 방법",
-"origin": "jokbo",
-"type": "essay",
-"q": "Foot-and-mouth disease(구제역)가 발생하는 경우 전파를 최소화하는 control 방법에 관해 설명하시오.",
-"choices": [],
-"answer": [],
-"explain": "A.배경: FMD는 WOAH List A·국내 제1종 법정전염병으로, 발생 시 강력한 방역 조치가 요구된다(강의안 슬라이드 348·356). \nB.포인트: 강의안 슬라이드 356(Prevention & Control)의 항목을 중심으로, 발생 시 적용하는 조치를 설명한다. \nC.모범답안(강의안 슬라이드 356 기준): \n• 🔴 엄격한 검역(strict quarantine)과 이동 제한(movement restriction). \n• 🔴 살처분(stamping out) — 감염축 및 접촉축을 도태. \n• 소독(disinfection). \n• 백신(vaccination): 불활화 백신, 혈청형 특이적 방어, 면역 지속 약 6개월. (족보 답안의 'emergency vaccine 긴급백신'은 발생 농장 주변에 긴급 접종해 전파범위를 줄이는 개념으로, stamping out 비용 부담 때문에 제안된 보완책이라는 서술이 함께 등장.) \nD.족보 답안 비교: 족보 모범답안은 'stamping out policy + emergency(긴급) vaccine'을 핵심으로 든다. 강의안은 stamping out·검역·이동제한·소독·백신을 모두 나열하므로, 답안에는 ①stamping out(살처분) ②검역·이동제한 ③소독 ④(serotype-specific 불활화) 백신을 적되, 긴급백신 전략까지 언급하면 가점 요소가 된다. \nE.함정: 백신은 혈청형 특이적이며 접종 동물도 carrier가 될 수 있다는 한계(슬라이드 356)를 함께 언급하면 완성도가 높다. stamping out과 긴급백신은 상호 보완(살처분 비용↑ → 긴급백신 제안) 관계임을 구분할 것. (3회 출제.)",
-"exam": "2024-기말",
-"exams": [
-"2024-기말",
-"2023-기말",
-"2022-기말"
-],
-"freq": 3,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 113
+"id": 92
 },
 {
 "part": "Picornaviridae",
@@ -3031,7 +2446,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 114
+"id": 93
 },
 {
 "part": "Picornaviridae",
@@ -3058,7 +2473,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 115
+"id": 94
 },
 {
 "part": "Picornaviridae",
@@ -3085,7 +2500,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 116
+"id": 95
 },
 {
 "part": "Picornaviridae",
@@ -3112,7 +2527,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 117
+"id": 96
 },
 {
 "part": "Picornaviridae",
@@ -3139,7 +2554,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 118
+"id": 97
 },
 {
 "part": "Arteriviridae",
@@ -3156,7 +2571,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 119
+"id": 98
 },
 {
 "part": "Arteriviridae",
@@ -3183,7 +2598,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 120
+"id": 99
 },
 {
 "part": "Arteriviridae",
@@ -3210,7 +2625,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 121
+"id": 100
 },
 {
 "part": "Arteriviridae",
@@ -3237,7 +2652,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 122
+"id": 101
 },
 {
 "part": "Arteriviridae",
@@ -3264,7 +2679,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 123
+"id": 102
 },
 {
 "part": "Arteriviridae",
@@ -3291,7 +2706,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 124
+"id": 103
 },
 {
 "part": "Arteriviridae",
@@ -3318,7 +2733,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 125
+"id": 104
 },
 {
 "part": "Arteriviridae",
@@ -3345,7 +2760,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 126
+"id": 105
 },
 {
 "part": "Arteriviridae",
@@ -3372,7 +2787,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 127
+"id": 106
 },
 {
 "part": "Arteriviridae",
@@ -3399,7 +2814,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 128
+"id": 107
 },
 {
 "part": "Arteriviridae",
@@ -3426,7 +2841,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 129
+"id": 108
 },
 {
 "part": "Arteriviridae",
@@ -3453,7 +2868,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 130
+"id": 109
 },
 {
 "part": "Arteriviridae",
@@ -3480,27 +2895,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 131
-},
-{
-"part": "Arteriviridae",
-"topic": "EAV 종마(stallion) 백신접종 주의점",
-"origin": "jokbo",
-"type": "short",
-"q": "Equine arteritis virus 전파의 주요 원인이 되는 stallion을 vaccination 할 때 주의할 점에 관해서 설명하시오.",
-"choices": [],
-"answer": [],
-"explain": "A. 배경 — EAV는 종마(stallion)가 androgen-의존적 지속감염 carrier가 되어 정액으로 바이러스를 계속 배출, venereal route로 전파시킨다(slide 165·168·172). 따라서 종마 관리(검사·백신)가 통제의 핵심이다.\nB. 포인트 — 종마 백신 시 무엇을 주의해야 하는가를 강의안 근거로 서술.\nC. 강의안 근거 답안 — ① 백신 전 검사: 이미 carrier(혈청양성·정액 배출)인지 확인 후 접종해야 한다 — 백신을 맞으면 이후 혈청학적으로 감염 양성과 백신 양성을 구분하기 어렵고, 강의안은 'testing before breeding·semen testing essential·carrier stallion 제한'을 강조한다(slide 176). ② 사용 백신은 Modified Live Vaccine(ARVAC®, 미국·캐나다)이며 중화항체는 접종 후 5-8일 내 발달, 면역 최소 2년 지속, 고위험 말은 연 1회 재접종(slide 177). 즉 미감염 종마는 carrier 되는 것을 막기 위해 사전 검사 후 백신·기록 관리하고 carrier는 교배 제한·국제이동 통제한다.\nD. (해당 없음 — 서술형)\nE. 함정 — 족보 답안은 'mAb(모체이행항체)로 인한 vaccine failure를 피하려 성성숙 전 6-8개월령 접종'이라고 적었으나, 본 Arteriviridae 강의안에는 6-8개월령·모체이행항체 시기 관련 내용이 없다(강의안 범위 밖, 만들지 않음). 강의안이 명시하는 핵심 주의점은 carrier 여부 사전검사·정액검사·접종 후 혈청양성 전환 고려·연 1회 재접종이다.\n\n[족보 답안의 '6-8개월령 모체이행항체' 근거는 본 강의안에 없음 → flag. 강의안 근거 주의점은 사전 검사 후 접종·carrier 종마 교배제한·ARVAC MLV·연1회 재접종(slide 176·177)]",
-"exam": "2022-기말",
-"exams": [
-"2022-기말"
-],
-"freq": 1,
-"flag": true,
-"flagReason": "족보 모범답안의 '모체이행항체(mAb)로 인한 vaccine failure 방지 위해 6-8개월령 접종' 내용은 본 Arteriviridae 강의안에 근거 없음(강의안은 사전검사·정액검사·carrier 제한·ARVAC MLV·연1회 재접종만 기술). 강의안 외 지식이라 만들지 않고 flag.",
-"unit": "",
-"cardOrder": 99,
-"id": 132
+"id": 110
 },
 {
 "part": "Arteriviridae",
@@ -3520,7 +2915,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 133
+"id": 111
 },
 {
 "part": "Arteriviridae",
@@ -3547,36 +2942,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 134
-},
-{
-"part": "Arteriviridae",
-"topic": "WOAH 보고대상 질병 (PRRS)",
-"origin": "jokbo",
-"type": "single",
-"q": "다음 중 국제동물수역사무국(WOAH/OIE)에 보고하지 않아도 되는 질병은?",
-"choices": [
-"PRRS",
-"돈열(CSF)",
-"구제역(FMD)",
-"아프리카돼지열병(ASF)"
-],
-"answer": [
-1
-],
-"explain": "A. 배경 — 강의안 PRRS overview(slide 147)에 PRRS는 'WOAH-listed disease, Class III notifiable animal disease in Korea'로 명시되어 있다. 즉 PRRS는 WOAH 등재(보고 대상) 질병이다.\nB. 포인트 — 보기 4개(PRRS·돈열·구제역·ASF)가 모두 WOAH 보고 대상에 해당하는지, 즉 '보고하지 않아도 되는' 질병이 강의안 근거로 존재하는지를 판단해야 한다.\nC. 정답 근거 — 강의안에 PRRS는 명백히 WOAH-listed로 기재되어 있으므로 'PRRS는 보고 안 해도 된다'는 명제는 강의안과 모순된다. 구제역·ASF·돈열(CSF)은 강의안 Arteriviridae 범위 밖이라 본 자료만으로 등재 여부를 단정할 근거가 없다(다른 단원 소관). 따라서 강의안 근거로는 정답을 확정할 수 없고, 적어도 ①(PRRS)은 정답이 될 수 없다.\nD. 오답 소거 — ① PRRS: slide 147 근거로 WOAH-listed → '보고 안 해도 됨'이 아니므로 정답 불가. ②③④: 본 강의안에 보고 등재 여부 기술 없음 → 강의안 근거로 판정 불가.\nE. 함정 — 족보 기재 정답은 ①(PRRS)이나, 강의안(slide 147)에 PRRS가 명백히 WOAH-listed로 기재되어 있어 ①은 오히려 보고 대상이다. 즉 족보 정답 ①은 강의안과 모순. 강의안만으로는 PRRS=보고대상임만 단정 가능하며, 정답 선지를 확정하려면 다른 질병의 WOAH 등재 정보가 필요하다(본 강의안 범위 밖).\n\n[족보 정답: ① PRRS / 본 강의안 근거: PRRS는 WOAH-listed(slide 147)이므로 ①은 보고대상 — 족보답과 모순, flag]",
-"exam": "2024-기말",
-"exams": [
-"2025-중간",
-"2024-기말",
-"2023-기말"
-],
-"freq": 3,
-"flag": true,
-"flagReason": "시험답은 ①PRRS(미보고)이나 본 강의안 slide147은 PRRS를 WOAH-등재로 명시 → 강의안과 모순. 황성수 총론 기준 출제로 추정. 시험답 ①로 외우되 강의안 모순 인지.",
-"unit": "",
-"cardOrder": 99,
-"id": 135
+"id": 112
 },
 {
 "part": "Arteriviridae",
@@ -3603,7 +2969,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 136
+"id": 113
 },
 {
 "part": "Arteriviridae",
@@ -3630,7 +2996,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 137
+"id": 114
 },
 {
 "part": "Arteriviridae",
@@ -3657,7 +3023,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 138
+"id": 115
 },
 {
 "part": "Arteriviridae",
@@ -3684,7 +3050,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 139
+"id": 116
 },
 {
 "part": "Caliciviridae",
@@ -3701,7 +3067,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 140
+"id": 117
 },
 {
 "part": "Caliciviridae",
@@ -3728,7 +3094,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 141
+"id": 118
 },
 {
 "part": "Caliciviridae",
@@ -3755,7 +3121,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 142
+"id": 119
 },
 {
 "part": "Caliciviridae",
@@ -3782,7 +3148,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 143
+"id": 120
 },
 {
 "part": "Caliciviridae",
@@ -3809,7 +3175,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 144
+"id": 121
 },
 {
 "part": "Caliciviridae",
@@ -3829,28 +3195,7 @@ const LABQ = [
 "flagReason": "Q0682(2024#47)·Q0684(2024#49) 동일 주제(FHV-1 감별) 병합.",
 "unit": "",
 "cardOrder": 99,
-"id": 145
-},
-{
-"part": "Caliciviridae",
-"topic": "FCV 임상증상(구강궤양·상부호흡기)",
-"origin": "jokbo",
-"type": "essay",
-"q": "Feline calicivirus(FCV) 감염 결과 유발되는 임상증상을 서술하시오.",
-"choices": [],
-"answer": [],
-"explain": "[모범답안] 🔴구강궤양(혀·경구개에 수포가 형성된 뒤 파열되어 궤양으로 진행)이 가장 특징적이다. 그 외 재채기, 심한 콧물(비염), 발열, 구강 미란에 의한 침흘림(타액 과다), 식욕부진, 결막염·비루 등 상부호흡기 증상을 보인다. 어린 자묘에서는 간질성 폐렴으로 진행해 호흡곤란·기침·심한 폐렴·침울이 나타날 수 있다. 일부는 관절염성 파행(limping syndrome)을, 만성형은 만성 구내염(gingivitis·stomatitis·caudal oral cavity의 증식성 궤양성 염증)을 보인다. 고병원성 전신형(VS-FCVD)에서는 머리·사지의 피하부종, 궤양성·가피성 피부병변, 탈모, 간괴사/췌장염에 의한 황달, 점상·반상 출혈, 비출혈, 혈변 등 전신 증상과 높은 폐사율(50~67%)이 나타난다.\n\n근거: 강의안 슬라이드 240(classic FCV: 구강궤양·재채기·콧물·발열·침흘림·식욕부진, 자묘 중증 폐렴), 슬라이드 220·241(만성 구내염·limping syndrome), 슬라이드 242~243(VS-FCVD: 피하부종·황달·DIC·출혈·폐사율 67%).\n\n[족보 답안 비교] 2023(#42)·2022(#21) 족보 답안은 '코점막염·비염·기관염·폐렴, 구강상피와 혀의 수포형성·궤양, 안면부종, 황달' 등으로 핵심을 포착함(✓). 단 2022 답안('궤양, 안면종, 황달')은 지나치게 축약됨. 강의안 기준으로는 '구강궤양·상부호흡기 증상'이 핵심이고, 안면부종·황달은 전신형(VS-FCVD)에 해당함을 명확히 구분해야 한다.",
-"exam": "2023-기말",
-"exams": [
-"2023-기말",
-"2022-기말"
-],
-"freq": 2,
-"flag": false,
-"flagReason": "Q0775(2023#42)·Q0844(2022#21) 동일 주제 병합.",
-"unit": "",
-"cardOrder": 99,
-"id": 146
+"id": 122
 },
 {
 "part": "Caliciviridae",
@@ -3877,7 +3222,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 147
+"id": 123
 },
 {
 "part": "Caliciviridae",
@@ -3904,7 +3249,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 148
+"id": 124
 },
 {
 "part": "Caliciviridae",
@@ -3931,7 +3276,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 149
+"id": 125
 },
 {
 "part": "Caliciviridae",
@@ -3958,7 +3303,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 150
+"id": 126
 },
 {
 "part": "Caliciviridae",
@@ -3985,7 +3330,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 151
+"id": 127
 },
 {
 "part": "Togaviridae",
@@ -4002,7 +3347,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 152
+"id": 128
 },
 {
 "part": "Togaviridae",
@@ -4029,7 +3374,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 153
+"id": 129
 },
 {
 "part": "Togaviridae",
@@ -4056,7 +3401,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 154
+"id": 130
 },
 {
 "part": "Togaviridae",
@@ -4083,7 +3428,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 155
+"id": 131
 },
 {
 "part": "Togaviridae",
@@ -4110,7 +3455,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 156
+"id": 132
 },
 {
 "part": "Togaviridae",
@@ -4137,7 +3482,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 157
+"id": 133
 },
 {
 "part": "Togaviridae",
@@ -4164,7 +3509,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 158
+"id": 134
 },
 {
 "part": "Togaviridae",
@@ -4191,7 +3536,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 159
+"id": 135
 },
 {
 "part": "Togaviridae",
@@ -4218,7 +3563,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 160
+"id": 136
 },
 {
 "part": "Togaviridae",
@@ -4245,7 +3590,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 161
+"id": 137
 },
 {
 "part": "Togaviridae",
@@ -4272,7 +3617,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 162
+"id": 138
 },
 {
 "part": "Togaviridae",
@@ -4299,7 +3644,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 163
+"id": 139
 },
 {
 "part": "Togaviridae",
@@ -4326,7 +3671,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 164
+"id": 140
 },
 {
 "part": "Togaviridae",
@@ -4353,7 +3698,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 165
+"id": 141
 },
 {
 "part": "Rhabdoviridae",
@@ -4370,7 +3715,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 166
+"id": 142
 },
 {
 "part": "Rhabdoviridae",
@@ -4397,7 +3742,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 167
+"id": 143
 },
 {
 "part": "Rhabdoviridae",
@@ -4424,7 +3769,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 168
+"id": 144
 },
 {
 "part": "Rhabdoviridae",
@@ -4451,7 +3796,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 169
+"id": 145
 },
 {
 "part": "Rhabdoviridae",
@@ -4478,7 +3823,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 170
+"id": 146
 },
 {
 "part": "Rhabdoviridae",
@@ -4505,7 +3850,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 171
+"id": 147
 },
 {
 "part": "Rhabdoviridae",
@@ -4532,7 +3877,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 172
+"id": 148
 },
 {
 "part": "Rhabdoviridae",
@@ -4559,7 +3904,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 173
+"id": 149
 },
 {
 "part": "Rhabdoviridae",
@@ -4586,7 +3931,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 174
+"id": 150
 },
 {
 "part": "Rhabdoviridae",
@@ -4613,7 +3958,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 175
+"id": 151
 },
 {
 "part": "Rhabdoviridae",
@@ -4640,7 +3985,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 176
+"id": 152
 },
 {
 "part": "Rhabdoviridae",
@@ -4667,7 +4012,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 177
+"id": 153
 },
 {
 "part": "Rhabdoviridae",
@@ -4694,64 +4039,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 178
-},
-{
-"part": "Rhabdoviridae",
-"topic": "BEF·VS 감별",
-"origin": "jokbo",
-"type": "single",
-"q": "Bovine Ephemeral Fever 바이러스에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"잠재적인 벡터에는 culicine과 anopheline 모기, Culicoides가 전염을 유발할 것으로 추정된다.",
-"우울증, 뻣뻣함, 절름발이 및 침흘림, 그리고 드물게는 비강 및 안구 분비물, 반추중지, 변비 및 유산 등의 임상증상을 보이며 우유 생산의 심각한 감소와 함께 이상성 또는 다상성열이 발생한다.",
-"젖소가 수유 초기에 감염되면 다시는 정상적인 수유를 할 수 없다.",
-"이환율은 종종 100%에 가까우며 발병 시 폐사율은 일반적으로 매우 낮다.",
-"열대 및 아열대 지역에 걸쳐있는 소와 물소의 절지동물 전염병이다."
-],
-"answer": [
-3
-],
-"explain": "A. 배경 — BEF는 모기·Culicoides 매개 소의 급성 발열성 질환으로, 갑작스럽고 짧은 경과(3일병)에 회복이 빠른 것이 특징이다(슬라이드 26-29).\nB. 포인트 — 유량 감소의 '가역성'이 함정. BEF의 유량 급감은 일시적이며 회복된다.\nC. 정답근거 — ③ BEF에서 젖소 유량은 최대 70%까지 급감하지만 이는 일시적이며 회복 후 정상 수유로 복귀한다(슬라이드 29: 급격한 milk drop, 단 '3-Day Sickness'로 단기 회복). '다시는 정상 수유 불가'는 틀린 영구손상 서술. → 정답 ③.\nD. 오답소거 — ① 매개체로 culicine·anopheline 모기, Culicoides: 슬라이드 27 'Main vector for biting midges (Culicoides spp.)', 모기 전파(슬라이드 27)와 합치. ✓ ② depression·stiffness·lameness·침흘림·드문 비강/안구분비·반추중지·유산·유량감소·biphasic/triphasic열: 슬라이드 28-29와 합치. ✓ ④ 이환율 100% 근접·폐사율 매우 낮음: BEF는 morbidity 높고 mortality 낮은 전형(슬라이드 26-27 급성 발열·대부분 회복). ✓ ⑤ 열대·아열대 소·물소의 절지동물 전염병: 슬라이드 26과 합치. ✓\nE. 함정 — ③ '수유 초기 감염'이라는 조건절을 붙여 그럴듯하게 만들지만, BEF는 영구적 비유(非乳) 손상을 남기지 않는다(반면 수소의 일시적 불임 6-8개월은 강의안에 있음). 족보 정답 ③과 Claude 판정 ③ 일치.",
-"exam": "2021-기말",
-"exams": [
-"2021-기말"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 179
-},
-{
-"part": "Rhabdoviridae",
-"topic": "BEF·VS 감별",
-"origin": "jokbo",
-"type": "multi",
-"q": "Vesicular Stomatitis Virus(VSV)에 대한 설명 중 가장 알맞지 않은 것을 모두 고르시오.",
-"choices": [
-"병변은 일반적으로 불리한 후유증 없이 7~10일 이내에 치유된다.",
-"모래파리(Lutzomyia spp.)에 의하여 바이러스가 전염된다.",
-"소의 혀, 구강 점막, 젖꼭지 및 관상 밴드에서 발생하는 소포가 빠르게 파열되어 2차 감염되는 광범위한 궤양이 발생하는 것이 특징이다.",
-"돼지에서는 전신성 궤양이 발생하는 것이 특징이다.",
-"15일의 잠복기 후에 과도한 타액 분비와 열이 발생한다."
-],
-"answer": [
-4,
-5
-],
-"explain": "A. 배경 — VS는 입·젖꼭지·발의 수포가 특징인 질환으로, 소·말·돼지를 침범하며 FMD와 임상 감별이 핵심이다. 회복은 비교적 빠르고(최소 2주 격리 내 회복) 병변은 후유증 없이 치유되는 경향이다(슬라이드 32-35).\nB. 포인트 — '가장 알맞지 않은 것을 모두' = 명백히 틀린 선지 복수 선택. 돼지 병변 분포와 잠복기 수치가 함정.\nC. 정답근거 —\n④ 돼지 '전신성 궤양'은 틀림. 슬라이드 33: 돼지에서 수포는 주둥이(snout)와 발(feet)에 주로 형성되어 파행을 유발하며, 전신성(systemic) 궤양이 특징이라는 기술은 없다. 국소 수포성 병변이지 전신 궤양이 아니다. → 정답.\n⑤ '15일 잠복기'는 틀림. VS는 빠른 경과의 수포성 질환으로 잠복기가 짧다(슬라이드 35: 약 2주 내 회복하는 단기 질환). 15일 잠복기는 과도하게 길어 부합하지 않는다. → 정답.\nD. 오답소거 — ① 병변이 후유증 없이 7-10일 내 치유: 슬라이드 35 '약 2주 내 회복'과 합치(빠른 회복·양호한 예후). ✓ ② 모래파리(Lutzomyia)·곤충 매개 전파: 슬라이드 32 'biological/mechanical insect vectors' 전파와 부합(특정 sandfly 종명은 강의안에 없으나 곤충 매개 원칙엔 합치하여 명백한 오류로 보기 어려움). ③ 소에서 혀·구강점막·젖꼭지·관상밴드 수포가 파열→2차감염 궤양: 슬라이드 32-33(중층편평상피·수포 파열·2차 세균감염)과 합치. ✓\nE. 함정 — ④ '전신성'이라는 한 단어로 국소 병변을 전신 병변처럼 위장. ⑤ 구체적 '15일' 수치로 그럴듯하게 함정. ② sandfly 종명은 강의안에 없지만 '곤충 벡터 전파'라는 큰 틀은 맞아 정답에서 제외. 족보 정답 '4,5'와 Claude 판정 ④⑤ 일치(복수정답 문항).",
-"exam": "2021-기말",
-"exams": [
-"2021-기말"
-],
-"freq": 1,
-"flag": true,
-"flagReason": "선지② Lutzomyia(모래파리) 특정 종명은 강의안에 없음(slide32는 '곤충 벡터'만 기술). 큰 틀이 맞아 정답에서 제외했으나 종명 근거는 강의안 외. ⑤ 잠복기 '짧다'는 slide35 회복기간 기반 추론.",
-"unit": "",
-"cardOrder": 99,
-"id": 180
+"id": 154
 },
 {
 "part": "Rhabdoviridae",
@@ -4772,56 +4060,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 181
-},
-{
-"part": "Rhabdoviridae",
-"topic": "Rabies 광견병",
-"origin": "jokbo",
-"type": "essay",
-"q": "야생동물에서 Rabies를 근절할 목적으로 사용하는 bait vaccine에 대해 서술하시오. (특성·한계 포함)",
-"choices": [],
-"answer": [],
-"explain": "A. 배경 — 야생동물(여우·너구리 등)은 광견병의 지속 reservoir이며 도시 살처분으로 통제가 어렵다. 이를 위해 경구 미끼백신(oral bait vaccine)을 살포해 야생집단의 면역을 높인다(슬라이드 43).\nB. 포인트 — 작동 원리(미끼+백신 경구접종) + 목적(transmission cycle 차단·herd immunity↑) + 핵심 한계(경구로 효과 있는 병원체만 사용 가능)를 서술.\nC. 모범답안 골자 —\n① 정의·작동: 백신을 먹이(미끼) 속에 숨겨 야생동물(여우·너구리)에게 살포 → 동물이 섭취하면 경구로 면역 획득. 이를 통해 전파 사슬을 끊고 야생집단의 herd immunity를 높이며 사람 거주지로의 spillover를 막는다(슬라이드 43).\n② 사용 백신: live-attenuated 또는 recombinant(vaccinia 매개) 백신. 광견병 백신은 경구 투여로도 면역 유도가 되므로 bait 방식 사용이 가능하다.\n③ 한계: 경구 섭취(먹었을 때) 시에도 면역 유도 효과가 있어야만 쓸 수 있어, 사용 가능한 병원체/백신이 한정적이다(족보 핵심 포인트).\nD. 채점 포인트 — '경구로도 면역 유도되는 백신만 가능'이라는 제한이 출제 핵심.\nE. 함정 — 문항이 '독성에 관하여'(2024 #36)로 물었지만 강의안에는 bait vaccine 독성 수치 언급이 없음. 강의안 근거로는 '미끼 속 백신 경구접종·한계'가 답이며, live/recombinant 백신의 잔류 병원성(독성)에 대한 별도 수치는 제공 자료에 없으므로 만들지 말 것. 족보 정답 내용은 대체로 타당.",
-"exam": "2024-기말",
-"exams": [
-"2024-기말",
-"2023-기말"
-],
-"freq": 2,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 182
-},
-{
-"part": "Rhabdoviridae",
-"topic": "Rabies 광견병",
-"origin": "jokbo",
-"type": "single",
-"q": "광견병 바이러스에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"모든 포유동물을 감염시킬 수 있으며 치사율이 매우 높은 질병이다.",
-"바이러스는 신경전달물질 아드레날린 수용체에 특이적으로 결합한다.",
-"격렬한 형태로 동물은 불안해하고, 긴장하며, 공격적인 증상을 보이거나 마비성 증상을 나타낼 수 있다.",
-"임상징후가 시작된 후 2~14일 후에 폐사한다.",
-"과도한 타액 분비, 빛과 소리에 대한 과장된 반응, 감각 과민(동물은 일반적으로 스스로 물고 긁음) 등을 나타낸다."
-],
-"answer": [
-2
-],
-"explain": "A. 배경 — 광견병은 모든 포유류 감수성·거의 100% 치사의 CNS 질환으로, 교상부 saliva가 말초신경을 따라 CNS로 이동한다(슬라이드 36-40).\nB. 포인트 — 바이러스의 수용체 결합 표적이 함정. 광견병은 아드레날린(adrenaline) 수용체가 아니라 신경계 친화성으로 알려진 바이러스다.\nC. 정답근거 — ② 광견병 바이러스가 '아드레날린 수용체에 특이적으로 결합'한다는 서술은 틀리다. 광견병은 신경친화성(neurotropic) 바이러스로 말초신경→retrograde axonal transport로 이동하며, 아드레날린성 수용체 특이결합은 그 기전이 아니다(슬라이드 38은 신경 침입·축삭수송 기전을 제시하며 adrenaline 수용체 결합을 언급하지 않음). → 정답 ②.\nD. 오답소거 — ① 모든 포유동물 감염·높은 치사율: 맞음(슬라이드 36 '100% case fatality', 다양한 숙주). ✓ ③ 격렬형(furious)에서 불안·긴장·공격성, 또는 마비성 증상: 맞음(슬라이드 39 Furious/Paralytic). ✓ ④ 임상 시작 후 2-14일 내 폐사: 고양이 2-4일(슬라이드 40), 개 며칠 내 호흡마비 사망(슬라이드 39) 범위와 합치. ✓ ⑤ 과도한 침흘림·빛/소리 과민·감각과민·자해(자기물기/긁기): 맞음(슬라이드 39 furious form 감각과민·자기물기, 슬라이드 40 photophobia). ✓\nE. 함정 — ②는 '신경전달물질 수용체'라는 그럴듯한 표현으로 위장한다. 강의안은 아세틸콜린/아드레날린 등 특정 수용체명을 명시하지 않고 신경 침입·축삭수송만 제시하므로, '아드레날린 수용체 특이결합'은 강의안에 근거 없는 틀린 진술이다. 족보 정답 ②와 Claude 판정 ② 일치.",
-"exam": "2021-기말",
-"exams": [
-"2021-기말"
-],
-"freq": 2,
-"flag": true,
-"flagReason": "강의안에 광견병의 수용체 결합 표적(아세틸콜린/아드레날린 등) 명시 없음. ②는 강의안 미수록 진술이므로 '근거 없는 오류'로 정답 판정(슬라이드38은 신경침입·축삭수송만 기술).",
-"unit": "",
-"cardOrder": 99,
-"id": 183
+"id": 155
 },
 {
 "part": "Rhabdoviridae",
@@ -4848,7 +4087,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 184
+"id": 156
 },
 {
 "part": "Rhabdoviridae",
@@ -4868,55 +4107,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 185
-},
-{
-"part": "Rhabdoviridae",
-"topic": "과(科) 일반특성",
-"origin": "jokbo",
-"type": "single",
-"q": "Rhabdoviridae에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"Lyssavirus 속은 미친 분노의 정신을 의미하는 그리스어 \"Lyssa\"에서 유래하였다.",
-"서늘하고 습한 환경과 pH가 알칼리성인 경우 비교적 안정적이다.",
-"게놈은 11-15kb 크기의 선형, positive-sense 단일가닥 RNA의 단일 분자를 가지고 있다.",
-"직경이 약 45-100nm이고 길이가 100-430nm이며, 큰 당단백질 스파이크가 있는 외피로 둘러싸인 나선형 구조이다.",
-"광견병 바이러스 및 Mokola, Lagos bat, Duvenhage, 유럽 박쥐 lyssaviruses 1 및 2, 호주 박쥐 lyssavirus를 포함한 밀접하게 관련된 바이러스는 광견병과 유사한 증상을 유발한다."
-],
-"answer": [
-3
-],
-"explain": "A. 배경 — Rhabdoviridae의 핵심 식별 특성은 '탄환형, 외피보유, non-segmented -ssRNA'다(슬라이드 21). 게놈 극성(polarity)이 단골 함정.\nB. 포인트 — '가장 알맞지 않은 것' = 가장 명백히 틀린 선지. 게놈 극성을 먼저 확인한다.\nC. 정답근거 — ③ Rhabdovirus 게놈은 negative-sense ssRNA다(슬라이드 21: 'negative-sense single-stranded RNA (-ssRNA)'). 선지의 'positive-sense'는 명백히 틀림. → 정답 ③.\nD. 오답소거 — ① Lyssavirus가 광기를 뜻하는 그리스어 'Lyssa'에서 유래: 강의안에 어원 직접 언급은 없으나 Lyssavirus=광견병 속이라는 사실과 상충하지 않음. 명백한 오류 아님(상대적으로 ③보다 덜 틀림). ② 'envelope 때문에 환경에 highly sensitive'(슬라이드 24)이므로 '서늘·습·알칼리에서 안정'은 사실 틀린 서술이다 — 단 본 문항은 게놈 극성(③)이 더 명백한 정답이며, 족보도 ③을 정답으로 봄. ④ 외피·당단백 스파이크·나선형 구조: 구조 기술과 합치(슬라이드 21-22). ✓ ⑤ Mokola·Lagos bat·Duvenhage·EBLV 1,2·ABLV 등 lyssavirus가 광견병 유사 증상: 슬라이드 23·25에 해당 약어(MOKV, LBV, DUVV, EBLV-1·2, ABLV) 등장, 합치. ✓\nE. 함정 — ②도 강의안 기준 엄밀히는 틀린 서술이라 복수정답 논란 소지가 있으나, ③의 'positive-sense'가 가장 명백·결정적 오류다. 족보 정답 ③과 Claude 판정 ③ 일치. 출제 의도상 가장 알맞지 않은 1개는 ③.",
-"exam": "2021-기말",
-"exams": [
-"2021-기말"
-],
-"freq": 4,
-"flag": true,
-"flagReason": "선지② '서늘·습·알칼리에서 안정'도 강의안(slide24, envelope→highly sensitive) 기준 틀린 서술이라 복수정답 소지. 단 ③ positive-sense가 가장 명백한 오류로 정답.",
-"unit": "",
-"cardOrder": 99,
-"id": 186
-},
-{
-"part": "Rhabdoviridae",
-"topic": "과(科) 일반특성",
-"origin": "jokbo",
-"type": "short",
-"q": "다음 그림(탄환형 bullet-shaped 입자·구조도)이 설명하는 특징과 연관성이 높은 바이러스 과(科)를 보기에서 골라 쓰시오. (Coronaviridae / Paramyxoviridae / Retroviridae / Rhabdoviridae)",
-"choices": [],
-"answer": [],
-"explain": "A. 배경 — 본 문항은 4개 과의 전자현미경 사진·구조도를 제시하고 각 그림에 맞는 과를 고르는 매칭 문제다. Rhabdoviridae는 형태가 가장 독특해 식별이 쉽다.\nB. 포인트 — Rhabdoviridae를 지목하는 결정적 단서는 '탄환형(bullet-shaped)' 형태다.\nC. 정답근거 — 탄환형(한쪽 끝 둥글고 한쪽 평평한 막대 변형) 외피 입자, 내부에 나선형 ribonucleocapsid가 보이면 Rhabdoviridae다. 이름 'rhabdos'(rod)에서 유래하나 실제 형태는 bullet-shaped로 묘사된다(슬라이드 21). → 그림이 탄환형이면 답: Rhabdoviridae.\nD. 다른 과 감별(참고) — Coronaviridae=표면에 곤봉형 spike 왕관(corona) 모양, Paramyxoviridae=다형성 외피에 굵은 nucleocapsid·표면 spike(슬라이드 25에서 계통수상 Rhabdo와 인접 비교), Retroviridae=구형 외피에 원뿔형(cone) core. 이들 세부 형태는 본 강의안 Rhabdoviridae 단원에 상세 기술이 없으므로(슬라이드 21-43 범위 밖), 매칭의 확실한 근거는 'Rhabdo=탄환형'뿐이다.\nE. 함정 — 'rod(막대)'라는 어원 때문에 막대형으로 그린 그림을 찾으면 오답. 실제 표현형은 탄환형이다. 족보 정답 '1.Rhabdoviridae 2.Coronaviridae 3.Paramyxoviridae 4.Retroviridae'에서 Rhabdo=탄환형 매칭만 본 단원 근거로 확정 가능. 나머지 과의 그림 순서 판정은 본 강의안 범위 밖 그림에 의존하므로 단원 근거로는 단정 불가.",
-"exam": "2024-기말",
-"exams": [
-"2024-기말"
-],
-"freq": 1,
-"flag": true,
-"flagReason": "Coronaviridae·Paramyxoviridae·Retroviridae의 그림 식별 근거는 제공된 Rhabdoviridae 단원 강의안에 없음. 'Rhabdo=탄환형' 매칭만 확정 가능.",
-"unit": "",
-"cardOrder": 99,
-"id": 187
+"id": 157
 },
 {
 "part": "Rhabdoviridae",
@@ -4943,7 +4134,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 188
+"id": 158
 },
 {
 "part": "Rhabdoviridae",
@@ -4970,7 +4161,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 189
+"id": 159
 },
 {
 "part": "Rhabdoviridae",
@@ -4997,7 +4188,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 190
+"id": 160
 },
 {
 "part": "Rhabdoviridae",
@@ -5024,7 +4215,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 191
+"id": 161
 },
 {
 "part": "Bunyavirales",
@@ -5041,7 +4232,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 192
+"id": 162
 },
 {
 "part": "Bunyavirales",
@@ -5068,7 +4259,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 193
+"id": 163
 },
 {
 "part": "Bunyavirales",
@@ -5095,7 +4286,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 194
+"id": 164
 },
 {
 "part": "Bunyavirales",
@@ -5122,7 +4313,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 195
+"id": 165
 },
 {
 "part": "Bunyavirales",
@@ -5149,7 +4340,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 196
+"id": 166
 },
 {
 "part": "Bunyavirales",
@@ -5176,7 +4367,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 197
+"id": 167
 },
 {
 "part": "Bunyavirales",
@@ -5203,7 +4394,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 198
+"id": 168
 },
 {
 "part": "Bunyavirales",
@@ -5230,7 +4421,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 199
+"id": 169
 },
 {
 "part": "Bunyavirales",
@@ -5257,7 +4448,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 200
+"id": 170
 },
 {
 "part": "Bunyavirales",
@@ -5285,90 +4476,7 @@ const LABQ = [
 "flagReason": "족보 정답 ①, 그러나 강의안(슬라이드183 mortality~100%) 근거상 틀린 문장은 ②(자연치유). Claude 정답=②.",
 "unit": "",
 "cardOrder": 99,
-"id": 201
-},
-{
-"part": "Bunyavirales",
-"topic": "Bornaviridae 일반 성상(외피·소독제 저항성)",
-"origin": "jokbo",
-"type": "single",
-"q": "Bornaviridae에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"바이러스 G 단백질은 타겟 세포의 부착을 매개한다.",
-"이 바이러스는 열, 산, 지질 용매 및 일반적인 소독제에 저항성이 높다.",
-"뉴런과 신경 교세포를 포함하여 광범위한 세포 유형이 바이러스에 감염될 수 있다.",
-"직경이 약 90nm이고 구형의 envelope을 갖고 있다.",
-"게놈은 최소 6개의 오픈 리딩 프레임을 포함하는 약 8.9kb 크기의 negative-sense 단일가닥 RNA의 단일 분자를 가지고 있다."
-],
-"answer": [
-2
-],
-"explain": "A.배경: Bornaviridae는 enveloped, 70~130nm, 비분절 negative-sense ssRNA 바이러스로 핵에서 복제하며 highly neurotropic하다(강의안 슬라이드 178·179).\nB.포인트: '가장 알맞지 않은' = 틀린 설명 1개를 고른다. 외피(envelope) 보유 바이러스의 물리화학적 저항성이 핵심.\nC.정답근거: ②가 틀림(✗ 표시 대상) — 외피(지질막)를 가진 바이러스는 ether·chloroform 같은 지질용매와 일반 소독제, 열에 '약하다'. 슬라이드 179가 enveloped virus임을 명시하므로 '저항성이 높다'는 서술은 외피 바이러스의 성질과 모순된다. (저항성이 강한 것은 무외피 Caliciviridae 쪽 — 슬라이드 220 'strong environmental resistance')\nD.오답소거: ①G단백(glycoprotein)은 표면 부착 매개 — 외피 당단백의 일반 기능으로 타당. ③neuron·glia 등 광범위 감염 — 슬라이드 179 'highly neurotropic', cell-to-cell spread와 부합. ④직경 약 90nm·구형 envelope — 슬라이드 179 '70~130nm, enveloped'와 부합. ⑤negative-sense ssRNA 단일분자(비분절)·다수 ORF — 슬라이드 179 'negative-sense ssRNA genome'과 부합(Bornavirus는 분절되지 않은 단일 분자).\nE.함정: ⑤의 '8.9kb·6 ORF' 같은 구체 수치는 강의안에 없으나, 비분절 단일 (-)ssRNA라는 큰 틀은 맞아 정답이 아니다. 무외피 calici의 강한 저항성과 외피 borna의 약한 저항성을 뒤집어 출제한 전형적 함정.\n족보 정답=②로 일치.",
-"exam": "2021-기말",
-"exams": [
-"2021-기말"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 202
-},
-{
-"part": "Bunyavirales",
-"topic": "RVF·JEV 전파 매개체(모기)",
-"origin": "jokbo",
-"type": "single",
-"q": "JEV와 Rift valley fever의 공통적인 전파 매개체는?",
-"choices": [
-"등에모기",
-"모기",
-"진드기",
-"박쥐"
-],
-"answer": [
-2
-],
-"explain": "A.배경: Rift Valley fever(RVF)는 Phenuiviridae에 속하는 mosquito-borne zoonotic disease로, 폭우·홍수로 모기 개체수가 급증할 때 대규모 발생한다(강의안 슬라이드 212~215). JEV(일본뇌염)도 모기매개 arbovirus다.\nB.포인트: 두 질병의 '공통' 매개체를 묻는다. RVF의 매개체가 무엇인지가 강의안 근거의 핵심이다.\nC.정답근거: ②모기 — 슬라이드 212 'Mosquito-borne zoonotic disease', 슬라이드 215 'Heavy Rain + Floods = More Mosquitos → Mosquito Bite'로 RVF가 명확히 모기매개임이 제시된다(✓).\nD.오답소거: ①등에모기(Tabanus/horse fly)는 EIAV(마전염성빈혈) 매개체다(Retroviridae 슬라이드 75). ③진드기는 Nairoviridae(NSD)·SFTS 매개체. ④박쥐는 이 강의안에서 RVF·JEV 매개체로 제시되지 않음.\nE.함정: '등에모기'(①)와 '모기'(②)를 헷갈리게 배치. 등에모기는 기계적 전파(EIAV)이고, RVF·JEV는 일반 모기(생물학적 매개)다.\n족보 정답=②(모기)로 일치.",
-"exam": "2025-기말",
-"exams": [
-"2025-기말"
-],
-"freq": 1,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 203
-},
-{
-"part": "Bunyavirales",
-"topic": "조류 Bornavirus(PDD) 병리·봉입체·염증",
-"origin": "jokbo",
-"type": "single",
-"q": "조류의 Bornavirus 감염증(PDD)에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"앵무새에서 처음으로 인식된 조류의 진행적이고 파괴적인 신경 및 위장 질환을 일으키는 질병이다.",
-"위장 자율신경계의 침범은 식도와 결절(전위)의 마비성 확장을 포함하여 위장기능 장애의 징후를 유발한다.",
-"영향을 받은 새는 체중감소, 연하곤란, 역류, 운동실조 및 고유 수용성 결핍을 포함하여 진행성 신경학적 및/또는 위장관 기능 장애를 보인다.",
-"조직학적 분석에서는 inclusion body가 관찰되고 염증세포의 침윤은 발생하지 않는다.",
-"부검 결과에는 가슴 근육의 위축과 작물(crop), 전위(proventriculus), 심실(ventriculus) 및 소장의 확장이 관찰된다."
-],
-"answer": [
-4
-],
-"explain": "A.배경: 조류 Bornavirus 감염증은 Proventricular Dilatation Disease(PDD, 선위확장증)로, 주로 앵무새에서 진행성 신경·위장 질환을 일으킨다(강의안 슬라이드 185). 병인은 brain·spinal cord·peripheral nerve의 lymphoplasmacytic(non-suppurative) inflammation과 GI tract 자율신경 손상이다(슬라이드 187).\nB.포인트: '가장 알맞지 않은' = 틀린 설명. 핵심은 PDD의 염증 양상(염증세포 침윤 유무).\nC.정답근거: ④가 틀림(✗) — 슬라이드 187 'Lymphoplasmacytic inflammation (non-suppurative inflammation)'로 PDD는 명백히 림프형질구성 '염증세포 침윤'이 일어난다. 따라서 '염증세포 침윤이 발생하지 않는다'는 서술은 강의안과 모순. ④가 정답.\nD.오답소거: ①앵무새에서 인식된 진행성 신경·위장 질환 — 슬라이드 185·187과 부합. ②자율신경 침범으로 식도·전위(proventriculus)의 마비성 확장 — 슬라이드 187 'damage to autonomic nerves of GI tract → proventricular dilation'과 부합. ③체중감소·연하곤란·역류·운동실조·고유수용성 결핍 — 슬라이드 189 GI/neurologic signs와 부합. ⑤pectoral muscle atrophy, crop·proventriculus·ventriculus·small intestine 확장 — 슬라이드 189 'Typical Gross Lesions'와 부합.\nE.함정: '봉입체(inclusion body)는 관찰된다'는 부분은 맞지만(Bornavirus는 봉입체 형성), '염증세포 침윤이 없다'를 같은 선지에 붙여 참인 절반에 거짓 절반을 섞은 함정. PDD는 비화농성이지 무염증이 아니다.\n족보 정답='4\\n3' 형태로 표기 혼란이 있으나 강의안 근거상 명확히 ④. Claude 정답=④.",
-"exam": "2021-기말",
-"exams": [
-"2021-기말"
-],
-"freq": 1,
-"flag": true,
-"flagReason": "족보 정답 표기가 '4↵3'로 혼란. 강의안(슬라이드187 lymphoplasmacytic inflammation) 근거상 틀린 문장은 ④(염증세포 침윤 없음). Claude 정답=④.",
-"unit": "",
-"cardOrder": 99,
-"id": 204
+"id": 171
 },
 {
 "part": "Bunyavirales",
@@ -5395,7 +4503,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 205
+"id": 172
 },
 {
 "part": "Bunyavirales",
@@ -5422,7 +4530,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 206
+"id": 173
 },
 {
 "part": "Bunyavirales",
@@ -5449,7 +4557,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 207
+"id": 174
 },
 {
 "part": "Bunyavirales",
@@ -5476,7 +4584,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 208
+"id": 175
 },
 {
 "part": "Bunyavirales",
@@ -5503,7 +4611,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 209
+"id": 176
 },
 {
 "part": "Pneumoviridae",
@@ -5520,7 +4628,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 210
+"id": 177
 },
 {
 "part": "Pneumoviridae",
@@ -5547,7 +4655,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 211
+"id": 178
 },
 {
 "part": "Pneumoviridae",
@@ -5574,7 +4682,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 212
+"id": 179
 },
 {
 "part": "Pneumoviridae",
@@ -5601,7 +4709,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 213
+"id": 180
 },
 {
 "part": "Pneumoviridae",
@@ -5628,7 +4736,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 214
+"id": 181
 },
 {
 "part": "Pneumoviridae",
@@ -5656,7 +4764,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 215
+"id": 182
 },
 {
 "part": "Pneumoviridae",
@@ -5683,7 +4791,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 216
+"id": 183
 },
 {
 "part": "Pneumoviridae",
@@ -5710,7 +4818,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 217
+"id": 184
 },
 {
 "part": "Pneumoviridae",
@@ -5737,7 +4845,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 218
+"id": 185
 },
 {
 "part": "Reoviridae",
@@ -5754,7 +4862,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 219
+"id": 186
 },
 {
 "part": "Reoviridae",
@@ -5781,7 +4889,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 220
+"id": 187
 },
 {
 "part": "Reoviridae",
@@ -5808,7 +4916,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 221
+"id": 188
 },
 {
 "part": "Reoviridae",
@@ -5835,7 +4943,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 222
+"id": 189
 },
 {
 "part": "Reoviridae",
@@ -5862,7 +4970,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 223
+"id": 190
 },
 {
 "part": "Reoviridae",
@@ -5889,7 +4997,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 224
+"id": 191
 },
 {
 "part": "Reoviridae",
@@ -5916,7 +5024,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 225
+"id": 192
 },
 {
 "part": "Reoviridae",
@@ -5943,7 +5051,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 226
+"id": 193
 },
 {
 "part": "Reoviridae",
@@ -5970,7 +5078,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 227
+"id": 194
 },
 {
 "part": "Reoviridae",
@@ -5997,7 +5105,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 228
+"id": 195
 },
 {
 "part": "Reoviridae",
@@ -6024,7 +5132,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 229
+"id": 196
 },
 {
 "part": "Reoviridae",
@@ -6051,7 +5159,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 230
+"id": 197
 },
 {
 "part": "Reoviridae",
@@ -6078,57 +5186,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 231
-},
-{
-"part": "Reoviridae",
-"topic": "African Horse Sickness",
-"origin": "jokbo",
-"type": "single",
-"q": "아프리카 말 질병 바이러스(African horse sickness) 감염증에 대한 설명 중 가장 알맞지 않은 것은?",
-"choices": [
-"곤충에 물린 후 바이러스는 다른 조직 및 기관으로 퍼지기 전에 국소 림프절에서 복제된다.",
-"말, 당나귀, 노새에서 감염되는 질병이며 말과 노새와 당나귀에서 모두 100%에 가까운 치사율을 보인다.",
-"폐 형태('덩쿱' 또는 중추 형태)는 심각하고 진행성 호흡곤란과 사망을 특징으로 한다.",
-"Culicoides에 의해 전염된다.",
-"심장형태('Dikkop' 또는 말초 형태)는 다소 경미한 임상증상을 보이며 안와 상와 눈꺼풀을 포함하는 특징적인 부종을 나타낼 수 있다."
-],
-"answer": [
-2
-],
-"explain": "정답: ② 말·당나귀·노새 모두 100% 치사 ✗\n\nA. 배경: AHS의 종별 감수성·사망률은 강의안 p.117~119에 차등으로 제시된다.\nB. 포인트: 모든 말과 동물이 동일하게 100% 치사하는가.\nC. 정답근거: 강의안 p.118 'Horses up to 95%, Mules up to 50%, (당나귀)up to 10%'로 종별 사망률이 크게 다르다. 말은 최대 95%(폐형은 95~100%)이지만 노새·당나귀는 훨씬 낮으므로 '모두 100%에 가까운 치사율'은 거짓 → ② 정답.\nD. 오답소거: ① 물린 후 국소 림프절에서 복제 후 전파 ✓(p.119 'replicates in local lymph nodes then spreads'은 BTV 서술이나 AHS도 동일 패턴). ③ 폐형(Dunkop) 진행성 호흡곤란·사망 ✓(p.119, 95~100% 사망). ④ Culicoides 매개 ✓(p.117). ⑤ 심장형(Dikkop) 안와상와 부종 ✓(p.119, 약 50%).\nE. 함정: 말은 매우 높은 치사율이라 '모두 그렇겠지' 착각 유도. 노새·당나귀는 저항성이 있어 사망률이 낮다. 족보 정답(②)과 일치. (※2021 변형 jokbo_ans에 '2/1'로 ①도 거론되나, ①은 정상 서술이고 ②가 명확한 오류.)",
-"exam": "2023-기말",
-"exams": [
-"2023-기말",
-"2021-기말"
-],
-"freq": 2,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 232
-},
-{
-"part": "Reoviridae",
-"topic": "Antigenic shift vs drift",
-"origin": "jokbo",
-"type": "essay",
-"q": "Reoviridae와 관련하여 antigenic shift와 drift의 차이에 관해 설명하시오.",
-"choices": [],
-"answer": [],
-"explain": "모범답안:\n(1) Antigenic DRIFT(소변이): 바이러스 유전체에 점돌연변이(point mutation)가 spontaneous하게 발생·축적되어 항원성이 서서히 변하는 현상이다. 단일 바이러스 내에서 변이가 누적되는 점진적 변화다.\n(2) Antigenic SHIFT(대변이): 하나의 숙주세포에 같은 genus 내 두 종 이상의 바이러스가 동시감염(superinfection)했을 때, 서로 다른 바이러스의 segment들이 재배열(reassortment)되어 한 바이러스 입자 안으로 들어가 항원성이 전혀 다른 새로운 바이러스(reassortant)가 만들어지는 현상이다.\n\n핵심 차이: Reoviridae는 🔴 segmented dsRNA(10~12개 분절) 유전체를 가지므로 segment 교환(reassortment)이 가능하고, 이것이 antigenic shift의 기전이다(강의안 p.95 'high mutation rates and genomic reassortment within species, leading to various serotypes and variants'). drift=변이 누적(점진·단일 바이러스), shift=재집합(급격·segment 교환·다중 바이러스 동시감염)으로 대비해 기억한다.\n\n근거: 강의안 p.95. 족보 모범답안과 일치(drift=변이 축적, shift=superinfection→reassortment→새 바이러스).",
-"exam": "2023-기말",
-"exams": [
-"2023-기말",
-"2022-기말"
-],
-"freq": 2,
-"flag": false,
-"flagReason": "",
-"unit": "",
-"cardOrder": 99,
-"id": 233
+"id": 198
 },
 {
 "part": "Reoviridae",
@@ -6158,7 +5216,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 234
+"id": 199
 },
 {
 "part": "Reoviridae",
@@ -6185,7 +5243,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 235
+"id": 200
 },
 {
 "part": "Reoviridae",
@@ -6205,7 +5263,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 236
+"id": 201
 },
 {
 "part": "Reoviridae",
@@ -6226,35 +5284,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 237
-},
-{
-"part": "Reoviridae",
-"topic": "Bluetongue(구제역 감별)",
-"origin": "jokbo",
-"type": "single",
-"q": "Blue tongue disease에 대한 설명 중 틀린 것은?",
-"choices": [
-"혈청형에 따라 소에서도 발생한다.",
-"고열 증상이 없는 것이 구제역과의 감별 수단이다.",
-"일반적으로 sheep(양)에 감염된다.",
-"구강 내 출혈이 나타난다."
-],
-"answer": [
-2
-],
-"explain": "A.배경: Blue tongue(블루텅, 청설병)은 Orbivirus(Reoviridae)가 일으키는 반추수의 질병으로, 본 Picornaviridae 강의안의 범위 밖 주제다(강의안 어디에도 Blue tongue 항목 없음). 다만 FMD와의 감별 맥락에서 출제되었다. \nB.포인트: '틀린 것'을 고른다. 핵심은 고열 유무가 FMD와의 감별 수단이 될 수 있는가이다. \nC.정답근거: ✓ ② — 족보 해설에 따르면 blue tongue의 임상증상에도 고열(fever)이 포함되므로, '고열이 없는 것이 구제역과의 감별 수단'이라는 서술은 틀렸다. (FMD도 발열을 동반하므로 고열 유무로 둘을 감별한다는 전제 자체가 성립하지 않음 — FMD는 강의안 슬라이드 353에서 fever가 명시됨.) \nD.오답소거: ①·③·④는 blue tongue의 일반적 특성(주로 양에 감염, 혈청형에 따라 소 발생, 구강 점막 충혈·출혈)으로 알려진 내용. \nE.함정 및 flag: 본 문항은 Picornaviridae 강의안 범위를 벗어난 Blue tongue(Reoviridae/Orbivirus) 주제로, 강의안만으로는 ①③④를 독립 검증할 수 없다. 다만 FMD가 발열을 동반한다(슬라이드 353)는 점에서 ②의 전제가 틀렸다는 판정은 강의안과도 부합한다. 족보 정답 ②와 일치. Blue tongue 본체는 별도 과목 범위에서 학습 필요 → flag.",
-"exam": "2025-기말",
-"exams": [
-"2025-기말",
-"2024-기말"
-],
-"freq": 2,
-"flag": true,
-"flagReason": "Blue tongue은 Reoviridae/Orbivirus 질병으로 본 Picornaviridae 강의안 범위 밖. 정답 ②는 FMD가 발열을 동반한다는 강의안 슬라이드353 근거로 판정 가능(족보와 일치)하나, 선지 ①③④의 blue tongue 특성은 강의안에 근거 없음.",
-"unit": "",
-"cardOrder": 99,
-"id": 238
+"id": 202
 },
 {
 "part": "Reoviridae",
@@ -6284,7 +5314,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 239
+"id": 203
 },
 {
 "part": "Reoviridae",
@@ -6312,7 +5342,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 240
+"id": 204
 },
 {
 "part": "Reoviridae",
@@ -6339,7 +5369,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 241
+"id": 205
 },
 {
 "part": "Reoviridae",
@@ -6366,7 +5396,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 242
+"id": 206
 },
 {
 "part": "Reoviridae",
@@ -6393,7 +5423,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 243
+"id": 207
 },
 {
 "part": "Reoviridae",
@@ -6420,7 +5450,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 244
+"id": 208
 },
 {
 "part": "Retroviridae",
@@ -6437,7 +5467,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 245
+"id": 209
 },
 {
 "part": "Retroviridae",
@@ -6464,7 +5494,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 246
+"id": 210
 },
 {
 "part": "Retroviridae",
@@ -6491,7 +5521,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 247
+"id": 211
 },
 {
 "part": "Retroviridae",
@@ -6518,7 +5548,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 248
+"id": 212
 },
 {
 "part": "Retroviridae",
@@ -6545,7 +5575,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 249
+"id": 213
 },
 {
 "part": "Retroviridae",
@@ -6565,7 +5595,7 @@ const LABQ = [
 "flagReason": "족보는 3단계, 강의안은 4단계(vague signs 추가)로 제시 — 둘 다 인정되나 4단계가 정식.",
 "unit": "",
 "cardOrder": 99,
-"id": 250
+"id": 214
 },
 {
 "part": "Retroviridae",
@@ -6586,7 +5616,7 @@ const LABQ = [
 "flagReason": "Q0663(2024#26)·Q0779(2023#46) 동일 주제 병합. 2023 족보 답안은 원본 누락.",
 "unit": "",
 "cardOrder": 99,
-"id": 251
+"id": 215
 },
 {
 "part": "Retroviridae",
@@ -6613,7 +5643,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 252
+"id": 216
 },
 {
 "part": "Retroviridae",
@@ -6640,7 +5670,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 253
+"id": 217
 },
 {
 "part": "Retroviridae",
@@ -6667,7 +5697,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 254
+"id": 218
 },
 {
 "part": "Prion",
@@ -6684,7 +5714,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 255
+"id": 219
 },
 {
 "part": "Prion",
@@ -6711,7 +5741,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 256
+"id": 220
 },
 {
 "part": "Prion",
@@ -6738,7 +5768,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 257
+"id": 221
 },
 {
 "part": "Prion",
@@ -6765,7 +5795,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 258
+"id": 222
 },
 {
 "part": "Prion",
@@ -6792,7 +5822,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 259
+"id": 223
 },
 {
 "part": "Prion",
@@ -6819,7 +5849,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 260
+"id": 224
 },
 {
 "part": "Prion",
@@ -6846,7 +5876,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 261
+"id": 225
 },
 {
 "part": "Prion",
@@ -6873,7 +5903,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 262
+"id": 226
 },
 {
 "part": "Prion",
@@ -6900,7 +5930,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 263
+"id": 227
 },
 {
 "part": "Prion",
@@ -6927,7 +5957,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 264
+"id": 228
 },
 {
 "part": "Prion",
@@ -6954,7 +5984,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 265
+"id": 229
 },
 {
 "part": "Prion",
@@ -6981,7 +6011,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 266
+"id": 230
 },
 {
 "part": "Prion",
@@ -7008,7 +6038,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 267
+"id": 231
 },
 {
 "part": "Prion",
@@ -7035,7 +6065,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 268
+"id": 232
 },
 {
 "part": "SFTS",
@@ -7052,7 +6082,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 269
+"id": 233
 },
 {
 "part": "SFTS",
@@ -7079,7 +6109,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 270
+"id": 234
 },
 {
 "part": "SFTS",
@@ -7106,7 +6136,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 271
+"id": 235
 },
 {
 "part": "SFTS",
@@ -7133,7 +6163,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 272
+"id": 236
 },
 {
 "part": "SFTS",
@@ -7160,7 +6190,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 273
+"id": 237
 },
 {
 "part": "SFTS",
@@ -7187,7 +6217,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 274
+"id": 238
 },
 {
 "part": "SFTS",
@@ -7214,7 +6244,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 275
+"id": 239
 },
 {
 "part": "SFTS",
@@ -7241,7 +6271,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 276
+"id": 240
 },
 {
 "part": "SFTS",
@@ -7268,7 +6298,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 277
+"id": 241
 },
 {
 "part": "SFTS",
@@ -7295,7 +6325,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 278
+"id": 242
 },
 {
 "part": "SFTS",
@@ -7322,7 +6352,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 279
+"id": 243
 },
 {
 "part": "SFTS",
@@ -7349,7 +6379,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 280
+"id": 244
 },
 {
 "part": "SFTS",
@@ -7376,7 +6406,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 281
+"id": 245
 },
 {
 "part": "SFTS",
@@ -7403,7 +6433,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 282
+"id": 246
 },
 {
 "part": "SFTS",
@@ -7430,7 +6460,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 283
+"id": 247
 },
 {
 "part": "SFTS",
@@ -7457,7 +6487,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 284
+"id": 248
 },
 {
 "part": "SFTS",
@@ -7484,7 +6514,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 285
+"id": 249
 },
 {
 "part": "SFTS",
@@ -7511,7 +6541,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 286
+"id": 250
 },
 {
 "part": "SFTS",
@@ -7538,7 +6568,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 287
+"id": 251
 },
 {
 "part": "SFTS",
@@ -7565,7 +6595,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 288
+"id": 252
 },
 {
 "part": "SFTS",
@@ -7592,7 +6622,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 289
+"id": 253
 },
 {
 "part": "SFTS",
@@ -7619,7 +6649,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 290
+"id": 254
 },
 {
 "part": "SFTS",
@@ -7646,7 +6676,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 291
+"id": 255
 },
 {
 "part": "SFTS",
@@ -7673,7 +6703,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 292
+"id": 256
 },
 {
 "part": "SFTS",
@@ -7700,7 +6730,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 293
+"id": 257
 },
 {
 "part": "SFTS",
@@ -7727,7 +6757,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 294
+"id": 258
 },
 {
 "part": "SFTS",
@@ -7754,6 +6784,6 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 295
+"id": 259
 }
 ];
