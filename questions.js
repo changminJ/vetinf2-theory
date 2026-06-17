@@ -128,6 +128,60 @@ const LABQ = [
 },
 {
 "part": "Herpesviridae",
+"unit": "Herpes1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "총론·분류·virion·genome",
+"q": "Herpesvirus의 3대 아과 중 Betaherpesvirinae의 특징으로 가장 옳은 것은?",
+"choices": [
+"복제가 빠르고(2–3일) cytolytic이며 sensory neuron에 잠복한다",
+"복제가 느리고(2–3주) 감염세포의 비대(cytomegaly)를 일으켜 cytomegalovirus로도 불린다",
+"주로 lymphoid tissue에 잠복하며 MCF virus가 대표 예시이다",
+"복제 속도가 중간(~1주)이고 lymphocyte를 감염시킨다",
+"Bovine herpesvirus 1과 Marek's disease virus가 대표 예시이다"
+],
+"answer": [
+2
+],
+"explain": "강의안 슬라이드 263 'Slow replication (2–3 weeks) / Causes enlargement of infected cells (cytomegaly) / Often referred to as cytomegaloviruses' 부분에서 Betaherpesvirinae의 핵심을 도출한다. ①은 Alphaherpesvirinae(Rapid replication 2–3 days, Cytolytic, sensory neuron 잠복), ③·④는 Gammaherpesvirinae(Moderate replication ~1 week, lymphocyte 감염, lymphoid tissue 잠복, MCF virus 예시), ⑤의 BHV-1·Marek's disease virus는 Alphaherpesvirinae 예시이다(슬라이드 263).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 6
+},
+{
+"part": "Herpesviridae",
+"unit": "Herpes1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "총론·분류·virion·genome",
+"q": "Herpesvirus의 복제(replication) 과정에 대한 설명으로 옳은 것은?",
+"choices": [
+"세포질(cytoplasm)에서 복제되며 핵(nucleus)에는 들어가지 않는다",
+"host cell과의 membrane fusion으로 진입하고 nucleus에서 복제하며 성숙 virion은 exocytosis로 방출된다",
+"외피 없이 세포를 용해(lysis)시켜야만 방출된다",
+"역전사효소(reverse transcriptase)로 RNA를 DNA로 만든 뒤 복제한다",
+"capsid는 핵막을 통과하지 않고 세포막에서 직접 조립된다"
+],
+"answer": [
+2
+],
+"explain": "강의안 슬라이드 260 'Entry via membrane fusion with host cell / Replication occurs in the nucleus / Capsids bud through the nuclear membrane / Mature virions are released via exocytosis' 부분이 근거다. ①·⑤는 핵 내 복제·핵막 budding과 모순된다(슬라이드 260). ③은 enveloped virus가 exocytosis로 방출된다는 슬라이드 260과 어긋난다. ④ 역전사효소는 강의안 herpesvirus 본문에 제시되지 않으며 herpesvirus는 dsDNA 바이러스이다(슬라이드 258).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 7
+},
+{
+"part": "Herpesviridae",
 "unit": "Herpes2",
 "cardOrder": 2,
 "origin": "summary",
@@ -152,7 +206,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 6
+"id": 8
 },
 {
 "part": "Herpesviridae",
@@ -179,7 +233,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 7
+"id": 9
 },
 {
 "part": "Herpesviridae",
@@ -206,7 +260,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 8
+"id": 10
 },
 {
 "part": "Herpesviridae",
@@ -233,7 +287,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 9
+"id": 11
+},
+{
+"part": "Herpesviridae",
+"unit": "Herpes2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "소(BHV-1, IBR/IPV, BHV-2, BHV-5)",
+"q": "BHV-1에 의한 생식기형(IPV, BHV-1.2)과 호흡기형(IBR, BHV-1.1)을 비교한 설명으로 옳은 것은?",
+"choices": [
+"IPV(BHV-1.2) 감염은 viremia를 일으키지 않고 abortion이 드물며, 잠복은 sacral ganglia에 형성된다",
+"IPV는 BHV-1.1이 일으키고 IBR은 BHV-1.2가 일으킨다",
+"IPV에서는 viremia가 흔하고 임신 4–7개월 abortion이 주된 합병증이다",
+"IBR는 생식기 점막에, IPV는 호흡기 점막에 국한된다",
+"두 형 모두 잠복은 sacral ganglia에만 형성된다"
+],
+"answer": [
+1
+],
+"explain": "강의안 슬라이드 275 'BHV-1.2 infections do NOT cause viremia / Abortion is rare in genital infection / Virus travels via axons to sacral ganglia' 부분이 근거다. ②는 subtype-질병 짝이 뒤바뀜 — 슬라이드 268에서 BHV-1.1→IBR(호흡기), BHV-1.2a/2b→IPV(생식기)이다. ③의 viremia·4–7개월 abortion은 IPV가 아니라 IBR(호흡기형) 소견이다(슬라이드 272 'Abortion (4–7 months of gestation)', 275). ④는 침범 부위가 반대다. ⑤는 IBR의 잠복이 sacral이 아님 — 슬라이드 265 표는 alphaherpesvirus 잠복을 trigeminal·sacral로 제시한다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 12
+},
+{
+"part": "Herpesviridae",
+"unit": "Herpes2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "소(BHV-1, IBR/IPV, BHV-2, BHV-5)",
+"q": "Bovine herpesvirus 2(BHV-2)의 두 임상형 중 Pseudo-Lumpy Skin Disease(PLSD)에 대한 설명으로 옳은 것은?",
+"choices": [
+"유두에 국한된 미란·궤양만 일으키는 국소(localized) 감염이다",
+"전신형(viremic spread)으로, 결절은 단단·원형이며 흔히 중심부가 함몰되고 수 주 내 흉터 없이 치유된다",
+"poxvirus가 원인이며 진짜 Lumpy Skin Disease보다 더 심하고 괴사성이다",
+"betaherpesvirus(cytomegalovirus)에 의한 질환이다",
+"주로 6개월령 미만 송아지에서 뇌염을 일으킨다"
+],
+"answer": [
+2
+],
+"explain": "강의안 슬라이드 280 'Pseudo-lumpy skin disease (PLSD) → systemic (viremic spread)'와 슬라이드 283 'Nodules are: Firm, Circular, Often centrally depressed / No necrosis of epidermis / Heal without scarring within weeks' 부분이 근거다. ①은 국소 감염인 Bovine Ulcerative Mammillitis(BUM)의 특징이다(슬라이드 280·282). ③은 PLSD가 아니라 진짜 LSD로, 슬라이드 284에서 LSD는 poxvirus·더 심함·괴사성, PLSD는 더 경함·자가제한적·흉터 없음으로 대비된다. ④ BHV-2는 alphaherpesvirinae이다(슬라이드 280). ⑤ 송아지 뇌염은 BHV-5이다(슬라이드 287).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 13
 },
 {
 "part": "Herpesviridae",
@@ -261,7 +369,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 10
+"id": 14
 },
 {
 "part": "Herpesviridae",
@@ -288,7 +396,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 11
+"id": 15
 },
 {
 "part": "Herpesviridae",
@@ -315,7 +423,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 12
+"id": 16
 },
 {
 "part": "Herpesviridae",
@@ -342,7 +450,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 13
+"id": 17
+},
+{
+"part": "Herpesviridae",
+"unit": "Herpes3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "악성카타르열(MCF)·BHV-4",
+"q": "악성카타르열(MCF)에 감염된 소에서 나타나는 임상 증상으로 강의안에 제시된 것은?",
+"choices": [
+"양측 각막혼탁(bilateral corneal opacity)으로 진행하는 안구 증상과 혈변(bloody diarrhea)",
+"극심한 가려움증(severe pruritus, 'mad itch')으로 인한 자가손상",
+"유두의 미란·궤양과 착유 곤란",
+"비점막 괴사로 인한 'red nose'",
+"임신 후기 유산과 척수 혈관염에 의한 후지마비"
+],
+"answer": [
+1
+],
+"explain": "강의안 슬라이드 293 'Ocular signs: Conjunctivitis, Bilateral corneal opacity, Progression to blindness'와 'Gastrointestinal signs: Diarrhea, Bloody diarrhea (due to intestinal mucosal erosion)' 부분이 근거다. ②의 'mad itch'는 Aujeszky병 2차숙주 증상이다(슬라이드 306). ③의 유두 미란은 BHV-2 BUM이다(슬라이드 282). ④의 'red nose'는 IBR이다(슬라이드 271). ⑤의 임신 후기 유산·척수 혈관염은 EHV-1이다(슬라이드 314·315).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 18
+},
+{
+"part": "Herpesviridae",
+"unit": "Herpes3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "악성카타르열(MCF)·BHV-4",
+"q": "MCF의 원인 바이러스 중 Alcelaphine herpesvirus 1(AHV-1)에 대한 설명으로 옳은 것은?",
+"choices": [
+"자연숙주는 sheep이며 전 세계에 분포한다",
+"자연숙주는 wildebeest(누)이고 분포가 Africa로 제한되며 wildebeest의 calving season이 고위험 시기이다",
+"betaherpesvirus로 분류되며 cytomegaly를 일으킨다",
+"소·사슴이 자연숙주(reservoir)로서 바이러스를 활발히 전파한다",
+"한국에서 매년 다수 보고되는 풍토병이다"
+],
+"answer": [
+2
+],
+"explain": "강의안 슬라이드 290 '(1) AHV-1 (Wildebeest-associated MCF) / Natural host: Wildebeest / Distribution: Restricted to Africa / High-risk period: Wildebeest calving season' 부분이 근거다. ①은 OvHV-2의 특징이다(슬라이드 291 'Natural host: Sheep / Global distribution'). ③ MCF 원인체는 gammaherpesvirus이다(슬라이드 289). ④ 소·사슴은 dead-end host로 바이러스를 더 전파하지 못한다(슬라이드 291). ⑤ 슬라이드 289 'No reported cases in Korea to date'와 모순된다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 19
 },
 {
 "part": "Herpesviridae",
@@ -370,7 +532,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 14
+"id": 20
 },
 {
 "part": "Herpesviridae",
@@ -397,7 +559,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 15
+"id": 21
 },
 {
 "part": "Herpesviridae",
@@ -424,7 +586,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 16
+"id": 22
 },
 {
 "part": "Herpesviridae",
@@ -451,7 +613,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 17
+"id": 23
+},
+{
+"part": "Herpesviridae",
+"unit": "Herpes4",
+"cardOrder": 4,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "돼지(Aujeszky/오제스키, PRV, PCMV)",
+"q": "Aujeszky병(가성광견병, Suid herpesvirus 1)의 바이러스 배출(shedding)과 전파에 대한 설명으로 옳은 것은?",
+"choices": [
+"타액·비즙·우유·정액으로 배출되지만 소변(urine)·분변(feces)으로는 배출되지 않으며, 주 전파는 nose-to-nose 접촉과 aerosol이다",
+"소변과 분변이 주된 배출 경로이며 경구 섭취로만 전파된다",
+"잠복은 sacral ganglia에 형성되고 모기에 의해 전파된다",
+"개·고양이는 nose-to-nose 접촉으로만 감염되고 육류 섭취로는 감염되지 않는다",
+"돼지에서만 감염되며 다른 동물 종에는 전혀 전파되지 않는다"
+],
+"answer": [
+1
+],
+"explain": "강의안 슬라이드 302 'Virus shedding: Saliva, Nasal secretions, Milk, Semen / Not shed in urine or feces / Main transmission: Nose-to-nose contact, Aerosol spread' 부분이 근거다. ②는 'Not shed in urine or feces'와 정면으로 모순된다(슬라이드 302). ③ 잠복은 trigeminal ganglia이고(슬라이드 301·303) 모기 매개는 강의안에 없다. ④ 슬라이드 302 'Dogs and cats: Infection via ingestion of infected meat'와 어긋난다. ⑤ 슬라이드 301에서 cattle·sheep·dogs·cats·wildlife도 감염되며 다만 reservoir만 돼지이다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 24
+},
+{
+"part": "Herpesviridae",
+"unit": "Herpes4",
+"cardOrder": 4,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "돼지(Aujeszky/오제스키, PRV, PCMV)",
+"q": "돼지 cytomegalovirus 감염(Porcine Cytomegalovirus, PCMV)에 대한 설명으로 옳은 것은?",
+"choices": [
+"alphaherpesvirus이며 자돈에서 치사율 100%의 신경증상을 일으킨다",
+"betaherpesvirus로, 전 세계 돼지의 최대 90%가 carrier이고 2주령 미만 자돈에서 심한 호흡기병을 일으킨다",
+"소변·분변으로 대량 배출되어 가성광견병의 주된 전파원이다",
+"2차숙주인 소·개에서 'mad itch'를 일으킨다",
+"gE/TK gene-deleted marker 백신으로 근절된다"
+],
+"answer": [
+2
+],
+"explain": "강의안 슬라이드 310 'Porcine cytomegalovirus (Betaherpesvirus) / Up to 90% of pigs are carriers worldwide / Piglets (<2 weeks old) Severe respiratory disease' 부분이 근거다. ① PCMV는 betaherpesvirus이며, 자돈 치사율 100% 신경증상은 Aujeszky병(alphaherpesvirus)이다(슬라이드 300·304). ③·④·⑤는 모두 Aujeszky병(Suid herpesvirus 1) 관련 내용으로 — 소변·분변 비배출(슬라이드 302), 'mad itch'(슬라이드 306), gE/TK marker 백신(슬라이드 309) — PCMV와 무관하다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 25
 },
 {
 "part": "Herpesviridae",
@@ -479,7 +695,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 18
+"id": 26
 },
 {
 "part": "Herpesviridae",
@@ -506,7 +722,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 19
+"id": 27
 },
 {
 "part": "Herpesviridae",
@@ -533,7 +749,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 20
+"id": 28
 },
 {
 "part": "Herpesviridae",
@@ -560,7 +776,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 21
+"id": 29
+},
+{
+"part": "Herpesviridae",
+"unit": "Herpes5",
+"cardOrder": 5,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "말(EHV)·염소(CapHV-1)",
+"q": "EHV-1과 EHV-4의 차이를 설명한 것으로 옳은 것은?",
+"choices": [
+"EHV-1은 hemagglutinating activity가 있고 vascular endothelial cell 친화성으로 viremia·태반 혈관염→유산·CNS 질환을 일으키는 반면, EHV-4는 hemagglutinating activity가 없고 주로 호흡기에 국한되며 viremia가 드물다",
+"EHV-4가 말의 가장 중요한 바이러스성 유산 원인이고 EHV-1은 호흡기에 국한된다",
+"EHV-1은 hemagglutinating activity가 없고 EHV-4는 있다",
+"두 바이러스는 항원적으로 전혀 관련이 없어 혈청검사로 쉽게 구분된다",
+"EHV-1의 항체 보유율이 약 100%로 매우 높고 EHV-4는 약 30%로 낮다"
+],
+"answer": [
+1
+],
+"explain": "강의안 슬라이드 312 'EHV-1 ... Hemagglutinating activity'와 'EHV-4 ... No hemagglutinating activity', 슬라이드 314 'EHV-1: Tropism for vascular endothelial cells / Causes placental vasculitis → abortion ... EHV-4 infection is usually limited to the respiratory tract, and viremia is uncommon' 부분이 근거다. ②는 유산 주원인·호흡기 국한이 뒤바뀜(슬라이드 315 'One of the most important viral causes of abortion'은 EHV-1). ③은 HA activity가 반대다(슬라이드 312). ④는 슬라이드 312 'antigenically closely related'·슬라이드 318 'cross-reactivity'와 모순된다. ⑤는 항체 보유율이 반대로 — 슬라이드 313에서 EHV-4≈100%, EHV-1≈30%이다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 30
+},
+{
+"part": "Herpesviridae",
+"unit": "Herpes5",
+"cardOrder": 5,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "말(EHV)·염소(CapHV-1)",
+"q": "말의 EHV-1 유산(abortion)에 대한 설명으로 옳은 것은?",
+"choices": [
+"보통 임신 7개월 이후에 발생하며, mare에 뚜렷한 전구증상이 없고 한 번 유산한 mare가 이후 임신에서 다시 유산하는 경우는 드물다",
+"유산은 임신 초기(1–2개월)에만 발생하고 모체의 미래 번식력을 영구적으로 망친다",
+"유산은 모기 매개로 전파되어 무리 전체에서 동시에 발생한다",
+"유산 태아에는 병변이 전혀 없어 육안·조직 진단이 불가능하다",
+"EHV-1 유산은 bacterial 합병증 없이는 절대 일어나지 않는다"
+],
+"answer": [
+1
+],
+"explain": "강의안 슬라이드 315 'Usually occurs after 7 months of gestation / Usually no obvious prodromal signs in the mare / Does not usually affect future fertility / Mares that abort once rarely abort again in later pregnancies' 부분이 근거다. ②는 7개월 이후 발생·번식력 영향 적음과 모순된다(슬라이드 315). ③ 모기 매개는 강의안 EHV 본문에 없고 전파는 respiratory route이다(슬라이드 313). ④는 슬라이드 315 'Lesions in aborted fetuses: Pulmonary edema, Hepatic necrosis, Petechial hemorrhages'와 어긋난다. ⑤ bacterial 합병증 필수 조건은 강의안에 없다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 31
 },
 {
 "part": "Herpesviridae",
@@ -588,7 +858,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 22
+"id": 32
 },
 {
 "part": "Herpesviridae",
@@ -615,7 +885,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 23
+"id": 33
 },
 {
 "part": "Herpesviridae",
@@ -642,7 +912,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 24
+"id": 34
 },
 {
 "part": "Herpesviridae",
@@ -669,7 +939,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 25
+"id": 35
+},
+{
+"part": "Herpesviridae",
+"unit": "Herpes6",
+"cardOrder": 6,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개(CHV-1)·고양이(FHV-1)·영장류(B virus 등)",
+"q": "신생 강아지의 Canine herpesvirus 1(CHV-1) 전신감염에 대한 치료·대처로 강의안이 제시한 것은?",
+"choices": [
+"신생자를 더 차갑게 유지해 바이러스 복제를 늦춘다",
+"체온을 높여(heating lamp로 ~39°C) 바이러스 복제를 억제하고, antiserum 조기 투여 및 임신 암컷 백신으로 모체이행항체를 제공한다",
+"신생자에게 직접 modified live 백신을 대량 접종한다",
+"특효 항바이러스제가 있어 전신감염을 완치할 수 있다",
+"별다른 처치 없이도 대부분 자연 회복되므로 관찰만 한다"
+],
+"answer": [
+2
+],
+"explain": "강의안 슬라이드 333 'No effective treatment for systemic infection in neonates / Increase body temperature: Virus replication is inhibited at higher temperatures / Use heating lamp / Raise to ~39°C / Early administration of antiserum / Vaccination of pregnant females → Provides maternal antibodies to puppies' 부분이 근거다. ①은 정반대로, CHV-1은 ~33°C 저온에서 잘 복제하므로(슬라이드 328) 체온을 올려야 한다. ③은 신생자 직접 접종이 아니라 임신 암컷 접종이다(슬라이드 333). ④는 'No effective treatment'와 모순된다(슬라이드 333). ⑤ 신생자 사망률은 100%에 접근하므로(슬라이드 329) 관찰만 하는 것은 틀리다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 36
+},
+{
+"part": "Herpesviridae",
+"unit": "Herpes6",
+"cardOrder": 6,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개(CHV-1)·고양이(FHV-1)·영장류(B virus 등)",
+"q": "Feline herpesvirus 1(FHV-1)과 Feline calicivirus(FCV) 감별에서, 강의안 표에 따라 FHV-1보다 FCV에서 더 흔한 소견은?",
+"choices": [
+"심한 결막염 등 안구 징후(eye signs)",
+"거품성 침흘림(frothy salivation)",
+"혀의 궤양(tongue ulcers)",
+"지저분하고 부스스한 얼굴(dirty/unkempt face)",
+"궤양성 각막염(ulcerative keratitis)"
+],
+"answer": [
+3
+],
+"explain": "강의안 슬라이드 338의 FHV-1 vs FCV 비교표 'Tongue ulcers | Rare | Common' 부분이 근거로, tongue ulcers는 FHV-1에서 rare, FCV에서 common이다. ①은 'Eye signs: Severe (conjunctivitis) | Mild'로 FHV-1에서 더 심하다(슬라이드 338). ②는 'Salivation: Frothy | Less prominent'로 FHV-1 쪽이다. ④는 'Facial appearance: Dirty/unkempt | Less severe'로 FHV-1 쪽이다. ⑤ 궤양성 각막염은 FHV-1의 severe case 소견이다(슬라이드 337).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 37
 },
 {
 "part": "Herpesviridae",
@@ -689,7 +1013,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 26
+"id": 38
 },
 {
 "part": "Herpesviridae",
@@ -711,7 +1035,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 27
+"id": 39
 },
 {
 "part": "Herpesviridae",
@@ -739,7 +1063,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 28
+"id": 40
 },
 {
 "part": "Herpesviridae",
@@ -767,7 +1091,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 29
+"id": 41
 },
 {
 "part": "Herpesviridae",
@@ -789,7 +1113,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 30
+"id": 42
 },
 {
 "part": "Herpesviridae",
@@ -810,7 +1134,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 31
+"id": 43
 },
 {
 "part": "Herpesviridae",
@@ -841,7 +1165,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 32
+"id": 44
 },
 {
 "part": "Herpesviridae",
@@ -869,7 +1193,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 33
+"id": 45
 },
 {
 "part": "Herpesviridae",
@@ -900,7 +1224,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 34
+"id": 46
 },
 {
 "part": "Herpesviridae",
@@ -927,7 +1251,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 35
+"id": 47
 },
 {
 "part": "Herpesviridae",
@@ -947,7 +1271,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 36
+"id": 48
 },
 {
 "part": "Herpesviridae",
@@ -969,7 +1293,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 37
+"id": 49
 },
 {
 "part": "Herpesviridae",
@@ -999,7 +1323,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 38
+"id": 50
 },
 {
 "part": "Herpesviridae",
@@ -1017,7 +1341,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Aujeszky's disease (pseudorabies) is caused by Suid herpesvirus 1 (Alphaherpesvirinae); pigs are the only reservoir species although cattle, sheep/goats, dogs and cats can be infected (slide 300, 301). In non-pig species the hallmark is severe pruritus 'mad itch' with self-trauma, fatal within hours to 6 days in cattle (slide 306). Aujeszky's disease는 Suid herpesvirus 1이 원인이며 돼지가 유일한 reservoir, 타종(소·개·고양이 등)은 치명적이나 reservoir가 아님. ② 소가 reservoir라는 것은 틀림. ③ 바이러스는 urine·feces로는 배출되지 않음(slide 302). ④ 자돈에서 100% 폐사, 성돈은 흔히 불현성(slide 300, 304). ⑤ Alphaherpesvirinae이며 trigeminal ganglia에 잠복(slide 301).",
+"explain": "Aujeszky's disease (pseudorabies) is caused by Suid herpesvirus 1 (Alphaherpesvirinae); pigs are the only reservoir species although cattle, sheep/goats, dogs and cats can be infected (slide 300, 301). In non-pig species the hallmark is severe pruritus 'mad itch' with self-trauma, fatal within hours to 6 days in cattle (slide 306). Aujeszky's disease는 Suid herpesvirus 1이 원인이며 돼지가 유일한 reservoir, 타종(소·개·고양이 등)은 치명적이나 reservoir가 아님. ② 소가 reservoir라는 것은 틀림. ③ 바이러스는 urine·feces로는 배출되지 않음(slide 302). ④ 자돈에서 100% 폐사, 성돈은 흔히 불현성(slide 300, 304). ⑤ Alphaherpesvirinae이며 trigeminal ganglia에 잠복(slide 301).\n\n**[문항 한국어 해석]**\n발문: 한 양돈장에서 생후 5일 된 포유자돈(suckling piglet)들이 떨림(tremor)·경련(convulsion)·운동실조(ataxia)·선회(circling)를 보이며 갑자기 폐사한다. 인접한 소 농장에서는 여러 마리의 소가 옆구리(flank)를 미친 듯이 핥고 비비고 물어뜯다가 죽어간다. 두 사건은 동일한 병원체와 연관되어 있다. 이 병원체에 관한 설명으로 가장 정확한 것은?\n① Suid herpesvirus 1이 원인이며, 소·개·고양이가 치명적으로 감염될 수 있어도 돼지가 유일한 보유숙주(reservoir) 종이다\n② 소가 보유숙주(reservoir host)이고 돼지는 우발적 종말숙주(dead-end host)이다\n③ 바이러스가 소변(urine)과 분변(feces)으로 쉽게 배출되며, 이것이 농장 간 전파의 주된 경로이다\n④ 성돈(adult pig)은 보통 100% 폐사율을 보이는 반면 자돈(piglet)은 불현성(subclinical)으로 남는다\n⑤ Gammaherpesvirinae에 속하며 림프구(lymphocyte)에 잠복(latency)한다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -1026,7 +1350,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 39
+"id": 51
 },
 {
 "part": "Herpesviridae",
@@ -1044,7 +1368,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "B virus disease is caused by Cercopithecine herpesvirus 1; macaques are the natural host with only mild disease (vesicles on lips/tongue/oral mucosa), but it is a very important zoonosis that is highly pathogenic in humans, progressing from local vesicles/ulcers to muscle weakness, paralysis, persistent hiccups and severe neurological disease (slide 342). B virus disease는 Cercopithecine herpesvirus 1, 자연숙주 macaque에서는 경증이나 사람에서는 highly pathogenic·치명적. ② OvHV-2는 MCF 원인으로 무관(slide 289). ③ 자연숙주는 macaque이지 사람이 아님(slide 342). ④ 숙주별 중증도가 반대로 서술됨 — macaque 경증, human 중증(slide 342, 266). ⑤ 사람 전파는 bite·scratch 및 분비물 접촉이며 절지동물 매개가 아님(slide 342).",
+"explain": "B virus disease is caused by Cercopithecine herpesvirus 1; macaques are the natural host with only mild disease (vesicles on lips/tongue/oral mucosa), but it is a very important zoonosis that is highly pathogenic in humans, progressing from local vesicles/ulcers to muscle weakness, paralysis, persistent hiccups and severe neurological disease (slide 342). B virus disease는 Cercopithecine herpesvirus 1, 자연숙주 macaque에서는 경증이나 사람에서는 highly pathogenic·치명적. ② OvHV-2는 MCF 원인으로 무관(slide 289). ③ 자연숙주는 macaque이지 사람이 아님(slide 342). ④ 숙주별 중증도가 반대로 서술됨 — macaque 경증, human 중증(slide 342, 266). ⑤ 사람 전파는 bite·scratch 및 분비물 접촉이며 절지동물 매개가 아님(slide 342).\n\n**[문항 한국어 해석]**\n발문: 한 실험실 작업자가 마카크 원숭이(macaque)에게 물린 뒤 몇 주 후 물린 부위에 수포성 병변(vesicular lesion)이 생기고, 이어 근육 약화(muscle weakness)·지속성 딸꾹질(persistent hiccup)·심한 두통(headache)·목 경직(neck stiffness)·운동실조(ataxia)가 나타난다. 감염원이 된 마카크는 경미한 구강 수포만 있었다. 이 병원체를 가장 잘 특징짓는 설명은?\n① Cercopithecine herpesvirus 1로, 자연숙주인 마카크에서는 경증을 일으키지만 사람에서는 치명적일 수 있는 고병원성 감염을 일으킨다\n② Ovine herpesvirus 2로, 양에서 영장류 취급자에게 전파된다\n③ 사람이 자연숙주이고 마카크는 우발적 종말숙주(dead-end host)이다\n④ 마카크에서는 중증 질환을 일으키지만 사람에서는 불현성(subclinical) 감염만 일으킨다\n⑤ 사람으로의 전파에는 물림·할큄이 아니라 절지동물 매개체(arthropod vector)가 필요하다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -1053,7 +1377,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 40
+"id": 52
 },
 {
 "part": "Herpesviridae",
@@ -1071,7 +1395,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "EHV-1 has tropism for vascular endothelial cells, causing placental vasculitis leading to abortion (one of the most important viral abortion causes in horses, usually after 7 months gestation) and CNS vasculitis/thrombosis; EHV-4 infection is usually limited to the respiratory tract with uncommon viremia (slide 314, 315). EHV-1은 혈관내피 친화성으로 placental vasculitis→유산 및 CNS 병변을 일으키고, EHV-4는 호흡기에 국한되며 viremia가 드묾. ② 유산의 주원인은 EHV-1이며 hemagglutinating activity는 EHV-1의 특성(slide 312). ③ 대부분의 serology는 항원 교차반응으로 EHV-1/EHV-4를 구별 못함; PCR이 구별 가능(slide 318). ④ 두 바이러스 모두 trigeminal ganglia에 latency를 형성(slide 314). ⑤ EHV-1·EHV-4는 alphaherpesvirus이며 신경절 잠복(slide 314).",
+"explain": "EHV-1 has tropism for vascular endothelial cells, causing placental vasculitis leading to abortion (one of the most important viral abortion causes in horses, usually after 7 months gestation) and CNS vasculitis/thrombosis; EHV-4 infection is usually limited to the respiratory tract with uncommon viremia (slide 314, 315). EHV-1은 혈관내피 친화성으로 placental vasculitis→유산 및 CNS 병변을 일으키고, EHV-4는 호흡기에 국한되며 viremia가 드묾. ② 유산의 주원인은 EHV-1이며 hemagglutinating activity는 EHV-1의 특성(slide 312). ③ 대부분의 serology는 항원 교차반응으로 EHV-1/EHV-4를 구별 못함; PCR이 구별 가능(slide 318). ④ 두 바이러스 모두 trigeminal ganglia에 latency를 형성(slide 314). ⑤ EHV-1·EHV-4는 alphaherpesvirus이며 신경절 잠복(slide 314).\n\n**[문항 한국어 해석]**\n발문: 한 임신 암말(pregnant mare)이 임신 9개월째에 전구증상(prodromal sign) 없이 유산한다. 태아는 폐부종(pulmonary edema)·간괴사(hepatic necrosis)·심근(myocardium)·비장(spleen)·간(liver)의 점상출혈(petechial hemorrhage)을 보인다. 한편 같은 농장의 이유망아지(weanling foal)들은 발열·인두염(pharyngitis)·장액성 비루(serous nasal discharge)를 보인다. 관련된 두 종류의 말 헤르페스바이러스를 가장 정확하게 구별한 설명은?\n① EHV-1은 혈관 내피(vascular endothelium)에 친화성을 가져 태반 혈관염(placental vasculitis)과 유산을 일으키고 중추신경계(CNS) 질환도 유발할 수 있는 반면, EHV-4 감염은 대개 호흡기에 국한되고 바이러스혈증(viremia)은 드물다\n② EHV-4가 혈구응집능(hemagglutinating activity)을 가지므로 유산의 주된 원인이다\n③ 혈청학적 검사로 모든 경우에 EHV-1과 EHV-4를 확실히 구별할 수 있다\n④ EHV-4와 달리 EHV-1은 잠복(latency)을 형성하는 능력이 없다\n⑤ 두 바이러스 모두 림프조직(lymphoid tissue)에만 잠복하는 gammaherpesvirus이다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -1080,7 +1404,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 41
+"id": 53
 },
 {
 "part": "Herpesviridae",
@@ -1098,7 +1422,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Equine herpesvirus 3 causes equine COITAL EXANTHEMA — a sexually transmitted disease with genital papules/vesicles/ulcers that heal in ~2 weeks; fertility is not affected and there is NO abortion or infertility (slide 320). Fatal neonatal systemic disease with renal necrosis is canine herpesvirus 1 (slide 326, 331), so pairing ① is incorrect. ② FHV-1=feline viral rhinotracheitis로 심한 안질환 동반(slide 335, 299). ③ Caprine herpesvirus 1=goats의 BHV-1 유사 호흡기·생식기 질환(slide 325). ④ Cercopithecine herpesvirus 6/7/9=simian varicella, chickenpox 유사(slide 343). ⑤ Porcine cytomegalovirus=돼지 rhinitis·respiratory, 높은 carrier율(slide 310). 따라서 잘못된 짝은 ①.",
+"explain": "Equine herpesvirus 3 causes equine COITAL EXANTHEMA — a sexually transmitted disease with genital papules/vesicles/ulcers that heal in ~2 weeks; fertility is not affected and there is NO abortion or infertility (slide 320). Fatal neonatal systemic disease with renal necrosis is canine herpesvirus 1 (slide 326, 331), so pairing ① is incorrect. ② FHV-1=feline viral rhinotracheitis로 심한 안질환 동반(slide 335, 299). ③ Caprine herpesvirus 1=goats의 BHV-1 유사 호흡기·생식기 질환(slide 325). ④ Cercopithecine herpesvirus 6/7/9=simian varicella, chickenpox 유사(slide 343). ⑤ Porcine cytomegalovirus=돼지 rhinitis·respiratory, 높은 carrier율(slide 310). 따라서 잘못된 짝은 ①.\n\n**[문항 한국어 해석]**\n발문: 종(species)-질병 표에 근거하여 헤르페스바이러스와 그것이 일으키는 질병을 짝지을 때, 잘못된(INCORRECT) 짝은?\n① 말 헤르페스바이러스 3(Equine herpesvirus 3) → 신장 괴사(renal necrosis)를 동반한 치명적 신생아 전신 질환\n② 고양이 헤르페스바이러스 1(Feline herpesvirus 1) → 심한 안질환을 동반한 고양이 바이러스성 비기관염(feline viral rhinotracheitis)\n③ 산양 헤르페스바이러스 1(Caprine herpesvirus 1) → 염소에서 BHV-1 유사 호흡기·생식기 질환\n④ Cercopithecine herpesvirus 6/7/9 → 원숭이 수두(simian varicella, 수두 유사)\n⑤ 돼지 거대세포바이러스(Porcine cytomegalovirus) → 돼지에서 높은 보균율(carrier rate)을 보이는 비염/호흡기 질환",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -1107,7 +1431,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 42
+"id": 54
 },
 {
 "part": "Herpesviridae",
@@ -1125,7 +1449,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "DIVA for BHV-1 uses gE-deleted marker vaccines: vaccinated animals lack antibodies to gE, so gE-antibody indicates natural infection, allowing differentiation; these were successfully used in European eradication programs (slide 279). DIVA는 gE-deleted marker vaccine으로 백신접종우(gE 항체 음성)와 자연감염우(gE 항체 양성)를 구별, 유럽 박멸프로그램에서 사용. ② 전항원 inactivated vaccine은 자연감염과 항체 구별 불가. ③ IBR+PI-3 combined MLV는 일반 예방용이지 DIVA 표지 기능이 없음(slide 278). ④ 어떤 BHV-1 백신도 latency를 막지 못함(slide 278). ⑤ TK는 약독화 표적으로 삭제(gE/TK 결손)되는 것이지 'TK 강화'는 틀린 표현(Aujeszky slide 309 참고).",
+"explain": "DIVA for BHV-1 uses gE-deleted marker vaccines: vaccinated animals lack antibodies to gE, so gE-antibody indicates natural infection, allowing differentiation; these were successfully used in European eradication programs (slide 279). DIVA는 gE-deleted marker vaccine으로 백신접종우(gE 항체 음성)와 자연감염우(gE 항체 양성)를 구별, 유럽 박멸프로그램에서 사용. ② 전항원 inactivated vaccine은 자연감염과 항체 구별 불가. ③ IBR+PI-3 combined MLV는 일반 예방용이지 DIVA 표지 기능이 없음(slide 278). ④ 어떤 BHV-1 백신도 latency를 막지 못함(slide 278). ⑤ TK는 약독화 표적으로 삭제(gE/TK 결손)되는 것이지 'TK 강화'는 틀린 표현(Aujeszky slide 309 참고).\n\n**[문항 한국어 해석]**\n발문: 한 유럽의 소 군집(herd)이 전염성 소 비기관염(infectious bovine rhinotracheitis, IBR) 박멸 프로그램에 등록되어 있다. 수의사는 백신접종 동물과 자연감염 동물을 혈청학적으로 구별(DIVA)할 수 있는 백신이 필요하다. 어떤 백신 설계가 가장 적합한가?\n① gE 결손(gE-deleted, gE 음성) 표지 백신(marker vaccine)\n② 전체 항원을 모두 갖춘 전(全)불활화 백신(whole-inactivated vaccine)\n③ IBR + PI-3 혼합 약독화 생백신(modified live vaccine)\n④ 잠복(latency) 형성을 막아주는 백신\n⑤ 티미딘 키나아제(thymidine kinase, TK) 강화 생백신",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -1134,7 +1458,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 43
+"id": 55
 },
 {
 "part": "Herpesviridae",
@@ -1152,7 +1476,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Sheep-associated MCF (OvHV-2) causes disease in which tissue damage is mainly immune-mediated, NOT direct viral cytopathic effect — uncontrolled CD8+ cytotoxic T lymphocyte and NK cell activation drives severe inflammation and widespread vasculitis (slide 292). MCF는 면역매개 손상이 핵심으로, CD8+ CTL·NK 세포의 조절 안 된 활성화가 광범위 vasculitis를 일으킴. ② 직접 cytolytic 효과가 아님이 강조됨(slide 292). ③ 자연숙주는 sheep(어린 lamb)이며 소는 자연숙주가 아님(slide 291). ④ MCF는 gammaherpesvirus(AHV-1, OvHV-2)이며 lymphotropic(slide 289). ⑤ 소·사슴은 dead-end host로 바이러스를 효과적으로 더 전파하지 않음(slide 291).",
+"explain": "Sheep-associated MCF (OvHV-2) causes disease in which tissue damage is mainly immune-mediated, NOT direct viral cytopathic effect — uncontrolled CD8+ cytotoxic T lymphocyte and NK cell activation drives severe inflammation and widespread vasculitis (slide 292). MCF는 면역매개 손상이 핵심으로, CD8+ CTL·NK 세포의 조절 안 된 활성화가 광범위 vasculitis를 일으킴. ② 직접 cytolytic 효과가 아님이 강조됨(slide 292). ③ 자연숙주는 sheep(어린 lamb)이며 소는 자연숙주가 아님(slide 291). ④ MCF는 gammaherpesvirus(AHV-1, OvHV-2)이며 lymphotropic(slide 289). ⑤ 소·사슴은 dead-end host로 바이러스를 효과적으로 더 전파하지 않음(slide 291).\n\n**[문항 한국어 해석]**\n발문: 한 소가 갑작스러운 고열(high fever), 다량의 악취 나는 비루(nasal discharge), 실명으로 진행하는 양측성 각막혼탁(corneal opacity), 미란성 구내염(erosive stomatitis), 혈성 설사(bloody diarrhea)를 보이다가 일주일 내에 폐사한다. 같은 농장에는 어린 새끼양(lamb)이 있는 양 무리가 있다. 이 질병의 발병기전(pathogenesis)을 가장 잘 설명한 것은?\n① 조직 손상은 주로 세포독성 CD8+ T세포(cytotoxic CD8+ T cell)와 NK세포의 조절되지 않은 활성화에 의한 면역매개(immune-mediated)성이며, 광범위한 혈관염(vasculitis)을 일으킨다\n② 병변은 혈관 내피(vascular endothelium)에서 바이러스의 직접적인 세포용해성(cytolytic) 복제로 생긴다\n③ 소가 자연 유지숙주(maintenance host)이며 양에게 효율적으로 바이러스를 전파한다\n④ 병원체는 삼차신경절(trigeminal ganglion)에 잠복하는 alphaherpesvirus이다\n⑤ 새끼양에게 감염된 소가 보유숙주(reservoir host)가 되어 다른 소에게 바이러스를 퍼뜨린다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -1161,7 +1485,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 44
+"id": 56
 },
 {
 "part": "Herpesviridae",
@@ -1179,7 +1503,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "The lecture classifies Marek's disease virus as an example of Alphaherpesvirinae, whose defining features are rapid replication (2-3 days), cytolytic infection, and establishment of latency in sensory neurons (slide 263). 강의안은 Marek's disease virus를 Alphaherpesvirinae 예시로 분류하며, 이 아과의 특징은 빠른 복제(2-3일)·cytolytic 감염·sensory neuron 잠복임. ② cytomegaly·2-3주 느린 복제는 Betaherpesvirinae(slide 263). ③ ~1주 moderate 복제·lymphoid tissue 잠복은 Gammaherpesvirinae(slide 263). ④ lymphocyte 잠복은 beta/gamma 특징. ⑤ 모든 herpesvirus는 latency를 형성함(slide 261). (주: 본 강의안은 Marek병의 림프종·신경병변 등 임상 세부는 다루지 않으므로 분류 기준으로만 판정.)",
+"explain": "The lecture classifies Marek's disease virus as an example of Alphaherpesvirinae, whose defining features are rapid replication (2-3 days), cytolytic infection, and establishment of latency in sensory neurons (slide 263). 강의안은 Marek's disease virus를 Alphaherpesvirinae 예시로 분류하며, 이 아과의 특징은 빠른 복제(2-3일)·cytolytic 감염·sensory neuron 잠복임. ② cytomegaly·2-3주 느린 복제는 Betaherpesvirinae(slide 263). ③ ~1주 moderate 복제·lymphoid tissue 잠복은 Gammaherpesvirinae(slide 263). ④ lymphocyte 잠복은 beta/gamma 특징. ⑤ 모든 herpesvirus는 latency를 형성함(slide 261). (주: 본 강의안은 Marek병의 림프종·신경병변 등 임상 세부는 다루지 않으므로 분류 기준으로만 판정.)\n\n**[문항 한국어 해석]**\n발문: 헤르페스바이러스 아과(subfamily) 분류표에서, 마렉병 바이러스(Marek's disease virus)는 소 헤르페스바이러스 1(bovine herpesvirus 1)·가성광견병 바이러스(pseudorabies virus)·단순포진 바이러스(herpes simplex virus)·수두대상포진 바이러스(varicella-zoster virus)와 같은 그룹으로 묶인다. 이 분류에 근거할 때, 마렉병 바이러스가 그 그룹과 공유하는 성질의 조합은?\n① 빠른 복제(2~3일)·세포용해성(cytolytic) 감염·감각신경(sensory neuron) 잠복(Alphaherpesvirinae)\n② 2~3주에 걸친 느린 복제와 감염 세포의 비대(거대세포화, cytomegaly)\n③ 중등도 복제(약 1주)와 림프조직(lymphoid tissue)에 형성되는 잠복\n④ 주로 림프구(lymphocyte) 잠복으로, betaherpesvirus의 특징\n⑤ 어떤 형태의 잠복도 형성하지 못함",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -1188,7 +1512,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 45
+"id": 57
 },
 {
 "part": "Poxviridae",
@@ -1205,7 +1529,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 46
+"id": 58
 },
 {
 "part": "Poxviridae",
@@ -1231,7 +1555,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 47
+"id": 59
 },
 {
 "part": "Poxviridae",
@@ -1258,7 +1582,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 48
+"id": 60
 },
 {
 "part": "Poxviridae",
@@ -1285,7 +1609,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 49
+"id": 61
 },
 {
 "part": "Poxviridae",
@@ -1312,7 +1636,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 50
+"id": 62
+},
+{
+"part": "Poxviridae",
+"unit": "Pox1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "일반 특성·구조·복제 (개념카드)",
+"q": "Poxvirus 복제 과정에서 감염 후 수 분 이내에 가장 먼저 early mRNA 합성을 시작할 수 있는 이유로 옳은 것은?",
+"choices": [
+"숙주 핵의 RNA 중합효소를 즉시 빌려 쓰기 때문",
+"virion 안에 전사에 필요한 viral enzyme을 싣고 다니기 때문",
+"감염 즉시 숙주 리보솜을 분해하기 때문",
+"역전사효소(reverse transcriptase)를 사용하기 때문",
+"유전체가 단일가닥 RNA라서 곧바로 번역되기 때문"
+],
+"answer": [
+2
+],
+"explain": "슬라이드390 'Viral enzymes carried in the virion initiate early mRNA synthesis within minutes after infection' — poxvirus는 virion 안에 효소를 직접 싣고 다녀 감염 직후 세포질에서 early 전사를 시작한다. 핵을 빌리지 않으며(슬라이드390 'replication occurs mainly in the cytoplasm'), 유전체는 linear dsDNA다(슬라이드387). 역전사·단일가닥 RNA·리보솜 분해는 강의안에 없는 잘못된 진술이다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 63
+},
+{
+"part": "Poxviridae",
+"unit": "Pox1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "일반 특성·구조·복제 (개념카드)",
+"q": "Poxvirus 유전체(genome)에서 면역회피 유전자(immune evasion genes)와 host-response 조절 단백질 유전자가 주로 배치되는 구역은?",
+"choices": [
+"중심부(central region)",
+"말단부(terminal region)",
+"외피(envelope)",
+"lateral body",
+"core wall"
+],
+"answer": [
+2
+],
+"explain": "슬라이드388 'Terminal region (early stage) — Immune evasion genes, Host-response modulation proteins' — 면역회피·숙주반응 조절 유전자는 말단부(terminal region)에 위치한다. 중심부(central region)에는 replication genes·structural protein genes가 배치된다(슬라이드388). envelope·lateral body·core wall은 구조 요소일 뿐 유전자 배치 구역이 아니다(슬라이드387).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 64
 },
 {
 "part": "Poxviridae",
@@ -1339,7 +1717,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 51
+"id": 65
 },
 {
 "part": "Poxviridae",
@@ -1366,7 +1744,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 52
+"id": 66
 },
 {
 "part": "Poxviridae",
@@ -1393,7 +1771,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 53
+"id": 67
 },
 {
 "part": "Poxviridae",
@@ -1420,7 +1798,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 54
+"id": 68
+},
+{
+"part": "Poxviridae",
+"unit": "Pox2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "Capripoxvirus — LSD·Sheeppox·Goatpox (개념카드)",
+"q": "강의안에서 제시된 Lumpy skin disease(LSD)의 이환율(morbidity)과 폐사율(mortality) 수치로 옳은 것은?",
+"choices": [
+"Morbidity 5-45%, mortality 보통 <10%",
+"Morbidity 90-100%, mortality 90-100%",
+"Morbidity <1%, mortality 50%",
+"Morbidity 100%, mortality 0%",
+"Morbidity 50-100%, mortality 항상 >50%"
+],
+"answer": [
+1
+],
+"explain": "슬라이드399 'Morbidity: 5-45%, Mortality: usually <10%' — LSD는 이환율 5-45%, 폐사율은 보통 10% 미만이다. 90-100% 같은 고폐사율 수치는 본 강의안의 LSD 항목에 없다. 감수성 동물은 cattle·water buffalo로 함께 제시된다(슬라이드399).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 69
+},
+{
+"part": "Poxviridae",
+"unit": "Pox2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "Capripoxvirus — LSD·Sheeppox·Goatpox (개념카드)",
+"q": "강의안에 제시된 Lumpy skin disease(LSD)의 합병증(complications)에 해당하지 않는 것은?",
+"choices": [
+"유산(abortion)",
+"고환염(orchitis)",
+"유방염(mastitis)",
+"일시적/영구적 불임(infertility)",
+"선위확장(proventricular dilatation)"
+],
+"answer": [
+5
+],
+"explain": "슬라이드401 'Complications — Keratitis, Pneumonia, Mastitis, Abortion, Orchitis, Temporary/permanent infertility' — LSD 합병증에는 각막염·폐렴·유방염·유산·고환염·불임이 포함된다. 선위확장(proventricular dilatation)은 PDD(avian bornavirus)의 소견으로 본 강의안 Poxviridae 어디에도 없다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 70
 },
 {
 "part": "Poxviridae",
@@ -1447,7 +1879,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 55
+"id": 71
 },
 {
 "part": "Poxviridae",
@@ -1474,7 +1906,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 56
+"id": 72
 },
 {
 "part": "Poxviridae",
@@ -1501,7 +1933,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 57
+"id": 73
 },
 {
 "part": "Poxviridae",
@@ -1528,7 +1960,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 58
+"id": 74
+},
+{
+"part": "Poxviridae",
+"unit": "Pox3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "Orthopoxvirus — Cowpox·Mpox (개념카드)",
+"q": "Feline cowpox(고양이 우두)의 조직병리(histopathology) 소견으로 강의안에 제시된 봉입체(inclusion body)의 종류는?",
+"choices": [
+"호산성 세포질내 봉입체(eosinophilic intracytoplasmic inclusion bodies)",
+"호염기성 핵내 봉입체(basophilic intranuclear inclusion bodies)",
+"Joest-Degen 핵내 봉입체",
+"Negri body",
+"봉입체가 관찰되지 않음"
+],
+"answer": [
+1
+],
+"explain": "슬라이드413 'Eosinophilic intracytoplasmic inclusion bodies' — feline cowpox의 조직병리는 표피증식·풍선변성과 함께 호산성 세포질내 봉입체, 단핵세포 침윤이 특징이다. poxvirus는 세포질에서 복제하므로 봉입체도 세포질내(intracytoplasmic)다. Joest-Degen body는 Borna disease, Negri body는 광견병 소견으로 본 슬라이드에 없다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 75
+},
+{
+"part": "Poxviridae",
+"unit": "Pox3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "Orthopoxvirus — Cowpox·Mpox (개념카드)",
+"q": "강의안에 따르면 Feline cowpox(고양이 우두)의 가장 일반적인 감염 경로는?",
+"choices": [
+"감염된 설치류에게 물려서(bites from infected rodents)",
+"공기를 통한 호흡기 비말 흡입",
+"오염된 백신 바늘 재사용",
+"모기에 의한 기계적 전파",
+"어미에서 새끼로의 수직(태반) 전파"
+],
+"answer": [
+1
+],
+"explain": "슬라이드411 'Transmission — Usually through bites from infected rodents, Outdoor hunting cats at higher risk' — 고양이 우두는 보통 감염된 설치류에게 물려서 감염되며, 사냥하는 실외 고양이가 고위험군이다. wild rodents가 reservoir host로 제시된다(슬라이드411). 호흡기 비말·바늘 재사용·모기·수직전파는 본 슬라이드의 feline cowpox 전파 경로로 제시되지 않았다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 76
 },
 {
 "part": "Poxviridae",
@@ -1555,7 +2041,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 59
+"id": 77
 },
 {
 "part": "Poxviridae",
@@ -1582,7 +2068,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 60
+"id": 78
 },
 {
 "part": "Poxviridae",
@@ -1609,7 +2095,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 61
+"id": 79
 },
 {
 "part": "Poxviridae",
@@ -1636,7 +2122,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 62
+"id": 80
+},
+{
+"part": "Poxviridae",
+"unit": "Pox4",
+"cardOrder": 4,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "Parapoxvirus — Orf·Pseudocowpox·BPS (개념카드)",
+"q": "Orf(Contagious Ecthyma)에 대한 설명으로 강의안 근거상 옳은 것은?",
+"choices": [
+"양·염소의 인수공통 질병이며 재감염이 가능하고 보통 self-limiting이다",
+"원인체는 Orthopoxvirus이며 평생 면역이 형성된다",
+"한 번 감염되면 재감염이 불가능하다",
+"주로 돼지의 복부에 병변을 일으킨다",
+"사람에게는 전혀 전파되지 않는다"
+],
+"answer": [
+1
+],
+"explain": "슬라이드437 'Important zoonotic disease of sheep and goats — Orf virus, Genus: Parapoxvirus, Reinfection possible, Usually self-limiting' — Orf는 양·염소의 인수공통 질병으로 Parapoxvirus가 원인이며 재감염 가능, 보통 self-limiting이다. 사람은 close animal contact로 감염될 수 있다(슬라이드438). Orthopoxvirus·평생면역·돼지 복부 병변·비전파는 모두 잘못된 진술이다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 81
+},
+{
+"part": "Poxviridae",
+"unit": "Pox4",
+"cardOrder": 4,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "Parapoxvirus — Orf·Pseudocowpox·BPS (개념카드)",
+"q": "강의안에서 사람의 손가락·손에 'Milker's nodule(착유자 결절)'을 유발하는 인수공통 Parapoxvirus 질병은?",
+"choices": [
+"Pseudocowpox(가성우두)",
+"Lumpy skin disease",
+"Swinepox(돈두)",
+"Rabbit myxomatosis",
+"Fowlpox(계두)"
+],
+"answer": [
+1
+],
+"explain": "슬라이드417 'Zoonotic Infection — Causes Milker's nodules in humans (Fingers, Hands)' — 가성우두(Pseudocowpox)는 소의 유두·유방 질병이면서 사람 손가락·손에 Milker's nodule을 유발하는 인수공통 Parapoxvirus 질병이다. 특징 병변은 말굽형·고리형 가피다(슬라이드418). LSD·Swinepox·myxomatosis·Fowlpox는 Milker's nodule과 무관하다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 82
 },
 {
 "part": "Poxviridae",
@@ -1663,7 +2203,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 63
+"id": 83
 },
 {
 "part": "Poxviridae",
@@ -1690,7 +2230,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 64
+"id": 84
 },
 {
 "part": "Poxviridae",
@@ -1717,7 +2257,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 65
+"id": 85
 },
 {
 "part": "Poxviridae",
@@ -1744,7 +2284,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 66
+"id": 86
+},
+{
+"part": "Poxviridae",
+"unit": "Pox5",
+"cardOrder": 5,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "Suipoxvirus·Avipoxvirus·Leporipoxvirus (개념카드)",
+"q": "강의안에서 곤충에 의한 기계적 전파(mechanical transmission by insects)가 일어나는 질병으로 함께 묶여 제시된 것이 아닌 것은?",
+"choices": [
+"Sheeppox",
+"Swinepox",
+"Avianpox",
+"Myxoma virus",
+"Feline cowpox"
+],
+"answer": [
+5
+],
+"explain": "슬라이드392 'Mechanical transmission by insects occurs in: Sheeppox, Swinepox, Avianpox, Myxoma virus' — 곤충 기계적 전파 질병으로 sheeppox·swinepox·avianpox·myxoma virus가 묶여 제시된다. Feline cowpox는 감염 설치류에게 물려서 전파되는 것이 일반 경로로(슬라이드411) 이 곤충 기계적 전파 목록에 포함되지 않는다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 87
+},
+{
+"part": "Poxviridae",
+"unit": "Pox5",
+"cardOrder": 5,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "Suipoxvirus·Avipoxvirus·Leporipoxvirus (개념카드)",
+"q": "Rabbit Myxomatosis(토끼 점액종증)의 초기 임상징후(early signs)로 강의안에 제시된 것은?",
+"choices": [
+"눈꺼풀결막염(blepharoconjunctivitis)·안면 부종·생식기/항문 주위 부종",
+"혈액성 거품 비강분비물과 급성 간괴사",
+"복부의 구진·농포·가피",
+"유두의 말굽형 가피",
+"혀·잇몸의 농포성 병변"
+],
+"answer": [
+1
+],
+"explain": "슬라이드445 'Early Signs — Blepharoconjunctivitis, Facial swelling, Genital/perianal edema' — 토끼 점액종증의 초기 징후는 눈꺼풀결막염·안면 부종·생식기/항문 주위 부종이며, 이후 발열·기면·전신 점액종성 부종으로 진행한다. 혈액성 거품 비강분비물·간괴사는 RHD(rabbit hemorrhagic disease) 소견이고, 복부 병변은 swinepox, 유두 말굽형 가피는 pseudocowpox, 혀·잇몸 병변은 Orf의 소견으로 본 질병의 초기 징후가 아니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 88
 },
 {
 "part": "Poxviridae",
@@ -1766,7 +2360,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 67
+"id": 89
 },
 {
 "part": "Poxviridae",
@@ -1794,7 +2388,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 68
+"id": 90
 },
 {
 "part": "Poxviridae",
@@ -1822,7 +2416,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 69
+"id": 91
 },
 {
 "part": "Poxviridae",
@@ -1850,7 +2444,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 70
+"id": 92
 },
 {
 "part": "Poxviridae",
@@ -1878,7 +2472,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 71
+"id": 93
 },
 {
 "part": "Poxviridae",
@@ -1900,7 +2494,7 @@ const LABQ = [
 "flagReason": "Q0625 족보 답안이 '타원형 규칙배열'을 일반 poxvirus 특징으로 잘못 서술. 강의안 Slide 387 기준 타원형·규칙적 표면은 Parapoxvirus의 특징이며 일반 poxvirus는 벽돌형·불규칙 배열이 옳음.",
 "unit": "",
 "cardOrder": 99,
-"id": 72
+"id": 94
 },
 {
 "part": "Poxviridae",
@@ -1918,7 +2512,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Sheeppox virus, goatpox virus and lumpy skin disease virus are all genus Capripoxvirus, closely related (LSDV ~96% genetic similarity) and serologically/immunologically indistinguishable; vaccination is available for sheeppox & goatpox control (slide 397, 431, 436). 세 바이러스 모두 Capripoxvirus 속, 밀접하게 관련·혈청학적 구별 불가, 백신 사용 가능. ② goatpox virus는 capripoxvirus이지 parapoxvirus가 아님(slide 386, 431). ③ 높은 유전적 유사성으로 혈청학적 구별이 어려움(slide 397, 431). ④ sheeppox/goatpox는 vaccination available(slide 436). ⑤ goatpox는 fever·전신 증상 및 중증 시 pneumonia·conjunctivitis를 동반(slide 433).",
+"explain": "Sheeppox virus, goatpox virus and lumpy skin disease virus are all genus Capripoxvirus, closely related (LSDV ~96% genetic similarity) and serologically/immunologically indistinguishable; vaccination is available for sheeppox & goatpox control (slide 397, 431, 436). 세 바이러스 모두 Capripoxvirus 속, 밀접하게 관련·혈청학적 구별 불가, 백신 사용 가능. ② goatpox virus는 capripoxvirus이지 parapoxvirus가 아님(slide 386, 431). ③ 높은 유전적 유사성으로 혈청학적 구별이 어려움(slide 397, 431). ④ sheeppox/goatpox는 vaccination available(slide 436). ⑤ goatpox는 fever·전신 증상 및 중증 시 pneumonia·conjunctivitis를 동반(slide 433).\n\n**[문항 한국어 해석]**\n발문: 한 염소가 발열·식욕부진(anorexia)과 함께 얼굴·귀·눈 주위에 전신성 두창 병변(papule·vesicle·pustule)을 보이며, 중증 시 폐렴(pneumonia)과 결막염(conjunctivitis)을 동반한다. 진단 검사실은 이 병원체가 면양두 바이러스(sheeppox virus) 및 럼피스킨병 바이러스(lumpy skin disease virus)와 혈청학적으로 구별되지 않는다고 보고한다. 가장 정확한 설명은?\n① 세 바이러스(산양두goatpox·면양두sheeppox·럼피스킨병) 모두 Capripoxvirus 속에 속하며 밀접하게 관련되어/혈청학적으로 구별되지 않으므로, 방제를 위한 백신접종이 가능하다\n② 산양두 바이러스(goatpox virus)는 parapoxvirus로, capripoxvirus인 면양두 바이러스와 다르다\n③ 세 바이러스는 유전적 유사성이 거의 없어 혈청학적으로 쉽게 구별된다\n④ 어떤 capripoxvirus 질병에도 사용 가능한 백신이 없다\n⑤ 산양두 병변은 특징적으로 전신증상 없이 치유되며 호흡기를 침범하는 일이 결코 없다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -1927,7 +2521,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 73
+"id": 95
 },
 {
 "part": "Poxviridae",
@@ -1945,7 +2539,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Cowpox virus is an Orthopoxvirus antigenically related to variola and vaccinia; wild rodents are the major reservoir, cats are frequently infected, and lesions are vesicles/pustules on teats and udder (slide 405, 406, 407). Pseudocowpox virus is a Parapoxvirus producing characteristic horseshoe-/ring-shaped scabs on teats, with frequent reinfection and 'milker's nodules' on human fingers/hands (slide 416, 417, 418). Herd A=Cowpox(Orthopoxvirus), Herd B=Pseudocowpox(Parapoxvirus). ②는 좌우가 뒤바뀜. ③ 두 농장이 서로 다른 속의 바이러스이므로 틀림. ④ cowpox는 Orthopoxvirus이지 Capripoxvirus가 아니고 pseudocowpox는 Parapoxvirus이지 Orthopoxvirus가 아님(slide 386). ⑤ herd A는 vesicle/pustule·설치류 reservoir·variola 관련으로 cowpox에 합치(slide 407).",
+"explain": "Cowpox virus is an Orthopoxvirus antigenically related to variola and vaccinia; wild rodents are the major reservoir, cats are frequently infected, and lesions are vesicles/pustules on teats and udder (slide 405, 406, 407). Pseudocowpox virus is a Parapoxvirus producing characteristic horseshoe-/ring-shaped scabs on teats, with frequent reinfection and 'milker's nodules' on human fingers/hands (slide 416, 417, 418). Herd A=Cowpox(Orthopoxvirus), Herd B=Pseudocowpox(Parapoxvirus). ②는 좌우가 뒤바뀜. ③ 두 농장이 서로 다른 속의 바이러스이므로 틀림. ④ cowpox는 Orthopoxvirus이지 Capripoxvirus가 아니고 pseudocowpox는 Parapoxvirus이지 Orthopoxvirus가 아님(slide 386). ⑤ herd A는 vesicle/pustule·설치류 reservoir·variola 관련으로 cowpox에 합치(slide 407).\n\n**[문항 한국어 해석]**\n발문: 두 젖소 군집(herd)이 유두(teat) 병변을 보고한다. A군집에서는 소들이 유두와 유방에 수포(vesicle)와 농포(pustule)를 보이고, 야생 설치류(wild rodent)가 주요 보유숙주이며, 고양이가 흔히 감염되고, 병원체는 두창(variola)·우두(vaccinia)와 항원적으로 관련된다. B군집에서는 소들이 유두에 말굽 모양(편자형/고리형) 가피를 보이며 재감염이 흔하고, 착유자(milker)는 손가락에 '착유자 결절(milker's nodule)'이 생긴다. 속(genus)의 짝이 올바른 것은?\n① A군집 = 우두(Cowpox) 바이러스(Orthopoxvirus); B군집 = 가성우두(Pseudocowpox) 바이러스(Parapoxvirus)\n② A군집 = 가성우두(Pseudocowpox) 바이러스(Parapoxvirus); B군집 = 우두(Cowpox) 바이러스(Orthopoxvirus)\n③ 두 군집 모두 우두(Cowpox) 바이러스(Orthopoxvirus)에 감염되었다\n④ A군집 = 우두(Cowpox) 바이러스(Capripoxvirus); B군집 = 가성우두(Pseudocowpox) 바이러스(Orthopoxvirus)\n⑤ 두 군집 모두 가성우두(Pseudocowpox) 바이러스(Parapoxvirus)에 감염되었다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -1954,7 +2548,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 74
+"id": 96
 },
 {
 "part": "Poxviridae",
@@ -1972,7 +2566,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Lumpy skin disease (LSD) is caused by lumpy skin disease virus, a Capripoxvirus, with fever, skin nodules, necrotic 'sit-fast' centers and deep scarring; it is a Class I notifiable disease in Korea (first outbreak 2023) (slide 396, 400). It must be distinguished from pseudo-LSD (BHV-2), which is milder, self-limiting and heals WITHOUT scarring (slide 284, 283). LSD는 capripoxvirus가 원인이며 괴사·흉터성 병변, pseudo-LSD(BHV-2)는 더 경하고 자가제한적·무흉터. ② BHV-2/무흉터 치유는 pseudo-LSD 쪽 설명(slide 283). ③ LSD=Capripoxvirus, pseudo-LSD=herpesvirus(BHV-2)로 서로 다른 과(slide 284). ④ LSD가 더 심하고 한국 제1종 가축전염병(slide 396). ⑤ poxvirus는 대부분의 DNA virus와 달리 cytoplasm에서 복제함(slide 390).",
+"explain": "Lumpy skin disease (LSD) is caused by lumpy skin disease virus, a Capripoxvirus, with fever, skin nodules, necrotic 'sit-fast' centers and deep scarring; it is a Class I notifiable disease in Korea (first outbreak 2023) (slide 396, 400). It must be distinguished from pseudo-LSD (BHV-2), which is milder, self-limiting and heals WITHOUT scarring (slide 284, 283). LSD는 capripoxvirus가 원인이며 괴사·흉터성 병변, pseudo-LSD(BHV-2)는 더 경하고 자가제한적·무흉터. ② BHV-2/무흉터 치유는 pseudo-LSD 쪽 설명(slide 283). ③ LSD=Capripoxvirus, pseudo-LSD=herpesvirus(BHV-2)로 서로 다른 과(slide 284). ④ LSD가 더 심하고 한국 제1종 가축전염병(slide 396). ⑤ poxvirus는 대부분의 DNA virus와 달리 cytoplasm에서 복제함(slide 390).\n\n**[문항 한국어 해석]**\n발문: 한 소가 발열(>41°C), 표재 림프절(superficial lymph node) 비대, 그리고 머리·목·유방(udder)에 걸쳐 단단한 0.5~5cm 크기의 피부 결절(skin nodule)을 보인다. 일부 결절은 중심부에 괴사성 '시트패스트(sit-fast)' 마개를 형성하고 깊은 흉터(scar)를 남기며 치유된다. 이 질병은 한국에서 제1종 가축전염병이며 2023년 국내 최초로 보고되었다. 이 질병을 헤르페스바이러스성 유사질환(mimic)과 가장 잘 구별하는 설명은?\n① capripoxvirus가 일으키는 럼피스킨병(lumpy skin disease)으로 괴사·흉터성 병변을 보이는 반면, 가성 럼피스킨병(pseudo-lumpy skin disease, BHV-2)은 더 경하고 자가제한적(self-limiting)이며 흉터 없이 치유된다\n② 소 헤르페스바이러스 2(bovine herpesvirus 2)가 원인이며 결절은 보통 수 주 내에 흉터 없이 치유된다\n③ 두 질병 모두 orthopoxvirus가 원인이며 임상적으로 동일하다\n④ 럼피스킨병이 가성 럼피스킨병보다 경하며 신고 대상이 아니다\n⑤ 원인 바이러스는 다른 DNA 바이러스처럼 숙주 세포의 핵(nucleus)에서 복제한다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -1981,7 +2575,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 75
+"id": 97
 },
 {
 "part": "Poxviridae",
@@ -1999,7 +2593,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Orf (contagious ecthyma) is caused by orf virus, a Parapoxvirus, an important zoonotic disease of sheep and goats producing proliferative crusty lesions around the mouth/lips; human lesions on fingers show a characteristic targetoid appearance (slide 437, 439). As a poxvirus it replicates in the CYTOPLASM, and pox lesions follow papule->vesicle->pustule->scab (slide 390, 439). Orf=parapoxvirus, 인수공통, 세포질 복제. ② orf는 capripoxvirus가 아니라 parapoxvirus이며 보통 self-limiting(slide 437). ③ poxvirus는 nucleus가 아니라 cytoplasm에서 복제(slide 390). ④ orf는 reinfection possible, 면역이 오래가지 않음(slide 437). ⑤ variola와 항원적으로 관련된 것은 cowpox/vaccinia 같은 orthopoxvirus(slide 406)이지 orf가 아님.",
+"explain": "Orf (contagious ecthyma) is caused by orf virus, a Parapoxvirus, an important zoonotic disease of sheep and goats producing proliferative crusty lesions around the mouth/lips; human lesions on fingers show a characteristic targetoid appearance (slide 437, 439). As a poxvirus it replicates in the CYTOPLASM, and pox lesions follow papule->vesicle->pustule->scab (slide 390, 439). Orf=parapoxvirus, 인수공통, 세포질 복제. ② orf는 capripoxvirus가 아니라 parapoxvirus이며 보통 self-limiting(slide 437). ③ poxvirus는 nucleus가 아니라 cytoplasm에서 복제(slide 390). ④ orf는 reinfection possible, 면역이 오래가지 않음(slide 437). ⑤ variola와 항원적으로 관련된 것은 cowpox/vaccinia 같은 orthopoxvirus(slide 406)이지 orf가 아님.\n\n**[문항 한국어 해석]**\n발문: 한 양치기가 입과 입술 주위에 증식성 가피(crusty) 병변이 있던 새끼양들을 다룬 뒤, 손가락 등쪽(dorsal finger)에 통증성 표적 모양(targetoid) 결절이 나타나 내원한다. 원인 병원체에 관한 설명으로 가장 정확한 것은?\n① 양·염소의 인수공통 parapoxvirus인 오르프(orf) 바이러스로, 두창 병변이 구진(papule)→수포(vesicle)→농포(pustule)→가피(scab)로 진행하며 바이러스는 세포질(cytoplasm)에서 복제한다\n② 양치기에게 전신성·치명적 전신 질환을 일으키는 capripoxvirus이다\n③ 모든 DNA 바이러스처럼 숙주 세포의 핵(nucleus)에서 복제한다\n④ 평생 가는 방어 면역을 형성하므로 양의 재감염은 일어나지 않는다\n⑤ 두창(variola) 바이러스와 항원적으로 관련된 orthopoxvirus이다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -2008,7 +2602,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 76
+"id": 98
 },
 {
 "part": "Poxviridae",
@@ -2026,7 +2620,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Unlike most DNA viruses, poxviruses replicate mainly in the CYTOPLASM — viral enzymes carried in the virion initiate early mRNA synthesis and DNA replication is detected in the cytoplasm within ~2 hours (slide 390). Histologically, pox lesions show INTRACYTOPLASMIC inclusion bodies (e.g., LSD slide 402, feline cowpox eosinophilic intracytoplasmic inclusions slide 413, swinepox slide 428). 대부분의 DNA virus와 달리 poxvirus는 세포질에서 복제하며, 진단 봉입체는 intracytoplasmic임. ② poxvirus는 핵이 아니라 세포질에서 복제하고 봉입체도 세포질 내임(slide 390, 402). ③ 복제 위치는 맞으나 봉입체는 intranuclear가 아니라 intracytoplasmic임. ④ poxvirus는 RNA virus가 아니라 large enveloped dsDNA virus이며 봉입체를 형성함(slide 382, 387). ⑤ 핵소체 국한·무봉입체는 틀림(slide 390).",
+"explain": "Unlike most DNA viruses, poxviruses replicate mainly in the CYTOPLASM — viral enzymes carried in the virion initiate early mRNA synthesis and DNA replication is detected in the cytoplasm within ~2 hours (slide 390). Histologically, pox lesions show INTRACYTOPLASMIC inclusion bodies (e.g., LSD slide 402, feline cowpox eosinophilic intracytoplasmic inclusions slide 413, swinepox slide 428). 대부분의 DNA virus와 달리 poxvirus는 세포질에서 복제하며, 진단 봉입체는 intracytoplasmic임. ② poxvirus는 핵이 아니라 세포질에서 복제하고 봉입체도 세포질 내임(slide 390, 402). ③ 복제 위치는 맞으나 봉입체는 intranuclear가 아니라 intracytoplasmic임. ④ poxvirus는 RNA virus가 아니라 large enveloped dsDNA virus이며 봉입체를 형성함(slide 382, 387). ⑤ 핵소체 국한·무봉입체는 틀림(slide 390).\n\n**[문항 한국어 해석]**\n발문: 한 수의대 학생이 두창바이러스(poxvirus)가 왜 DNA 바이러스 중에서 이례적인지, 그리고 그 병변이 조직학적으로 어떻게 확진되는지 질문받는다. 올바른 설명의 조합은?\n① 복제는 주로 세포질(cytoplasm)에서 일어나며, 감염 세포는 세포질내 봉입체(intracytoplasmic inclusion body)를 보인다\n② 복제는 핵(nucleus)에서 일어나며, 감염 세포는 핵내 봉입체(intranuclear inclusion body)를 보인다\n③ 복제는 세포질에서 일어나지만, 진단용 봉입체는 핵내(intranuclear)에 있다\n④ 이 작은 외피보유 RNA 바이러스(enveloped RNA virus)는 봉입체를 형성하지 않고 세포질에서 복제한다\n⑤ 복제가 핵소체(nucleolus)에 국한되며 검출 가능한 봉입체를 형성하지 않는다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -2035,7 +2629,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 77
+"id": 99
 },
 {
 "part": "Picornaviridae",
@@ -2052,7 +2646,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 78
+"id": 100
 },
 {
 "part": "Picornaviridae",
@@ -2079,7 +2673,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 79
+"id": 101
 },
 {
 "part": "Picornaviridae",
@@ -2106,7 +2700,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 80
+"id": 102
 },
 {
 "part": "Picornaviridae",
@@ -2133,7 +2727,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 81
+"id": 103
 },
 {
 "part": "Picornaviridae",
@@ -2160,7 +2754,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 82
+"id": 104
+},
+{
+"part": "Picornaviridae",
+"unit": "Picorna1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "일반 특성 (개념카드)",
+"q": "Picornaviridae의 캡시드 단백질(capsid protein)로 옳게 묶인 것은?",
+"choices": [
+"GP2·GP3·GP4·GP5",
+"VP1·VP2·VP3·VP4",
+"Tax·Rex",
+"Gn·Gc",
+"L·M·S"
+],
+"answer": [
+2
+],
+"explain": "Picornaviridae의 캡시드 단백질은 VP1·VP2·VP3·VP4 4종이다. 강의안 슬라이드 345 'Capsid Proteins: VP1, VP2, VP3, VP4' 부분. ① GP2~GP5는 Arteriviridae의 구조단백질이고, 나머지는 모두 다른 바이러스군의 단백질·게놈 표기이므로 강의안 근거상 오답이다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 105
+},
+{
+"part": "Picornaviridae",
+"unit": "Picorna1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "일반 특성 (개념카드)",
+"q": "Picornaviridae의 산 안정성(acid stability)에 대한 설명으로 옳은 것은?",
+"choices": [
+"모든 picornavirus는 pH 6.5 미만에서 불안정하다",
+"대부분의 picornavirus는 산에 안정(acid stable)하지만 Rhinovirus는 pH 5.0 미만에서 불안정하다",
+"모든 picornavirus는 외피가 있어 산에 매우 약하다",
+"Aphthovirus만 산에 안정하고 나머지는 모두 불안정하다",
+"picornavirus는 ether에는 불안정하지만 산에는 모두 안정하다"
+],
+"answer": [
+2
+],
+"explain": "대부분의 picornavirus는 acid stable이며, 예외로 Aphthovirus는 pH 6.5 미만, Rhinovirus는 pH 5.0 미만에서 불안정하다. 강의안 슬라이드 346 'Most picornaviruses: Acid stable / Aphthovirus: Unstable below pH 6.5 / Rhinovirus: Unstable below pH 5.0' 부분. ①은 일부 예외에만 해당하고, picornavirus는 무외피(ether에 저항)이므로 ③⑤도 틀리다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 106
 },
 {
 "part": "Picornaviridae",
@@ -2187,7 +2835,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 83
+"id": 107
 },
 {
 "part": "Picornaviridae",
@@ -2214,7 +2862,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 84
+"id": 108
 },
 {
 "part": "Picornaviridae",
@@ -2241,7 +2889,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 85
+"id": 109
 },
 {
 "part": "Picornaviridae",
@@ -2268,7 +2916,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 86
+"id": 110
+},
+{
+"part": "Picornaviridae",
+"unit": "Picorna2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "FMD 구제역 (개념카드·최빈출)",
+"q": "구제역(FMD)의 에어로졸(aerosol) 전파에 대한 설명으로 강의안과 일치하는 것은?",
+"choices": [
+"육상으로 최대 60 km, 해상으로 최대 250 km까지 전파될 수 있다",
+"육상으로 최대 250 km, 해상으로 최대 60 km까지 전파된다",
+"에어로졸로는 전혀 전파되지 않는다",
+"육상·해상 모두 최대 10 km로 제한된다",
+"오직 직접 접촉으로만 전파되고 공기 전파는 없다"
+],
+"answer": [
+1
+],
+"explain": "FMD의 aerosol spread는 육상(over land) 최대 60 km, 해상(over sea) 최대 250 km로 제시된다. 강의안 슬라이드 351 'Aerosol Spread: Up to 60 km over land, Up to 250 km over sea' 부분. ②는 두 거리를 뒤바꾼 것이고, ③④⑤는 강의안과 어긋난다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 111
+},
+{
+"part": "Picornaviridae",
+"unit": "Picorna2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "FMD 구제역 (개념카드·최빈출)",
+"q": "구제역(FMD)의 carrier state 지속기간에 대해 강의안과 일치하는 것은?",
+"choices": [
+"소는 최대 5년, 물소는 최대 3년이다",
+"양·염소는 평생 carrier로 남는다",
+"소는 최대 3년, 물소는 최대 5년, 양·염소는 수개월이다",
+"모든 종에서 carrier 기간은 동일하게 1년이다",
+"백신을 접종하면 어떤 동물도 carrier가 되지 않는다"
+],
+"answer": [
+3
+],
+"explain": "FMD carrier state는 소 최대 3년(Cattle: up to 3 years), 물소 최대 5년(Buffalo: up to 5 years), 양·염소 수개월(Sheep/goats: months)로 제시된다. 강의안 슬라이드 351 'Carrier State' 부분. ①은 소·물소 기간을 뒤바꾼 것이고, 백신 접종 동물도 carrier가 될 수 있으므로(슬라이드 356) ⑤도 틀리다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 112
 },
 {
 "part": "Picornaviridae",
@@ -2295,7 +2997,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 87
+"id": 113
 },
 {
 "part": "Picornaviridae",
@@ -2322,7 +3024,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 88
+"id": 114
 },
 {
 "part": "Picornaviridae",
@@ -2349,7 +3051,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 89
+"id": 115
 },
 {
 "part": "Picornaviridae",
@@ -2376,7 +3078,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 90
+"id": 116
+},
+{
+"part": "Picornaviridae",
+"unit": "Picorna3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "SVD·EMCV·Teschovirus·Iflaviridae (개념카드)",
+"q": "돼지 수포병(SVD) 바이러스의 분류와 항원적 특성으로 옳은 것은?",
+"choices": [
+"Genus Aphthovirus이며 7개 혈청형을 가진다",
+"Genus Enterovirus이며 사람 Coxsackievirus B5와 항원적으로 관련된다",
+"Genus Cardiovirus이며 설치류가 reservoir이다",
+"Genus Teschovirus이며 VP1이 genotyping에 중요하다",
+"Genus Iflavirus이며 꿀벌을 감염시킨다"
+],
+"answer": [
+2
+],
+"explain": "SVDV는 Family Picornaviridae, Genus Enterovirus이며 사람 Coxsackievirus B5와 항원적으로 관련되고 자연숙주는 돼지뿐이다. 강의안 슬라이드 358 'Genus: Enterovirus, Antigenically related to Human Coxsackievirus B5, Natural host: pigs only' 부분. ① Aphthovirus·7혈청형은 FMDV, ③ Cardiovirus·설치류는 EMCV, ④ Teschovirus·VP1은 teschovirus, ⑤ Iflavirus·꿀벌은 Sacbrood virus의 특징이다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 117
+},
+{
+"part": "Picornaviridae",
+"unit": "Picorna3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "SVD·EMCV·Teschovirus·Iflaviridae (개념카드)",
+"q": "뇌심근염(EMC) 바이러스가 돼지 새끼(piglets)에서 일으키는 가장 특징적인 결과는?",
+"choices": [
+"혀·경구개의 궤양",
+"급사(치사율 약 100%)·발열·호흡곤란·심근염",
+"전신 마비로 진행하는 상행성 마비",
+"유선의 경화(hard udder)",
+"관절만곡증 같은 선천성 기형"
+],
+"answer": [
+2
+],
+"explain": "EMC 바이러스에 감염된 piglets는 급사(mortality ~100%), 발열, 호흡곤란(dyspnea), 구토, 심근염(myocarditis)을 보인다. 강의안 슬라이드 372 'Piglets: Sudden death (mortality ~100%), Fever, Dyspnea, Vomiting, Myocarditis' 부분. 성돈에서는 번식장애·유산·미라화 태아가 나타난다(같은 슬라이드). 나머지 선지는 다른 질병의 소견이다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 118
 },
 {
 "part": "Picornaviridae",
@@ -2396,7 +3152,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 91
+"id": 119
 },
 {
 "part": "Picornaviridae",
@@ -2419,7 +3175,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 92
+"id": 120
 },
 {
 "part": "Picornaviridae",
@@ -2437,7 +3193,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "FMD prevention and control centers on strict quarantine, movement restriction, stamping out, and disinfection (강의안 Picornaviridae slide 356 Prevention & Control). FMD 통제의 핵심은 살처분(stamping out)·이동제한·소독이다. Vaccination은 serotype-specific이고 면역이 ~6개월에 그치며 접종 동물도 carrier가 될 수 있어 단독으로 충분치 않다. Pigs는 massive shedding을 일으키므로(slide 351) 무시할 수 없어 나머지 선지는 오답.",
+"explain": "FMD prevention and control centers on strict quarantine, movement restriction, stamping out, and disinfection (강의안 Picornaviridae slide 356 Prevention & Control). FMD 통제의 핵심은 살처분(stamping out)·이동제한·소독이다. Vaccination은 serotype-specific이고 면역이 ~6개월에 그치며 접종 동물도 carrier가 될 수 있어 단독으로 충분치 않다. Pigs는 massive shedding을 일으키므로(slide 351) 무시할 수 없어 나머지 선지는 오답.\n\n**[문항 한국어 해석]**\n발문: FMD-청정국 지위를 추구해 온 한국의 한 양돈장에서 구제역(혈청형 O)이 확진되었다. 구제역은 WOAH List A이자 국내 제1종 법정전염병이므로, 공식 통제 대응의 가장 적절한 핵심(cornerstone) 조치는?\n① 감염축 및 접촉축의 살처분(stamping out)과 이동제한·소독\n② 회복될 때까지 감염 동물을 항바이러스제(antiviral drugs)로 치료\n③ 발열이 가라앉으면 회복된 carrier의 자유로운 이동 허용\n④ 평생 군면역을 위해 단일 다가백신(multivalent vaccine)에만 의존\n⑤ 돼지는 바이러스를 거의 배출하지 않으므로 발생을 무시",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -2446,7 +3202,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 93
+"id": 121
 },
 {
 "part": "Picornaviridae",
@@ -2464,7 +3220,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Among FMD differentials (vesicular stomatitis, swine vesicular disease, vesicular exanthema of swine, Senecavirus), only swine vesicular disease is described as clinically indistinguishable from FMD AND antigenically related to human Coxsackievirus B5 (강의안 Picornaviridae slide 355 Differential Diagnosis; slides 357-358 SVD Overview/Agent). EMC·Teschovirus는 수포가 아닌 심근/신경 질환, BEF는 소, Sacbrood는 꿀벌이라 오답.",
+"explain": "Among FMD differentials (vesicular stomatitis, swine vesicular disease, vesicular exanthema of swine, Senecavirus), only swine vesicular disease is described as clinically indistinguishable from FMD AND antigenically related to human Coxsackievirus B5 (강의안 Picornaviridae slide 355 Differential Diagnosis; slides 357-358 SVD Overview/Agent). EMC·Teschovirus는 수포가 아닌 심근/신경 질환, BEF는 소, Sacbrood는 꿀벌이라 오답.\n\n**[문항 한국어 해석]**\n발문: 한 농장의 돼지들이 주둥이(snout)와 발에 수포와 파행(lameness)을 보인다. 구제역이 의심되었으나 RT-PCR과 antigen ELISA로 FMDV가 배제되었다. 병변은 임상적으로 구제역과 구별 불가능하다고 보고되며, 병원체는 사람 Coxsackievirus B5와 항원적으로 관련된다. 가장 가능성 높은 진단은?\n① 돼지수포병(Swine vesicular disease)\n② 뇌심근염(Encephalomyocarditis)\n③ 테스코바이러스 뇌척수염(Teschovirus encephalomyelitis)\n④ 소유행열(Bovine ephemeral fever)\n⑤ 낭충봉아부패병(Sacbrood disease)",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -2473,7 +3229,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 94
+"id": 122
 },
 {
 "part": "Picornaviridae",
@@ -2491,7 +3247,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "FMDV serotypes are O, A, C, Asia 1, SAT1, SAT2, SAT3, and there is NO cross-protection between serotypes; the inactivated vaccine gives only serotype-specific protection lasting ~6 months (강의안 Picornaviridae slide 349 Serotypes \"No cross-protection between serotypes\"; slide 356 Vaccination \"Serotype-specific protection\"). O 백신은 A형을 막지 못한다. A형은 실재하는 serotype이고 면역은 평생이 아니므로 나머지 선지는 오답.",
+"explain": "FMDV serotypes are O, A, C, Asia 1, SAT1, SAT2, SAT3, and there is NO cross-protection between serotypes; the inactivated vaccine gives only serotype-specific protection lasting ~6 months (강의안 Picornaviridae slide 349 Serotypes \"No cross-protection between serotypes\"; slide 356 Vaccination \"Serotype-specific protection\"). O 백신은 A형을 막지 못한다. A형은 실재하는 serotype이고 면역은 평생이 아니므로 나머지 선지는 오답.\n\n**[문항 한국어 해석]**\n발문: 이전에 구제역 혈청형 O로 백신접종된 무리에서 구제역이 발생했고, 이후 혈청형 A로 형별 판정(typing)되었다. 농장주는 백신이 \"실패\"한 것에 놀란다. 이 결과를 가장 정확히 설명하는 것은?\n① FMDV 혈청형 간에는 교차방어(cross-protection)가 없으므로 O 백신은 혈청형 A를 방어하지 못한다\n② FMDV는 혈청형이 하나뿐이므로 진단이 틀렸을 것이다\n③ FMD 백신은 모든 혈청형에 평생 멸균면역(sterilizing immunity)을 제공한다\n④ 혈청형 A는 인정된 FMDV 혈청형이 아니다\n⑤ 불활화 FMD 백신은 혈청형과 무관하게 모든 picornavirus를 방어한다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -2500,7 +3256,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 95
+"id": 123
 },
 {
 "part": "Picornaviridae",
@@ -2518,7 +3274,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "FMD in young animals causes myocarditis leading to sudden death, with the classic \"tiger heart\" lesion, while adults show fever, salivation, and oral/feet vesicles (강의안 Picornaviridae slide 353 Clinical Signs: Young Animals \"Myocarditis → sudden death, Tiger heart lesion\"; slide 348/350 cloven-hoofed host, Aphthovirus). 어린 송아지의 급사는 FMDV myocarditis(tiger heart)로 설명되며, 성축의 발열·유연·구강/발굽 수포와 동일 병원체이다. SVD·Teschovirus는 신경증상, BEF·VS는 다른 임상상이라 오답.",
+"explain": "FMD in young animals causes myocarditis leading to sudden death, with the classic \"tiger heart\" lesion, while adults show fever, salivation, and oral/feet vesicles (강의안 Picornaviridae slide 353 Clinical Signs: Young Animals \"Myocarditis → sudden death, Tiger heart lesion\"; slide 348/350 cloven-hoofed host, Aphthovirus). 어린 송아지의 급사는 FMDV myocarditis(tiger heart)로 설명되며, 성축의 발열·유연·구강/발굽 수포와 동일 병원체이다. SVD·Teschovirus는 신경증상, BEF·VS는 다른 임상상이라 오답.\n\n**[문항 한국어 해석]**\n발문: 한 비육우 농장에서 전조 증상 없이 갑자기 폐사한 3주령 송아지들이 보고된다. 같은 무리의 성축 소들은 발열, 침흘림(drooling), 구강·지간(interdigital) 수포를 보인다. 폐사한 송아지를 부검하니 심근(myocardium)에 창백한 줄무늬(\"호심tiger heart\")가 관찰된다. 송아지 폐사를 가장 잘 설명하는 병원체와 기전은?\n① 어린 동물에서 심근염(myocarditis)을 일으키는 구제역바이러스(FMDV)\n② 뇌척수염(encephalomyelitis)을 일으키는 돼지수포병바이러스(SVDV)\n③ 상행성 이완성 마비(ascending flaccid paralysis)를 일으키는 테스코바이러스(Teschovirus)\n④ 이상성 발열(biphasic fever)을 일으키는 소유행열바이러스(bovine ephemeral fever virus)\n⑤ 인두 마비(pharyngeal paralysis)를 일으키는 수포성구내염바이러스(vesicular stomatitis virus)",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -2527,7 +3283,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 96
+"id": 124
 },
 {
 "part": "Picornaviridae",
@@ -2545,7 +3301,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "SVDV (genus Enterovirus, pigs only, related to human Coxsackievirus B5) causes a vesicular disease of pigs that is clinically indistinguishable from FMD — a key differential diagnosis (강의안 Picornaviridae slides 357-358). Teschovirus causes non-suppurative polioencephalomyelitis/ascending paralysis (slide 362-366); EMCV (Cardiovirus, rodent reservoir) causes piglet myocarditis/sudden death and sow reproductive failure (slides 369-372); Sacbrood virus (Iflaviridae) is a honey bee larval disease (slide 377). 따라서 SVD 짝만 맞다.",
+"explain": "SVDV (genus Enterovirus, pigs only, related to human Coxsackievirus B5) causes a vesicular disease of pigs that is clinically indistinguishable from FMD — a key differential diagnosis (강의안 Picornaviridae slides 357-358). Teschovirus causes non-suppurative polioencephalomyelitis/ascending paralysis (slide 362-366); EMCV (Cardiovirus, rodent reservoir) causes piglet myocarditis/sudden death and sow reproductive failure (slides 369-372); Sacbrood virus (Iflaviridae) is a honey bee larval disease (slide 377). 따라서 SVD 짝만 맞다.\n\n**[문항 한국어 해석]**\n발문: 각 picornavirus를 그 대표적(hallmark) 발현과 짝짓는다. 옳게 짝지어진 것은?\n① 돼지수포병바이러스(Enterovirus) — 임상적으로 구제역과 구별 불가능한 돼지의 수포성 질병\n② 돼지 테스코바이러스(Porcine teschovirus) — 심근염만으로 인한 자돈 100% 급사\n③ 뇌심근염바이러스(EMCV) — 꿀벌 유충 질병\n④ 낭충봉아부패병바이러스(Sacbrood virus) — 돼지의 비화농성 폴리오뇌척수염\n⑤ 구제역바이러스(FMDV) — 설치류의 번식장애",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -2554,7 +3310,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 97
+"id": 125
 },
 {
 "part": "Arteriviridae",
@@ -2571,7 +3327,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 98
+"id": 126
 },
 {
 "part": "Arteriviridae",
@@ -2598,7 +3354,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 99
+"id": 127
 },
 {
 "part": "Arteriviridae",
@@ -2625,7 +3381,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 100
+"id": 128
 },
 {
 "part": "Arteriviridae",
@@ -2652,7 +3408,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 101
+"id": 129
 },
 {
 "part": "Arteriviridae",
@@ -2679,7 +3435,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 102
+"id": 130
+},
+{
+"part": "Arteriviridae",
+"unit": "Arteri1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "과 일반특성 (Nidovirales·+ssRNA)",
+"q": "Arteriviridae의 입자 크기와 형태에 대한 설명으로 강의안과 일치하는 것은?",
+"choices": [
+"약 200 nm의 큰 벽돌 모양 바이러스이다",
+"50-74 nm 크기의 작은 외피 바이러스이며 spherical~pleomorphic 형태이다",
+"약 30 nm의 무외피 정이십면체 바이러스이다",
+"외피가 없고 컵 모양 함몰을 가진 27-40 nm 바이러스이다",
+"약 1000 nm의 나선형 바이러스이다"
+],
+"answer": [
+2
+],
+"explain": "Arterivirus는 50-74 nm 크기의 작은 외피(enveloped) 바이러스이며 형태는 spherical to pleomorphic이고, 내부에 약 40 nm의 정이십면체 nucleocapsid core를 가진다. 강의안 슬라이드 140 'Size: 50-74 nm, Spherical to pleomorphic, Icosahedral nucleocapsid core (~40 nm)' 부분. ③·④의 ~30 nm 무외피와 27-40 nm 컵 모양은 각각 Picornaviridae·Caliciviridae의 특성이다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 131
+},
+{
+"part": "Arteriviridae",
+"unit": "Arteri1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "과 일반특성 (Nidovirales·+ssRNA)",
+"q": "Arteriviridae의 환경 저항성(environmental stability)에 대한 설명으로 옳은 것은?",
+"choices": [
+"강한 환경 저항성을 가져 일반 소독제로 잘 죽지 않는다",
+"-70℃에서 안정하지만 heat·extreme pH·lipid solvents·detergents에는 민감하다",
+"건조 환경에서 수년간 감염성을 유지한다",
+"ether·chloroform 같은 지질용매에 매우 저항성이 있다",
+"산성 pH에서 가장 안정하다"
+],
+"answer": [
+2
+],
+"explain": "Arterivirus는 -70℃에서 안정하지만 heat, extreme pH, lipid solvents(ether·chloroform·butanol), detergents(NP-40·Triton X-100)에 민감하다. 강의안 슬라이드 146 'Stable at -70°C, Sensitive to: Heat, Extreme pH, Lipid solvents, Detergents' 부분. 외피가 있어 지질용매에 민감하므로 ①③④⑤는 모두 틀리다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 132
 },
 {
 "part": "Arteriviridae",
@@ -2706,7 +3516,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 103
+"id": 133
 },
 {
 "part": "Arteriviridae",
@@ -2733,7 +3543,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 104
+"id": 134
 },
 {
 "part": "Arteriviridae",
@@ -2760,7 +3570,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 105
+"id": 135
 },
 {
 "part": "Arteriviridae",
@@ -2787,7 +3597,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 106
+"id": 136
+},
+{
+"part": "Arteriviridae",
+"unit": "Arteri2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "PRRS — 돼지 생식기 호흡기 증후군",
+"q": "PRRS의 국내·국제 법정 지위로 강의안과 일치하는 것은?",
+"choices": [
+"국내 제1종 가축전염병이며 WOAH List A이다",
+"WOAH-listed disease이며 국내 제3종 가축전염병이다",
+"법정전염병이 아니다",
+"국내 제2종이며 WOAH 비보고 대상이다",
+"오직 국내 법정전염병일 뿐 WOAH와는 무관하다"
+],
+"answer": [
+2
+],
+"explain": "PRRS는 WOAH-listed disease이며 국내에서 제3종(Class III) 가축전염병으로 제시된다. 강의안 슬라이드 147 'WOAH-listed disease, Class III notifiable animal disease in Korea' 부분. 제1종·WOAH List A는 구제역(FMD)의 지위이므로 ①은 틀리다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 137
+},
+{
+"part": "Arteriviridae",
+"unit": "Arteri2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "PRRS — 돼지 생식기 호흡기 증후군",
+"q": "PRRSV의 viremia에 대한 설명으로 강의안과 일치하는 것은?",
+"choices": [
+"감염 후 약 1개월이 지나야 viremia가 발생한다",
+"감염 후 12-24시간 내에 viremia가 발생하고 혈중에서 3-5주 순환한다",
+"viremia는 발생하지 않고 국소 감염에 그친다",
+"peak viral load는 감염 직후 1일째에 나타난다",
+"혈중 순환은 24시간 이내로 끝난다"
+],
+"answer": [
+2
+],
+"explain": "PRRSV viremia는 감염 후 12-24시간 내에 발생하고, 바이러스는 혈중에서 3-5주간 순환하며, peak viral load는 감염 후 7-14일에 나타난다. 강의안 슬라이드 155 'Viremia develops within 12-24 hours after infection, Virus circulates in blood for 3-5 weeks, Peak Viral Load: 7-14 days post infection' 부분. 따라서 ①③④⑤는 강의안 수치와 어긋난다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 138
 },
 {
 "part": "Arteriviridae",
@@ -2814,7 +3678,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 107
+"id": 139
 },
 {
 "part": "Arteriviridae",
@@ -2841,7 +3705,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 108
+"id": 140
 },
 {
 "part": "Arteriviridae",
@@ -2868,7 +3732,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 109
+"id": 141
 },
 {
 "part": "Arteriviridae",
@@ -2895,7 +3759,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 110
+"id": 142
+},
+{
+"part": "Arteriviridae",
+"unit": "Arteri3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "EAV (말 바이러스성 동맥염) · LDV",
+"q": "EAV(말 바이러스성 동맥염)의 전신 확산 경로에 대한 강의안 설명으로 옳은 것은?",
+"choices": [
+"감염 후 즉시 뇌로만 이동해 뇌염을 일으킨다",
+"bronchial lymph nodes에 24시간, bloodstream에 48시간에 도달해 cell-associated viremia를 일으킨다",
+"오직 장관에만 국한되어 설사를 일으킨다",
+"감염 후 1주가 지나야 림프절에 도달한다",
+"혈류로는 전혀 들어가지 않는다"
+],
+"answer": [
+2
+],
+"explain": "EAV는 초기에 alveolar macrophage·bronchial epithelial cell에서 복제한 뒤 bronchial lymph nodes(24h)와 bloodstream(48h)으로 확산되어 cell-associated viremia와 전신 혈관염(systemic vasculitis)을 일으킨다. 강의안 슬라이드 167 'Virus spreads to Bronchial lymph nodes (24 h) and Bloodstream (48 h), Cell-associated viremia' 부분.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 143
+},
+{
+"part": "Arteriviridae",
+"unit": "Arteri3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "EAV (말 바이러스성 동맥염) · LDV",
+"q": "Arteriviridae 분류에서 LDV(Lactate dehydrogenase-elevating virus)의 genus와 숙주로 옳게 묶인 것은?",
+"choices": [
+"Alphaarterivirus — 말",
+"Betaarterivirus — 돼지",
+"Gammaarterivirus — 설치류(rodents)",
+"Deltaarterivirus — 영장류",
+"Betaarterivirus — 설치류"
+],
+"answer": [
+3
+],
+"explain": "LDV는 Gammaarterivirus이며 숙주는 설치류(rodents)이다. 강의안 슬라이드 139 'Gammaarterivirus : Lactate dehydrogenase-elevating virus (LDV) → rodents' 부분. Alphaarterivirus(EAV·말), Betaarterivirus(PRRSV·돼지), Deltaarterivirus(SHFV·영장류)와 구별된다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 144
 },
 {
 "part": "Arteriviridae",
@@ -2915,7 +3833,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 111
+"id": 145
 },
 {
 "part": "Arteriviridae",
@@ -2942,7 +3860,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 112
+"id": 146
 },
 {
 "part": "Arteriviridae",
@@ -2960,7 +3878,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "In EVA, some stallions become long-term carriers; the virus persists in the reproductive tract and is shed continuously in semen, driving venereal transmission via natural breeding or artificial insemination. The carrier state is androgen-dependent and is NOT seen in mares, geldings, or immature males (강의안 Arteriviridae slides 165, 168, 172). 따라서 androgen 의존적 stallion carrier가 핵심. 암말/거세마 carrier, 분변 배출 등은 사실과 달라 오답.",
+"explain": "In EVA, some stallions become long-term carriers; the virus persists in the reproductive tract and is shed continuously in semen, driving venereal transmission via natural breeding or artificial insemination. The carrier state is androgen-dependent and is NOT seen in mares, geldings, or immature males (강의안 Arteriviridae slides 165, 168, 172). 따라서 androgen 의존적 stallion carrier가 핵심. 암말/거세마 carrier, 분변 배출 등은 사실과 달라 오답.\n\n**[문항 한국어 해석]**\n발문: 한 번식 농장에서 말의 유산과 호흡기 질환 발생이, 임상적으로 정상이면서 정액(semen)으로 말동맥염바이러스(EAV)를 지속적으로 배출하여 교배 시 암말을 감염시키는 종마(stallion)로 추적된다. EVA의 지속 carrier 상태를 가장 잘 설명하는 것은?\n① carrier 상태는 androgen(수컷호르몬) 의존적이어서 종마에서는 나타나지만 암말·거세마·미성숙 수컷에서는 나타나지 않는다\n② 암말과 거세마(gelding)가 EAV의 주요 장기 carrier이다\n③ carrier는 정액이 아니라 분변으로만 바이러스를 배출한다\n④ carrier 상태는 소의 FMDV carrier와 동일하며 3년간 지속된다\n⑤ EAV는 어떤 말에서도 지속감염을 형성하지 못한다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -2969,7 +3887,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 113
+"id": 147
 },
 {
 "part": "Arteriviridae",
@@ -2987,7 +3905,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "PRRSV (Arteriviridae) infects porcine alveolar macrophages (PAMs) via the CD163 receptor; macrophage destruction causes immune suppression, easy secondary infections, interstitial pneumonia, persistent infection, and reproductive disorders. Sows show late-term abortion/stillbirth/weak piglets; piglets/growers show fever, dyspnea, increased mortality, with \"blue ear\" cyanosis as a characteristic sign (강의안 Arteriviridae slides 147, 153, 159). 따라서 PAM/CD163가 핵심. 나머지는 다른 병원체의 기전이라 오답.",
+"explain": "PRRSV (Arteriviridae) infects porcine alveolar macrophages (PAMs) via the CD163 receptor; macrophage destruction causes immune suppression, easy secondary infections, interstitial pneumonia, persistent infection, and reproductive disorders. Sows show late-term abortion/stillbirth/weak piglets; piglets/growers show fever, dyspnea, increased mortality, with \"blue ear\" cyanosis as a characteristic sign (강의안 Arteriviridae slides 147, 153, 159). 따라서 PAM/CD163가 핵심. 나머지는 다른 병원체의 기전이라 오답.\n\n**[문항 한국어 해석]**\n발문: 한 양돈 무리에서 모돈은 후기 유산(late-term abortion), 사산, 허약 자돈(weak-born piglets)을 보이고, 이유자돈(nursery pigs)은 발열·호흡곤란(dyspnea)·폐사 증가를 보이며 일부는 \"청색증 귀(blue ear)\" 청색증을 보인다. 병원체는 돼지폐포대식세포(porcine alveolar macrophages)를 감염시키고 2차 감염에 취약하게 만든다. 가장 잘 맞는 병원체와 병인은?\n① CD163 수용체를 통해 폐포대식세포에 침입해 대식세포 파괴와 면역억제를 일으키는 PRRSV\n② 인두 상피에서 복제하며 수포를 일으키는 구제역바이러스(FMD virus)\n③ 융모 장세포(villus enterocyte)를 감염시켜 설사를 일으키는 로타바이러스(Rotavirus)\n④ 역행성 축삭 수송(retrograde axonal transport)으로 중추신경계로 이동하는 광견병바이러스(Rabies virus)\n⑤ Culicoides 흡혈을 통해 혈관내피세포를 표적으로 하는 블루텅바이러스(Bluetongue virus)",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -2996,7 +3914,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 114
+"id": 148
 },
 {
 "part": "Arteriviridae",
@@ -3014,7 +3932,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "PRRSV-1 (EU) and PRRSV-2 (NA) differ by ~40% of the genome, and PRRSV has an extremely high mutation rate with frequent recombination. A major control challenge is its high genetic diversity and limited cross-protection, so a vaccine matched to one type/lineage protects poorly against divergent strains (강의안 Arteriviridae slides 148, 164). 따라서 큰 유전적 차이→교차방어 제한이 핵심. 동일항원·단일유전형·완전방어 주장은 오답.",
+"explain": "PRRSV-1 (EU) and PRRSV-2 (NA) differ by ~40% of the genome, and PRRSV has an extremely high mutation rate with frequent recombination. A major control challenge is its high genetic diversity and limited cross-protection, so a vaccine matched to one type/lineage protects poorly against divergent strains (강의안 Arteriviridae slides 148, 164). 따라서 큰 유전적 차이→교차방어 제한이 핵심. 동일항원·단일유전형·완전방어 주장은 오답.\n\n**[문항 한국어 해석]**\n발문: 한 무리가 PRRSV-1(유럽형, European type)과 PRRSV-2(북미형, North American type)에 동시 감염된 것으로 확인된다. 수의사는 두 type이 게놈의 약 40%가 다르다는 점에 주목한다. 백신 접종 관점에서 그 결과를 가장 정확히 설명하는 것은?\n① 큰 유전적 차이와 제한적 교차방어(limited cross-protection) 때문에 한 type에 대한 백신은 다른 type을 잘 방어하지 못한다\n② PRRSV-1과 PRRSV-2는 항원적으로 동일하므로 어떤 백신이든 둘 다 완전히 방어한다\n③ PRRSV 유전형은 하나뿐이라 동시 감염은 불가능하다\n④ 사멸백신(killed vaccine)은 모든 lineage에 멸균면역을 보장한다\n⑤ 두 type은 ORF5를 공유하므로 type 간 교차방어가 완전하다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -3023,7 +3941,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 115
+"id": 149
 },
 {
 "part": "Arteriviridae",
@@ -3041,7 +3959,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "PRRSV genetic classification is based mainly on ORF5 phylogenetic analysis (ORF5 encodes GP5); PRRSV-1 has subtypes/clades and PRRSV-2 has lineages/sublineages defined this way (강의안 Arteriviridae slides 149, 152). Diagnosis uses RT-PCR (most common) plus sequencing for lineage analysis (slide 163). ORF1a/1b는 non-structural protein을 암호화하고, N protein이 nucleocapsid를 형성하므로 나머지 선지는 오답.",
+"explain": "PRRSV genetic classification is based mainly on ORF5 phylogenetic analysis (ORF5 encodes GP5); PRRSV-1 has subtypes/clades and PRRSV-2 has lineages/sublineages defined this way (강의안 Arteriviridae slides 149, 152). Diagnosis uses RT-PCR (most common) plus sequencing for lineage analysis (slide 163). ORF1a/1b는 non-structural protein을 암호화하고, N protein이 nucleocapsid를 형성하므로 나머지 선지는 오답.\n\n**[문항 한국어 해석]**\n발문: 한 진단 실험실이 RT-PCR로 PRRSV를 확진한 뒤, 야외주를 lineage에 배정하고 백신주와 비교하는 분자역학(molecular epidemiology)을 위해 특정 게놈 영역을 시퀀싱한다. 이 PRRSV 유전 분류에 주로 사용되는 영역은?\n① GP5를 암호화하는 ORF5 — PRRSV 계통발생/lineage 분석의 기반\n② 구조단백질을 암호화하므로 ORF1a만 사용\n③ 혈청형을 결정하는 3' poly(A) tail\n④ 숙주의 CD163 수용체 유전자\n⑤ GP4가 nucleocapsid를 형성하므로 ORF4",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -3050,7 +3968,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 116
+"id": 150
 },
 {
 "part": "Caliciviridae",
@@ -3067,7 +3985,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 117
+"id": 151
 },
 {
 "part": "Caliciviridae",
@@ -3094,7 +4012,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 118
+"id": 152
 },
 {
 "part": "Caliciviridae",
@@ -3121,7 +4039,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 119
+"id": 153
 },
 {
 "part": "Caliciviridae",
@@ -3148,7 +4066,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 120
+"id": 154
 },
 {
 "part": "Caliciviridae",
@@ -3175,7 +4093,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 121
+"id": 155
+},
+{
+"part": "Caliciviridae",
+"unit": "Calici1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: Caliciviridae 총괄(FCV·RHDV·VESV)",
+"q": "돼지 수포진(VES) 바이러스(VESV)와 임상적으로 동일한 수포 병변을 만드는 관련 바이러스로 강의안이 제시한 것은?",
+"choices": [
+"San Miguel sea lion virus",
+"Coxsackievirus B5",
+"Senecavirus A",
+"Rabbit hemorrhagic disease virus",
+"Feline herpesvirus 1"
+],
+"answer": [
+1
+],
+"explain": "VESV와 밀접한 관련 바이러스로 San Miguel sea lion virus(SMSV)가 제시되며, SMSV는 돼지에서 VESV와 동일한(identical) 수포 병변을 만든다. 강의안 슬라이드 228 'Closely related virus: San Miguel sea lion virus, SMSV infection in pigs produces identical vesicular lesions' 부분. Senecavirus A는 감별진단 대상으로만 언급되며(슬라이드 227), 나머지는 무관하다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 156
+},
+{
+"part": "Caliciviridae",
+"unit": "Calici1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: Caliciviridae 총괄(FCV·RHDV·VESV)",
+"q": "고병원성 전신형 FCV 질병(VS-FCVD)에 대한 강의안 설명으로 옳은 것은?",
+"choices": [
+"자묘(kittens)에서 성묘보다 더 심하게 나타난다",
+"성묘(adult cats)에서 자묘보다 더 심하며 DIC·다장기부전을 동반하고 폐사율이 최대 67%이다",
+"폐사율이 5% 미만으로 매우 낮다",
+"전신 증상 없이 가벼운 재채기만 일으킨다",
+"오직 토끼에서만 발생한다"
+],
+"answer": [
+2
+],
+"explain": "VS-FCVD(Virulent Systemic FCV Disease)는 성묘에서 자묘보다 더 심하게 나타나며, systemic inflammatory response·DIC·multiorgan failure를 동반하고 폐사율이 최대 67%에 이른다. 강의안 슬라이드 242 'More severe in adult cats than kittens, Disseminated intravascular coagulation (DIC), Multiorgan failure, Mortality up to 67%' 부분. 따라서 ①③④⑤는 강의안과 어긋난다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 157
 },
 {
 "part": "Caliciviridae",
@@ -3195,7 +4167,7 @@ const LABQ = [
 "flagReason": "Q0682(2024#47)·Q0684(2024#49) 동일 주제(FHV-1 감별) 병합.",
 "unit": "",
 "cardOrder": 99,
-"id": 122
+"id": 158
 },
 {
 "part": "Caliciviridae",
@@ -3213,7 +4185,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Caliciviridae are small (27-40 nm), non-enveloped, icosahedral viruses with a positive-sense ssRNA (+ssRNA) genome. The viral RNA functions directly as mRNA and is immediately infectious upon entry. The family name derives from the cup-shaped surface depressions ('calix' = cup), and the viruses are relatively environmentally stable. Calicivirus는 27-40 nm의 비외피성 정이십면체 +ssRNA 바이러스로, RNA가 직접 mRNA로 기능해 유입 즉시 감염성을 가진다. 컵 모양 표면 함몰부에서 이름이 유래했고 환경저항성이 강하다. 선지5는 Bunyavirales(분절·Gn/Gc·L/M/S)의 특성이다. 근거: 강의안 Slide 220·221·222 (non-enveloped +ssRNA, mRNA로 직접 작용, cup-shaped depressions).",
+"explain": "Caliciviridae are small (27-40 nm), non-enveloped, icosahedral viruses with a positive-sense ssRNA (+ssRNA) genome. The viral RNA functions directly as mRNA and is immediately infectious upon entry. The family name derives from the cup-shaped surface depressions ('calix' = cup), and the viruses are relatively environmentally stable. Calicivirus는 27-40 nm의 비외피성 정이십면체 +ssRNA 바이러스로, RNA가 직접 mRNA로 기능해 유입 즉시 감염성을 가진다. 컵 모양 표면 함몰부에서 이름이 유래했고 환경저항성이 강하다. 선지5는 Bunyavirales(분절·Gn/Gc·L/M/S)의 특성이다. 근거: 강의안 Slide 220·221·222 (non-enveloped +ssRNA, mRNA로 직접 작용, cup-shaped depressions).\n\n**[문항 한국어 해석]**\n발문: 수의학적 칼리시바이러스(FCV, VESV, RHDV)가 공유하는 일반적인 바이러스학적 특성을 가장 잘 설명하는 것은?\n① 무외피·정이십면체의 양성가닥 ssRNA 바이러스로, RNA가 직접 mRNA로 기능해 즉시 감염성을 가지며, 컵 모양 표면 함몰(cup-shaped surface depressions)과 강한 환경 저항성을 보인다\n② 핵에서 복제하는 외피 보유·분절 음성가닥 ssRNA 바이러스이다\n③ 번역 전에 별도의 mRNA 전사 단계가 필요한 외피 보유 양성가닥 ssRNA 바이러스이다\n④ ether에 매우 민감한 무외피 이중가닥 DNA 바이러스이다\n⑤ Gn/Gc 당단백질 스파이크와 L/M/S 삼분절 게놈을 가진 외피 보유 다형성(pleomorphic) 바이러스이다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -3222,7 +4194,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 123
+"id": 159
 },
 {
 "part": "Caliciviridae",
@@ -3240,7 +4212,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "FCV and FHV-1 cause overlapping upper respiratory disease, so clinical diagnosis alone is difficult. The lecture states the important clinical clue is that oral ulcers (tongue/hard palate vesicles progressing to ulcers) are more typical of FCV, although they can also occur with FHV-1; laboratory confirmation is still needed. FCV와 FHV-1은 임상이 겹쳐 감별이 어렵지만, 강의안은 구강궤양(혀·경구개)이 FCV에서 더 전형적이라고 명시한다(FHV-1에서도 가능). Joest-Degen body는 Borna disease, 선위확장은 PDD, 관·발 수포는 VES의 소견이다. 근거: 강의안 Slide 240 (혀/경구개 수포→궤양), Slide 244 'Diagnosis' (oral ulcers more typical of FCV).",
+"explain": "FCV and FHV-1 cause overlapping upper respiratory disease, so clinical diagnosis alone is difficult. The lecture states the important clinical clue is that oral ulcers (tongue/hard palate vesicles progressing to ulcers) are more typical of FCV, although they can also occur with FHV-1; laboratory confirmation is still needed. FCV와 FHV-1은 임상이 겹쳐 감별이 어렵지만, 강의안은 구강궤양(혀·경구개)이 FCV에서 더 전형적이라고 명시한다(FHV-1에서도 가능). Joest-Degen body는 Borna disease, 선위확장은 PDD, 관·발 수포는 VES의 소견이다. 근거: 강의안 Slide 240 (혀/경구개 수포→궤양), Slide 244 'Diagnosis' (oral ulcers more typical of FCV).\n\n**[문항 한국어 해석]**\n발문: 보호소 출신 3개월령 자묘가 재채기, 심한 콧물, 발열, 침흘림(salivation)으로 내원한다. 구강 검사에서 혀와 경구개(hard palate)의 수포가 파열되어 궤양을 형성한 것이 보인다. 임상의는 이를 FHV-1에 의한 고양이 바이러스성 비기관염과 감별해야 한다. FHV-1보다 고양이 칼리시바이러스(FCV)를 시사하는 가장 유용한 임상 단서는?\n① 구강(혀/경구개) 궤양 — FCV에서 더 전형적이다\n② 각막의 수지상 궤양(corneal dendritic ulcers) — FCV의 병리진단적(pathognomonic) 소견\n③ 신경세포 내 핵내 Joest-Degen 봉입체\n④ 소화되지 않은 사료를 동반한 선위확장(proventricular dilatation)\n⑤ 관상대(coronary band)와 지간(interdigital)에 국한된 수포",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -3249,7 +4221,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 124
+"id": 160
 },
 {
 "part": "Caliciviridae",
@@ -3267,7 +4239,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "FCV's major capsid protein VP1 (encoded by ORF2) undergoes amino acid variation that drives immune escape, persistent infection, antigenic variants, and recurrent infections. Consequently the lecture states no vaccine protects against all genetically diverse field strains, and vaccination reduces acute disease but does not completely prevent infection or shedding. FCV의 주요 캡시드 단백질 VP1은 아미노산 변이로 면역회피·항원변이·재감염을 일으켜, 어떤 백신도 모든 야외주를 방어하지 못하고 백신은 급성 증상은 줄여도 감염·배출을 완전히 막지 못한다. FCV는 세포질에서 복제하고 비외피성이며 다수 혈청형/변이가 존재한다. 근거: 강의안 Slide 237 (VP1 변이→immune escape), Slide 248 (no vaccine protects all field strains).",
+"explain": "FCV's major capsid protein VP1 (encoded by ORF2) undergoes amino acid variation that drives immune escape, persistent infection, antigenic variants, and recurrent infections. Consequently the lecture states no vaccine protects against all genetically diverse field strains, and vaccination reduces acute disease but does not completely prevent infection or shedding. FCV의 주요 캡시드 단백질 VP1은 아미노산 변이로 면역회피·항원변이·재감염을 일으켜, 어떤 백신도 모든 야외주를 방어하지 못하고 백신은 급성 증상은 줄여도 감염·배출을 완전히 막지 못한다. FCV는 세포질에서 복제하고 비외피성이며 다수 혈청형/변이가 존재한다. 근거: 강의안 Slide 237 (VP1 변이→immune escape), Slide 248 (no vaccine protects all field strains).\n\n**[문항 한국어 해석]**\n발문: 한 다묘 가정이 표준 FHV-1/FCV/FPV 혼합백신을 사용하지만, 백신접종 고양이들이 여전히 가끔 경미한 상부호흡기 증상을 보이고 FCV를 계속 배출한다. FCV 백신이 완전한 방어를 제공하지 못하는 이유를 가장 잘 설명하는 것은?\n① VP1 캡시드 단백질의 아미노산 변이가 면역회피와 항원 변이주를 가능하게 하므로, 어떤 단일 백신도 유전적으로 다양한 모든 야외주를 방어하지 못한다\n② FCV가 숙주세포 핵에서 복제하여 백신 유래 항체가 도달하지 못한다\n③ FCV는 외피를 가진 바이러스로 빠르게 불활화되어 백신이 불필요하다\n④ 백신이 carrier 상태를 완전히 제거하므로 어떤 질병이든 새로운 종(species)임에 틀림없다\n⑤ FCV는 혈청형이 하나뿐이라 백신 불일치(mismatch)가 불가능하다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -3276,7 +4248,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 125
+"id": 161
 },
 {
 "part": "Caliciviridae",
@@ -3294,7 +4266,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Rabbit hemorrhagic disease (RHD) is caused by RHDV (genus Lagovirus, Caliciviridae). It targets the liver, lung, and spleen, producing severe hepatic necrosis, DIC, pulmonary edema, splenomegaly, with mortality 90-100% and sudden death after fever. Classical RHDV usually causes only subclinical infection in young rabbits (<6-8 weeks), whereas RHDV2 can infect the young. It is a WOAH-listed, Class III notifiable disease in Korea. RHD는 Lagovirus(RHDV)에 의한 급성 치명적 간괴사·DIC 질병으로 폐사율 90-100%이며, classical RHDV는 어린 토끼(<6-8주)에서 대개 무증상이지만 RHDV2는 어린 토끼도 감염시킨다. 근거: 강의안 Slide 250·253·254 (RHDV2 young rabbit, 간괴사·DIC, mortality 90-100%).",
+"explain": "Rabbit hemorrhagic disease (RHD) is caused by RHDV (genus Lagovirus, Caliciviridae). It targets the liver, lung, and spleen, producing severe hepatic necrosis, DIC, pulmonary edema, splenomegaly, with mortality 90-100% and sudden death after fever. Classical RHDV usually causes only subclinical infection in young rabbits (<6-8 weeks), whereas RHDV2 can infect the young. It is a WOAH-listed, Class III notifiable disease in Korea. RHD는 Lagovirus(RHDV)에 의한 급성 치명적 간괴사·DIC 질병으로 폐사율 90-100%이며, classical RHDV는 어린 토끼(<6-8주)에서 대개 무증상이지만 RHDV2는 어린 토끼도 감염시킨다. 근거: 강의안 Slide 250·253·254 (RHDV2 young rabbit, 간괴사·DIC, mortality 90-100%).\n\n**[문항 한국어 해석]**\n발문: 한 토끼 사육장의 성체 토끼가 짧은 발열(>40℃) 후 혈액성 거품 콧물(blood-tinged frothy nasal discharge)을 동반한 채 폐사한 것으로 발견된다. 다른 성체 여러 마리도 1-3일 내에 급사하며 폐사율이 90-100%에 이른다. 부검 시 비대하고 무른(friable) 간, 폐 출혈·부종, 비장 비대가 관찰된다. 이 질병을 가장 잘 설명하는 것은?\n① 급성 치명적 간괴사와 DIC를 일으키는 토끼출혈병(RHDV, Lagovirus)이다. 고전형 RHDV는 보통 어린 토끼(<6-8주)는 침범하지 않지만 RHDV2는 침범할 수 있다\n② 고양이 칼리시바이러스가 토끼로 넘어와 구강궤양을 주 병변으로 일으킨 것이다\n③ 새끼 토끼에 선천성 기형을 일으키는 아카바네병(Akabane disease)이다\n④ 토끼에 선위확장(proventricular dilatation)을 일으키는 보르나바이러스이다\n⑤ 신고가 필요 없는 비치명적·자가제한적 호흡기 감염이다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -3303,7 +4275,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 126
+"id": 162
 },
 {
 "part": "Caliciviridae",
@@ -3321,7 +4293,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Vesicular exanthema of swine (VES) is caused by VESV (genus Vesivirus, Caliciviridae) and produces vesicles on snout, oral mucosa, feet (coronary band/interdigital), with high morbidity and low mortality. It is clinically indistinguishable from foot-and-mouth disease (and other vesicular diseases), so laboratory differential diagnosis in high-containment facilities is mandatory; a historical source was feeding raw marine mammal by-products. VES는 calicivirus(VESV)에 의한 돼지 수포성 질병으로 구제역과 임상적으로 구별 불가하여 고도격리 실험실 감별진단이 필수다. 생해양포유류 부산물 급여가 역사적 감염원이며, 이환율 높고 폐사율 낮다. 근거: 강의안 Slide 227 (구제역과 임상 구별 불가), Slide 230 (raw marine by-products), Slide 234-235 (high-containment lab).",
+"explain": "Vesicular exanthema of swine (VES) is caused by VESV (genus Vesivirus, Caliciviridae) and produces vesicles on snout, oral mucosa, feet (coronary band/interdigital), with high morbidity and low mortality. It is clinically indistinguishable from foot-and-mouth disease (and other vesicular diseases), so laboratory differential diagnosis in high-containment facilities is mandatory; a historical source was feeding raw marine mammal by-products. VES는 calicivirus(VESV)에 의한 돼지 수포성 질병으로 구제역과 임상적으로 구별 불가하여 고도격리 실험실 감별진단이 필수다. 생해양포유류 부산물 급여가 역사적 감염원이며, 이환율 높고 폐사율 낮다. 근거: 강의안 Slide 227 (구제역과 임상 구별 불가), Slide 230 (raw marine by-products), Slide 234-235 (high-containment lab).\n\n**[문항 한국어 해석]**\n발문: 과거 생해양포유류 부산물(raw marine mammal by-products)을 급여하던 한 해안 양돈장에서 돼지들이 고열과 주둥이·구강점막·관상대·지간(interdigital)의 수포를 보인다. 이환율은 높지만 폐사율은 낮다. 병변은 임상적으로 구제역과 구별 불가능하다. 이 질병에 대해 가장 적절한 설명은?\n① 돼지 수포진(VESV, calicivirus)이다. 구제역과 임상적으로 동일하므로 고도격리(high-containment) 실험실에서의 감별진단이 필요하다\n② 구제역이다. calicivirus는 돼지를 감염시킬 수 없으므로 확진된다\n③ 비화농성 뇌염을 일으키는 보르나바이러스(bornavirus) 감염이다\n④ 리프트밸리열(Rift Valley fever)이며, 주둥이 수포로 확진된다\n⑤ calicivirus는 모든 형태에서 외피를 가지고 산(acid)에 약하므로 calicivirus는 배제할 수 있다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -3330,7 +4302,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 127
+"id": 163
 },
 {
 "part": "Togaviridae",
@@ -3347,7 +4319,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 128
+"id": 164
 },
 {
 "part": "Togaviridae",
@@ -3374,7 +4346,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 129
+"id": 165
 },
 {
 "part": "Togaviridae",
@@ -3401,7 +4373,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 130
+"id": 166
 },
 {
 "part": "Togaviridae",
@@ -3428,7 +4400,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 131
+"id": 167
 },
 {
 "part": "Togaviridae",
@@ -3455,7 +4427,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 132
+"id": 168
+},
+{
+"part": "Togaviridae",
+"unit": "Toga1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "Togaviridae 개요 — 분류·외피·Alphavirus속",
+"q": "Togaviridae가 나뉘는 두 주요 속(genus)으로 옳게 짝지은 것은?",
+"choices": [
+"Lyssavirus와 Vesiculovirus",
+"Orthopneumovirus와 Metapneumovirus",
+"Alphavirus와 Rubivirus",
+"Lentivirus와 Deltaretrovirus",
+"Flavivirus와 Pestivirus"
+],
+"answer": [
+3
+],
+"explain": "슬라이드45 'The family is divided into two primary genera: Alphavirus and Rubivirus' — Togaviridae는 Alphavirus와 Rubivirus 두 주요 속으로 나뉜다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 169
+},
+{
+"part": "Togaviridae",
+"unit": "Toga1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "Togaviridae 개요 — 분류·외피·Alphavirus속",
+"q": "Alphavirus속의 prototype(원형) 바이러스로 강의안에 제시된 것은?",
+"choices": [
+"Sindbis virus",
+"Semliki Forest virus",
+"Chikungunya virus",
+"Salmonid Alphavirus",
+"Eastern Equine Encephalitis virus"
+],
+"answer": [
+1
+],
+"explain": "슬라이드46 'Sindbis virus serves as the prototype for this genus' — Alphavirus속의 prototype은 Sindbis virus이다. Semliki Forest virus는 E3를 추가로 가진 예(슬라이드48), chikungunya는 사람 중요종 예시(슬라이드46)일 뿐 prototype이 아니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 170
 },
 {
 "part": "Togaviridae",
@@ -3482,7 +4508,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 133
+"id": 171
 },
 {
 "part": "Togaviridae",
@@ -3509,7 +4535,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 134
+"id": 172
 },
 {
 "part": "Togaviridae",
@@ -3536,7 +4562,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 135
+"id": 173
 },
 {
 "part": "Togaviridae",
@@ -3563,7 +4589,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 136
+"id": 174
+},
+{
+"part": "Togaviridae",
+"unit": "Toga2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "말뇌염 3종(EEE·WEE·VEE) — 숙주·매개·역학·임상",
+"q": "강의안 비교표에서 VEE(베네수엘라 말뇌염)의 자연 저장소(natural reservoir)로 제시된 것은?",
+"choices": [
+"야생 조류(passerine birds)",
+"소형 설치류(small rodents)",
+"말(horse)",
+"사람(human)",
+"꿩·주금류(pheasants, ratites)"
+],
+"answer": [
+2
+],
+"explain": "슬라이드65 표 'Natural Reservoir … VEE: Small rodents (in enzootic cycles)' 및 슬라이드52 표(VEEV reservoir=Rodents) — VEE의 자연 저장소는 소형 설치류다. 야생 조류는 EEE·WEE의 저장소(슬라이드52)다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 175
+},
+{
+"part": "Togaviridae",
+"unit": "Toga2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "말뇌염 3종(EEE·WEE·VEE) — 숙주·매개·역학·임상",
+"q": "EEE·VEE의 초기 뇌 병변(early cerebral lesions)에서 특징적으로 나타난다고 강의안이 제시한 염증세포는?",
+"choices": [
+"호산구(eosinophils)",
+"형질세포(plasma cells)",
+"비만세포(mast cells)",
+"호중구(neutrophils)",
+"거대세포(giant cells)"
+],
+"answer": [
+4
+],
+"explain": "슬라이드59 'Neutrophils are a characteristic feature of early cerebral lesions in EEE and VEE' — EEE·VEE의 초기 뇌 병변에서는 호중구neutrophil가 회색질에 침윤하는 것이 특징이다. 병변은 perivascular cuffing·신경원괴사와 함께 나타난다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 176
 },
 {
 "part": "Togaviridae",
@@ -3581,7 +4661,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. 강의안은 seven non-encephalitic alphavirus가 있으며 그중 여섯 type이 Salmonid Alphavirus(SAV)라고 제시한다. SAV는 aquatic species에 영향을 주고 waterborne transmission으로 salmon pancreas disease(PD)와 sleeping disease(SD)를 일으킨다(slide 47). ② SAV는 mosquito가 아니라 waterborne 전파이며 encephalitis가 아니라 PD/SD를 일으킨다(slide 47 표). ③ 모든 alphavirus가 encephalitic·mosquito-borne인 것은 아니다 — non-encephalitic·waterborne SAV가 반례다(slide 47). ④ SAV는 Alphavirus genus에 속하지 Rubivirus가 아니다 — Togaviridae는 Alphavirus와 Rubivirus 두 속으로 나뉜다(slide 45). ⑤ Alphavirus의 일반적 특성은 insect vector와 vertebrate host 양쪽에서 replicate하는 능력이다(slide 46); SAV는 어류(척추동물) 병원체다.",
+"explain": "정답 ①. 강의안은 seven non-encephalitic alphavirus가 있으며 그중 여섯 type이 Salmonid Alphavirus(SAV)라고 제시한다. SAV는 aquatic species에 영향을 주고 waterborne transmission으로 salmon pancreas disease(PD)와 sleeping disease(SD)를 일으킨다(slide 47). ② SAV는 mosquito가 아니라 waterborne 전파이며 encephalitis가 아니라 PD/SD를 일으킨다(slide 47 표). ③ 모든 alphavirus가 encephalitic·mosquito-borne인 것은 아니다 — non-encephalitic·waterborne SAV가 반례다(slide 47). ④ SAV는 Alphavirus genus에 속하지 Rubivirus가 아니다 — Togaviridae는 Alphavirus와 Rubivirus 두 속으로 나뉜다(slide 45). ⑤ Alphavirus의 일반적 특성은 insect vector와 vertebrate host 양쪽에서 replicate하는 능력이다(slide 46); SAV는 어류(척추동물) 병원체다.\n\n**[문항 한국어 해석]**\n발문: Alphavirus속에는 말뇌염 바이러스와 비뇌염성non-encephalitic 구성원이 모두 포함된다. 강의안에 따르면 비뇌염성 alphavirus에 관해 옳은 설명은?\n① Salmonid Alphavirus(SAV)는 비뇌염성 alphavirus로 수계waterborne 방식으로 전파되며 연어 췌장병pancreas disease(PD)과 수면병sleeping disease(SD)을 일으킨다\n② Salmonid Alphavirus는 모기로 전파되며 말에 말뇌염을 일으킨다\n③ 모든 alphavirus는 뇌염성이며 모기 매개 arbovirus이다\n④ Salmonid Alphavirus는 Alphavirus가 아니라 Rubivirus이다\n⑤ Salmonid Alphavirus는 곤충 매개체에서만 증식하고 척추동물 숙주에서는 증식하지 못한다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -3590,7 +4670,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 137
+"id": 177
 },
 {
 "part": "Togaviridae",
@@ -3608,7 +4688,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. 임상상(eastern US, late summer, swamp 인근 말, aimless wandering·severe depression·'dummy'·central blindness·head pressing, mortality 최대 90%)은 EEE다(slide 51, 65). EEE의 enzootic cycle은 North America에서 Culiseta melanura 모기가 swamp 환경의 passerine birds 사이에서 유지하며, periodic spillover로 사람·말에 전파된다(slide 55). wild birds가 primary vertebrate reservoir다(slide 52). ② small rodents 및 horse amplifier는 VEE의 특징이다(slide 65). ③ horse는 EEE에서 dead-end host이지 reservoir가 아니다(slide 54). ④ Culex tarsalis는 WEE의 primary vector이며 EEE의 정의적 매개체가 아니다(slide 55). ⑤ domestic poultry(pheasants 등)는 심한 병에 걸리는 숙주이지 reservoir가 아니다 — reservoir는 wild birds이고 humans/horses는 dead-end host다(slide 52, 60).",
+"explain": "정답 ①. 임상상(eastern US, late summer, swamp 인근 말, aimless wandering·severe depression·'dummy'·central blindness·head pressing, mortality 최대 90%)은 EEE다(slide 51, 65). EEE의 enzootic cycle은 North America에서 Culiseta melanura 모기가 swamp 환경의 passerine birds 사이에서 유지하며, periodic spillover로 사람·말에 전파된다(slide 55). wild birds가 primary vertebrate reservoir다(slide 52). ② small rodents 및 horse amplifier는 VEE의 특징이다(slide 65). ③ horse는 EEE에서 dead-end host이지 reservoir가 아니다(slide 54). ④ Culex tarsalis는 WEE의 primary vector이며 EEE의 정의적 매개체가 아니다(slide 55). ⑤ domestic poultry(pheasants 등)는 심한 병에 걸리는 숙주이지 reservoir가 아니다 — reservoir는 wild birds이고 humans/horses는 dead-end host다(slide 52, 60).\n\n**[문항 한국어 해석]**\n발문: 늦여름 미국 동부, 늪지 인근 농장의 말 여러 마리가 목적 없는 배회aimless wandering, 심한 침울severe depression('dummy' 행동), 중심성 실명central blindness, head pressing을 보이며 치명률이 90%에 이른다. 이 질병의 자연 유지 cycle에 관해 가장 정확한 설명은?\n① 야생 명금류passerine birds가 1차 척추동물 저장소이며, 늪 환경에서 Culiseta melanura 모기가 enzootic cycle을 유지한다\n② 소형 설치류가 저장소이고, 말이 enzootic cycle을 유지하는 증폭숙주이다\n③ 말이 자연 저장소이며, 수평전파를 통해 연중 바이러스를 유지한다\n④ cycle은 주로 야생 조류 사이에서 Culex tarsalis가 유지하며, 이것이 EEE의 정의적 매개체이다\n⑤ 가금domestic poultry이 저장소이고, 사람이 유행 중 바이러스를 증폭한다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -3617,7 +4697,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 138
+"id": 178
 },
 {
 "part": "Togaviridae",
@@ -3635,7 +4715,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. EEE/VEE의 뇌 병변은 gray matter 전반에 나타나며 perivascular cuffing(혈관 주위 염증세포 침윤), neuronal·parenchymal necrosis, vasculitis, thrombosis, hemorrhage가 핵심이고, 특히 neutrophils가 EEE와 VEE의 early cerebral lesion에서 특징적이다(slide 59). ② spongiform vacuolation·astrocytosis·무염증은 prion(BSE) 병변이다(Prion slide 124, 129). ③ B-cell lymphoma·persistent lymphocytosis는 BLV/EBL 소견이다(Retroviridae slide 72). ④ follicular dendritic cell·비장/림프절 축적은 Scrapie 병인이다(Prion slide 132). ⑤ togavirus 뇌염은 gray matter를 침범하는 염증성 병변으로, 말초신경 한정 demyelination이 아니다(slide 59).",
+"explain": "정답 ①. EEE/VEE의 뇌 병변은 gray matter 전반에 나타나며 perivascular cuffing(혈관 주위 염증세포 침윤), neuronal·parenchymal necrosis, vasculitis, thrombosis, hemorrhage가 핵심이고, 특히 neutrophils가 EEE와 VEE의 early cerebral lesion에서 특징적이다(slide 59). ② spongiform vacuolation·astrocytosis·무염증은 prion(BSE) 병변이다(Prion slide 124, 129). ③ B-cell lymphoma·persistent lymphocytosis는 BLV/EBL 소견이다(Retroviridae slide 72). ④ follicular dendritic cell·비장/림프절 축적은 Scrapie 병인이다(Prion slide 132). ⑤ togavirus 뇌염은 gray matter를 침범하는 염증성 병변으로, 말초신경 한정 demyelination이 아니다(slide 59).\n\n**[문항 한국어 해석]**\n발문: 말뇌염으로 폐사한 말을 조직학적으로 검사한다. 강의안이 기술한 EEE/VEE의 뇌 병리와 가장 일치하는 소견 집합은?\n① 회색질gray matter의 혈관주위 소맷동perivascular cuffing, 신경원·실질 괴사, 그리고 초기 뇌 병변의 특징인 호중구neutrophils\n② 별아교세포증astrocytosis을 동반한 회색질의 해면상 공포spongiform vacuolation, 염증반응 없음\n③ 지속성 림프구증가persistent lymphocytosis를 동반한 B세포 림프종 침윤\n④ 중추신경계 병변 없이 비장·림프절의 여포수지상세포follicular dendritic cell 축적\n⑤ 회색질 침범 없이 말초신경에 국한된 탈수초demyelination",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -3644,7 +4724,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 139
+"id": 179
 },
 {
 "part": "Togaviridae",
@@ -3662,7 +4742,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. EEE와 WEE에서 horses(와 humans)는 충분한 viremia를 만들지 못하는 dead-end host로, 모기에게 virus를 되돌려 전파하지 못한다(slide 52, 54, 65). 반면 VEE는 horse에서 high titer로 replicate하여 horse가 amplifying host가 되며, mosquito vector와 horizontal transmission 모두에 대한 major virus source가 된다(slide 52, 56, 65). 이것이 핵심 역학 차이다. ② 역할이 정반대로 서술됨 — VEE horse가 amplifying, EEE/WEE horse가 dead-end다. ③ reservoir가 반대 — EEE/WEE는 birds(wild/passerine), VEE는 small rodents가 reservoir다(slide 52, 65). ④ 세 virus 모두 mosquito가 biological vector다(slide 54). ⑤ high-titer replication in horses는 EEE/WEE가 아니라 VEE의 특징이다(slide 56, 60).",
+"explain": "정답 ①. EEE와 WEE에서 horses(와 humans)는 충분한 viremia를 만들지 못하는 dead-end host로, 모기에게 virus를 되돌려 전파하지 못한다(slide 52, 54, 65). 반면 VEE는 horse에서 high titer로 replicate하여 horse가 amplifying host가 되며, mosquito vector와 horizontal transmission 모두에 대한 major virus source가 된다(slide 52, 56, 65). 이것이 핵심 역학 차이다. ② 역할이 정반대로 서술됨 — VEE horse가 amplifying, EEE/WEE horse가 dead-end다. ③ reservoir가 반대 — EEE/WEE는 birds(wild/passerine), VEE는 small rodents가 reservoir다(slide 52, 65). ④ 세 virus 모두 mosquito가 biological vector다(slide 54). ⑤ high-titer replication in horses는 EEE/WEE가 아니라 VEE의 특징이다(slide 56, 60).\n\n**[문항 한국어 해석]**\n발문: 말뇌염 바이러스들의 전파 cycle에서, VEE와 EEE/WEE 바이러스 사이의 핵심 역학 차이를 가장 잘 설명한 것은?\n① EEE·WEE와 달리 VEE는 말에서 고역가high titers로 증식하므로, 말이 증폭숙주amplifying host가 되어 모기와 수평전파를 통해 바이러스를 다시 퍼뜨릴 수 있다\n② VEE의 말은 충분한 바이러스혈증viremia을 만들지 못해 종숙주dead-end host이고, EEE/WEE의 말은 증폭숙주이다\n③ VEE는 조류를 저장소로 쓰고 EEE·WEE는 설치류rodents를 저장소로 쓴다\n④ VEE는 세 바이러스 중 유일하게 모기로 전파되지 않는다\n⑤ EEE·WEE가 말에서 고역가로 증식하여, 세 바이러스 모두에서 말이 주요 증폭자가 된다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -3671,7 +4751,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 140
+"id": 180
 },
 {
 "part": "Togaviridae",
@@ -3689,7 +4769,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. VEE는 여러 cluster(Types I-VI)를 가지며 대부분 enzootic·말 비병원성이다. pathogenic epizootic type IAB와 IC는 enzootic strain의 E2 glycoprotein mutation을 통해 emergence한다(slide 55, 65). 도식에서도 'mutation in enzootic subtypes to epizootic subtypes'로 정리된다(slide 56). ② EEE와 Sindbis-like virus의 recombination은 WEE virus의 기원으로 제시된 내용이다(slide 50, 65). ③ provirus/oncogene 활성화는 retrovirus 종양 기전이다(Retroviridae slide 83). ④ PRNP gene mutation은 prion 발병 원인 중 하나이며 VEE와 무관하다(Prion slide 123). ⑤ E1 A226V 치환은 chikungunya virus(CV)가 Aedes albopictus에서 fitness 증가를 보인 사례로, VEE epizootic emergence와 다르다(slide 50).",
+"explain": "정답 ①. VEE는 여러 cluster(Types I-VI)를 가지며 대부분 enzootic·말 비병원성이다. pathogenic epizootic type IAB와 IC는 enzootic strain의 E2 glycoprotein mutation을 통해 emergence한다(slide 55, 65). 도식에서도 'mutation in enzootic subtypes to epizootic subtypes'로 정리된다(slide 56). ② EEE와 Sindbis-like virus의 recombination은 WEE virus의 기원으로 제시된 내용이다(slide 50, 65). ③ provirus/oncogene 활성화는 retrovirus 종양 기전이다(Retroviridae slide 83). ④ PRNP gene mutation은 prion 발병 원인 중 하나이며 VEE와 무관하다(Prion slide 123). ⑤ E1 A226V 치환은 chikungunya virus(CV)가 Aedes albopictus에서 fitness 증가를 보인 사례로, VEE epizootic emergence와 다르다(slide 50).\n\n**[문항 한국어 해석]**\n발문: 대부분의 VEE 바이러스 cluster(Type I-VI)는 enzootic이며 말에 비병원성이다. 큰 말 유행을 일으킬 수 있는 병원성 epizootic VEE strain이 어떻게 생기는지 가장 잘 설명한 기전은?\n① epizootic type IAB와 IC는 enzootic strain의 E2 당단백glycoprotein 변이를 통해 출현한다\n② epizootic strain은 EEE 바이러스와 Sindbis 유사 바이러스 사이의 재조합recombination으로 생긴다\n③ epizootic strain은 세포 oncogene을 활성화하는 provirus 통합으로 생긴다\n④ epizootic type은 프리온 PRNP 유전자의 점돌연변이point mutation에서 출현한다\n⑤ epizootic strain은 Aedes albopictus에서 적합도를 높이는 E1 A226V 치환에서 생긴다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -3698,7 +4778,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 141
+"id": 181
 },
 {
 "part": "Rhabdoviridae",
@@ -3715,7 +4795,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 142
+"id": 182
 },
 {
 "part": "Rhabdoviridae",
@@ -3742,7 +4822,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 143
+"id": 183
 },
 {
 "part": "Rhabdoviridae",
@@ -3769,7 +4849,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 144
+"id": 184
 },
 {
 "part": "Rhabdoviridae",
@@ -3796,7 +4876,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 145
+"id": 185
 },
 {
 "part": "Rhabdoviridae",
@@ -3823,7 +4903,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 146
+"id": 186
+},
+{
+"part": "Rhabdoviridae",
+"unit": "Rhabdo1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "과(科) 일반특성",
+"q": "Rhabdoviridae의 5대 구조단백질 중 RNA-dependent RNA polymerase(RNA 의존성 RNA 중합효소) 기능을 담당하는 것은?",
+"choices": [
+"N (Nucleoprotein)",
+"P (Phosphoprotein)",
+"M (Matrix protein)",
+"G (Glycoprotein)",
+"L (Large protein)"
+],
+"answer": [
+5
+],
+"explain": "슬라이드 22 'L (Large protein): The RNA-dependent RNA polymerase' 부분에 따라 L 단백질이 중합효소입니다. N은 RNA encapsidation, P는 polymerase complex 일부, M은 구조 안정성, G는 부착용 surface spike를 담당합니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 187
+},
+{
+"part": "Rhabdoviridae",
+"unit": "Rhabdo1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "과(科) 일반특성",
+"q": "Rhabdoviridae의 숙주범위(host range)와 전파에 대한 설명으로 옳은 것은?",
+"choices": [
+"오직 포유류만 감염시킨다",
+"척추동물·무척추동물·식물까지 감염하며, 모기·등에 같은 절지동물 매개체가 중요하다",
+"오직 조류만 감염시킨다",
+"숙주범위가 매우 좁아 한 종에만 감염한다",
+"절지동물 매개체는 전파에 관여하지 않는다"
+],
+"answer": [
+2
+],
+"explain": "슬라이드 23 'Rhabdoviruses have an exceptionally broad host range, infecting vertebrates, invertebrates, and even plants' 및 'Arthropod vectors, particularly mosquitoes and midges, play a crucial role' 부분에 따라, 매우 넓은 숙주범위와 모기·등에 매개가 핵심입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 188
 },
 {
 "part": "Rhabdoviridae",
@@ -3850,7 +4984,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 147
+"id": 189
 },
 {
 "part": "Rhabdoviridae",
@@ -3877,7 +5011,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 148
+"id": 190
 },
 {
 "part": "Rhabdoviridae",
@@ -3904,7 +5038,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 149
+"id": 191
 },
 {
 "part": "Rhabdoviridae",
@@ -3931,7 +5065,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 150
+"id": 192
+},
+{
+"part": "Rhabdoviridae",
+"unit": "Rhabdo2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "Rabies 광견병",
+"q": "광견병 바이러스 주(strain) 중 실험실 적응주로 잠복기가 짧고 안정적이어서 백신 생산·진단에 사용되는 것은?",
+"choices": [
+"Street virus",
+"Fixed virus",
+"Vampire bat virus",
+"Negri strain",
+"Hydrophobia virus"
+],
+"answer": [
+2
+],
+"explain": "슬라이드 37 'Fixed Virus: Laboratory-adapted strains with highly stable and shortened incubation periods, used for vaccine production and diagnostics' 부분에 따라 Fixed virus가 정답입니다. Street virus는 자연계 분리주로 잠복기가 가변적(variable)입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 193
+},
+{
+"part": "Rhabdoviridae",
+"unit": "Rhabdo2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "Rabies 광견병",
+"q": "광견병 바이러스가 CNS에서 증식한 뒤 침샘(salivary gland)으로 이동해 saliva를 통한 추가 전파를 가능하게 하는 확산 방식은?",
+"choices": [
+"Retrograde axonal transport(역행성 축삭수송)",
+"혈류를 통한 viremia 확산",
+"Centrifugal spread(원심성 확산, 뇌→침샘)",
+"림프관을 통한 확산",
+"소화관 점막을 통한 확산"
+],
+"answer": [
+3
+],
+"explain": "슬라이드 38 'It then spreads centrifugally from the brain to the salivary glands, allowing for further transmission through saliva' 부분에 따라 정답은 원심성(centrifugal) 확산입니다. Retrograde axonal transport는 교상부에서 CNS로 올라가는 초기 경로입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 194
 },
 {
 "part": "Rhabdoviridae",
@@ -3958,7 +5146,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 151
+"id": 195
 },
 {
 "part": "Rhabdoviridae",
@@ -3985,7 +5173,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 152
+"id": 196
 },
 {
 "part": "Rhabdoviridae",
@@ -4012,7 +5200,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 153
+"id": 197
 },
 {
 "part": "Rhabdoviridae",
@@ -4039,7 +5227,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 154
+"id": 198
+},
+{
+"part": "Rhabdoviridae",
+"unit": "Rhabdo3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "BEF·VS 감별",
+"q": "소 유행열(BEF) 감염 시 젖소 생산성·번식에 미치는 영향으로 강의안에 제시된 것은?",
+"choices": [
+"유량이 거의 변하지 않는다",
+"젖소 유량이 최대 70% 감소할 수 있고, 수소는 6-8개월 일시적 불임이 올 수 있다",
+"수소는 영구 불임이 된다",
+"임신우에서 기형 송아지가 태어난다",
+"유량이 오히려 증가한다"
+],
+"answer": [
+2
+],
+"explain": "슬라이드 29 'Dairy Cows: Experience a drastic drop in milk production (up to 70% decrease)' 및 'Bulls: High fever may lead to temporary infertility (6-8 months)' 부분에 따라, 유량 최대 70% 감소와 수소의 일시적(6-8개월) 불임이 정답입니다. 불임은 영구가 아니라 일시적입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 199
+},
+{
+"part": "Rhabdoviridae",
+"unit": "Rhabdo3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "BEF·VS 감별",
+"q": "수포성 구내염(VS)에서 말(horse)이 가지는 진단적 의의로 옳은 것은?",
+"choices": [
+"말은 VS에 감염되지 않는다",
+"말은 FMD에는 걸리지만 VS에는 걸리지 않는다",
+"말은 FMD와 달리 VS에 감수성이 있어, 말의 수포 병변은 VS를 시사한다",
+"말의 VS 병변은 항상 중추신경계에 국한된다",
+"말은 VS의 유일한 숙주이다"
+],
+"answer": [
+3
+],
+"explain": "슬라이드 33 'Horses are susceptible to VS (unlike FMD)' 부분에 따라, 말은 FMD에 안 걸리지만 VS에는 감수성이 있어 말의 수포 병변은 VS를 시사합니다. VS 병변은 입·젖꼭지 상피에 국한되며(슬라이드 33), 소·돼지도 감염됩니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 200
 },
 {
 "part": "Rhabdoviridae",
@@ -4060,7 +5302,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 155
+"id": 201
 },
 {
 "part": "Rhabdoviridae",
@@ -4087,7 +5329,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 156
+"id": 202
 },
 {
 "part": "Rhabdoviridae",
@@ -4107,7 +5349,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 157
+"id": 203
 },
 {
 "part": "Rhabdoviridae",
@@ -4125,7 +5367,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "BEF (\"3-day sickness,\" family Rhabdoviridae, genus Ephemerovirus, mosquito/midge-borne) causes sudden high fever, hypersalivation, muscle tremors/stiffness/lameness, and a drastic milk drop with rapid recovery. It is often confused with FMD because of excessive salivation, but the key distinction is that BEF does NOT produce vesicles (강의안 Rhabdoviridae slides 026-029). 따라서 수포 없음이 핵심 감별점이며, FMD·VS는 수포를 만들고 rabies·bluetongue은 임상상이 달라 오답.",
+"explain": "BEF (\"3-day sickness,\" family Rhabdoviridae, genus Ephemerovirus, mosquito/midge-borne) causes sudden high fever, hypersalivation, muscle tremors/stiffness/lameness, and a drastic milk drop with rapid recovery. It is often confused with FMD because of excessive salivation, but the key distinction is that BEF does NOT produce vesicles (강의안 Rhabdoviridae slides 026-029). 따라서 수포 없음이 핵심 감별점이며, FMD·VS는 수포를 만들고 rabies·bluetongue은 임상상이 달라 오답.\n\n**[문항 한국어 해석]**\n발문: 늦여름, 젖소들이 갑자기 고열(40~42℃)high fever, 과도한 침흘림excessive salivation, 근육 떨림muscle tremors, 경직stiffness, 이동성 다리 통증을 동반한 일과성 파행transient lameness with shifting leg pain, 그리고 급격한 유량 감소를 보였으며, 대부분 약 3일 이내에 회복하였다. 입이나 발에 수포vesicle는 발견되지 않았다. 원인체와 핵심 감별 포인트로 옳은 것은?\n① 소 유행열 바이러스bovine ephemeral fever virus; 침흘림은 FMD를 닮았지만 BEF는 수포를 만들지 않는다\n② 구제역 바이러스FMD virus; 24시간 내에 발에 수포가 나타날 것이다\n③ 수포성 구내염 바이러스vesicular stomatitis virus; 병변이 젖꼭지teats에 국한된다\n④ 흡혈박쥐vampire bats가 전파한 광견병 바이러스rabies virus\n⑤ 청색증cyanosis으로 혀가 파래지는 청설병 바이러스bluetongue virus",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -4134,7 +5376,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 158
+"id": 204
 },
 {
 "part": "Rhabdoviridae",
@@ -4152,7 +5394,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Canine rabies progresses through prodromal, excitative (furious), and paralytic (dumb) phases. The furious form shows unprovoked aggression, wandering, hoarse bark (laryngeal paralysis), and foaming; the paralytic form shows dropped jaw, incoordination, hind limb weakness, and death from respiratory failure (강의안 Rhabdoviridae slide 039). 본 증례는 furious에서 paralytic으로 진행한 형태다. 순수 dumb형은 흥분기가 없고, BEF/VS/Teschovirus는 다른 종·임상상이라 오답.",
+"explain": "Canine rabies progresses through prodromal, excitative (furious), and paralytic (dumb) phases. The furious form shows unprovoked aggression, wandering, hoarse bark (laryngeal paralysis), and foaming; the paralytic form shows dropped jaw, incoordination, hind limb weakness, and death from respiratory failure (강의안 Rhabdoviridae slide 039). 본 증례는 furious에서 paralytic으로 진행한 형태다. 순수 dumb형은 흥분기가 없고, BEF/VS/Teschovirus는 다른 종·임상상이라 오답.\n\n**[문항 한국어 해석]**\n발문: 어떤 개가 며칠간 이유 없는 공격성aggression, 배회wandering, 쉰 목소리의 짖음hoarse bark을 보인 뒤, 이어지는 1~2일에 걸쳐 아래턱 처짐dropped jaw, 거품성 침흘림을 동반한 연하불능inability to swallow, 후지 약화hind limb weakness가 나타나고 호흡마비respiratory failure로 폐사하였다. 이 임상 경과를 가장 잘 설명하는 것은?\n① 광견병의 광폭형(흥분형, furious) 단계에서 마비형(dumb) 단계로의 진행\n② 흥분기가 전혀 없는 순수 마비형(dumb) 광견병\n③ 이상성 발열biphasic fever을 보이는 소 유행열bovine ephemeral fever\n④ 구강 수포oral vesicles를 유발하는 수포성 구내염vesicular stomatitis\n⑤ 돼지의 테스코바이러스 뇌척수염Teschovirus encephalomyelitis",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -4161,7 +5403,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 159
+"id": 205
 },
 {
 "part": "Rhabdoviridae",
@@ -4179,7 +5421,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Human post-exposure management begins with immediate thorough washing of the wound with soap and water; for a peripheral bite, weekly vaccinations are given (head/neck bite → immediate immune globulin). Suspect domestic animals are isolated and observed for 10-14 days, and euthanized for brain testing only if behavioral changes occur (강의안 Rhabdoviridae slides 042-043). Early treatment is critical and rabies is viral, so waiting or antibiotics-only is wrong; the bait/oral approach is for wildlife, not for clearing a suspect biting dog.",
+"explain": "Human post-exposure management begins with immediate thorough washing of the wound with soap and water; for a peripheral bite, weekly vaccinations are given (head/neck bite → immediate immune globulin). Suspect domestic animals are isolated and observed for 10-14 days, and euthanized for brain testing only if behavioral changes occur (강의안 Rhabdoviridae slides 042-043). Early treatment is critical and rabies is viral, so waiting or antibiotics-only is wrong; the bait/oral approach is for wildlife, not for clearing a suspect biting dog.\n\n**[문항 한국어 해석]**\n발문: 한 사람이 예방접종 여부를 알 수 없는 떠돌이 개에게 손hand을 물렸다. 강의안에 따라 가장 적절한 노출 후 관리post-exposure management 순서는?\n① 즉시 상처를 비누와 물로 철저히 세척한 뒤 백신 접종(말초 교상peripheral bite), 그리고 그 개는 10~14일간 격리·관찰\n② 사람에게 임상 징후가 나타날 때까지 기다린 후 치료를 시작한다\n③ 광견병은 세균성 질병이므로 항생제만 투여한다\n④ 예방 차원에서 그 사람의 다른 반려동물들을 즉시 안락사한다\n⑤ 그 개에게 불활화 백신 1회를 접종하고 당일 방사한다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -4188,7 +5430,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 160
+"id": 206
 },
 {
 "part": "Rhabdoviridae",
@@ -4206,7 +5448,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "VS affects cattle, horses, and pigs and has zoonotic potential; crucially, horses are susceptible to VS unlike FMD, so vesicular disease in horses argues for VS. However, VS is clinically indistinguishable from FMD in cattle and pigs, so any vesicular outbreak must be handled as FMD until lab-confirmed (강의안 Rhabdoviridae slides 032-034). VS는 소도 침범하고 zoonotic이며 상피(점막) 병변이라, horse 감수성이 핵심 단서다. 나머지 선지는 사실과 반대라 오답.",
+"explain": "VS affects cattle, horses, and pigs and has zoonotic potential; crucially, horses are susceptible to VS unlike FMD, so vesicular disease in horses argues for VS. However, VS is clinically indistinguishable from FMD in cattle and pigs, so any vesicular outbreak must be handled as FMD until lab-confirmed (강의안 Rhabdoviridae slides 032-034). VS는 소도 침범하고 zoonotic이며 상피(점막) 병변이라, horse 감수성이 핵심 단서다. 나머지 선지는 사실과 반대라 오답.\n\n**[문항 한국어 해석]**\n발문: 소와 말을 함께 사육하는 농장에서 소의 입과 젖꼭지mouth and teats에 수포·미란vesicles and erosions이 보고되었고, 말에서도 유사한 구강 병변이 나타났다. 구제역(FMD)보다 수포성 구내염(VS)을 더 강하게 시사하는 특징은?\n① 말은 VS에는 감수성이 있으나 FMD에는 걸리지 않으므로, 말의 수포 병변은 VS를 시사한다\n② VS는 소를 절대 침범하지 않고 돼지만 침범한다\n③ VS는 송아지에서 호심장(tiger-heart) 심근염을 유발한다\n④ FMD와 달리 VS는 인수공통 가능성zoonotic potential이 없다\n⑤ VS 병변은 중추신경계에 국한된다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -4215,7 +5457,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 161
+"id": 207
 },
 {
 "part": "Bunyavirales",
@@ -4232,7 +5474,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 162
+"id": 208
 },
 {
 "part": "Bunyavirales",
@@ -4259,7 +5501,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 163
+"id": 209
 },
 {
 "part": "Bunyavirales",
@@ -4286,7 +5528,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 164
+"id": 210
 },
 {
 "part": "Bunyavirales",
@@ -4313,7 +5555,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 165
+"id": 211
 },
 {
 "part": "Bunyavirales",
@@ -4340,7 +5582,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 166
+"id": 212
+},
+{
+"part": "Bunyavirales",
+"unit": "Bunya1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: Bunyavirales(Bunyaviricetes) 총괄",
+"q": "Bornaviridae(Borna disease)에서 신경세포 핵 내에서 관찰되는 특징적 봉입체의 이름은?",
+"choices": [
+"Negri body",
+"Joest-Degen bodies(때로 Cowdry type B body라 불림)",
+"Councilman body",
+"Russell body",
+"Guarnieri body"
+],
+"answer": [
+2
+],
+"explain": "슬라이드 182 'Characteristic intranuclear inclusion bodies: Joest-Degen bodies (sometimes called Cowdry type B bodies)... found inside the nuclei of neurons' 부분에 따라 정답은 Joest-Degen bodies입니다. Negri body는 광견병의 세포질내 봉입체입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 213
+},
+{
+"part": "Bunyavirales",
+"unit": "Bunya1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: Bunyavirales(Bunyaviricetes) 총괄",
+"q": "Bunyaviricetes(구 Bunyavirales) virion 구조에 대한 설명으로 옳은 것은?",
+"choices": [
+"무외피이며 단일 분절 게놈을 가진다",
+"외피를 가진 pleomorphic 입자로 표면에 Gn/Gc glycoprotein spike가 있고 게놈은 L·M·S 3분절 음성가닥 ssRNA이다",
+"이중가닥 DNA 게놈을 가진다",
+"게놈이 10~12개로 분절되어 있다",
+"표면에 spike가 없는 매끈한 무외피 입자이다"
+],
+"answer": [
+2
+],
+"explain": "슬라이드 195 'Enveloped, pleomorphic viruses... Surface glycoprotein spikes present on envelope' 및 'Segmented negative-sense ssRNA genome, Three RNA segments: L, M, S' 부분에 따라, 외피·Gn/Gc spike·L·M·S 3분절 음성가닥 ssRNA가 정답입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 214
 },
 {
 "part": "Bunyavirales",
@@ -4367,7 +5663,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 167
+"id": 215
 },
 {
 "part": "Bunyavirales",
@@ -4394,7 +5690,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 168
+"id": 216
 },
 {
 "part": "Bunyavirales",
@@ -4421,7 +5717,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 169
+"id": 217
 },
 {
 "part": "Bunyavirales",
@@ -4448,7 +5744,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 170
+"id": 218
+},
+{
+"part": "Bunyavirales",
+"unit": "Bunya2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: SFTS·RVF·CCHF·Akabane 감별 포인트",
+"q": "Akabane virus 태아 감염 시 임신주령에 따른 결과를 옳게 짝지은 것은?",
+"choices": [
+"11-14주: 회백수염(poliomyelitis)",
+"11-14주: 수두증(hydranencephaly), 15-24주: 관절만곡(arthrogryposis), 25-33주: 회백수염(poliomyelitis)",
+"11-14주: 관절만곡, 15-24주: 수두증, 25-33주: 정상",
+"전 시기에 동일하게 관절만곡만 나타난다",
+"임신주령과 무관하게 항상 무증상이다"
+],
+"answer": [
+2
+],
+"explain": "슬라이드 208 'Fetal Infection: 11-14 weeks: Hydranencephaly / 15-24 weeks: Arthrogryposis / 25-33 weeks: Poliomyelitis' 부분에 따라, 이른 시기일수록 수두증, 중기는 관절만곡, 후기는 회백수염으로 결과가 달라집니다. 성축은 보통 무증상(subclinical)입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 219
+},
+{
+"part": "Bunyavirales",
+"unit": "Bunya2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: SFTS·RVF·CCHF·Akabane 감별 포인트",
+"q": "Rift Valley fever(RVF) 발생이 폭발적으로 증가하는 환경 조건으로 강의안에 제시된 것은?",
+"choices": [
+"한파와 건조한 겨울",
+"폭우(heavy rainfall)와 홍수로 인한 모기 개체수 급증",
+"진드기 개체수 증가",
+"사료 오염",
+"직접 접촉 증가"
+],
+"answer": [
+2
+],
+"explain": "슬라이드 214 'Outbreaks associated with: Heavy rainfall, Increased mosquito populations' 및 슬라이드 215 'Heavy Rain + Floods = More Mosquitos' 부분에 따라, RVF는 폭우·홍수로 모기가 급증할 때 폭발적으로 발생하는 모기매개 인수공통 질병입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 220
 },
 {
 "part": "Bunyavirales",
@@ -4476,7 +5826,7 @@ const LABQ = [
 "flagReason": "족보 정답 ①, 그러나 강의안(슬라이드183 mortality~100%) 근거상 틀린 문장은 ②(자연치유). Claude 정답=②.",
 "unit": "",
 "cardOrder": 99,
-"id": 171
+"id": 221
 },
 {
 "part": "Bunyavirales",
@@ -4494,7 +5844,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Akabane virus (Peribunyaviridae, genus Orthobunyavirus) is an arbovirus transmitted by midges and mosquitoes that causes abortion, stillbirth, and congenital malformations such as hydranencephaly and arthrogryposis in cattle, sheep, and goats; adult dams are usually subclinical. Akabane바이러스는 미지(Culicoides)·모기가 매개하는 절지동물매개바이러스로, 어미는 대개 무증상이면서 태아 감염을 통해 유산·사산·관절만곡·수두증 같은 선천성 기형을 일으킨다. NSD·Borna·BRSV·RHDV는 임신 기형 증후군을 일으키지 않는다. 근거: 강의안 Slide 206 'Akabane Disease', Slide 207 'Epidemiology (vectors: midges, mosquitoes)'.",
+"explain": "Akabane virus (Peribunyaviridae, genus Orthobunyavirus) is an arbovirus transmitted by midges and mosquitoes that causes abortion, stillbirth, and congenital malformations such as hydranencephaly and arthrogryposis in cattle, sheep, and goats; adult dams are usually subclinical. Akabane바이러스는 미지(Culicoides)·모기가 매개하는 절지동물매개바이러스로, 어미는 대개 무증상이면서 태아 감염을 통해 유산·사산·관절만곡·수두증 같은 선천성 기형을 일으킨다. NSD·Borna·BRSV·RHDV는 임신 기형 증후군을 일으키지 않는다. 근거: 강의안 Slide 206 'Akabane Disease', Slide 207 'Epidemiology (vectors: midges, mosquitoes)'.\n\n**[문항 한국어 해석]**\n발문: 따뜻한 해안 지역의 소 무리에서 늦여름에 유산abortion과 사산stillbirth이 갑자기 집단 발생하였다. 만삭으로 살아서 태어난 송아지 여러 마리가 관절만곡arthrogryposis(관절 구축)과 수두증hydranencephaly을 보였다. 농장에는 Culicoides 등에가 많았고, 영향을 받은 어미dams 자신은 임상적으로 정상이었다. 가장 가능성이 높은 원인은?\n① Akabane 바이러스(Peribunyaviridae)\n② Nairobi sheep disease orthonairovirus(나이로비 양병 오쏘네어로바이러스)\n③ Borna disease virus(Orthobornavirus bornaense)\n④ 소 호흡기 세포융합 바이러스bovine respiratory syncytial virus\n⑤ 토끼 출혈병 바이러스rabbit hemorrhagic disease virus",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -4503,7 +5853,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 172
+"id": 222
 },
 {
 "part": "Bunyavirales",
@@ -4521,7 +5871,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "The lecture maps fetal outcome to gestational stage: 11-14 weeks -> hydranencephaly, 15-24 weeks -> arthrogryposis, 25-33 weeks -> poliomyelitis. 강의안은 감염 시점(임신주령)에 따라 11-14주는 수두증(hydranencephaly), 15-24주는 관절만곡(arthrogryposis), 25-33주는 회백수염(poliomyelitis)으로 결과가 달라진다고 명시한다. 따라서 가장 이른 시기 감염은 수두증과 연결된다. 근거: 강의안 Slide 208 'Clinical Signs - Fetal Infection'.",
+"explain": "The lecture maps fetal outcome to gestational stage: 11-14 weeks -> hydranencephaly, 15-24 weeks -> arthrogryposis, 25-33 weeks -> poliomyelitis. 강의안은 감염 시점(임신주령)에 따라 11-14주는 수두증(hydranencephaly), 15-24주는 관절만곡(arthrogryposis), 25-33주는 회백수염(poliomyelitis)으로 결과가 달라진다고 명시한다. 따라서 가장 이른 시기 감염은 수두증과 연결된다. 근거: 강의안 Slide 208 'Clinical Signs - Fetal Infection'.\n\n**[문항 한국어 해석]**\n발문: Akabane 바이러스는 모체 바이러스혈증maternal viremia 동안 태반을 통과하며, 태아의 임상 결과는 감염 시점의 임신주령gestational stage에 따라 달라진다. 강의안에 따르면, 가장 이른 임신 시기(약 11~14주)의 감염과 가장 밀접하게 연관된 태아 이상은?\n① 수두증hydranencephaly\n② 관절만곡arthrogryposis\n③ 회백수염poliomyelitis\n④ 소뇌 농양cerebellar abscess\n⑤ 이분척추spina bifida",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -4530,7 +5880,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 173
+"id": 223
 },
 {
 "part": "Bunyavirales",
@@ -4548,7 +5898,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Proventricular dilatation disease (PDD) is caused by avian bornaviruses (Orthobornavirus alphapsittaciforme / betapsittaciforme). Bornaviruses are enveloped negative-sense ssRNA viruses that uniquely replicate in the host cell nucleus. PDD results from lymphoplasmacytic (non-suppurative) inflammation damaging the autonomic nerves of the GI tract, causing proventricular dilation; there is no effective vaccine or treatment. PDD(앵무새 선위확장증)는 avian bornavirus가 원인이며, bornavirus는 외피보유 음성가닥 ssRNA로 특이하게 핵에서 복제한다. GI관 자율신경의 림프형질세포성(비화농성) 염증이 선위확장을 일으키고, 효과적인 백신·치료가 없다. 근거: 강의안 Slide 178·185·187 (nucleus replication, avian bornavirus, autonomic nerve damage), Slide 192 (no effective vaccine).",
+"explain": "Proventricular dilatation disease (PDD) is caused by avian bornaviruses (Orthobornavirus alphapsittaciforme / betapsittaciforme). Bornaviruses are enveloped negative-sense ssRNA viruses that uniquely replicate in the host cell nucleus. PDD results from lymphoplasmacytic (non-suppurative) inflammation damaging the autonomic nerves of the GI tract, causing proventricular dilation; there is no effective vaccine or treatment. PDD(앵무새 선위확장증)는 avian bornavirus가 원인이며, bornavirus는 외피보유 음성가닥 ssRNA로 특이하게 핵에서 복제한다. GI관 자율신경의 림프형질세포성(비화농성) 염증이 선위확장을 일으키고, 효과적인 백신·치료가 없다. 근거: 강의안 Slide 178·185·187 (nucleus replication, avian bornavirus, autonomic nerve damage), Slide 192 (no effective vaccine).\n\n**[문항 한국어 해석]**\n발문: 반려 마코앵무macaw가 만성 체중감소, 게워냄regurgitation, 분변으로 소화되지 않은 씨앗undigested seeds 배출, 간헐적 운동실조ataxia와 떨림tremors을 보인다. 방사선 촬영에서 뚜렷한 선위 확장dilatation of the proventriculus이 관찰된다. 영향받은 조류의 조직병리에서는 전형적으로 자율신경의 림프형질세포성 염증lymphoplasmacytic inflammation of autonomic nerves이 나타난다. 원인체(조류 보르나바이러스/PDD)에 대한 설명으로 옳은 것은?\n① 위장관GI tract의 자율신경을 손상시키는 조류 보르나바이러스avian bornavirus이며, 효과적인 백신이나 치료가 없다\n② 세포질에서 복제하는 무외피 칼리시바이러스이며, 허가된 불활화 백신으로 예방된다\n③ 출혈성 장염을 일으키는 진드기매개 오쏘네어로바이러스orthonairovirus이다\n④ 간괴사를 일으키는 모기매개 phenuivirus이다\n⑤ 오직 세포질에서만 복제하며 신경 증상을 절대 일으키지 않는다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -4557,7 +5907,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 174
+"id": 224
 },
 {
 "part": "Bunyavirales",
@@ -4575,7 +5925,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Nairobi sheep disease (NSD) is caused by NSD orthonairovirus (Nairoviridae) and produces severe hemorrhagic gastroenteritis with high mortality (up to 90% in naive animals); characteristic lesions are enlarged edematous lymph nodes and petechial/ecchymotic hemorrhages of cecum and colon. The principal vector is the brown ear tick Rhipicephalus appendiculatus, not a midge or mosquito. NSD는 진드기(brown ear tick, R. appendiculatus)가 매개하는 orthonairovirus로, naive 양에서 출혈성 위장염·이질·유산과 90% 폐사를 일으키며 맹장·결장 점출혈이 특징이다. 근거: 강의안 Slide 196-199 (NSD Etiology·Epidemiology vector·Clinical Signs·Pathology).",
+"explain": "Nairobi sheep disease (NSD) is caused by NSD orthonairovirus (Nairoviridae) and produces severe hemorrhagic gastroenteritis with high mortality (up to 90% in naive animals); characteristic lesions are enlarged edematous lymph nodes and petechial/ecchymotic hemorrhages of cecum and colon. The principal vector is the brown ear tick Rhipicephalus appendiculatus, not a midge or mosquito. NSD는 진드기(brown ear tick, R. appendiculatus)가 매개하는 orthonairovirus로, naive 양에서 출혈성 위장염·이질·유산과 90% 폐사를 일으키며 맹장·결장 점출혈이 특징이다. 근거: 강의안 Slide 196-199 (NSD Etiology·Epidemiology vector·Clinical Signs·Pathology).\n\n**[문항 한국어 해석]**\n발문: 면역이 없는naive 양 무리가 동아프리카의 풍토병 지역endemic area으로 이동되었다. 일주일 내에 고열, 점액화농성 콧물mucopurulent nasal discharge, 악취성 출혈성 설사(이질)fetid hemorrhagic diarrhea (dysentery), 유산이 나타났고 사망률은 90%에 달했다. 부검에서 비대·부종성 장간막 림프절enlarged edematous mesenteric lymph nodes과 맹장·결장cecum and colon의 점상·반상 출혈petechial/ecchymotic hemorrhages이 확인되었다. 이 증상에 가장 부합하는 원인체와 매개체는?\n① Nairobi sheep disease orthonairovirus; 갈색귀진드기brown ear tick(Rhipicephalus appendiculatus)가 매개\n② Akabane 바이러스; Culicoides 등에가 매개\n③ Rift Valley fever 바이러스; Aedes 모기가 매개\n④ 고양이 칼리시바이러스feline calicivirus; 매개물fomites로 전파\n⑤ Borna disease 바이러스; 설치류rodents가 전파",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -4584,7 +5934,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 175
+"id": 225
 },
 {
 "part": "Bunyavirales",
@@ -4602,7 +5952,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Rift Valley fever (RVF, family Phenuiviridae) is a mosquito-borne zoonotic disease of sheep, goats, cattle, and humans. Outbreaks are linked to heavy rainfall and increased mosquito populations; it causes abortion, severe hepatic necrosis, and neonatal lamb mortality >90%, while humans develop influenza-like illness. RVF는 모기매개 인수공통 phenuivirus로, 폭우·홍수가 모기 증가를 통해 폭발적 유행을 유발하고 유산·간괴사·신생 자축 90% 이상 폐사를 일으키며 사람에게 독감유사 증상을 준다. 근거: 강의안 Slide 212-216 (RVF Etiology·Epidemiology·Transmission·Clinical Signs).",
+"explain": "Rift Valley fever (RVF, family Phenuiviridae) is a mosquito-borne zoonotic disease of sheep, goats, cattle, and humans. Outbreaks are linked to heavy rainfall and increased mosquito populations; it causes abortion, severe hepatic necrosis, and neonatal lamb mortality >90%, while humans develop influenza-like illness. RVF는 모기매개 인수공통 phenuivirus로, 폭우·홍수가 모기 증가를 통해 폭발적 유행을 유발하고 유산·간괴사·신생 자축 90% 이상 폐사를 일으키며 사람에게 독감유사 증상을 준다. 근거: 강의안 Slide 212-216 (RVF Etiology·Epidemiology·Transmission·Clinical Signs).\n\n**[문항 한국어 해석]**\n발문: 동아프리카에서 이례적인 폭우heavy rainfall와 홍수flooding 이후, 한 양 무리에서 임신한 암양pregnant ewes의 유산이 폭발적으로 발생하고 신생 어린양newborn lambs의 90% 이상이 폐사하였다. 유산물aborted material을 다룬 여러 농장 작업자들이 발열, 근육통myalgia, 독감유사 증상flu-like illness을 보였다. 이 발생을 가장 잘 설명하는 것은?\n① Rift Valley fever는 모기매개 인수공통 phenuivirus이다; 폭우가 모기 개체수를 늘리고, 유산·간괴사hepatic necrosis·매우 높은 신생자 폐사를 일으키며 사람에게 독감유사 증상을 준다\n② 날 해양 부산물raw marine by-products을 먹여 전파되는 무외피 칼리시바이러스calicivirus가 원인이다\n③ Akabane병이며, 진드기를 통해 경란transovarial으로만 전파되고 사람 위험은 없다\n④ Borna병이며, 핵에서 복제하는 말의 신경친화성 바이러스이다\n⑤ 겨울철 사육 스트레스로 증폭된 소 호흡기 세포융합 바이러스이다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -4611,7 +5961,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 176
+"id": 226
 },
 {
 "part": "Pneumoviridae",
@@ -4628,7 +5978,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 177
+"id": 227
 },
 {
 "part": "Pneumoviridae",
@@ -4655,7 +6005,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 178
+"id": 228
 },
 {
 "part": "Pneumoviridae",
@@ -4682,7 +6032,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 179
+"id": 229
 },
 {
 "part": "Pneumoviridae",
@@ -4709,7 +6059,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 180
+"id": 230
 },
 {
 "part": "Pneumoviridae",
@@ -4736,7 +6086,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 181
+"id": 231
+},
+{
+"part": "Pneumoviridae",
+"unit": "Pneumo1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "BRSV (소 호흡기 세포융합 바이러스) · Canine pneumovirus",
+"q": "강의안에서 Pneumoviridae가 현재 속해 있다고 제시된 목(order)은?",
+"choices": [
+"Mononegavirales",
+"Nidovirales",
+"Bunyavirales",
+"Picornavirales",
+"Paramyxoviridae"
+],
+"answer": [
+1
+],
+"explain": "슬라이드4 'They are now established as an independent family under the order Mononegavirales' — Pneumoviridae는 과거 Paramyxoviridae의 Pneumovirinae였으나 현재 Mononegavirales 목 내 독립 family다. Paramyxoviridae는 목이 아니라 과 이름이다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 232
+},
+{
+"part": "Pneumoviridae",
+"unit": "Pneumo1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "BRSV (소 호흡기 세포융합 바이러스) · Canine pneumovirus",
+"q": "강의안에서 Canine pneumovirus(CPnV)의 현재 분류·예방 상태로 옳은 것은?",
+"choices": [
+"ICTV 공식 종으로 분류되었고 상용 백신이 있다",
+"Orthopneumovirus속이나 아직 ICTV 공식 종은 아니며 상용 백신이 없다",
+"BRSV와 동일한 바이러스이며 소 백신으로 예방된다",
+"핵에서 복제하며 강아지에 선천성 기형을 일으킨다",
+"약독화 생백신으로 완전 방어가 가능하다"
+],
+"answer": [
+2
+],
+"explain": "슬라이드15 'Genetic analysis places this virus in the genus Orthopneumovirus … However, it has not yet been classified as a formal species by the ICTV' + 슬라이드19 'no commercial vaccine is currently available' — CPnV는 Orthopneumovirus속이지만 아직 ICTV 공식 종이 아니고 상용 백신이 없어 격리·대증치료로 관리한다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 233
 },
 {
 "part": "Pneumoviridae",
@@ -4764,7 +6168,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 182
+"id": 234
 },
 {
 "part": "Pneumoviridae",
@@ -4782,7 +6186,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Bovine respiratory syncytial virus (BRSV, Orthopneumovirus bovis) replicates in ciliated/bronchiolar epithelium and causes fusion of infected Type II pneumocytes into multinucleated giant cells (syncytia) - the hallmark of the infection. BRSV is a primary pathogen in the Bovine Respiratory Disease Complex (BRDC) and is worsened by transport/winter stress and mixed infections. BRSV는 감염된 II형 폐포세포의 융합으로 다핵거대세포(syncytia)를 형성하는 것이 특징이며, BRDC의 1차 병원체로 수송·겨울 스트레스와 혼합감염에서 악화된다. 근거: 강의안 Slide 8 (BRDC primary pathogen), Slide 10 (Type II pneumocyte fusion -> syncytia).",
+"explain": "Bovine respiratory syncytial virus (BRSV, Orthopneumovirus bovis) replicates in ciliated/bronchiolar epithelium and causes fusion of infected Type II pneumocytes into multinucleated giant cells (syncytia) - the hallmark of the infection. BRSV is a primary pathogen in the Bovine Respiratory Disease Complex (BRDC) and is worsened by transport/winter stress and mixed infections. BRSV는 감염된 II형 폐포세포의 융합으로 다핵거대세포(syncytia)를 형성하는 것이 특징이며, BRDC의 1차 병원체로 수송·겨울 스트레스와 혼합감염에서 악화된다. 근거: 강의안 Slide 8 (BRDC primary pathogen), Slide 10 (Type II pneumocyte fusion -> syncytia).\n\n**[문항 한국어 해석]**\n발문: 4개월령 육우 송아지 무리가 겨울철 비육장feedlot으로 수송된 뒤 발열, 기침, 빈호흡tachypnea, 비루를 일으킨다. 폐사한 송아지의 조직병리에서 융합된 II형 폐포세포Type II pneumocytes로 형성된 다핵거대세포multinucleated giant cells(syncytia)와 세기관지 상피 괴사가 관찰된다. syncytium 형성과 이 질병을 가장 잘 설명한 것은?\n① BRSV(Orthopneumovirus bovis)가 감염된 II형 폐포세포를 융합시켜 다핵거대세포(syncytia)를 만드는 것이 감염의 특징hallmark이며, 소 호흡기 질환 복합체BRDC의 1차 병원체이다\n② syncytia는 보르나바이러스 뇌염의 특징인 핵내 Joest-Degen body로 인해 생긴다\n③ 거대세포는 핵에서 복제하는 비외피성 calicivirus로 인해 생긴다\n④ syncytia는 골격근에서의 Akabane 바이러스 증식을 나타낸다\n⑤ 이 병변은 구제역foot-and-mouth disease 수포에 특이적pathognomonic이다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -4791,7 +6195,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 183
+"id": 235
 },
 {
 "part": "Pneumoviridae",
@@ -4809,7 +6213,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "There is no specific antiviral treatment for BRSV; antibiotic therapy is vital to control secondary bacterial infection that follows BRSV-induced immunosuppression and airway damage. Vaccination (live or inactivated) is the most effective prevention, and mixed/multivalent vaccines targeting multiple respiratory pathogens are recommended over BRSV-only vaccines. Parenteral vaccination is timed 2-4 weeks before stress (weaning, transport, feedlot entry). BRSV에는 특이 항바이러스제가 없어 2차 세균감염 관리용 항생제가 중요하고, 단가 BRSV 백신보다 다가(혼합) 백신이 권장되며 비경구 접종은 스트레스(이유·수송·비육장 입식) 2-4주 전에 한다. 근거: 강의안 Slide 14 (no specific antiviral, mixed vaccines, IM/SSC 2-4 weeks before stress).",
+"explain": "There is no specific antiviral treatment for BRSV; antibiotic therapy is vital to control secondary bacterial infection that follows BRSV-induced immunosuppression and airway damage. Vaccination (live or inactivated) is the most effective prevention, and mixed/multivalent vaccines targeting multiple respiratory pathogens are recommended over BRSV-only vaccines. Parenteral vaccination is timed 2-4 weeks before stress (weaning, transport, feedlot entry). BRSV에는 특이 항바이러스제가 없어 2차 세균감염 관리용 항생제가 중요하고, 단가 BRSV 백신보다 다가(혼합) 백신이 권장되며 비경구 접종은 스트레스(이유·수송·비육장 입식) 2-4주 전에 한다. 근거: 강의안 Slide 14 (no specific antiviral, mixed vaccines, IM/SSC 2-4 weeks before stress).\n\n**[문항 한국어 해석]**\n발문: 한 수의사가 BRSV가 반복 발생하는 비육장feedlot을 위한 호흡기 질환 통제 프로그램을 설계하고 있다. 강의안에 따르면 가장 적절한 접근은?\n① 특이 항바이러스제antiviral가 없으므로 2차 세균감염 관리를 위해 항생제를 사용하고, BRSV 단독 백신보다 혼합(다가multivalent) 백신을 선호하며, 이유·수송 같은 스트레스 약 2-4주 전에 접종한다\n② 특효 항바이러스제로 BRSV를 완치할 수 있으므로 백신 접종은 불필요하다\n③ BRSV 단독 단가monovalent 백신이 다가 백신보다 강력히 선호된다\n④ BRSV는 세균이므로 항생제는 금기이다\n⑤ 백신은 임상적 폐렴과 폐기종이 발생한 뒤에만 접종해야 한다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -4818,7 +6222,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 184
+"id": 236
 },
 {
 "part": "Pneumoviridae",
@@ -4836,7 +6240,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Canine pneumovirus (CPnV) is an emerging pathogen within the Canine Infectious Respiratory Disease Complex (CIRDC). Because it was reported relatively recently, no commercial CPnV vaccine is available; it is in genus Orthopneumovirus but not yet a formal ICTV species. Control relies on immediate isolation, strict contact prevention, supportive symptomatic treatment, and antibiotics for secondary bacterial complications. CPnV는 CIRDC 관련 신종 병원체로 상용 백신이 없으며(아직 ICTV 공식 종 아님), 즉시 격리·접촉 차단·대증치료·2차 세균감염용 항생제로 관리한다. 근거: 강의안 Slide 15 (CIRDC, ICTV 미분류), Slide 19 (no commercial vaccine, isolation, antibiotics).",
+"explain": "Canine pneumovirus (CPnV) is an emerging pathogen within the Canine Infectious Respiratory Disease Complex (CIRDC). Because it was reported relatively recently, no commercial CPnV vaccine is available; it is in genus Orthopneumovirus but not yet a formal ICTV species. Control relies on immediate isolation, strict contact prevention, supportive symptomatic treatment, and antibiotics for secondary bacterial complications. CPnV는 CIRDC 관련 신종 병원체로 상용 백신이 없으며(아직 ICTV 공식 종 아님), 즉시 격리·접촉 차단·대증치료·2차 세균감염용 항생제로 관리한다. 근거: 강의안 Slide 15 (CIRDC, ICTV 미분류), Slide 19 (no commercial vaccine, isolation, antibiotics).\n\n**[문항 한국어 해석]**\n발문: 보호소의 여러 마리 개가 기침, 재채기, 비루, 결막염을 일으키고 일부는 폐렴으로 진행한다. 다중 RT-PCRmultiplex RT-PCR로 CIRDC 패널 중 개 폐렴바이러스canine pneumovirus(CPnV)가 확인된다. CPnV에 관해 가장 정확한 설명은?\n① CPnV는 상용 백신이 없는 신종 CIRDC 병원체로, 관리는 즉시 격리·엄격한 접촉 차단·대증치료·2차 세균 합병증용 항생제에 의존한다\n② 특이 상용 CPnV 백신이 완전한 방어를 제공하므로 격리는 불필요하다\n③ CPnV는 소 호흡기 합포체 바이러스BRSV와 같은 병원체이며 소 백신으로 예방된다\n④ CPnV는 핵에서 복제하며 강아지에 선천성 기형을 일으킨다\n⑤ CPnV는 ICTV가 별개 종으로 공식 분류했으며 결코 폐렴을 일으키지 않는다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -4845,7 +6249,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 185
+"id": 237
 },
 {
 "part": "Reoviridae",
@@ -4862,7 +6266,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 186
+"id": 238
 },
 {
 "part": "Reoviridae",
@@ -4889,7 +6293,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 187
+"id": 239
 },
 {
 "part": "Reoviridae",
@@ -4916,7 +6320,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 188
+"id": 240
 },
 {
 "part": "Reoviridae",
@@ -4943,7 +6347,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 189
+"id": 241
 },
 {
 "part": "Reoviridae",
@@ -4970,7 +6374,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 190
+"id": 242
+},
+{
+"part": "Reoviridae",
+"unit": "Reo1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드 1 — 일반특성·분류·항원변이",
+"q": "Reoviridae 2개 아과의 입자 표면 구조 차이로 옳은 것은?",
+"choices": [
+"Spinareovirinae는 12개 꼭짓점에 spike/turret 돌기, Sedoreovirinae는 smooth surface(매끈)",
+"Spinareovirinae는 매끈, Sedoreovirinae는 spike 돌기",
+"둘 다 외피(envelope)를 가진다",
+"둘 다 나선형 캡시드를 가진다",
+"두 아과의 표면 구조는 동일하다"
+],
+"answer": [
+1
+],
+"explain": "슬라이드 98 'Spinareovirinae members typically feature \"spikes\" or \"turrets\" at the 12 vertices of the icosahedron. Sedoreovirinae members show smooth surface' 부분에 따라, Spinareovirinae는 spike/turret, Sedoreovirinae는 smooth surface입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 243
+},
+{
+"part": "Reoviridae",
+"unit": "Reo1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드 1 — 일반특성·분류·항원변이",
+"q": "Reoviridae의 환경저항성에 대한 설명으로 옳은 것은?",
+"choices": [
+"모든 속이 환경에서 즉시 불활화된다",
+"Orbivirus·Rotavirus는 매우 안정하며, protease(단백분해효소) 처리로 감염성이 증가한다",
+"protease 처리로 즉시 사멸한다",
+"phenol·formalin·95% ethanol로는 불활화되지 않는다",
+"Bluetongue virus는 실온 혈액에서 즉시 사멸한다"
+],
+"answer": [
+2
+],
+"explain": "슬라이드 99 'Orbivirus and Rotavirus are exceptionally stable' 및 'The infectivity of Orthoreovirus, Aquareovirus, and Rotavirus is significantly increased by treatment with proteolytic enzymes (proteases)' 부분에 따라 정답입니다. 같은 슬라이드에서 phenol·formalin·95% ethanol로 불활화된다고 명시합니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 244
 },
 {
 "part": "Reoviridae",
@@ -4997,7 +6455,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 191
+"id": 245
 },
 {
 "part": "Reoviridae",
@@ -5024,7 +6482,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 192
+"id": 246
 },
 {
 "part": "Reoviridae",
@@ -5051,7 +6509,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 193
+"id": 247
 },
 {
 "part": "Reoviridae",
@@ -5078,7 +6536,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 194
+"id": 248
+},
+{
+"part": "Reoviridae",
+"unit": "Reo2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드 2 — Rotavirus (신생설사·scours)",
+"q": "소 Rotavirus(Group A)의 단백질 중 외부 캡시드 당단백으로 항체형성·혈청군 결정에 중요한 것은?",
+"choices": [
+"VP4 (P protein)",
+"VP7 (G protein)",
+"NSP4 enterotoxin",
+"VP1 (polymerase)",
+"VP6"
+],
+"answer": [
+2
+],
+"explain": "슬라이드 101 'VP7 (G protein): Major outer capsid glycoprotein; critical for immune response and antibody formation; determining serological group' 부분에 따라 VP7이 정답입니다. VP4(P protein)는 protease 민감 단백으로 부착·감염성을 결정합니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 249
+},
+{
+"part": "Reoviridae",
+"unit": "Reo2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드 2 — Rotavirus (신생설사·scours)",
+"q": "Rotavirus 감염에서 NSP4가 설사 발생에 기여하는 방식으로 옳은 것은?",
+"choices": [
+"장 점막을 직접 천공시킨다",
+"enterotoxin으로 작용해 분비성(secretory) 설사에 기여한다",
+"혈액 응고를 촉진한다",
+"융모를 새로 자라게 한다",
+"음와 세포를 보호한다"
+],
+"answer": [
+2
+],
+"explain": "슬라이드 103 도식의 'NSP4 enterotoxin » secretory diarrhea' 부분에 따라, NSP4는 enterotoxin으로 작용해 분비성 설사에 기여합니다. 융모끝 성숙 장세포 파괴에 의한 흡수장애성/삼투성 설사와 함께 작용합니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 250
 },
 {
 "part": "Reoviridae",
@@ -5105,7 +6617,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 195
+"id": 251
 },
 {
 "part": "Reoviridae",
@@ -5132,7 +6644,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 196
+"id": 252
 },
 {
 "part": "Reoviridae",
@@ -5159,7 +6671,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 197
+"id": 253
 },
 {
 "part": "Reoviridae",
@@ -5186,7 +6698,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 198
+"id": 254
+},
+{
+"part": "Reoviridae",
+"unit": "Reo3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드 3 — Orbivirus 질병군 (BTV·AHS·Chuzan·Ibaraki)",
+"q": "Bluetongue(BTV) 백신에 대한 설명으로 옳은 것은?",
+"choices": [
+"약독화 생백신(MLV)은 면역이 약하지만 임신양에 완전히 안전하다",
+"약독화 생백신(MLV)은 강한 면역을 주지만 임신양에서 태아 미라화·뇌결손 위험이 있다",
+"불활화 백신은 추가접종이 전혀 필요 없다",
+"BTV에는 백신이 존재하지 않는다",
+"MLV가 불활화 백신보다 항상 더 안전하다"
+],
+"answer": [
+2
+],
+"explain": "슬라이드 110 'Modified-Live Vaccines (MLV): Provide strong immunity but carry risks of fetal mummification or brain defects in pregnant ewes' 및 'Inactivated Vaccines: Safe and used successfully... but require boosters' 부분에 따라, MLV는 강한 면역이지만 임신양 태아 위험이 있습니다. '약독화가 더 안전'은 오류입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 255
+},
+{
+"part": "Reoviridae",
+"unit": "Reo3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드 3 — Orbivirus 질병군 (BTV·AHS·Chuzan·Ibaraki)",
+"q": "Ibaraki disease(Orbivirus)의 핵심 임상 특징으로 옳은 것은?",
+"choices": [
+"송아지의 선천성 수무뇌증(hydranencephaly)",
+"양의 청색증(blue tongue)",
+"삼킴장애(dysphagia)·인두마비와 흡인성 폐렴",
+"말의 폐부종과 95% 사망",
+"신생 송아지의 수양성 설사"
+],
+"answer": [
+3
+],
+"explain": "슬라이드 113 'Characterized by swallowing disorders (dysphagia) and pharyngeal paralysis' 및 'Aspiration pneumonia is a common fatal complication' 부분에 따라 정답입니다. 선천성 수무뇌증은 Chuzan, 청색증은 BTV, 폐부종·95% 사망은 AHS입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 256
 },
 {
 "part": "Reoviridae",
@@ -5216,7 +6782,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 199
+"id": 257
 },
 {
 "part": "Reoviridae",
@@ -5243,7 +6809,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 200
+"id": 258
 },
 {
 "part": "Reoviridae",
@@ -5263,7 +6829,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 201
+"id": 259
 },
 {
 "part": "Reoviridae",
@@ -5284,7 +6850,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 202
+"id": 260
 },
 {
 "part": "Reoviridae",
@@ -5314,7 +6880,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 203
+"id": 261
 },
 {
 "part": "Reoviridae",
@@ -5342,7 +6908,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 204
+"id": 262
 },
 {
 "part": "Reoviridae",
@@ -5360,7 +6926,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "AHS (Orbivirus, AHSV) pulmonary form \"Dunkop\" is the most fatal (95-100% mortality), with sudden high fever, severe dyspnea, frothy nasal discharge, and death within 24-48 hours; pathology shows gelatinous pulmonary edema and hydrothorax (강의안 Reoviridae slides 119-120). Cardiac form \"Dikkop\" gives head/neck (supraorbital) edema and ~50% mortality, and mixed forms are most common (but not lowest mortality). 따라서 폐형·95-100%만 맞다.",
+"explain": "AHS (Orbivirus, AHSV) pulmonary form \"Dunkop\" is the most fatal (95-100% mortality), with sudden high fever, severe dyspnea, frothy nasal discharge, and death within 24-48 hours; pathology shows gelatinous pulmonary edema and hydrothorax (강의안 Reoviridae slides 119-120). Cardiac form \"Dikkop\" gives head/neck (supraorbital) edema and ~50% mortality, and mixed forms are most common (but not lowest mortality). 따라서 폐형·95-100%만 맞다.\n\n**[문항 한국어 해석]**\n발문: 한 말이 갑작스러운 초고열, 심한 호흡곤란severe dyspnea, 거품성 콧물frothy nasal discharge을 보인 뒤 24~48시간 이내에 폐사하였다. 부검에서 젤라틴양 폐부종gelatinous pulmonary edema과 흉수hydrothorax가 관찰되었다. 이것은 아프리카마역African horse sickness의 어떤 임상형이며, 예상 사망률은?\n① 폐형(Dunkop); 95~100% 사망률, 가장 치명적인 형\n② 심장형(Dikkop); 안와상와 부종을 동반한 약 50% 사망률\n③ 혼합형; 모든 형 중 가장 낮은 사망률\n④ 마역열horse sickness fever; 무증상이며 완전 회복\n⑤ 심장형(Dikkop); 두부 부종으로 인한 95~100% 사망률",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -5369,7 +6935,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 205
+"id": 263
 },
 {
 "part": "Reoviridae",
@@ -5387,7 +6953,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "BTV (Reoviridae, genus Orbivirus) is an infectious, NON-contagious, midge-borne febrile disease of ruminants, primarily sheep; it is named for the cyanosis (blue tongue) from vascular damage. Transmission is almost exclusively via the bite of infected female Culicoides midges, which is why direct contact is not needed (강의안 Reoviridae slides 106-108). 따라서 Culicoides 매개·비접촉성이 핵심. 직접접촉·aerosol·fecal-oral·bite 전파는 BTV에 해당하지 않아 오답.",
+"explain": "BTV (Reoviridae, genus Orbivirus) is an infectious, NON-contagious, midge-borne febrile disease of ruminants, primarily sheep; it is named for the cyanosis (blue tongue) from vascular damage. Transmission is almost exclusively via the bite of infected female Culicoides midges, which is why direct contact is not needed (강의안 Reoviridae slides 106-108). 따라서 Culicoides 매개·비접촉성이 핵심. 직접접촉·aerosol·fecal-oral·bite 전파는 BTV에 해당하지 않아 오답.\n\n**[문항 한국어 해석]**\n발문: 늦여름, 한 무리의 양들이 발열, 구강점막 충혈congestion of the oral mucosa, 과도한 거품성 침흘림, 얼굴·혀의 부종edema of the face and tongue, 그리고 관부 충혈로 인한 파행lameness을 보였고, 중증 예에서는 청색(파란) 혀cyanotic (blue) tongue가 나타났다. 아프거나 건강한 양들이 직접 접촉한 적이 전혀 없는데도 질병이 발생했다. 원인체와 전파를 가장 잘 설명하는 것은?\n① 청설병 바이러스bluetongue virus(Orbivirus); 감염성이지만 비접촉성인 질병으로 감염된 암컷 Culicoides 등에가 전파한다\n② 양들 간 직접 코-코 접촉nose-to-nose contact으로 전파되는 청설병 바이러스\n③ 에어로졸aerosol로 전파되는 구제역 바이러스FMD virus\n④ 분변-경구fecal-oral 경로로 전파되는 로타바이러스rotavirus\n⑤ 교상bite wound으로 전파되는 광견병 바이러스rabies virus",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -5396,7 +6962,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 206
+"id": 264
 },
 {
 "part": "Reoviridae",
@@ -5414,7 +6980,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Bovine Group A rotavirus selectively infects mature enterocytes at the villus tips; their destruction and shedding cause villous atrophy and fusion, leading to malabsorption and osmotic diarrhea, with peak incidence at 1-3 weeks of age. Control relies on colostrum management (delivering high maternal antibody) plus vaccinating pregnant cows and hygiene (강의안 Reoviridae slides 101-105). 따라서 융모 끝 성숙 장세포 파괴→흡수장애성/osmotic 설사, 초유관리가 핵심. crypt/secretory·신경침범 등은 오답.",
+"explain": "Bovine Group A rotavirus selectively infects mature enterocytes at the villus tips; their destruction and shedding cause villous atrophy and fusion, leading to malabsorption and osmotic diarrhea, with peak incidence at 1-3 weeks of age. Control relies on colostrum management (delivering high maternal antibody) plus vaccinating pregnant cows and hygiene (강의안 Reoviridae slides 101-105). 따라서 융모 끝 성숙 장세포 파괴→흡수장애성/osmotic 설사, 초유관리가 핵심. crypt/secretory·신경침범 등은 오답.\n\n**[문항 한국어 해석]**\n발문: 생후 5일 된 송아지가 급성 수양성 황회색 설사acute watery yellow-grey diarrhea와 심한 탈수를 보인다. 소장 조직검사에서 바이러스가 융모 끝villus tips의 성숙 장세포mature enterocytes를 감염·파괴하여 융모 위축villous atrophy과 융합fusion을 일으킨 것이 확인되었다. 설사 기전과 핵심 관리법을 가장 잘 설명하는 것은?\n① 로타바이러스가 융모끝 장세포를 파괴해 흡수장애성/삼투성malabsorptive/osmotic 설사를 일으킨다; 충분한 초유(모체) 항체 확보가 핵심 관리법이다\n② 로타바이러스가 음와crypt 세포를 파괴해 분비성secretory 설사를 일으킨다; 항생제가 치료적이다\n③ 바이러스가 신경세포를 침범해 설사를 일으킨다; 광견병 백신으로 예방한다\n④ 융모 위축은 영양소 흡수를 증가시키므로 탈수가 생기지 않는다\n⑤ 설사는 장 내 수포 파열로 발생한다; 살처분stamping out이 필요하다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -5423,7 +6989,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 207
+"id": 265
 },
 {
 "part": "Reoviridae",
@@ -5441,7 +7007,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "Chuzan virus (Orbivirus, vector Culicoides oxystoma) causes a congenital malformation syndrome in calves — hydranencephaly-cerebellar hypoplasia (HCH), with >80% showing hydranencephaly (강의안 Reoviridae slides 111-112). Ibaraki virus (Orbivirus, EHDV serogroup serotype 2) causes acute febrile disease with swallowing disorders (dysphagia), pharyngeal/tongue/esophageal paralysis, and fatal aspiration pneumonia (slide 113). 따라서 Chuzan=HCH만 맞다; dysphagia는 Ibaraki, 설사는 rotavirus, 폐부종은 AHS라 오답.",
+"explain": "Chuzan virus (Orbivirus, vector Culicoides oxystoma) causes a congenital malformation syndrome in calves — hydranencephaly-cerebellar hypoplasia (HCH), with >80% showing hydranencephaly (강의안 Reoviridae slides 111-112). Ibaraki virus (Orbivirus, EHDV serogroup serotype 2) causes acute febrile disease with swallowing disorders (dysphagia), pharyngeal/tongue/esophageal paralysis, and fatal aspiration pneumonia (slide 113). 따라서 Chuzan=HCH만 맞다; dysphagia는 Ibaraki, 설사는 rotavirus, 폐부종은 AHS라 오답.\n\n**[문항 한국어 해석]**\n발문: Chuzan병과 Ibaraki병은 모두 동아시아에서 보고된, Culicoides와 연관된 소의 Orbivirus 감염이다. 질병과 그 특징적 소견을 옳게 짝지은 것은?\n① Chuzan — 송아지의 선천성 수무뇌증-소뇌저형성(HCH) 증후군congenital hydranencephaly-cerebellar hypoplasia syndrome\n② Chuzan — 성우의 급성 삼킴장애dysphagia와 인두마비\n③ Ibaraki — 신생 송아지의 선천성 수무뇌증hydranencephaly\n④ Ibaraki — 융모 위축을 동반한 신생자 수양성 설사\n⑤ Chuzan — 말의 폐부종과 95% 사망",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -5450,7 +7016,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 208
+"id": 266
 },
 {
 "part": "Retroviridae",
@@ -5467,7 +7033,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 209
+"id": 267
 },
 {
 "part": "Retroviridae",
@@ -5494,7 +7060,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 210
+"id": 268
 },
 {
 "part": "Retroviridae",
@@ -5521,7 +7087,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 211
+"id": 269
 },
 {
 "part": "Retroviridae",
@@ -5548,7 +7114,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 212
+"id": 270
 },
 {
 "part": "Retroviridae",
@@ -5575,7 +7141,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 213
+"id": 271
+},
+{
+"part": "Retroviridae",
+"unit": "Retro1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: Retroviridae 총괄(역전사·provirus·질병군)",
+"q": "강의안에서 마전염성빈혈(EIA)의 항체 검출 gold standard로 제시된 검사는?",
+"choices": [
+"Coggins test(AGID, p26 단백 항체 검출)",
+"p27 capsid 단백 ELISA",
+"Western Blot",
+"PMCA",
+"IgM-capture ELISA"
+],
+"answer": [
+1
+],
+"explain": "슬라이드78 'The Coggins test (AGID) is the internationally recognized gold standard for detecting antibodies to the p26 protein' — EIA 항체 검출 gold standard는 p26 단백을 보는 Coggins test(AGID)다. p27 ELISA는 FeLV(슬라이드84) 검사다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 272
+},
+{
+"part": "Retroviridae",
+"unit": "Retro1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: Retroviridae 총괄(역전사·provirus·질병군)",
+"q": "강의안에서 소백혈병바이러스(BLV)의 종양화 기전으로 제시된 것은?",
+"choices": [
+"전통적 oncogene을 직접 전사해 종양 유발",
+"전통적 oncogene 없이 조절단백 Tax·Rex가 종양화를 유도",
+"provirus가 cellular oncogene 옆에 삽입되어 과발현",
+"E2 당단백 변이로 epizootic strain 출현",
+"역전사효소 결핍으로 세포 변형"
+],
+"answer": [
+2
+],
+"explain": "슬라이드73 'BLV does not possess a traditional oncogene. Tumorigenesis is driven by regulatory proteins Tax and Rex, which are encoded by the X region at the 3 prime end of the env gene' — BLV는 전통적 oncogene이 없고 env 3' X region이 암호화하는 Tax·Rex 조절단백이 B세포 림프종을 추동한다. provirus 삽입 활성화(선지3)는 FeLV 기전(슬라이드83)이다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 273
 },
 {
 "part": "Retroviridae",
@@ -5595,7 +7215,7 @@ const LABQ = [
 "flagReason": "족보는 3단계, 강의안은 4단계(vague signs 추가)로 제시 — 둘 다 인정되나 4단계가 정식.",
 "unit": "",
 "cardOrder": 99,
-"id": 214
+"id": 274
 },
 {
 "part": "Retroviridae",
@@ -5616,7 +7236,7 @@ const LABQ = [
 "flagReason": "Q0663(2024#26)·Q0779(2023#46) 동일 주제 병합. 2023 족보 답안은 원본 누락.",
 "unit": "",
 "cardOrder": 99,
-"id": 215
+"id": 275
 },
 {
 "part": "Retroviridae",
@@ -5634,7 +7254,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. 임상상(dairy goats, 성체의 carpal joint chronic arthritis·체중감소·chronic mastitis, 4개월령 미만 kids의 hind limb weakness→quadriplegia)은 CAE다. 원인체 CAEV는 Lentivirus이며, 성체는 polyarthritis, kids는 leukoencephalomyelitis가 핵심 병변이다(slide 91, 92). 전파는 주로 감염된 colostrum·milk를 통하며, 병인은 Maedi/Visna와 유사하게 monocyte-to-macrophage 분화와 강한 cell-mediated immune response에 의한 조직 손상이다(slide 91, 92). control은 백신이 없어 혈청검사·도태·출생 직후 분리·heat-treated 초유/우유 급여다(slide 93). ② Deltaretrovirus·B-cell lymphoma는 BLV/EBL이고 CAE 백신은 없다(slide 93). ③ prion·obex PrP^Sc는 BSE 진단이다(Prion slide 129). ④ FeLV-C·FLVCR1·fatal anemia는 고양이 질환이다(slide 81). ⑤ CAEV는 lentivirus이지 모기 매개 alphavirus가 아니다.",
+"explain": "정답 ①. 임상상(dairy goats, 성체의 carpal joint chronic arthritis·체중감소·chronic mastitis, 4개월령 미만 kids의 hind limb weakness→quadriplegia)은 CAE다. 원인체 CAEV는 Lentivirus이며, 성체는 polyarthritis, kids는 leukoencephalomyelitis가 핵심 병변이다(slide 91, 92). 전파는 주로 감염된 colostrum·milk를 통하며, 병인은 Maedi/Visna와 유사하게 monocyte-to-macrophage 분화와 강한 cell-mediated immune response에 의한 조직 손상이다(slide 91, 92). control은 백신이 없어 혈청검사·도태·출생 직후 분리·heat-treated 초유/우유 급여다(slide 93). ② Deltaretrovirus·B-cell lymphoma는 BLV/EBL이고 CAE 백신은 없다(slide 93). ③ prion·obex PrP^Sc는 BSE 진단이다(Prion slide 129). ④ FeLV-C·FLVCR1·fatal anemia는 고양이 질환이다(slide 81). ⑤ CAEV는 lentivirus이지 모기 매개 alphavirus가 아니다.\n\n**[문항 한국어 해석]**\n발문: 한 젖염소 농장에서 성체 염소가 진행성 체중감소와 만성 유방염을 동반한 만성 수근관절carpal joint 종창을 일으키고, 4개월령 미만 자축 여러 마리는 후지 약화에서 사지마비로 진행하는 모습을 보인다. 이 질병에 관해 가장 정확한 설명은?\n① CAEV가 원인인 렌티바이러스Lentivirus이며; 성체는 보통 다발성관절염polyarthritis(수근관절), 자축은 백질뇌척수염leukoencephalomyelitis을 일으키고, 전파는 주로 감염된 초유colostrum나 우유milk를 통한다\n② B세포 림프종을 만드는 Deltaretrovirus가 원인이며, 약독화 생백신으로 가장 잘 통제된다\n③ 프리온이 원인이며, obex에서 protease 저항성 PrP^Sc 검출로 진단한다\n④ FeLV-C가 원인이며, FLVCR1 수용체를 통해 치명적 빈혈을 일으킨다\n⑤ 모기 매개 alphavirus이며, 자축은 고역가 바이러스혈증을 일으키는 종숙주dead-end host이다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -5643,7 +7263,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 216
+"id": 276
 },
 {
 "part": "Retroviridae",
@@ -5661,7 +7281,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. 임상상(2세 이상 양, 진행성 dyspnea, sclerotic mastitis(hard udder), wasting, 대부분 무증상)은 Maedi/Visna다. 원인체는 Maedi/Visna Virus(MVV)로 Lentivirus이며, 'Ovine Progressive Pneumonia'로도 불린다(slide 89). 병인은 'Trojan Horse' mechanism — monocyte에 숨어 있다가 macrophage로 분화할 때 활성화 — 이고, provirus 통합 때문에 virus가 완전히 제거되지 않아 lifelong chronic progressive disease가 된다(slide 90). ② prion·spongiform은 TSE 개념으로 MVV와 무관하다. ③ BLV·Tax/Rex·B-cell lymphoma는 EBL(소) 기전이다(slide 73). ④ Alphavirus·모기 매개·perivascular cuffing은 말뇌염이다(Togaviridae slide 59). ⑤ MVV는 Lentivirus이며 종양이 아니라 면역·만성 폐렴/신경질환을 일으킨다; oncogene 삽입은 FeLV(Gammaretrovirus) 기전이다(slide 83).",
+"explain": "정답 ①. 임상상(2세 이상 양, 진행성 dyspnea, sclerotic mastitis(hard udder), wasting, 대부분 무증상)은 Maedi/Visna다. 원인체는 Maedi/Visna Virus(MVV)로 Lentivirus이며, 'Ovine Progressive Pneumonia'로도 불린다(slide 89). 병인은 'Trojan Horse' mechanism — monocyte에 숨어 있다가 macrophage로 분화할 때 활성화 — 이고, provirus 통합 때문에 virus가 완전히 제거되지 않아 lifelong chronic progressive disease가 된다(slide 90). ② prion·spongiform은 TSE 개념으로 MVV와 무관하다. ③ BLV·Tax/Rex·B-cell lymphoma는 EBL(소) 기전이다(slide 73). ④ Alphavirus·모기 매개·perivascular cuffing은 말뇌염이다(Togaviridae slide 59). ⑤ MVV는 Lentivirus이며 종양이 아니라 면역·만성 폐렴/신경질환을 일으킨다; oncogene 삽입은 FeLV(Gammaretrovirus) 기전이다(slide 83).\n\n**[문항 한국어 해석]**\n발문: 4세 암양이 수개월에 걸쳐 악화되는 진행성 호흡곤란dyspnea, 단단한('경화성sclerotic') 유방, 점진적 소모wasting를 보이며, 무리의 다른 양 대부분은 임상적으로 정상으로 보인다. 원인체와 그 병인을 가장 잘 설명한 것은?\n① Maedi/Visna 바이러스가 원인으로, 이는 렌티바이러스Lentivirus이며 'Trojan Horse' 기전(단핵구monocyte에 숨어 있다가 대식세포macrophage로 분화할 때 활성화)을 쓰고, provirus 통합 때문에 결코 완전히 제거되지 않는다\n② 폐에 축적된 프리온이 원인으로, 염증 없이 해면상 변화를 일으킨다\n③ 소백혈병바이러스Bovine Leukemia Virus가 원인으로, Tax·Rex 단백을 통해 B세포 림프종을 만든다\n④ 모기로 전파되는 alphavirus가 원인으로, 폐에 혈관주위 소맷동perivascular cuffing을 만든다\n⑤ Gammaretrovirus가 원인으로, provirus가 세포 oncogene 근처에 삽입되어 폐 종양을 일으킨다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -5670,7 +7290,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 217
+"id": 277
 },
 {
 "part": "Retroviridae",
@@ -5688,7 +7308,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. Retrovirus는 reverse transcriptase로 RNA를 double-stranded DNA로 만들고 이를 host genome에 provirus로 삽입한다(slide 67, 68). FeLV에서는 provirus가 cellular oncogene(proto-oncogene) 근처에 삽입되어 이를 활성화하고, Long Terminal Repeat(LTR)이 promoter/enhancer로 작용해 overexpression → tumor를 유발한다(slide 83). 반면 BLV는 traditional oncogene이 없으며, env gene 3' 말단 X region이 암호화하는 regulatory protein Tax와 Rex가 tumorigenesis(B-cell lymphoma)를 추동한다(slide 73). ② BLV는 traditional oncogene이 없다고 명시되어 틀리다(slide 73). ③ 두 기전이 서로 뒤바뀌었다 — Tax/Rex는 BLV, insertional activation은 FeLV다. ④ retrovirus는 정의상 provirus를 통합한다(slide 68). ⑤ E2 glycoprotein mutation은 VEE(togavirus) 개념이고, BLV가 RT 결핍으로 종양을 만든다는 내용은 강의안에 없다.",
+"explain": "정답 ①. Retrovirus는 reverse transcriptase로 RNA를 double-stranded DNA로 만들고 이를 host genome에 provirus로 삽입한다(slide 67, 68). FeLV에서는 provirus가 cellular oncogene(proto-oncogene) 근처에 삽입되어 이를 활성화하고, Long Terminal Repeat(LTR)이 promoter/enhancer로 작용해 overexpression → tumor를 유발한다(slide 83). 반면 BLV는 traditional oncogene이 없으며, env gene 3' 말단 X region이 암호화하는 regulatory protein Tax와 Rex가 tumorigenesis(B-cell lymphoma)를 추동한다(slide 73). ② BLV는 traditional oncogene이 없다고 명시되어 틀리다(slide 73). ③ 두 기전이 서로 뒤바뀌었다 — Tax/Rex는 BLV, insertional activation은 FeLV다. ④ retrovirus는 정의상 provirus를 통합한다(slide 68). ⑤ E2 glycoprotein mutation은 VEE(togavirus) 개념이고, BLV가 RT 결핍으로 종양을 만든다는 내용은 강의안에 없다.\n\n**[문항 한국어 해석]**\n발문: 소백혈병바이러스Bovine Leukemia Virus(BLV)가 종양을 유발하는 방식과 비교하여, FeLV는 대개 다른 기전으로 림프육종lymphosarcoma을 일으킨다. 강의안이 기술한 두 레트로바이러스 종양화 기전을 가장 옳게 대조한 것은?\n① FeLV는 provirus가 세포 (원시)oncogene 근처에 삽입되고 Long Terminal Repeat이 promoter/enhancer로 작용해 이를 과발현시킬 때 종양을 유발하는 반면, 전통적 oncogene이 없는 BLV는 조절단백 Tax·Rex를 통해 종양화를 추동한다\n② FeLV와 BLV 모두 전통적 바이러스 oncogene을 가지고 있어 직접 전사되어 종양을 일으킨다\n③ FeLV는 Tax·Rex 조절단백을 쓰고, BLV는 provirus를 원시oncogene 옆에 삽입한다\n④ 두 바이러스 모두 provirus를 통합하지 않으며, 양성가닥 RNA로 세포질에서만 증식한다\n⑤ FeLV는 E2 당단백 변이로만 종양을 일으키고, BLV는 역전사효소 결핍으로 종양을 일으킨다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -5697,7 +7317,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 218
+"id": 278
 },
 {
 "part": "Prion",
@@ -5714,7 +7334,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 219
+"id": 279
 },
 {
 "part": "Prion",
@@ -5741,7 +7361,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 220
+"id": 280
 },
 {
 "part": "Prion",
@@ -5768,7 +7388,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 221
+"id": 281
 },
 {
 "part": "Prion",
@@ -5795,7 +7415,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 222
+"id": 282
 },
 {
 "part": "Prion",
@@ -5822,7 +7442,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 223
+"id": 283
+},
+{
+"part": "Prion",
+"unit": "Prion1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "프리온 생물학 — PrPc→PrPsc 구조변환·해면상뇌증·저항성",
+"q": "강의안에서 전염성 해면상뇌증(TSE)의 공통 특징으로 제시한 것은?",
+"choices": [
+"짧은 잠복기와 강한 화농성 염증반응",
+"긴 잠복기와 염증반응 없는 진행성 뇌 손상",
+"급성 발열과 혈소판 감소",
+"급성 출혈성 간괴사",
+"수포성 병변과 빠른 자연치유"
+],
+"answer": [
+2
+],
+"explain": "슬라이드122 'characterized by long incubation periods and progressive brain damage without an inflammatory response' — TSE는 긴 잠복기와 염증반응 없는 진행성 뇌 손상이 특징이며, Scrapie·BSE·CWD·CJD가 예로 제시된다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 284
+},
+{
+"part": "Prion",
+"unit": "Prion1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "프리온 생물학 — PrPc→PrPsc 구조변환·해면상뇌증·저항성",
+"q": "정상 프리온 단백질 PrP^C의 기능으로 강의안에 제시되지 않은 것은?",
+"choices": [
+"면역반응 조절(regulating immune responses)",
+"신호전달(signal transduction)",
+"구리 결합(copper binding)",
+"세포자멸사 방지(preventing apoptosis)",
+"역전사효소 활성(reverse transcriptase activity)"
+],
+"answer": [
+5
+],
+"explain": "슬라이드123 'Functions include regulating immune responses, signal transduction, copper binding, and preventing apoptosis' — PrP^C의 기능은 면역조절·신호전달·구리결합·세포자멸사 방지다. 역전사효소reverse transcriptase는 retrovirus 효소(Retroviridae 슬라이드67)로 prion과 무관하다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 285
 },
 {
 "part": "Prion",
@@ -5849,7 +7523,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 224
+"id": 286
 },
 {
 "part": "Prion",
@@ -5876,7 +7550,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 225
+"id": 287
 },
 {
 "part": "Prion",
@@ -5903,7 +7577,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 226
+"id": 288
 },
 {
 "part": "Prion",
@@ -5930,7 +7604,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 227
+"id": 289
+},
+{
+"part": "Prion",
+"unit": "Prion2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "주요 프리온병 — BSE·Scrapie·CWD 감별 + 진단·정책",
+"q": "강의안에서 조직 절편의 PrP^Sc 검출에 대한 gold standard로 제시된 진단법은?",
+"choices": [
+"면역조직화학(IHC)",
+"조직병리(Histopathology)",
+"ELISA",
+"Western Blot",
+"PMCA"
+],
+"answer": [
+1
+],
+"explain": "슬라이드135 'Immunohistochemistry (IHC): The gold standard for detecting PrPSc in tissue sections' — 조직 절편의 PrP^Sc 검출 gold standard는 IHC다. ELISA·Western Blot은 대규모 신속선별, PMCA는 극미량 증폭 고감도 도구다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 290
+},
+{
+"part": "Prion",
+"unit": "Prion2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "주요 프리온병 — BSE·Scrapie·CWD 감별 + 진단·정책",
+"q": "강의안에서 BSE 관리의 가장 핵심적(most critical)인 통제 조치로 제시된 것은?",
+"choices": [
+"반추동물 사료에 포유류 단백 사용을 금지하는 MBM Ban",
+"모기 매개체 관리(vector control)",
+"약독화 생백신(attenuated live vaccine) 접종",
+"항생제(antibiotic) 투여",
+"감염축 격리 후 치료(treatment)"
+],
+"answer": [
+1
+],
+"explain": "슬라이드136 'MBM Ban: The global ban on using mammalian protein in ruminant feed is the most critical control measure' — 반추동물 사료에 포유류 단백 사용을 막는 MBM 금지가 가장 핵심 조치다. prion은 백신·항생제·치료가 제시되지 않으며 모기 매개도 아니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 291
 },
 {
 "part": "Prion",
@@ -5948,7 +7676,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. BSE는 광우병mad cow disease으로, 평균 잠복기 약 5년 후 anxiety·apprehension·touch/sound hypersensitivity 같은 행동 변화로 시작해 hypermetria·후지 약화로 진행한다(slide 126). 병인은 PrP^Sc 축적 → gray matter의 microscopic vacuoles 형성 → spongiform change이며, 숙주는 misfolded protein에 inflammatory/immune response를 일으키지 않는다(slide 124). ② perivascular cuffing·endothelial replication은 togavirus(말뇌염) 병변이다(Togaviridae slide 59). ③ provirus/oncogene은 retrovirus 종양 기전이다. ④ immune complex·glomerulonephritis는 EIAV 기전이다(Retroviridae slide 77). ⑤ prion은 단백질이며 항체·viremia 개념이 적용되지 않는다 — TSE는 염증·면역반응 없이 진행한다(slide 124).",
+"explain": "정답 ①. BSE는 광우병mad cow disease으로, 평균 잠복기 약 5년 후 anxiety·apprehension·touch/sound hypersensitivity 같은 행동 변화로 시작해 hypermetria·후지 약화로 진행한다(slide 126). 병인은 PrP^Sc 축적 → gray matter의 microscopic vacuoles 형성 → spongiform change이며, 숙주는 misfolded protein에 inflammatory/immune response를 일으키지 않는다(slide 124). ② perivascular cuffing·endothelial replication은 togavirus(말뇌염) 병변이다(Togaviridae slide 59). ③ provirus/oncogene은 retrovirus 종양 기전이다. ④ immune complex·glomerulonephritis는 EIAV 기전이다(Retroviridae slide 77). ⑤ prion은 단백질이며 항체·viremia 개념이 적용되지 않는다 — TSE는 염증·면역반응 없이 진행한다(slide 124).\n\n**[문항 한국어 해석]**\n발문: 성체 젖소가 수 주에 걸쳐 진행성 행동 변화를 보인다 — 불안 증가, 우려apprehension, 촉각·소리 과민, 이갈이, 이후 운동과다hypermetria와 후지 약화. 발열이나 염증반응은 없다. 이 무리는 과거 육골분meat-and-bone meal을 급여받은 적이 있다. 이 질병의 병인pathogenesis을 가장 잘 설명한 것은?\n① 비정상 isoform PrP^Sc가 축적되어 회색질gray matter에 미세 공포microscopic vacuoles를 형성하고, 염증반응 없이 해면상 변화spongiform change를 일으킨다\n② 양성가닥 ssRNA 바이러스가 내피세포endothelial cells에서 증식하여 회색질에 혈관주위 소맷동perivascular cuffing을 만든다\n③ 역전사효소reverse transcriptase가 세포 oncogene 근처에 provirus를 삽입하여 뇌에 종양 형성을 유도한다\n④ 면역복합체immune complexes가 중추신경계CNS에 침착하여 사구체신염glomerulonephritis과 혈소판감소thrombocytopenia를 유발한다\n⑤ 중화항체neutralizing antibodies가 바이러스혈증viremia을 통제하지 못해 병원체가 혈액을 통해 중추신경계로 들어간다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -5957,7 +7685,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 228
+"id": 292
 },
 {
 "part": "Prion",
@@ -5975,7 +7703,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. CWD는 coat가 거칠고 건조해지지만 pruritus(itching)는 보이지 않는다(slide 134). 반면 Scrapie의 hallmark는 intense itching(pruritus)으로, 양이 울타리에 몸을 문지른다(slide 131). 이 pruritus 유무가 두 prion 질환의 핵심 감별점이다. ② 두 질환 모두 TSE로 inflammatory response가 없다 — Scrapie에 brain inflammation이 있다는 것은 틀리다(slide 122). ③ 둘 다 prion 질환이지 Lentivirus가 아니다(slide 122). ④ CWD prion은 saliva·urine·feces·blood 모두로 배출된다(slide 133). ⑤ 숙주가 반대로 서술됨 — CWD는 deer·elk·moose(cervids), Scrapie는 sheep·goats이다(slide 130, 133).",
+"explain": "정답 ①. CWD는 coat가 거칠고 건조해지지만 pruritus(itching)는 보이지 않는다(slide 134). 반면 Scrapie의 hallmark는 intense itching(pruritus)으로, 양이 울타리에 몸을 문지른다(slide 131). 이 pruritus 유무가 두 prion 질환의 핵심 감별점이다. ② 두 질환 모두 TSE로 inflammatory response가 없다 — Scrapie에 brain inflammation이 있다는 것은 틀리다(slide 122). ③ 둘 다 prion 질환이지 Lentivirus가 아니다(slide 122). ④ CWD prion은 saliva·urine·feces·blood 모두로 배출된다(slide 133). ⑤ 숙주가 반대로 서술됨 — CWD는 deer·elk·moose(cervids), Scrapie는 sheep·goats이다(slide 130, 133).\n\n**[문항 한국어 해석]**\n발문: 강의안에 따르면, 사슴과cervids의 만성소모성질병CWD을 양의 스크래피Scrapie와 가장 신뢰성 있게 구별하는 특징은?\n① CWD에서는 가려움pruritus이 보이지 않는 반면, 심한 가려움은 스크래피의 특징hallmark이다\n② CWD는 염증반응이 없는 반면, 스크래피는 뚜렷한 뇌 염증을 일으킨다\n③ CWD는 렌티바이러스Lentivirus가 원인이고, 스크래피는 프리온prion이 원인이다\n④ CWD 프리온은 혈액으로만 배출되는 반면, 스크래피는 타액·소변을 통해 퍼진다\n⑤ CWD는 양·염소만 침범하고, 스크래피는 사슴·엘크를 침범한다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -5984,7 +7712,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 229
+"id": 293
 },
 {
 "part": "Prion",
@@ -6002,7 +7730,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. PrP^C가 PrP^Sc로 전환될 때 secondary structure가 alpha-helices → beta-sheets로 바뀌어 매우 안정해지고, 정상 단백질과 달리 PrP^Sc는 Protease K 분해에 저항성을 보이며 뇌에 축적된다(slide 123). 한국에서는 prion 농도가 높을 가능성이 있는 7개 조직 — brain, eyes, spinal cord, skull, tonsils, distal ileum, dorsal root ganglia — 이 쇠고기 수입에서 SRM으로 금지된다(slide 136). ② 구조 변화 방향이 반대이고(α→β가 맞음), PrP^Sc는 protease-resistant이다. SRM도 7개다. ③ reverse transcriptase는 retrovirus 효소이며, muscle meat·milk는 SRM 목록에 없다. ④ PrP^Sc는 가용성이 아니라 응집·축적하며 SRM은 7개다. ⑤ env gene mutation은 retrovirus 개념이고 liver/lung/kidney는 강의안 SRM 목록에 없다(slide 136).",
+"explain": "정답 ①. PrP^C가 PrP^Sc로 전환될 때 secondary structure가 alpha-helices → beta-sheets로 바뀌어 매우 안정해지고, 정상 단백질과 달리 PrP^Sc는 Protease K 분해에 저항성을 보이며 뇌에 축적된다(slide 123). 한국에서는 prion 농도가 높을 가능성이 있는 7개 조직 — brain, eyes, spinal cord, skull, tonsils, distal ileum, dorsal root ganglia — 이 쇠고기 수입에서 SRM으로 금지된다(slide 136). ② 구조 변화 방향이 반대이고(α→β가 맞음), PrP^Sc는 protease-resistant이다. SRM도 7개다. ③ reverse transcriptase는 retrovirus 효소이며, muscle meat·milk는 SRM 목록에 없다. ④ PrP^Sc는 가용성이 아니라 응집·축적하며 SRM은 7개다. ⑤ env gene mutation은 retrovirus 개념이고 liver/lung/kidney는 강의안 SRM 목록에 없다(slide 136).\n\n**[문항 한국어 해석]**\n발문: 프리온 단백질의 전환conversion과 한국의 특정위험물질SRM 규제를 가장 옳게 설명한 조합은?\n① 전환은 2차 구조를 알파-나선alpha-helices에서 베타-시트beta-sheets로 바꿔 PrP^Sc를 protease-K 저항성으로 만든다; 한국은 뇌·척수·말단회장·편도·눈·두개골·등쪽신경절 등 7개 조직을 쇠고기 수입에서 금지한다\n② 전환은 베타-시트를 알파-나선으로 바꿔 PrP^Sc를 protease-K 민감성으로 만든다; 한국은 뇌·척수만 SRM으로 금지한다\n③ 전환에는 역전사효소reverse transcriptase가 필요하다; 한국은 근육고기muscle meat와 우유milk를 주요 SRM 금지 조직으로 한다\n④ 전환은 PrP^C에 당사슬glycans을 붙여 수용성으로 만든다; 한국은 말단회장distal ileum만 SRM으로 금지한다\n⑤ 전환은 env 유전자의 단일 점돌연변이point mutation로 유발된다; 한국은 간·폐·신장을 SRM으로 금지한다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -6011,7 +7739,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 230
+"id": 294
 },
 {
 "part": "Prion",
@@ -6029,7 +7757,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. Prion은 넓은 pH 범위에서 매우 안정하고 대부분의 생물학적 불활화법에 저항한다. 특히 alcohols와 aldehydes는 prion을 죽이지 못하고 오히려 안정화stabilize시킨다(slide 124). 효과적 불활화에는 high-concentration sodium hypochlorite 또는 hot sodium hydroxide가 필요하다. ② 표준 autoclave도 prion에 대한 신뢰성이 강의안에서 보장되지 않으며, 핵심은 aldehydes/alcohols가 부적절하다는 점이다. ③ prion은 heat-resistant이지 heat-labile이 아니다 — 단순 boiling은 부적절하다(slide 124, 136의 고온 incineration 강조). ④ alcohols가 beta-sheet를 파괴한다는 내용은 강의안에 없고, 오히려 안정화한다. ⑤ prion은 넓은 pH 범위에서 안정하므로 acidic wash로 불활화되지 않는다(slide 124).",
+"explain": "정답 ①. Prion은 넓은 pH 범위에서 매우 안정하고 대부분의 생물학적 불활화법에 저항한다. 특히 alcohols와 aldehydes는 prion을 죽이지 못하고 오히려 안정화stabilize시킨다(slide 124). 효과적 불활화에는 high-concentration sodium hypochlorite 또는 hot sodium hydroxide가 필요하다. ② 표준 autoclave도 prion에 대한 신뢰성이 강의안에서 보장되지 않으며, 핵심은 aldehydes/alcohols가 부적절하다는 점이다. ③ prion은 heat-resistant이지 heat-labile이 아니다 — 단순 boiling은 부적절하다(slide 124, 136의 고온 incineration 강조). ④ alcohols가 beta-sheet를 파괴한다는 내용은 강의안에 없고, 오히려 안정화한다. ⑤ prion은 넓은 pH 범위에서 안정하므로 acidic wash로 불활화되지 않는다(slide 124).\n\n**[문항 한국어 해석]**\n발문: 한 진단검사실이 프리온prion에 오염되었을 수 있는 수술기구를 소독해야 한다. 기사가 기구를 알코올에 담갔다가 다시 알데하이드aldehyde 기반 고정액에 담그자고 제안한다. 이 방법이 가장 부적절한 이유와 올바른 대안은?\n① 알코올과 알데하이드는 프리온을 죽이지 못하고 오히려 안정화시킬 수 있다; 효과적 불활화에는 고농도 차아염소산나트륨sodium hypochlorite 또는 뜨거운 수산화나트륨sodium hydroxide이 필요하다\n② 알코올과 알데하이드는 효과적이지만, 기구를 먼저 표준 온도에서 고압멸균autoclave한 경우에만 그렇다\n③ 프리온은 열에 약하므로 단순 끓이기boiling만으로 충분하고 화학약품은 불필요하다\n④ 알데하이드는 잘 작용하지만, 알코올이 PrP^Sc의 베타-시트beta-sheet 구조를 미리 파괴한다\n⑤ 프리온은 중성 pH에서만 안정하므로, 산성 알코올 세척으로 불활화된다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -6038,7 +7766,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 231
+"id": 295
 },
 {
 "part": "Prion",
@@ -6056,7 +7784,7 @@ const LABQ = [
 "answer": [
 1
 ],
-"explain": "정답 ①. 임상상(3-4세 양, intense pruritus·문지르기로 인한 wool loss, head/neck tremors, emaciation)은 Scrapie다(slide 131). 감수성은 PrP gene polymorphisms와 강하게 연관되며, sheep에서 ARR allele은 저항성, VRQ allele은 높은 감수성과 연관된다(slide 130). 따라서 resistant genotype(ARR/ARR) 선택 번식이 주요 control 전략이다. ② prion은 토양에서 수년간 감염성을 유지하므로 pasture 이동으로 제거되지 않는다(slide 130). ③ 전파는 주로 neonatal period에 infected dam의 placenta·milk를 통해 일어나므로 신생자 관리가 핵심이다(slide 130). ④ VRQ는 저항성이 아니라 고감수성이다(역설). ⑤ Scrapie 백신은 강의안에 제시되지 않으며 control은 selective breeding이다(slide 130).",
+"explain": "정답 ①. 임상상(3-4세 양, intense pruritus·문지르기로 인한 wool loss, head/neck tremors, emaciation)은 Scrapie다(slide 131). 감수성은 PrP gene polymorphisms와 강하게 연관되며, sheep에서 ARR allele은 저항성, VRQ allele은 높은 감수성과 연관된다(slide 130). 따라서 resistant genotype(ARR/ARR) 선택 번식이 주요 control 전략이다. ② prion은 토양에서 수년간 감염성을 유지하므로 pasture 이동으로 제거되지 않는다(slide 130). ③ 전파는 주로 neonatal period에 infected dam의 placenta·milk를 통해 일어나므로 신생자 관리가 핵심이다(slide 130). ④ VRQ는 저항성이 아니라 고감수성이다(역설). ⑤ Scrapie 백신은 강의안에 제시되지 않으며 control은 selective breeding이다(slide 130).\n\n**[문항 한국어 해석]**\n발문: 4세 암양이 심한 가려움을 보이며 울타리에 반복적으로 몸을 문질러 양털이 빠지고, 수개월에 걸쳐 머리의 미세 진전fine head tremors과 진행성 수척emaciation이 동반된다. 무리에서 이 질병의 통제에 관해 강의안 기준으로 가장 정확한 설명은?\n① ARR 대립유전자allele는 저항성과, VRQ 대립유전자는 높은 감수성과 연관되므로 선택 번식selective breeding이 유용하다\n② 이 질병은 환경에 결코 잔존하지 않으므로 무리를 새 목초지로 옮기기만 하면 위험이 제거된다\n③ 전파는 성체 동물 간 수평전파로만 일어나므로 신생자 관리는 무관하다\n④ VRQ 대립유전자가 저항성을 부여하므로 번식 프로그램에서 선택해야 한다\n⑤ 전 세계적으로 신생 자축에 대한 백신 접종이 1차 통제 전략이다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -6065,7 +7793,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 232
+"id": 296
 },
 {
 "part": "SFTS",
@@ -6082,7 +7810,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 233
+"id": 297
 },
 {
 "part": "SFTS",
@@ -6109,7 +7837,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 234
+"id": 298
 },
 {
 "part": "SFTS",
@@ -6136,7 +7864,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 235
+"id": 299
 },
 {
 "part": "SFTS",
@@ -6163,7 +7891,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 236
+"id": 300
 },
 {
 "part": "SFTS",
@@ -6190,7 +7918,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 237
+"id": 301
+},
+{
+"part": "SFTS",
+"unit": "SFTS1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 원헬스(One Health)·인수공통감염병 개론",
+"q": "강의안이 제시한 원헬스가 중요해진 4가지 거시요인(CDC)에 포함되지 않는 것은?",
+"choices": [
+"도시화로 인한 밀집 거주",
+"기후변화·산림개발(토지이용 변화)",
+"교역·여행의 증가",
+"반려·exotic pet 사육 증가",
+"전 국민 백신 접종률의 상승"
+],
+"answer": [
+5
+],
+"explain": "강의1 §1에서 원헬스가 중요해진 4 거시요인은 ① 도시화로 밀집 거주 ② 기후변화·산림개발 ③ 교역·여행 증가 ④ 반려·exotic pet 증가입니다. '백신 접종률 상승'은 4요인에 포함되지 않습니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 302
+},
+{
+"part": "SFTS",
+"unit": "SFTS1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 원헬스(One Health)·인수공통감염병 개론",
+"q": "인수공통감염병(zoonotic disease)에 대한 강의안 설명으로 옳은 것은?",
+"choices": [
+"사람에서 사람으로만 전파되는 감염병이다",
+"동물과 사람 사이에 상호(양방향) 전파되는 병원체에 의한 감염병이다",
+"동물에게만 발생하고 사람은 절대 걸리지 않는다",
+"환경 요인과는 전혀 관계가 없다",
+"모두 백신으로 완전히 차단된다"
+],
+"answer": [
+2
+],
+"explain": "강의1 §1에서 인수공통감염병은 동물과 사람 사이에 상호(양방향) 전파되는 병원체에 의한 감염병으로 정의하며, 매개체는 인간·야생동물·진드기·반려동물입니다. SFTS·SARS·코로나19 등이 예시입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 303
 },
 {
 "part": "SFTS",
@@ -6217,7 +7999,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 238
+"id": 304
 },
 {
 "part": "SFTS",
@@ -6244,7 +8026,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 239
+"id": 305
 },
 {
 "part": "SFTS",
@@ -6271,7 +8053,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 240
+"id": 306
 },
 {
 "part": "SFTS",
@@ -6298,7 +8080,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 241
+"id": 307
+},
+{
+"part": "SFTS",
+"unit": "SFTS2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 병원체·매개체·전파 사이클",
+"q": "강의안에서 SFTS 바이러스가 처음 보고된 시기와 지역으로 옳은 것은?",
+"choices": [
+"2009년 중국(후베이·허난) → 동아시아 확산",
+"1980년 미국 → 전 세계 확산",
+"2017년 일본에서 최초 보고",
+"2003년 유럽에서 최초 보고",
+"2020년 아프리카에서 최초 보고"
+],
+"answer": [
+1
+],
+"explain": "강의1 §3·강의2 §2.1에서 Dabie bandavirus는 2009년 중국(후베이·허난)에서 처음 보고된 뒤 동아시아로 확산되었습니다. 매개 진드기는 2017년 미국에도 정착했으나, 바이러스 최초 보고는 2009년 중국입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 308
+},
+{
+"part": "SFTS",
+"unit": "SFTS2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 병원체·매개체·전파 사이클",
+"q": "작은소피참진드기(Haemaphysalis longicornis)가 SFTS 바이러스를 자연계에서 세대·발육단계 간에 유지하는 두 가지 전파 방식으로 옳은 것은?",
+"choices": [
+"비말 전파와 경구 전파",
+"경란전파(transovarial)와 경발육단계전파(transstadial)",
+"수혈 전파와 성접촉 전파",
+"공기 전파와 매개물 전파",
+"태반 전파와 모유 전파"
+],
+"answer": [
+2
+],
+"explain": "강의1 §5.3에서 매개 진드기는 알을 통해 다음 세대로 옮기는 경란전파(transovarial)와, 유충→약충→성충 발육단계 사이에서 바이러스를 유지하는 경발육단계전파(transstadial)로 SFTS를 자연계에 유지합니다. 단위생식까지 더해져 폭발적으로 퍼집니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 309
 },
 {
 "part": "SFTS",
@@ -6325,7 +8161,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 242
+"id": 310
 },
 {
 "part": "SFTS",
@@ -6352,7 +8188,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 243
+"id": 311
 },
 {
 "part": "SFTS",
@@ -6379,7 +8215,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 244
+"id": 312
 },
 {
 "part": "SFTS",
@@ -6406,7 +8242,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 245
+"id": 313
+},
+{
+"part": "SFTS",
+"unit": "SFTS3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 임상 증상·병태생리(사이토카인 스톰)",
+"q": "강의안 기준 SFTS의 잠복기로 옳은 것은?",
+"choices": [
+"수 시간 이내",
+"1~2일",
+"5~14일(6일~2주)",
+"1~2개월",
+"6개월 이상"
+],
+"answer": [
+3
+],
+"explain": "강의1 §4에서 SFTS의 잠복기는 5~14일(6일~2주)로 제시됩니다. 이후 고열·혈소판 감소·백혈구 감소·위장 장애의 4대 소견이 나타납니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 314
+},
+{
+"part": "SFTS",
+"unit": "SFTS3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 임상 증상·병태생리(사이토카인 스톰)",
+"q": "SFTS 병태생리에서 사이토카인 스톰(cytokine storm)에 대한 강의안 설명으로 옳은 것은?",
+"choices": [
+"IL-10·IL-6·IL-4·IP-10·IFN-γ 등이 과도하게 분비되어 감염세포까지 공격하고 다발성 장기부전으로 이어진다",
+"단일 사이토카인만 미량 분비되어 증상이 거의 없다",
+"사이토카인이 전혀 관여하지 않는 순수 세균 감염이다",
+"혈소판을 증가시켜 출혈을 막는 보호 반응이다",
+"간세포만 직접 파괴하고 면역반응은 일어나지 않는다"
+],
+"answer": [
+1
+],
+"explain": "강의1 §4 병태생리에서 사이토카인 스톰은 IL-10·IL-6·IL-4·IP-10·IFN-γ가 과도 분비되어 감염세포까지 공격하며, 이후 다발성 장기부전(심↑CKMB·간↑AST/ALT·신↑BUN)으로 진행합니다. 병태생리 7단계 중 6단계에 해당합니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 315
 },
 {
 "part": "SFTS",
@@ -6433,7 +8323,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 246
+"id": 316
 },
 {
 "part": "SFTS",
@@ -6460,7 +8350,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 247
+"id": 317
 },
 {
 "part": "SFTS",
@@ -6487,7 +8377,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 248
+"id": 318
 },
 {
 "part": "SFTS",
@@ -6514,7 +8404,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 249
+"id": 319
+},
+{
+"part": "SFTS",
+"unit": "SFTS4",
+"cardOrder": 4,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 역학·동물 전파·원헬스 감시·분자역학",
+"q": "일본 고양이 매개 SFTS 사례에서 고양이의 주요 임상 증상으로 강의안이 제시한 것은?",
+"choices": [
+"황달",
+"탈모",
+"백내장",
+"관절염",
+"청력 소실"
+],
+"answer": [
+1
+],
+"explain": "강의1 §5.8에서 고양이 SFTS의 주요 증상은 황달로 제시됩니다. 일본 2차 감염 사례 대부분이 고양이 매개였고, 고양이 폐사 10일 후 사람이 발병하며 바이러스 유전자가 100% 일치해 직접 전파가 증명되었습니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 320
+},
+{
+"part": "SFTS",
+"unit": "SFTS4",
+"cardOrder": 4,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 역학·동물 전파·원헬스 감시·분자역학",
+"q": "한국 SFTS 바이러스의 전장유전체 phylogenetic(분자역학) 분석 결과로 강의안이 제시한 해석은?",
+"choices": [
+"한국 SFTS는 일본에서 직접 유입되어 유지된다",
+"한국 SFTS는 중국 유래 바이러스의 지속 유입으로 유지된다",
+"한국 SFTS는 외부 유입 없이 자체적으로만 발생한다",
+"한국에는 더 이상 SFTS가 순환하지 않는다",
+"동물과 사람은 서로 전혀 무관한 바이러스에 감염된다"
+],
+"answer": [
+2
+],
+"explain": "강의2 §4·5, 강의1 §6의 전장유전체 phylogenetic 분석에서 한국 SFTS는 중국 유래 바이러스의 지속 유입으로 유지되며, 일본→한국 직접 연결은 약한 것으로 나타났습니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 321
 },
 {
 "part": "SFTS",
@@ -6541,7 +8485,7 @@ const LABQ = [
 "flag": false,
 "flagReason": "",
 "exam": "",
-"id": 250
+"id": 322
 },
 {
 "part": "SFTS",
@@ -6568,7 +8512,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 251
+"id": 323
 },
 {
 "part": "SFTS",
@@ -6595,7 +8539,7 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 252
+"id": 324
 },
 {
 "part": "SFTS",
@@ -6622,7 +8566,61 @@ const LABQ = [
 "exams": [],
 "flag": false,
 "flagReason": "",
-"id": 253
+"id": 325
+},
+{
+"part": "SFTS",
+"unit": "SFTS5",
+"cardOrder": 5,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 진단·치료·예방·백신 + 진드기 매개 다른 질병",
+"q": "강의안에서 연구 단계에 있는 SFTS 백신 4종 중 '병원성 복귀(독성 회복) 위험'이 단점으로 지적된 것은?",
+"choices": [
+"불활화 백신(BPL+Al(OH)₃)",
+"약독화 백신",
+"DNA 백신",
+"mRNA 백신",
+"재조합 단백질 백신"
+],
+"answer": [
+2
+],
+"explain": "강의1 §8.3에서 약독화 백신은 강한 면역이 장점이지만 병원성 복귀(독성 회복) 위험이 단점으로 지적됩니다. 불활화는 면역이 약하고, DNA는 효과 불확실, mRNA는 콜드체인·비용이 단점입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 326
+},
+{
+"part": "SFTS",
+"unit": "SFTS5",
+"cardOrder": 5,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 진단·치료·예방·백신 + 진드기 매개 다른 질병",
+"q": "강의안이 제시한 진드기 매개 감염병 중 백신이 존재하는 질병으로 옳은 것은?",
+"choices": [
+"라임병(Borrelia)",
+"바베시아증(Babesia)",
+"진드기매개뇌염(TBE)",
+"록키산반점열(Rickettsia)",
+"아나플라스마증"
+],
+"answer": [
+3
+],
+"explain": "강의1 §7·§8에서 진드기매개뇌염(TBE)은 백신이 있는 것으로 명시됩니다. 라임병·록키산반점열·아나플라스마·바베시아는 별도 백신이 제시되지 않으며, SFTS 역시 상용 백신이 없습니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 327
 },
 {
 "part": "SFTS",
@@ -6640,7 +8638,7 @@ const LABQ = [
 "answer": [
 2
 ],
-"explain": "This mirrors the Japanese cat-mediated cases (강의1 §5.8): cat death → human onset ~10 days later (matching incubation), with 100% genome identity proving direct cat→human transmission. Spread was not by tick bite or scratch but via the cat's **blood/body fluids and aerosol**, which is why goggles + masks + gloves are stressed. Jaundice is a hallmark of feline SFTS.",
+"explain": "This mirrors the Japanese cat-mediated cases (강의1 §5.8): cat death → human onset ~10 days later (matching incubation), with 100% genome identity proving direct cat→human transmission. Spread was not by tick bite or scratch but via the cat's **blood/body fluids and aerosol**, which is why goggles + masks + gloves are stressed. Jaundice is a hallmark of feline SFTS.\n\n**[문항 한국어 해석]**\n발문: 35세 수의사(veterinarian)가 발열과 공막황달(scleral jaundice)을 보이는 아픈 고양이를 진료했다. 그 고양이는 폐사했고, 약 10일 후 수의사에게 고열, 백혈구감소증(leukopenia), 혈소판감소증(thrombocytopenia)이 나타났다. 전장유전체 시퀀싱(whole-genome sequencing) 결과 고양이와 수의사에서 검출된 바이러스가 거의 동일했다. 이 전파를 가장 잘 설명하는 것은?\n①진료 중 진드기(tick)에 직접 물려 수의사가 감염되었다 ②고양이가 혈액·체액(blood/body fluids)과 에어로졸(aerosol)을 통해 SFTS 바이러스를 수의사에게 전파했으므로 마스크·장갑·고글(goggles)이 필수다 ③SFTS는 소(cattle)에서만 전파되며 고양이에서는 전파되지 않는다 ④유전체가 일치한 것은 전파와 무관한 우연이다 ⑤고양이는 SFTS 바이러스에 감염될 수 없다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -6649,7 +8647,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 254
+"id": 328
 },
 {
 "part": "SFTS",
@@ -6667,7 +8665,7 @@ const LABQ = [
 "answer": [
 2
 ],
-"explain": "*Haemaphysalis longicornis* can reproduce by **parthenogenesis** (females alone), driving explosive population growth, and maintains SFTSV by **transovarial** (through eggs) and **transstadial** (across larva→nymph→adult) transmission (강의1 §5.3). It feeds on small mammals/birds and ungulates/humans across its life cycle.",
+"explain": "*Haemaphysalis longicornis* can reproduce by **parthenogenesis** (females alone), driving explosive population growth, and maintains SFTSV by **transovarial** (through eggs) and **transstadial** (across larva→nymph→adult) transmission (강의1 §5.3). It feeds on small mammals/birds and ungulates/humans across its life cycle.\n\n**[문항 한국어 해석]**\n발문: 한국에서 SFTS의 주요 매개체(vector)는 작은소피참진드기(Haemaphysalis longicornis)다. 이 진드기의 폭발적 개체수 증가와 자연계에서의 효율적 바이러스 유지를 가장 잘 설명하는 특성은?\n①유성생식(sexual reproduction)으로만 번식하며 한 번 흡혈 후 죽는다 ②단위생식(parthenogenesis, 암컷 단독 번식)에 더해 경란전파(transovarial)·경발육단계전파(transstadial)로 바이러스를 전파한다 ③사람에게만 바이러스를 전파하고 동물에게는 전혀 전파하지 않는다 ④한국의 겨울을 견디지 못한다 ⑤오로지 철새(migratory birds)에게만 흡혈한다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -6676,7 +8674,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 255
+"id": 329
 },
 {
 "part": "SFTS",
@@ -6694,7 +8692,7 @@ const LABQ = [
 "answer": [
 2
 ],
-"explain": "SFTS is caused by **Dabie bandavirus (SFTSV)**, a **negative-sense, 3-segmented (L·M·S) RNA virus** in the family **Bunyaviridae** (강의1 §3, 강의2 §2.1). First reported in China in 2009, it is limited to East Asia (Korea·China·Japan).",
+"explain": "SFTS is caused by **Dabie bandavirus (SFTSV)**, a **negative-sense, 3-segmented (L·M·S) RNA virus** in the family **Bunyaviridae** (강의1 §3, 강의2 §2.1). First reported in China in 2009, it is limited to East Asia (Korea·China·Japan).\n\n**[문항 한국어 해석]**\n발문: SFTS의 원인 병원체(causative agent)에 대한 설명으로 옳은 것은?\n①Herpesviridae과(family)에 속하는 이중가닥 DNA 바이러스(double-stranded DNA virus)다 ②Bunyaviridae과에 속하는 Dabie bandavirus로, 음성가닥(negative-sense)·3분절(L·M·S) RNA 바이러스다 ③비분절(non-segmented) 양성가닥 RNA 코로나바이러스(coronavirus)다 ④8분절 오르토믹소바이러스(orthomyxovirus)다 ⑤핵산이 없는 프리온(prion)이다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -6703,7 +8701,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 256
+"id": 330
 },
 {
 "part": "SFTS",
@@ -6721,7 +8719,7 @@ const LABQ = [
 "answer": [
 2
 ],
-"explain": "The lecture (강의1 §4.2) describes: **viremia → lymph node infection (B-cell defect) → systemic vascular hemorrhage/inflammation → platelet consumption + splenic macrophage sequestration (→ thrombocytopenia) → cytokine storm (IL-10/IL-6/IL-4/IP-10/IFN-γ attacking infected cells) → multi-organ failure** (heart↑CKMB, liver↑AST/ALT, kidney↑BUN). Rhabdomyolysis follows the same mechanism.",
+"explain": "The lecture (강의1 §4.2) describes: **viremia → lymph node infection (B-cell defect) → systemic vascular hemorrhage/inflammation → platelet consumption + splenic macrophage sequestration (→ thrombocytopenia) → cytokine storm (IL-10/IL-6/IL-4/IP-10/IFN-γ attacking infected cells) → multi-organ failure** (heart↑CKMB, liver↑AST/ALT, kidney↑BUN). Rhabdomyolysis follows the same mechanism.\n\n**[문항 한국어 해석]**\n발문: 중증 SFTS에서는 다발성 장기부전(multi-organ dysfunction)이 발생한다. 수업에서 배운 핵심 병태생리(pathogenesis)를 가장 잘 나타낸 순서는?\n①면역 관여 없이 간세포(hepatocytes)만 바이러스에 직접 용해(lysis)된다 ②바이러스혈증(viremia) → 림프절 감염(lymph node infection) → 혈관 출혈·염증(vascular hemorrhage/inflammation) → 혈소판 소모(platelet consumption)+비장 격리(splenic sequestration) → 사이토카인 스톰(cytokine storm) → 다발성 장기부전 ③진드기 물린 상처에서 시작된 세균성 패혈증(bacterial sepsis)이다 ④진드기 타액(tick saliva)에 대한 알레르기 반응이다 ⑤적혈구(red blood cells)만 파괴하는 자가면역 반응이다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -6730,7 +8728,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 257
+"id": 331
 },
 {
 "part": "SFTS",
@@ -6748,7 +8746,7 @@ const LABQ = [
 "answer": [
 2
 ],
-"explain": "The molecular epidemiology (강의1 §6) showed Korean dog/human SFTSV clustering together and closely matching Chinese strains, with Japanese strains not directly connected → **Korean SFTS is sustained by continued China→Korea introduction**. This informs control strategy (quarantine, migratory-bird monitoring), vaccine design (current circulating variant), and antiviral targets.",
+"explain": "The molecular epidemiology (강의1 §6) showed Korean dog/human SFTSV clustering together and closely matching Chinese strains, with Japanese strains not directly connected → **Korean SFTS is sustained by continued China→Korea introduction**. This informs control strategy (quarantine, migratory-bird monitoring), vaccine design (current circulating variant), and antiviral targets.\n\n**[문항 한국어 해석]**\n발문: 한 연구실이 한국 개, 한국인 환자, 중국인 환자, 일본 시료에서 얻은 SFTS 바이러스의 전장유전체 계통발생(whole-genome phylogenetic) 분석을 수행했다. 한국의 개와 사람 바이러스주(strain)는 함께 군집(cluster)을 이루며 중국 바이러스주와 매우 유사했고, 일본 바이러스주는 직접 연결되지 않았다. 가장 적절한 원헬스(One Health) 해석은?\n①한국에서는 더 이상 SFTS가 순환하지 않는다 ②한국 SFTS는 주로 중국 유래 바이러스의 반복적 유입으로 유지되며, 이는 감시(surveillance)·백신 설계·항바이러스제 연구의 지침이 된다 ③일본이 한국 SFTS의 주요 발생원이다 ④개와 사람은 서로 완전히 무관한 바이러스에 감염된다 ⑤계통발생 데이터는 공중보건적 활용 가치가 없다",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -6757,7 +8755,7 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 258
+"id": 332
 },
 {
 "part": "SFTS",
@@ -6775,7 +8773,7 @@ const LABQ = [
 "answer": [
 3
 ],
-"explain": "In the PHWR epidemiologic analysis (강의2 §6·7), **hematuria (p=0.006)** and **diabetes (p=0.018, OR 2.75)** were statistically significant mortality predictors, as was old age (≥60 yrs = 90% of deaths) and any comorbidity (aOR 2.96). Common symptoms like fever/fatigue were not significant. Hematuria signals advanced bleeding/DIC; diabetes worsens prognosis via oxidative stress.",
+"explain": "In the PHWR epidemiologic analysis (강의2 §6·7), **hematuria (p=0.006)** and **diabetes (p=0.018, OR 2.75)** were statistically significant mortality predictors, as was old age (≥60 yrs = 90% of deaths) and any comorbidity (aOR 2.96). Common symptoms like fever/fatigue were not significant. Hematuria signals advanced bleeding/DIC; diabetes worsens prognosis via oxidative stress.\n\n**[문항 한국어 해석]**\n발문: 80세 벼농사 농부(rice farmer)가 10월에 밭일을 한 뒤 발열, 피로, 혈소판감소증(thrombocytopenia), 육안적 혈뇨(gross hematuria)로 내원했다. 당뇨병(diabetes) 병력도 있다. 수업에서 다룬 역학 보고서에 따르면, 사망률 상승을 통계적으로 유의하게 예측하는 소견은?\n①피로 단독 ②젊은 나이에 발병한 증상 ③혈뇨(hematuria, p=0.006)와 당뇨병(diabetes, p=0.018), 그리고 고령(old age) ④근육통(muscle pain) ⑤림프절병증(lymphadenopathy)",
 "exam": "자작",
 "exams": [],
 "freq": 0,
@@ -6784,6 +8782,6 @@ const LABQ = [
 "flagReason": "",
 "unit": "",
 "cardOrder": 99,
-"id": 259
+"id": 333
 }
 ];
