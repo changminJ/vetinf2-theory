@@ -274,9 +274,9 @@ function pwck(){var v=(document.getElementById('pwin').value||'').trim();if(v===
 <script>
 const QUESTIONS = LABQ;
 const CIRC=['①','②','③','④','⑤','⑥','⑦','⑧','⑨','⑩'];
-const PARTORDER=['Herpesviridae','Poxviridae','Picornaviridae','Arteriviridae','Caliciviridae','Togaviridae','Rhabdoviridae','Bunyavirales','Pneumoviridae','Reoviridae','Retroviridae','Prion'];
-const PARTLBL={'Herpesviridae':'헤르페스 Herpes','Poxviridae':'폭스 Pox(두창)','Picornaviridae':'피코르나 Picorna(FMD)','Rhabdoviridae':'랍도 Rhabdo(광견병)','Reoviridae':'레오 Reo','Arteriviridae':'아테리 Arteri(PRRS)','Bunyavirales':'부니아 Bunya(SFTS)','Caliciviridae':'칼리시 Calici','Retroviridae':'레트로 Retro','Pneumoviridae':'뉴모 Pneumo(BRSV)','Togaviridae':'토가 Toga(말뇌염)','Prion':'프리온 Prion'};
-const PARTCOL={'Herpesviridae':'#ff6b6b','Poxviridae':'#ffb74d','Picornaviridae':'#4fc3f7','Rhabdoviridae':'#f47fb0','Reoviridae':'#81c784','Arteriviridae':'#a884ff','Bunyavirales':'#5ca8ff','Caliciviridae':'#7ee0c0','Retroviridae':'#ff8a65','Pneumoviridae':'#ba68c8','Togaviridae':'#aed581','Prion':'#bdbdbd'};
+const PARTORDER=['Herpesviridae','Poxviridae','Picornaviridae','Arteriviridae','Caliciviridae','Togaviridae','Rhabdoviridae','Bunyavirales','Pneumoviridae','Reoviridae','Retroviridae','Prion','SFTS'];
+const PARTLBL={'Herpesviridae':'헤르페스 Herpes','Poxviridae':'폭스 Pox(두창)','Picornaviridae':'피코르나 Picorna(FMD)','Rhabdoviridae':'랍도 Rhabdo(광견병)','Reoviridae':'레오 Reo','Arteriviridae':'아테리 Arteri(PRRS)','Bunyavirales':'부니아 Bunya(SFTS)','Caliciviridae':'칼리시 Calici','Retroviridae':'레트로 Retro','Pneumoviridae':'뉴모 Pneumo(BRSV)','Togaviridae':'토가 Toga(말뇌염)','Prion':'프리온 Prion','SFTS':'SFTS 원헬스(10주차 LMS)'};
+const PARTCOL={'Herpesviridae':'#ff6b6b','Poxviridae':'#ffb74d','Picornaviridae':'#4fc3f7','Rhabdoviridae':'#f47fb0','Reoviridae':'#81c784','Arteriviridae':'#a884ff','Bunyavirales':'#5ca8ff','Caliciviridae':'#7ee0c0','Retroviridae':'#ff8a65','Pneumoviridae':'#ba68c8','Togaviridae':'#aed581','Prion':'#bdbdbd','SFTS':'#26c6da'};
 const NOSUM=q=>q.origin!=='summary'&&q.origin!=='preview';
 const FILTERS=[
   ['🔥 찐핵심 객관식 (주제별 1문항)','#ff3b30','CORE_MC'],

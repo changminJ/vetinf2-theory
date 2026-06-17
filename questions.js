@@ -9,7 +9,7 @@ const LABQ = [
 "q": "",
 "choices": [],
 "answer": [],
-"explain": "<div class=\"pintro\"><b>평생 잠복(latency) + 재활성</b>이 본질. dsDNA·외피. 1차 감염 후 신경절 잠복 → 스트레스 시 재활성·배출. <b>숙주(동물 종)별로 질병이 갈린다.</b></div><div class=\"ptree\"><div class=\"proot\">Herpesviridae <em>dsDNA·외피·latency</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Herpesviridae&#39;,&#39;공통&#39;)\">공통</div><div class=\"pls\"><span class=\"pl\">잠복↔재활성</span><span class=\"pl\">면역회피</span><span class=\"pl\">IE→E→L 발현</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Herpesviridae&#39;,&#39;소&#39;)\">소</div><div class=\"pls\"><span class=\"pl\"><b>BHV-1</b> IBR/IPV</span><span class=\"pl\"><b>BHV-5</b> 뇌염</span><span class=\"pl\"><b>OvHV-2</b> MCF(양→소)</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Herpesviridae&#39;,&#39;돼지&#39;)\">돼지</div><div class=\"pls\"><span class=\"pl\"><b>PRV</b> Aujeszky</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Herpesviridae&#39;,&#39;말&#39;)\">말</div><div class=\"pls\"><span class=\"pl\"><b>EHV-1</b> 유산·신경</span><span class=\"pl\"><b>EHV-4</b> 호흡기</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Herpesviridae&#39;,&#39;개·고양이&#39;)\">개·고양이</div><div class=\"pls\"><span class=\"pl\"><b>CHV-1</b> 신생자치명</span><span class=\"pl\"><b>FHV-1</b> 호흡기</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Herpesviridae&#39;,&#39;영장류&#39;)\">영장류</div><div class=\"pls\"><span class=\"pl\"><b>B virus</b> →사람 치명</span></div></div></div></div><div class=\"pcmp\">⚖️ <b>대조</b> · 잠복부위 · IBR DIVA백신 · B virus 인수공통</div>",
+"explain": "<div class=\"pintro\"><b>평생 잠복(latency) + 재활성</b>이 본질. dsDNA·외피. 1차 감염 후 신경절 잠복 → 스트레스 시 재활성·배출. <b>숙주(동물 종)별로 질병이 갈린다.</b></div><div class=\"ptree\"><div class=\"proot\">Herpesviridae <em>dsDNA·외피·latency</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Herpesviridae&#39;,&#39;공통&#39;)\">공통</div><div class=\"pls\"><span class=\"pl\">잠복↔재활성</span><span class=\"pl\">면역회피</span><span class=\"pl\">IE→E→L 발현</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Herpesviridae&#39;,&#39;소&#39;)\">소</div><div class=\"pls\"><span class=\"pl\"><b>BHV-1</b> IBR/IPV</span><span class=\"pl\"><b>BHV-2</b> 가성LSD·궤양성유두염</span><span class=\"pl\"><b>BHV-5</b> 뇌염</span><span class=\"pl\"><b>MCF</b> AHV-1(누)·OvHV-2(양)→소</span><span class=\"pl\"><b>BHV-4</b> 생식기·대부분불현성</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Herpesviridae&#39;,&#39;돼지&#39;)\">돼지</div><div class=\"pls\"><span class=\"pl\"><b>PRV</b> Aujeszky</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Herpesviridae&#39;,&#39;말&#39;)\">말</div><div class=\"pls\"><span class=\"pl\"><b>EHV-1</b> 유산·신경</span><span class=\"pl\"><b>EHV-4</b> 호흡기</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Herpesviridae&#39;,&#39;개·고양이&#39;)\">개·고양이</div><div class=\"pls\"><span class=\"pl\"><b>CHV-1</b> 신생자치명</span><span class=\"pl\"><b>FHV-1</b> 호흡기</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Herpesviridae&#39;,&#39;영장류&#39;)\">영장류</div><div class=\"pls\"><span class=\"pl\"><b>B virus</b> →사람 치명</span></div></div></div></div><div class=\"pcmp\">⚖️ <b>대조</b> · 잠복부위 · IBR DIVA백신 · B virus 인수공통</div>",
 "exam": "",
 "freq": 0,
 "exams": [],
@@ -257,7 +257,7 @@ const LABQ = [
 "<b>소·사슴</b> dead-end host",
 "<b>BHV-4</b> 대개 불현성 번식질환"
 ],
-"minitree": "<div class=\"ptree mini\"><div class=\"proot\">MCF <em>gamma·면역매개 혈관염</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">원인</div><div class=\"pls\"><span class=\"pl\"><b>AHV-1</b> 누(아프리카)</span><span class=\"pl\"><b>OvHV-2</b> 양(전세계)</span><span class=\"pl\"><b>소·사슴</b> dead-end host</span></div></div><div class=\"pb\"><div class=\"pc\">기전</div><div class=\"pls\"><span class=\"pl\"><b>면역매개</b> CD8+·NK 활성화</span><span class=\"pl\"><b>vasculitis</b> 혈관염 손상</span></div></div><div class=\"pb\"><div class=\"pc\">증상</div><div class=\"pls\"><span class=\"pl\"><b>각막혼탁</b> 양측·실명</span><span class=\"pl\"><b>혈변</b> 장점막 미란</span><span class=\"pl\"><b>고치사율</b> 7일 내 치명</span></div></div><div class=\"pb\"><div class=\"pc\">BHV-4</div><div class=\"pls\"><span class=\"pl\"><b>불현성</b> 번식질환·gamma</span></div></div></div></div>",
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">소 Gammaherpesvirus <em>MCF·BHV-4는 별개</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">MCF (악성카타르열)</div><div class=\"pls\"><span class=\"pl\"><b>AHV-1</b> 누(아프리카)·<b>OvHV-2</b> 양(전세계)</span><span class=\"pl\"><b>면역매개 vasculitis</b> CD8+·NK</span><span class=\"pl\"><b>각막혼탁·혈변</b> 고치사(7일내)</span><span class=\"pl\"><b>소·사슴</b> dead-end host</span></div></div><div class=\"pb\"><div class=\"pc\">BHV-4 (별개 바이러스)</div><div class=\"pls\"><span class=\"pl\"><b>대개 불현성</b> gammaherpes</span><span class=\"pl\"><b>번식질환</b> vaginitis·metritis·유산</span></div></div></div></div>",
 "exams": [],
 "flag": false,
 "flagReason": "",
@@ -366,7 +366,7 @@ const LABQ = [
 "<b>소변·분변</b> 배출 안 함",
 "<b>gE/TK marker</b> 백신·PCMV 90% carrier"
 ],
-"minitree": "<div class=\"ptree mini\"><div class=\"proot\">Aujeszky <em>Suid HV-1·가성광견병</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">natural host</div><div class=\"pls\"><span class=\"pl\"><b>돼지</b> reservoir·연령의존</span><span class=\"pl\"><b>자돈</b> 치사율~100%</span><span class=\"pl\"><b>모돈</b> 유산</span></div></div><div class=\"pb\"><div class=\"pc\">2차숙주</div><div class=\"pls\"><span class=\"pl\"><b>소·개·고양이</b> mad itch</span><span class=\"pl\"><b>개</b> 광견병 닮으나 공격성 없음</span></div></div><div class=\"pb\"><div class=\"pc\">전파</div><div class=\"pls\"><span class=\"pl\"><b>타액·비즙</b> nose-to-nose</span><span class=\"pl\"><b>소변·분변</b> 배출 안 함</span></div></div><div class=\"pb\"><div class=\"pc\">예방</div><div class=\"pls\"><span class=\"pl\"><b>gE/TK marker</b> 백신·근절</span></div></div><div class=\"pb\"><div class=\"pc\">PCMV</div><div class=\"pls\"><span class=\"pl\"><b>betaherpes</b> 90% carrier</span></div></div></div></div>",
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">돼지 Herpesvirus <em>PRV(α)·PCMV(β)는 별개</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">PRV/Aujeszky (α)</div><div class=\"pls\"><span class=\"pl\"><b>자연숙주 돼지</b> 자돈 치사~100%·모돈 유산</span><span class=\"pl\"><b>2차숙주</b> 소·개·고양이 mad itch(개 공격성X)</span><span class=\"pl\"><b>전파</b> nose-to-nose·소변/분변 배출X</span><span class=\"pl\"><b>gE/TK marker</b> 백신·근절</span></div></div><div class=\"pb\"><div class=\"pc\">PCMV (β·별개)</div><div class=\"pls\"><span class=\"pl\"><b>betaherpes</b> 90% carrier</span><span class=\"pl\"><b>2주령 자돈</b> 호흡기·경태반 유산</span></div></div></div></div>",
 "exams": [],
 "flag": false,
 "flagReason": "",
@@ -475,7 +475,7 @@ const LABQ = [
 "<b>EHV-2/5/7</b> gamma, 결막·폐",
 "<b>CapHV-1</b> BHV-1 닮음, 염소만 감수성"
 ],
-"minitree": "<div class=\"ptree mini\"><div class=\"proot\">말 herpesvirus <em>EHV 번호별 질병</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">EHV-1</div><div class=\"pls\"><span class=\"pl\"><b>유산</b> 태반 혈관염</span><span class=\"pl\"><b>CNS</b> 척수 혈관염</span><span class=\"pl\"><b>viremia·HA+</b> 혈관내피 tropism</span></div></div><div class=\"pb\"><div class=\"pc\">EHV-4</div><div class=\"pls\"><span class=\"pl\"><b>호흡기</b> viremia 드묾·HA-</span></div></div><div class=\"pb\"><div class=\"pc\">EHV-3</div><div class=\"pls\"><span class=\"pl\"><b>교미성 발진</b> 번식력 영향 없음</span></div></div><div class=\"pb\"><div class=\"pc\">EHV-2/5/7</div><div class=\"pls\"><span class=\"pl\"><b>gamma</b> 결막·폐</span></div></div><div class=\"pb\"><div class=\"pc\">CapHV-1</div><div class=\"pls\"><span class=\"pl\"><b>염소만 감수성</b> BHV-1 닮음</span></div></div></div></div>",
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">말·염소 herpesvirus <em>번호별 질병</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">EHV-1</div><div class=\"pls\"><span class=\"pl\"><b>유산</b> 태반 혈관염</span><span class=\"pl\"><b>CNS</b> 척수 혈관염</span><span class=\"pl\"><b>viremia·HA+</b> 혈관내피 tropism</span></div></div><div class=\"pb\"><div class=\"pc\">EHV-4</div><div class=\"pls\"><span class=\"pl\"><b>호흡기</b> viremia 드묾·HA-</span></div></div><div class=\"pb\"><div class=\"pc\">EHV-3</div><div class=\"pls\"><span class=\"pl\"><b>교미성 발진</b> 번식력 영향 없음</span></div></div><div class=\"pb\"><div class=\"pc\">EHV-2/5/7</div><div class=\"pls\"><span class=\"pl\"><b>gamma</b> 결막·폐</span></div></div><div class=\"pb\"><div class=\"pc\">CapHV-1 (염소)</div><div class=\"pls\"><span class=\"pl\"><b>염소만 감수성</b> BHV-1 닮음</span></div></div></div></div>",
 "exams": [],
 "flag": false,
 "flagReason": "",
@@ -3994,7 +3994,7 @@ const LABQ = [
 "origin": "preview",
 "type": "summary",
 "topic": "토가 — 큰 뼈대 + 구조도",
-"explain": "<div class=\"pintro\"><b>+ssRNA 외피, 모기매개 말뇌염(EEE·WEE·VEE).</b> 핵심 = dead-end host(누가 퍼뜨리고 누가 막다른 길인지).</div><div class=\"ptree\"><div class=\"proot\">Togaviridae·Alphavirus <em>말뇌염 EEE·WEE·VEE</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Togaviridae&#39;,&#39;reservoir&#39;)\">reservoir</div><div class=\"pls\"><span class=\"pl\">조류 — 바이러스 보유</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Togaviridae&#39;,&#39;매개&#39;)\">매개</div><div class=\"pls\"><span class=\"pl\">모기</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Togaviridae&#39;,&#39;dead-end&#39;)\">dead-end</div><div class=\"pls\"><span class=\"pl\">말·사람 (EEE/WEE) 증폭못함</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Togaviridae&#39;,&#39;amplifying&#39;)\">amplifying</div><div class=\"pls\"><span class=\"pl\">말 (VEE) 증폭 → 함정!</span></div></div></div></div><div class=\"pcmp\">⚖️ <b>대조</b> · dead-end vs amplifying(VEE) · JEV(돼지=amplifying) 대조</div>",
+"explain": "<div class=\"pintro\"><b>+ssRNA 외피, 모기매개 말뇌염(EEE·WEE·VEE).</b> 핵심 = dead-end host(누가 퍼뜨리고 누가 막다른 길인지).</div><div class=\"ptree\"><div class=\"proot\">Togaviridae·Alphavirus <em>말뇌염 EEE·WEE·VEE</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Togaviridae&#39;,&#39;reservoir&#39;)\">reservoir</div><div class=\"pls\"><span class=\"pl\">조류 — 바이러스 보유</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Togaviridae&#39;,&#39;매개&#39;)\">매개</div><div class=\"pls\"><span class=\"pl\">모기</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Togaviridae&#39;,&#39;dead-end&#39;)\">dead-end</div><div class=\"pls\"><span class=\"pl\">말·사람 (EEE/WEE) 증폭못함</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Togaviridae&#39;,&#39;amplifying&#39;)\">amplifying</div><div class=\"pls\"><span class=\"pl\">말 (VEE) 증폭 → 함정!</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Togaviridae&#39;,&#39;사람&#39;)\">사람</div><div class=\"pls\"><span class=\"pl\">🔵 <b>Chikungunya</b> 발열·발진·관절통</span></div></div></div></div><div class=\"pcmp\">⚖️ <b>대조</b> · dead-end vs amplifying(VEE) · JEV(돼지=amplifying) 대조</div>",
 "freq": 0,
 "answer": [],
 "choices": [],
@@ -5512,7 +5512,7 @@ const LABQ = [
 "origin": "preview",
 "type": "summary",
 "topic": "뉴모 — 큰 뼈대 + 구조도",
-"explain": "<div class=\"pintro\"><b>-ssRNA, 호흡기 세포융합(syncytium).</b> 단독보다 2차 세균감염을 깔아주는 역할.</div><div class=\"ptree\"><div class=\"proot\">Pneumoviridae <em>-ssRNA·syncytium</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Pneumoviridae&#39;,&#39;소&#39;)\">소</div><div class=\"pls\"><span class=\"pl\"><b>BRSV</b> 호흡기융합·2차 Mannheimia</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Pneumoviridae&#39;,&#39;개&#39;)\">개</div><div class=\"pls\"><span class=\"pl\"><b>CPnV</b> 뉴모</span></div></div></div></div><div class=\"pcmp\">⚖️ <b>대조</b> · syncytia · BRSV 2차 세균감염 · 백신</div>",
+"explain": "<div class=\"pintro\"><b>-ssRNA, 호흡기 세포융합(syncytium).</b> 단독보다 2차 세균감염을 깔아주는 역할. <b>숙주별로 묶어라.</b></div><div class=\"ptree\"><div class=\"proot\">Pneumoviridae <em>-ssRNA·syncytium</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Pneumoviridae&#39;,&#39;소&#39;)\">소</div><div class=\"pls\"><span class=\"pl\"><b>BRSV</b> 호흡기융합·BRDC 주병원체·2차 Mannheimia</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Pneumoviridae&#39;,&#39;개&#39;)\">개</div><div class=\"pls\"><span class=\"pl\"><b>CPnV</b> 개 뉴모(CIRDC)</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Pneumoviridae&#39;,&#39;조류&#39;)\">조류</div><div class=\"pls\"><span class=\"pl\"><b>aMPV</b> 칠면조 비기관염·닭 swollen head</span></div></div></div></div><div class=\"pcmp\">⚖️ <b>대조</b> · syncytia · BRSV 2차 세균감염 · aMPV 가금</div>",
 "freq": 0,
 "answer": [],
 "choices": [],
@@ -6429,7 +6429,7 @@ const LABQ = [
 "origin": "preview",
 "type": "summary",
 "topic": "레트로 — 큰 뼈대 + 구조도",
-"explain": "<div class=\"pintro\"><b>+ssRNA지만 역전사효소로 DNA 만들어 provirus 삽입.</b> 종양·면역결핍·만성 경과.</div><div class=\"ptree\"><div class=\"proot\">Retroviridae <em>+ssRNA·역전사·provirus</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Retroviridae&#39;,&#39;공통&#39;)\">공통</div><div class=\"pls\"><span class=\"pl\">RT→provirus 삽입</span><span class=\"pl\">c-onc 종양화</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Retroviridae&#39;,&#39;양&#39;)\">양</div><div class=\"pls\"><span class=\"pl\"><b>Maedi-Visna</b> 폐렴·신경</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Retroviridae&#39;,&#39;산양&#39;)\">산양</div><div class=\"pls\"><span class=\"pl\"><b>CAE</b> 관절염-뇌염</span></div></div></div></div><div class=\"pcmp\">⚖️ <b>대조</b> · 역전사·provirus·oncogenesis · lentivirus 만성</div>",
+"explain": "<div class=\"pintro\"><b>+ssRNA지만 역전사효소로 DNA 만들어 provirus 삽입.</b> 종양·면역결핍·만성 경과. <b>숙주별 대표 바이러스로 묶어라.</b></div><div class=\"ptree\"><div class=\"proot\">Retroviridae <em>+ssRNA·역전사·provirus</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Retroviridae&#39;,&#39;공통&#39;)\">공통</div><div class=\"pls\"><span class=\"pl\">RT→provirus 삽입</span><span class=\"pl\">c-onc 종양화</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Retroviridae&#39;,&#39;소&#39;)\">소</div><div class=\"pls\"><span class=\"pl\"><b>BLV</b> 소백혈병(EBL)·B세포 림프종</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Retroviridae&#39;,&#39;말&#39;)\">말</div><div class=\"pls\"><span class=\"pl\"><b>EIAV</b> 마전염성빈혈·Coggins test</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Retroviridae&#39;,&#39;고양이&#39;)\">고양이</div><div class=\"pls\"><span class=\"pl\"><b>FeLV</b> 고양이 백혈병</span><span class=\"pl\"><b>FIV</b> 고양이 AIDS(lentivirus)</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;Retroviridae&#39;,&#39;양·산양&#39;)\">양·산양</div><div class=\"pls\"><span class=\"pl\"><b>MVV</b> Maedi-Visna 폐렴·신경</span><span class=\"pl\"><b>CAE</b> 관절염-뇌염</span></div></div></div></div><div class=\"pcmp\">⚖️ <b>대조</b> · 역전사·provirus·oncogenesis · lentivirus(FIV·MVV·CAE) 만성</div>",
 "freq": 0,
 "answer": [],
 "choices": [],
@@ -7036,5 +7036,724 @@ const LABQ = [
 "unit": "",
 "cardOrder": 99,
 "id": 268
+},
+{
+"part": "SFTS",
+"unit": "SFTS0",
+"cardOrder": 0,
+"origin": "preview",
+"type": "summary",
+"topic": "SFTS — 큰 뼈대 + 구조도",
+"explain": "<div class=\"pintro\"><b>진드기매개 인수공통(zoonosis)·동아시아 한정 신종.</b> Bunyaviridae·Dabie bandavirus·−ssRNA 3분절. 백신·치료제 없음 → 예방이 유일. <b>사람·동물·환경을 함께 보는 원헬스로 접근한다.</b></div><div class=\"ptree\"><div class=\"proot\">SFTS <em>진드기매개·인수공통·동아시아</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;SFTS&#39;,&#39;원헬스&#39;)\">원헬스</div><div class=\"pls\"><span class=\"pl\">사람·동물·환경 일체·양방향</span><span class=\"pl\">신종 60%가 zoonosis</span><span class=\"pl\"><b>니파</b> 산림개발→박쥐→돼지→사람</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;SFTS&#39;,&#39;병원체&#39;)\">병원체·매개체</div><div class=\"pls\"><span class=\"pl\"><b>Dabie bandavirus</b> Bunyaviridae·−ssRNA 3분절(L·M·S)</span><span class=\"pl\"><b>작은소피참진드기</b> H. longicornis</span><span class=\"pl\">단위생식·경란·경발육단계전파</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;SFTS&#39;,&#39;병태&#39;)\">임상·병태생리</div><div class=\"pls\"><span class=\"pl\">잠복 5–14일·고열·<b>혈소판↓·백혈구↓</b>·위장</span><span class=\"pl\"><b>사이토카인 스톰</b>→다발성장기부전</span><span class=\"pl\">혈소판 소모+비장 격리</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;SFTS&#39;,&#39;역학&#39;)\">역학·전파</div><div class=\"pls\"><span class=\"pl\">2009 중국→동아시아·<b>4–11월(10월 피크)</b></span><span class=\"pl\">50대+ 농임업·수의사 고위험</span><span class=\"pl\"><b>고양이 비말</b> 전파·중국→한국 유입</span></div></div><div class=\"pb\"><div class=\"pc\" onclick=\"jumpC(&#39;SFTS&#39;,&#39;진단예방&#39;)\">진단·예방</div><div class=\"pls\"><span class=\"pl\"><b>RT-PCR</b>·IgM/IgG ELISA</span><span class=\"pl\">백신·치료제 없음→대증·PPE·고글</span><span class=\"pl\">진드기 동시감염→패널검사</span></div></div></div></div><div class=\"pcmp\">⚖️ <b>대조</b> · 진드기=SFTS/라임/바베시아 · 백신없음(예방 only) · 고양이=비말 전파</div>",
+"freq": 0,
+"answer": [],
+"choices": [],
+"exams": [],
+"flag": false,
+"flagReason": "",
+"exam": "",
+"id": 269
+},
+{
+"part": "SFTS",
+"unit": "SFTS1",
+"cardOrder": 1,
+"origin": "summary",
+"type": "summary",
+"topic": "개념카드: 원헬스(One Health)·인수공통감염병 개론",
+"explain": "**한 줄 요약**: 원헬스는 사람·동물·생태계 건강을 하나로 보는 다학제 접근이며, SFTS는 그 대표 인수공통감염병(zoonosis)이다.\n\n## One Health 정의 (강의1 §1)\n\n사람·동물·생태계의 연계를 통해 **모두에게 최적의 건강**을 제공하는 다학제적 접근. \"한쪽이 무너지면 모두가 무너진다.\" 환경·동물 건강 악화 → 인수공통감염병 증가 (**인간↔동물 양방향 전파**, 예: 코로나19).\n\n## 인수공통감염병(Zoonotic disease)\n\n동물과 사람 사이에 **상호(양방향) 전파**되는 병원체에 의한 감염병. 매개체 = 인간·야생동물·진드기·반려동물.\n\n| 항목 | 내용 |\n|---|---|\n| 🔴 중요성 | 최근 50년 신종 감염병의 **60%가 인수공통** |\n| 규모 | 매년 전세계 약 10억 건, 수백만 사망 |\n| 예시 | 동물인플루엔자, **SFTS**, SARS, 코로나19, MERS, 브루셀라 |\n\n## 왜 원헬스가 중요해졌나 — 4 거시요인 (CDC)\n\n① 도시화로 밀집 거주 ② **기후변화·산림개발** ③ 교역·여행 증가 ④ 반려·exotic pet 증가.\n\n## 🔴 니파바이러스 사례 (산림개발 메커니즘)\n\n산림 파괴 → 과일박쥐가 정글 밖 **과수원**으로 이동 → 옆 **돼지 농장** 감염 → **사람 사망**. *산림개발→야생동물 서식지 변화→가축 감염→사람*의 전형. SFTS는 **동아시아(한·중·일) 한정** 신종 인수공통감염병.\n\n근거: 강의1 §1 원헬스 개념·니파 사례.",
+"freq": 0,
+"gist": "사람·동물·환경 일체·양방향",
+"chips": [
+"<b>One Health</b> 사람·동물·생태계 다학제",
+"<b>양방향</b> 인간↔동물 전파",
+"<b>신종 60%</b>가 인수공통",
+"<b>4요인</b> 밀집·기후/산림·교역·반려",
+"<b>니파</b> 산림개발→박쥐→돼지→사람",
+"<b>SFTS</b> 동아시아 한정 zoonosis"
+],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">One Health <em>사람·동물·환경</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">정의</div><div class=\"pls\"><span class=\"pl\"><b>다학제</b>·한쪽 무너지면 다 무너짐</span><span class=\"pl\"><b>양방향</b> 인간↔동물</span></div></div><div class=\"pb\"><div class=\"pc\">zoonosis</div><div class=\"pls\"><span class=\"pl\"><b>신종 60%</b>·매개 진드기·야생·반려</span><span class=\"pl\">SFTS·SARS·코로나·인플루엔자</span></div></div><div class=\"pb\"><div class=\"pc\">4 요인</div><div class=\"pls\"><span class=\"pl\">밀집·<b>기후/산림</b>·교역·반려동물</span><span class=\"pl\"><b>니파</b> 산림개발→박쥐→돼지→사람</span></div></div></div></div>",
+"answer": [],
+"choices": [],
+"exams": [],
+"flag": false,
+"flagReason": "",
+"exam": "",
+"id": 270
+},
+{
+"part": "SFTS",
+"unit": "SFTS1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 원헬스(One Health)·인수공통감염병 개론",
+"q": "원헬스(One Health) 개념에서 환경·동물 건강 악화가 인수공통감염병에 미치는 영향을 가장 잘 설명한 것은?",
+"choices": [
+"인간→동물 한 방향으로만 전파된다",
+"동물→인간 한 방향으로만 전파된다",
+"인간↔동물 양방향으로 전파가 일어난다",
+"환경은 감염병과 무관하다",
+"백신으로 모두 차단된다"
+],
+"answer": [
+3
+],
+"explain": "원헬스는 사람·동물·생태계를 하나로 보며, 인수공통감염병은 인간↔동물 **양방향**으로 전파됩니다(강의1 §1). 코로나19가 대표 예시입니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 271
+},
+{
+"part": "SFTS",
+"unit": "SFTS1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 원헬스(One Health)·인수공통감염병 개론",
+"q": "최근 50년간 새로 출현한 감염병 중 인수공통감염병이 차지하는 비율로 강의안에 제시된 값은?",
+"choices": [
+"약 10%",
+"약 30%",
+"약 60%",
+"약 90%",
+"100%"
+],
+"answer": [
+3
+],
+"explain": "강의1 §1.3에서 최근 50년 신종 감염병의 **약 60%가 인수공통감염병**이라고 제시했습니다. 매년 전세계 약 10억 건 발생·수백만 사망.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 272
+},
+{
+"part": "SFTS",
+"unit": "SFTS1",
+"cardOrder": 1,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 원헬스(One Health)·인수공통감염병 개론",
+"q": "니파바이러스 사례가 보여주는 신종 인수공통감염병 출현 경로로 옳은 것은?",
+"choices": [
+"백신 부작용으로 출현",
+"산림개발→과일박쥐 이동→돼지 농장 감염→사람 전파",
+"실험실 유출",
+"오염된 수돗물",
+"모기 단독 전파"
+],
+"answer": [
+2
+],
+"explain": "산림 파괴로 과일박쥐가 과수원으로 밀려나 옆 돼지 농장을 감염시키고 사람으로 전파된 사례로, **산림개발→야생동물 서식지 변화→가축→사람**의 전형입니다(강의1 §1.4 4요인 중 기후·토지이용).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 273
+},
+{
+"part": "SFTS",
+"unit": "SFTS2",
+"cardOrder": 2,
+"origin": "summary",
+"type": "summary",
+"topic": "개념카드: 병원체·매개체·전파 사이클",
+"explain": "**한 줄 요약**: 원인은 Dabie bandavirus(Bunyaviridae, −ssRNA 3분절), 매개체는 작은소피참진드기이며 단위생식·경란·경발육단계전파로 폭발적으로 퍼진다.\n\n## 병원체 (강의1 §3·강의2 §2.1)\n\n| 항목 | 내용 |\n|---|---|\n| 🔴 바이러스 | **Dabie bandavirus** (별칭 SFTSV) |\n| 과 | **Bunyaviridae**(분야비리데) |\n| 유전체 | **음성가닥(−)ssRNA, 3분절(L·M·S)** |\n| 첫 보고 | 2009년 중국(후베이·허난) → 동아시아 확산 |\n\n## 매개체 — 작은소피참진드기\n\n🔴 **Haemaphysalis longicornis**(작은소피참진드기). 초원·숲에 널리 분포, 2017년 미국에도 정착.\n\n| 매개체 특징 | 의미 |\n|---|---|\n| 🔴 단위생식(parthenogenesis) | 암컷만으로 생식 → **폭발적 개체수 증가** |\n| 🔴 경란전파(transovarial) | 알을 통해 다음 세대로 전파 |\n| 🔴 경발육단계전파(transstadial) | 유충→약충→성충 발육단계 사이 전파 유지 |\n\n## 전파 경로\n\n① **진드기 흡혈** 시 침샘으로 혈액에 전파(주 경로) ② 환자 **혈액·체액**으로 사람 간 전파 ③ **동물→사람** 전파. 발육사이클: 알→유충→약충→성충, 작은 포유류·**철새(작은 섬새)**↔진드기↔유제류·사람.\n\n근거: 강의1 §3·§5.3, 강의2 §2.1.",
+"freq": 0,
+"gist": "−ssRNA 3분절·작은소피참진드기",
+"chips": [
+"<b>Dabie bandavirus</b> Bunyaviridae",
+"<b>−ssRNA 3분절</b> L·M·S",
+"<b>작은소피참진드기</b> H. longicornis",
+"<b>단위생식</b> 암컷만·폭발 증가",
+"<b>경란·경발육</b> 전파",
+"2009 중국→동아시아"
+],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">SFTS 병원체·매개체 <em>진드기 −ssRNA</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">병원체</div><div class=\"pls\"><span class=\"pl\"><b>Dabie bandavirus</b>·Bunyaviridae</span><span class=\"pl\"><b>−ssRNA 3분절</b> L·M·S</span></div></div><div class=\"pb\"><div class=\"pc\">매개체</div><div class=\"pls\"><span class=\"pl\"><b>작은소피참진드기</b> H. longicornis</span><span class=\"pl\"><b>단위생식</b>·경란·경발육전파</span></div></div><div class=\"pb\"><div class=\"pc\">전파</div><div class=\"pls\"><span class=\"pl\"><b>진드기 흡혈</b>(주)·사람간 체액</span><span class=\"pl\">동물→사람·철새 매개</span></div></div></div></div>",
+"answer": [],
+"choices": [],
+"exams": [],
+"flag": false,
+"flagReason": "",
+"exam": "",
+"id": 274
+},
+{
+"part": "SFTS",
+"unit": "SFTS2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 병원체·매개체·전파 사이클",
+"q": "SFTS 병원체의 분류와 유전체 특성으로 옳은 것은?",
+"choices": [
+"Dabie bandavirus — Bunyaviridae — 음성가닥 RNA, 3분절",
+"SARS-CoV-2 — Coronaviridae — 양성가닥 RNA",
+"인플루엔자 — Orthomyxoviridae — 8분절 RNA",
+"Dabie bandavirus — DNA 바이러스",
+"비분절 양성가닥 RNA 바이러스"
+],
+"answer": [
+1
+],
+"explain": "SFTS의 원인체는 **Dabie bandavirus(SFTSV)**로 **Bunyaviridae**에 속하며 **음성가닥(−)ssRNA, 3분절(L·M·S)** 바이러스입니다(강의1 §3, 강의2 §2.1).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 275
+},
+{
+"part": "SFTS",
+"unit": "SFTS2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 병원체·매개체·전파 사이클",
+"q": "SFTS 매개 진드기(작은소피참진드기)가 폭발적으로 개체수를 늘릴 수 있는 가장 직접적인 이유는?",
+"choices": [
+"수명이 매우 길어서",
+"단위생식(parthenogenesis)으로 암컷만으로도 번식 가능",
+"사람 혈액만 흡혈해서",
+"날아다닐 수 있어서",
+"겨울에만 번식해서"
+],
+"answer": [
+2
+],
+"explain": "작은소피참진드기(*Haemaphysalis longicornis*)는 **단위생식(parthenogenesis)**으로 암컷 단독 번식이 가능해 폭발적으로 증가합니다. 또 SFTS를 **경란전파(transovarial)·경발육단계전파(transstadial)**로 유지합니다(강의1 §5.3).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 276
+},
+{
+"part": "SFTS",
+"unit": "SFTS2",
+"cardOrder": 2,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 병원체·매개체·전파 사이클",
+"q": "SFTS의 주요 전파 경로로 보기 어려운 것은?",
+"choices": [
+"진드기 흡혈 시 침샘을 통한 전파",
+"감염 환자의 혈액·체액 노출에 의한 사람 간 전파",
+"감염 동물(고양이 등)에서 사람으로의 전파",
+"오염된 음용수를 통한 경구 전파",
+"감염 동물의 체액·비말 노출"
+],
+"answer": [
+4
+],
+"explain": "SFTS는 ① 진드기 흡혈(주 경로) ② 환자 혈액·체액에 의한 사람 간 전파 ③ 동물→사람 전파가 보고됩니다(강의1 §5, 강의2 §2.1). **오염된 음용수 경구 전파는 강의안에 제시되지 않습니다.**",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 277
+},
+{
+"part": "SFTS",
+"unit": "SFTS3",
+"cardOrder": 3,
+"origin": "summary",
+"type": "summary",
+"topic": "개념카드: 임상 증상·병태생리(사이토카인 스톰)",
+"explain": "**한 줄 요약**: 고열+혈소판/백혈구 감소+위장증상이 4대 소견이며, 사이토카인 스톰으로 다발성 장기부전에 이른다.\n\n## 임상 (강의1 §4)\n\n잠복기 **5–14일(6일~2주)**. 4대 소견:\n\n| 🔴 4대 소견 | |\n|---|---|\n| 고열 | 38.6℃ 이상 |\n| **혈소판 감소증** | thrombocytopenia |\n| **백혈구 감소증** | leukopenia |\n| 위장 장애 | 구토·설사·복통 |\n\n기타: 피로·근육통·림프절 종대·점상출혈. 중증: **다발성 장기부전·뇌병증·횡문근융해증·혈구탐식증**.\n\n## 🔴 병태생리 — 7단계\n\n① Viremia(혈류 진입) → ② 림프절 감염(B-cell 결함) → ③ 혈관 출혈·염증 → ④ **혈소판 소모(consumption)** → ⑤ **비장 격리(sequestration, 매크로파지)** → ⑥ **사이토카인 스톰**(IL-10·IL-6·IL-4·IP-10·IFN-γ, 감염세포까지 공격) → ⑦ 다발성 장기부전(심↑CKMB·간↑AST/ALT·신↑BUN).\n\n→ \"혈소판 감소\"는 **소모 + 비장 격리** 두 기전이 합쳐진 결과.\n\n## 예후 악화 인자 (강의2 §6·7)\n\n🔴 고령(60세↑이 사망자의 90%, 면역노화), 🔴 **혈뇨**(p=0.006), 🔴 **당뇨병**(p=0.018, OR 2.75), 기저질환 보유(aOR 2.96). 누적 치명률 18.7%.\n\n근거: 강의1 §4 병태생리, 강의2 §6·7 사망 위험인자.",
+"freq": 0,
+"gist": "고열+혈소판/백혈구↓·사이토카인 스톰",
+"chips": [
+"<b>4대</b> 고열·혈소판↓·백혈구↓·위장",
+"<b>잠복</b> 5–14일",
+"<b>혈소판↓</b> 소모+비장 격리",
+"<b>사이토카인 스톰</b>→다발성장기부전",
+"<b>예후악화</b> 혈뇨·당뇨·고령",
+"치명률 18.7%"
+],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">SFTS 임상·병태 <em>혈소판↓·스톰</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">4대 소견</div><div class=\"pls\"><span class=\"pl\">고열·<b>혈소판↓·백혈구↓</b>·위장</span><span class=\"pl\">잠복 5–14일·점상출혈</span></div></div><div class=\"pb\"><div class=\"pc\">병태생리</div><div class=\"pls\"><span class=\"pl\">혈관출혈→<b>혈소판 소모</b>+<b>비장 격리</b></span><span class=\"pl\"><b>사이토카인 스톰</b>→다발성장기부전</span></div></div><div class=\"pb\"><div class=\"pc\">예후악화</div><div class=\"pls\"><span class=\"pl\"><b>혈뇨</b>(p=0.006)·<b>당뇨</b>(p=0.018)</span><span class=\"pl\">고령(60+↑사망 90%)·치명률 18.7%</span></div></div></div></div>",
+"answer": [],
+"choices": [],
+"exams": [],
+"flag": false,
+"flagReason": "",
+"exam": "",
+"id": 278
+},
+{
+"part": "SFTS",
+"unit": "SFTS3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 임상 증상·병태생리(사이토카인 스톰)",
+"q": "SFTS 환자의 혈액검사에서 가장 특징적으로 나타나는 4대 소견에 포함되지 않는 것은?",
+"choices": [
+"고열",
+"혈소판 감소증(thrombocytopenia)",
+"백혈구 감소증(leukopenia)",
+"위장 장애(구토·설사)",
+"호중구 증가증(neutrophilia)"
+],
+"answer": [
+5
+],
+"explain": "SFTS의 4대 소견은 **고열·혈소판 감소증·백혈구 감소증·위장 장애**입니다(강의1 §4.1). 백혈구는 감소하므로 호중구 증가증은 해당되지 않습니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 279
+},
+{
+"part": "SFTS",
+"unit": "SFTS3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 임상 증상·병태생리(사이토카인 스톰)",
+"q": "SFTS에서 혈소판 감소(thrombocytopenia)가 나타나는 기전으로 옳은 것은?",
+"choices": [
+"골수에서 혈소판을 전혀 만들지 않아서",
+"혈관 출혈에 동원되어 소모되고, 비장 매크로파지가 혈소판을 격리해서",
+"간에서 혈소판을 분해해서",
+"신장으로 혈소판이 배설되어서",
+"혈소판이 적혈구로 전환되어서"
+],
+"answer": [
+2
+],
+"explain": "바이러스가 전신 혈관에 출혈·염증을 일으켜 혈소판이 **소모(consumption)**되고, 여기에 **비장 매크로파지의 혈소판 격리(sequestration)**가 더해져 혈소판이 감소합니다(강의1 §4.2 병태생리).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 280
+},
+{
+"part": "SFTS",
+"unit": "SFTS3",
+"cardOrder": 3,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 임상 증상·병태생리(사이토카인 스톰)",
+"q": "강의안 역학분석에서 SFTS 사망 위험을 통계적으로 유의하게 높인다고 제시한 인자로 옳은 것은?",
+"choices": [
+"발열만 있으면 사망 위험 급증",
+"젊은 연령",
+"혈뇨(p=0.006)와 당뇨병(p=0.018)",
+"근육통",
+"림프절 종대"
+],
+"answer": [
+3
+],
+"explain": "강의2 역학분석에서 **혈뇨(hematuria, p=0.006)**와 **당뇨병(p=0.018, OR 2.75)**, 기저질환 보유(aOR 2.96)가 사망과 통계적으로 유의하게 연관됐습니다. 발열·피로 등은 유의차가 없었습니다(강의2 §6·7).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 281
+},
+{
+"part": "SFTS",
+"unit": "SFTS4",
+"cardOrder": 4,
+"origin": "summary",
+"type": "summary",
+"topic": "개념카드: 역학·동물 전파·원헬스 감시·분자역학",
+"explain": "**한 줄 요약**: 4–11월(10월 피크) 농임업 고령층에서 많고, 고양이는 비말로 사람을 감염시키며, 한국 SFTS는 중국 유래 바이러스의 지속 유입으로 유지된다.\n\n## 역학 (강의1 §3.3·§5, 강의2 §4·5)\n\n| 항목 | 내용 |\n|---|---|\n| 🔴 계절성 | **4–11월, 10월 피크**(첫 발생 빨라짐=기후) |\n| 지역 | 경상북도 최고(11.3명/10만), 산간 多 |\n| 🔴 고위험군 | **50대+ 농·임업**, 수의사·진료보조·애견미용사 |\n\n## 동물 항체 양성률 (한국)\n\n🔴 **고라니 23.8%(최고)**, 개 13.9%, 염소 6.9–14.4%, 멧돼지 1.9%. 고라니·멧돼지는 증상이 가벼워 **매개체로서 역할이 큼**.\n\n## 🔴 고양이 매개의 위험성 (강의1 §5.8)\n\n일본 2차 감염 16건(2명 사망), 대부분 **고양이 매개**. 수의사·테크니션이 젊어도 감염. 핵심: 고양이 폐사 10일 후 사람 발병, 바이러스 유전자 **100% 일치** → 직접 전파 증명. 전파는 진드기·물림이 아니라 **고양이 혈액·체액·비말(에어로졸)** → 마스크·장갑·**고글** 필수. 고양이 SFTS 주요 증상은 **황달**.\n\n## 원헬스 감시·분자역학\n\n동물병원 기반 감시사업(질병청·검역본부·야생동물질병관리원·육군), 24년 밀접접촉자 232명. 전장유전체 phylogenetic 분석: 한국 SFTS는 **중국 유래 바이러스의 지속 유입**으로 유지(일본→한국 직접 연결 약함).\n\n근거: 강의2 §4·5, 강의1 §5·§6.",
+"freq": 0,
+"gist": "4–11월·고라니23.8%·고양이 비말·중국유입",
+"chips": [
+"<b>4–11월</b> 10월 피크·경북 최고",
+"<b>고위험</b> 50대+ 농임업·수의사",
+"<b>고라니 23.8%</b> 항체 최고",
+"<b>고양이</b> 비말 전파·황달",
+"<b>감시사업</b> 동물병원·다부처",
+"<b>분자역학</b> 중국→한국 유입"
+],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">SFTS 역학·전파 <em>계절·동물·분자</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">역학</div><div class=\"pls\"><span class=\"pl\"><b>4–11월</b> 10월 피크·경북</span><span class=\"pl\"><b>50대+ 농임업</b>·수의사</span></div></div><div class=\"pb\"><div class=\"pc\">동물</div><div class=\"pls\"><span class=\"pl\"><b>고라니 23.8%</b>·개 13.9%</span><span class=\"pl\"><b>고양이 비말</b> 전파·황달·고글</span></div></div><div class=\"pb\"><div class=\"pc\">감시·분자</div><div class=\"pls\"><span class=\"pl\">동물병원 감시사업·다부처</span><span class=\"pl\"><b>중국→한국</b> 바이러스 유입</span></div></div></div></div>",
+"answer": [],
+"choices": [],
+"exams": [],
+"flag": false,
+"flagReason": "",
+"exam": "",
+"id": 282
+},
+{
+"part": "SFTS",
+"unit": "SFTS4",
+"cardOrder": 4,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 역학·동물 전파·원헬스 감시·분자역학",
+"q": "강의안 기준 SFTS의 계절성·고위험군으로 옳은 것은?",
+"choices": [
+"겨울철(12–2월) 피크, 도시 사무직",
+"4–11월 발생·10월 피크, 50대 이상 농·임업 종사자",
+"연중 균일, 영유아",
+"여름만 발생, 어부",
+"봄에만 발생, 학생"
+],
+"answer": [
+2
+],
+"explain": "SFTS는 진드기 활동기인 **4–11월에 발생하고 10월에 피크**이며, **50대 이상 농·임업 종사자**(+수의사·애견미용사)가 고위험군입니다(강의2 §4·5, 강의1 §3.4).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 283
+},
+{
+"part": "SFTS",
+"unit": "SFTS4",
+"cardOrder": 4,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 역학·동물 전파·원헬스 감시·분자역학",
+"q": "한국 동물종별 SFTS 항체 양성률이 가장 높은 동물은?",
+"choices": [
+"멧돼지",
+"개",
+"염소",
+"고라니",
+"닭"
+],
+"answer": [
+4
+],
+"explain": "강의1 §5.4 기준 항체 양성률은 **고라니 23.8%(최고)** > 개 13.9% > 염소 6.9–14.4% > 멧돼지 1.9% 순입니다. 고라니·멧돼지는 증상이 가벼워 매개체로서 역할이 큽니다.",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 284
+},
+{
+"part": "SFTS",
+"unit": "SFTS4",
+"cardOrder": 4,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 역학·동물 전파·원헬스 감시·분자역학",
+"q": "일본 사례에서 밝혀진 고양이→사람 SFTS 전파의 주된 경로로 추정되는 것은?",
+"choices": [
+"고양이에게 물리거나 긁혀서",
+"진드기에 직접 물려서",
+"고양이의 혈액·체액·비말(에어로졸) 노출",
+"사료 공유",
+"공기 중 장거리 전파"
+],
+"answer": [
+3
+],
+"explain": "일본 사례에서 고양이와 환자의 바이러스 유전자가 100% 일치했고, 전파는 물림·긁힘이 아니라 **고양이의 혈액·체액·비말(에어로졸)**로 추정됩니다 → 진료 시 마스크·장갑·**고글** 필수(강의1 §5.8).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 285
+},
+{
+"part": "SFTS",
+"unit": "SFTS5",
+"cardOrder": 5,
+"origin": "summary",
+"type": "summary",
+"topic": "개념카드: 진단·치료·예방·백신 + 진드기 매개 다른 질병",
+"explain": "**한 줄 요약**: 진단은 RT-PCR·ELISA, 치료·백신은 없어 예방(PPE·고글)이 핵심이며, 진드기는 SFTS 외에 라임·바베시아 등도 옮겨 동시감염을 고려한다.\n\n## 진단 (강의1 §8.1)\n\n| 방법 | 특징 |\n|---|---|\n| 🔴 **RT-PCR** | 혈액 내 바이러스 RNA, 급성기 민감·특이. 시간 지나면 검출↓ |\n| IgM/IgG ELISA | IgM=급성기, **교차반응 주의** |\n| 전장유전체 분석 | 양성 후 정밀 분자역학 |\n\n## 치료·백신 (강의1 §8.3)\n\n🔴 **항바이러스제 없음 → 대증요법**(리바비린 유효성 불명확). 🔴 **상용 백신 없음**. 연구 4종:\n\n| 백신 | 장점 | 단점 |\n|---|---|---|\n| 불활화(BPL+Al(OH)₃) | 안전·생존율 100% 보호(쥐) | 생산 복잡·면역 약함 |\n| 약독화 | 강한 면역 | **병원성 복귀 위험** |\n| DNA | 안정·유연 | 효과 불확실 |\n| mRNA | 빠른 개발·강한 면역 | 콜드체인·비용 |\n\n지역 한정 질병이라 다국적 제약사 사업성 탈락 → 국산화 필요. 동물모델: 노령 페렛·면역결핍 마우스(대표성 한계).\n\n## 예방\n\nPPE(손위생·장갑·가운·**고글**·마스크), 격리·소독, 야외 긴팔·긴바지·기피제·**활동 후 진드기 점검**, 반려동물 진드기 관리.\n\n## 진드기 매개 다른 질병 + 🔴 동시감염\n\n라임병(*Borrelia*)·록키산반점열(*Rickettsia*)·아나플라스마·바베시아(*Babesia*)·진드기매개뇌염(TBE, **백신 있음**). 동시감염: 라임+아나플라스마(4–5%), **라임+바베시아(30%)** → **패널 검사** 필수.\n\n근거: 강의1 §7·§8.",
+"freq": 0,
+"gist": "RT-PCR·백신없음·예방·동시감염",
+"chips": [
+"<b>RT-PCR</b>·IgM/IgG ELISA",
+"<b>치료 없음</b> 대증요법",
+"<b>백신 없음</b> 4종 연구",
+"<b>예방</b> PPE·고글·진드기 점검",
+"진드기=라임·바베시아·아나플라스마",
+"<b>동시감염</b> 패널 검사"
+],
+"minitree": "<div class=\"ptree mini\"><div class=\"proot\">SFTS 진단·예방 <em>백신없음·예방</em></div><div class=\"pbranches\"><div class=\"pb\"><div class=\"pc\">진단</div><div class=\"pls\"><span class=\"pl\"><b>RT-PCR</b>(RNA)·IgM/IgG ELISA</span><span class=\"pl\">전장유전체 분자역학</span></div></div><div class=\"pb\"><div class=\"pc\">치료·백신</div><div class=\"pls\"><span class=\"pl\"><b>치료·백신 없음</b>→대증·예방</span><span class=\"pl\">4종 연구(불활화·약독화·DNA·mRNA)</span></div></div><div class=\"pb\"><div class=\"pc\">예방·동시감염</div><div class=\"pls\"><span class=\"pl\"><b>PPE·고글</b>·진드기 점검</span><span class=\"pl\">라임·바베시아 <b>동시감염</b>→패널</span></div></div></div></div>",
+"answer": [],
+"choices": [],
+"exams": [],
+"flag": false,
+"flagReason": "",
+"exam": "",
+"id": 286
+},
+{
+"part": "SFTS",
+"unit": "SFTS5",
+"cardOrder": 5,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 진단·치료·예방·백신 + 진드기 매개 다른 질병",
+"q": "SFTS의 급성기 진단에서 혈액 내 바이러스 RNA를 검출하는 가장 적절한 방법은?",
+"choices": [
+"RT-PCR(역전사 중합효소 연쇄반응)",
+"그람 염색",
+"세균 배양",
+"X-ray",
+"소변 배양"
+],
+"answer": [
+1
+],
+"explain": "급성기 SFTS는 혈액 내 바이러스 RNA를 **RT-PCR**로 검출하며 민감도·특이도가 높습니다. 시간이 지나면 RNA 검출률이 떨어지고, IgM/IgG ELISA는 교차반응에 주의합니다(강의1 §8.1).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 287
+},
+{
+"part": "SFTS",
+"unit": "SFTS5",
+"cardOrder": 5,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 진단·치료·예방·백신 + 진드기 매개 다른 질병",
+"q": "현재 SFTS의 치료·백신 현실로 옳은 것은?",
+"choices": [
+"효과적인 항바이러스제와 상용 백신이 모두 있다",
+"상용 백신은 없고 치료는 대증요법에 의존한다",
+"백신은 있으나 치료제만 없다",
+"항생제로 완치된다",
+"예방접종이 의무화되어 있다"
+],
+"answer": [
+2
+],
+"explain": "현재 SFTS는 **상용 백신·효과적 항바이러스제가 없어 대증요법**에 의존합니다. 불활화·약독화·DNA·mRNA 백신이 연구 단계이며, 지역 한정 질병이라 사업성 문제로 개발이 더딥니다(강의1 §8.3).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 288
+},
+{
+"part": "SFTS",
+"unit": "SFTS5",
+"cardOrder": 5,
+"origin": "concept",
+"level": "basic",
+"type": "single",
+"topic": "개념카드: 진단·치료·예방·백신 + 진드기 매개 다른 질병",
+"q": "진드기 매개 감염병 진단·관리에서 동시감염(co-infection)을 고려해야 하는 이유로 옳은 것은?",
+"choices": [
+"진드기는 한 가지 병원체만 옮기므로 고려 불필요",
+"하나의 진드기가 여러 병원체(라임·바베시아 등)를 함께 옮길 수 있어 패널 검사가 필요",
+"동시감염은 존재하지 않음",
+"백신으로 모두 예방됨",
+"항생제 한 종으로 모두 치료됨"
+],
+"answer": [
+2
+],
+"explain": "같은 진드기가 SFTS·라임병·바베시아·아나플라스마 등 **여러 병원체를 함께 전파**할 수 있어(라임+바베시아 약 30% 동시감염) 한 질병만 진단·치료하면 다른 질병을 놓칩니다 → **패널 검사** 필요(강의1 §7.5·§8).",
+"exam": "기본예제",
+"freq": 0,
+"exams": [],
+"flag": false,
+"flagReason": "",
+"id": 289
+},
+{
+"part": "SFTS",
+"topic": "SFTS 2차감염·전파경로",
+"origin": "concept",
+"type": "single",
+"q": "A 35-year-old veterinarian treated a sick cat showing fever and scleral jaundice. The cat died, and about 10 days later the veterinarian developed high fever, leukopenia, and thrombocytopenia. Whole-genome sequencing showed the virus from the cat and the veterinarian were nearly identical. Which statement best explains this transmission?",
+"choices": [
+"The veterinarian was infected directly by a tick bite during the consultation",
+"The cat transmitted SFTS virus to the veterinarian via blood/body fluids and aerosol, so masks, gloves, and goggles are essential",
+"SFTS is transmitted only from cattle, not cats",
+"The matching genome is a coincidence unrelated to transmission",
+"Cats cannot be infected with SFTS virus"
+],
+"answer": [
+2
+],
+"explain": "This mirrors the Japanese cat-mediated cases (강의1 §5.8): cat death → human onset ~10 days later (matching incubation), with 100% genome identity proving direct cat→human transmission. Spread was not by tick bite or scratch but via the cat's **blood/body fluids and aerosol**, which is why goggles + masks + gloves are stressed. Jaundice is a hallmark of feline SFTS.",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 290
+},
+{
+"part": "SFTS",
+"topic": "SFTS 매개체 생물학",
+"origin": "concept",
+"type": "single",
+"q": "The principal vector of SFTS in Korea is Haemaphysalis longicornis. Which feature best explains its explosive population growth and efficient maintenance of the virus in nature?",
+"choices": [
+"It reproduces only sexually and dies after one blood meal",
+"Parthenogenesis (females reproduce alone) plus transovarial and transstadial transmission of the virus",
+"It transmits the virus only to humans, never to animals",
+"It cannot survive Korean winters",
+"It feeds exclusively on migratory birds"
+],
+"answer": [
+2
+],
+"explain": "*Haemaphysalis longicornis* can reproduce by **parthenogenesis** (females alone), driving explosive population growth, and maintains SFTSV by **transovarial** (through eggs) and **transstadial** (across larva→nymph→adult) transmission (강의1 §5.3). It feeds on small mammals/birds and ungulates/humans across its life cycle.",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 291
+},
+{
+"part": "SFTS",
+"topic": "SFTS 병원체 분류",
+"origin": "concept",
+"type": "single",
+"q": "Which statement about the causative agent of SFTS is correct?",
+"choices": [
+"It is a double-stranded DNA virus of the family Herpesviridae",
+"It is Dabie bandavirus, a negative-sense, 3-segmented (L·M·S) RNA virus of the family Bunyaviridae",
+"It is a non-segmented positive-sense RNA coronavirus",
+"It is an 8-segmented orthomyxovirus",
+"It is a prion with no nucleic acid"
+],
+"answer": [
+2
+],
+"explain": "SFTS is caused by **Dabie bandavirus (SFTSV)**, a **negative-sense, 3-segmented (L·M·S) RNA virus** in the family **Bunyaviridae** (강의1 §3, 강의2 §2.1). First reported in China in 2009, it is limited to East Asia (Korea·China·Japan).",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 292
+},
+{
+"part": "SFTS",
+"topic": "SFTS 병태생리",
+"origin": "concept",
+"type": "single",
+"q": "In severe SFTS, multi-organ dysfunction develops. Which sequence best describes the core pathogenesis taught in class?",
+"choices": [
+"Direct viral lysis of hepatocytes only, with no immune involvement",
+"Viremia → lymph node infection → vascular hemorrhage/inflammation → platelet consumption + splenic sequestration → cytokine storm → multi-organ failure",
+"Bacterial sepsis from a tick bite wound",
+"Allergic reaction to tick saliva",
+"Autoimmune destruction of red blood cells only"
+],
+"answer": [
+2
+],
+"explain": "The lecture (강의1 §4.2) describes: **viremia → lymph node infection (B-cell defect) → systemic vascular hemorrhage/inflammation → platelet consumption + splenic macrophage sequestration (→ thrombocytopenia) → cytokine storm (IL-10/IL-6/IL-4/IP-10/IFN-γ attacking infected cells) → multi-organ failure** (heart↑CKMB, liver↑AST/ALT, kidney↑BUN). Rhabdomyolysis follows the same mechanism.",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 293
+},
+{
+"part": "SFTS",
+"topic": "SFTS 분자역학·원헬스",
+"origin": "concept",
+"type": "single",
+"q": "A research lab performed whole-genome phylogenetic analysis of SFTS viruses from Korean dogs, Korean human patients, Chinese patients, and Japanese samples. Korean dog and human strains clustered together and were highly similar to Chinese strains, while Japanese strains were not directly linked. What is the most appropriate One Health interpretation?",
+"choices": [
+"SFTS no longer circulates in Korea",
+"Korean SFTS is mainly maintained by repeated introduction of Chinese-origin virus, guiding surveillance, vaccine design, and antiviral research",
+"Japan is the main source of Korean SFTS",
+"Dogs and humans are infected by completely unrelated viruses",
+"Phylogenetic data have no public-health use"
+],
+"answer": [
+2
+],
+"explain": "The molecular epidemiology (강의1 §6) showed Korean dog/human SFTSV clustering together and closely matching Chinese strains, with Japanese strains not directly connected → **Korean SFTS is sustained by continued China→Korea introduction**. This informs control strategy (quarantine, migratory-bird monitoring), vaccine design (current circulating variant), and antiviral targets.",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 294
+},
+{
+"part": "SFTS",
+"topic": "SFTS 예후 위험인자",
+"origin": "concept",
+"type": "single",
+"q": "An 80-year-old rice farmer presents in October with fever, fatigue, thrombocytopenia, and gross hematuria after working in the fields. He also has a history of diabetes. According to the epidemiologic report discussed in class, which finding(s) are statistically significant predictors of higher mortality?",
+"choices": [
+"Fatigue alone",
+"Young-onset symptoms",
+"Hematuria (p=0.006) and diabetes (p=0.018), together with old age",
+"Muscle pain",
+"Lymphadenopathy"
+],
+"answer": [
+3
+],
+"explain": "In the PHWR epidemiologic analysis (강의2 §6·7), **hematuria (p=0.006)** and **diabetes (p=0.018, OR 2.75)** were statistically significant mortality predictors, as was old age (≥60 yrs = 90% of deaths) and any comorbidity (aOR 2.96). Common symptoms like fever/fatigue were not significant. Hematuria signals advanced bleeding/DIC; diabetes worsens prognosis via oxidative stress.",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 295
 }
 ];

@@ -3144,5 +3144,167 @@ const CORE = [
 "unit": "",
 "cardOrder": 99,
 "id": 268
+},
+{
+"part": "SFTS",
+"topic": "SFTS 2차감염·전파경로",
+"origin": "concept",
+"type": "single",
+"q": "A 35-year-old veterinarian treated a sick cat showing fever and scleral jaundice. The cat died, and about 10 days later the veterinarian developed high fever, leukopenia, and thrombocytopenia. Whole-genome sequencing showed the virus from the cat and the veterinarian were nearly identical. Which statement best explains this transmission?",
+"choices": [
+"The veterinarian was infected directly by a tick bite during the consultation",
+"The cat transmitted SFTS virus to the veterinarian via blood/body fluids and aerosol, so masks, gloves, and goggles are essential",
+"SFTS is transmitted only from cattle, not cats",
+"The matching genome is a coincidence unrelated to transmission",
+"Cats cannot be infected with SFTS virus"
+],
+"answer": [
+2
+],
+"explain": "This mirrors the Japanese cat-mediated cases (강의1 §5.8): cat death → human onset ~10 days later (matching incubation), with 100% genome identity proving direct cat→human transmission. Spread was not by tick bite or scratch but via the cat's **blood/body fluids and aerosol**, which is why goggles + masks + gloves are stressed. Jaundice is a hallmark of feline SFTS.",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 290
+},
+{
+"part": "SFTS",
+"topic": "SFTS 매개체 생물학",
+"origin": "concept",
+"type": "single",
+"q": "The principal vector of SFTS in Korea is Haemaphysalis longicornis. Which feature best explains its explosive population growth and efficient maintenance of the virus in nature?",
+"choices": [
+"It reproduces only sexually and dies after one blood meal",
+"Parthenogenesis (females reproduce alone) plus transovarial and transstadial transmission of the virus",
+"It transmits the virus only to humans, never to animals",
+"It cannot survive Korean winters",
+"It feeds exclusively on migratory birds"
+],
+"answer": [
+2
+],
+"explain": "*Haemaphysalis longicornis* can reproduce by **parthenogenesis** (females alone), driving explosive population growth, and maintains SFTSV by **transovarial** (through eggs) and **transstadial** (across larva→nymph→adult) transmission (강의1 §5.3). It feeds on small mammals/birds and ungulates/humans across its life cycle.",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 291
+},
+{
+"part": "SFTS",
+"topic": "SFTS 병원체 분류",
+"origin": "concept",
+"type": "single",
+"q": "Which statement about the causative agent of SFTS is correct?",
+"choices": [
+"It is a double-stranded DNA virus of the family Herpesviridae",
+"It is Dabie bandavirus, a negative-sense, 3-segmented (L·M·S) RNA virus of the family Bunyaviridae",
+"It is a non-segmented positive-sense RNA coronavirus",
+"It is an 8-segmented orthomyxovirus",
+"It is a prion with no nucleic acid"
+],
+"answer": [
+2
+],
+"explain": "SFTS is caused by **Dabie bandavirus (SFTSV)**, a **negative-sense, 3-segmented (L·M·S) RNA virus** in the family **Bunyaviridae** (강의1 §3, 강의2 §2.1). First reported in China in 2009, it is limited to East Asia (Korea·China·Japan).",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 292
+},
+{
+"part": "SFTS",
+"topic": "SFTS 병태생리",
+"origin": "concept",
+"type": "single",
+"q": "In severe SFTS, multi-organ dysfunction develops. Which sequence best describes the core pathogenesis taught in class?",
+"choices": [
+"Direct viral lysis of hepatocytes only, with no immune involvement",
+"Viremia → lymph node infection → vascular hemorrhage/inflammation → platelet consumption + splenic sequestration → cytokine storm → multi-organ failure",
+"Bacterial sepsis from a tick bite wound",
+"Allergic reaction to tick saliva",
+"Autoimmune destruction of red blood cells only"
+],
+"answer": [
+2
+],
+"explain": "The lecture (강의1 §4.2) describes: **viremia → lymph node infection (B-cell defect) → systemic vascular hemorrhage/inflammation → platelet consumption + splenic macrophage sequestration (→ thrombocytopenia) → cytokine storm (IL-10/IL-6/IL-4/IP-10/IFN-γ attacking infected cells) → multi-organ failure** (heart↑CKMB, liver↑AST/ALT, kidney↑BUN). Rhabdomyolysis follows the same mechanism.",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 293
+},
+{
+"part": "SFTS",
+"topic": "SFTS 분자역학·원헬스",
+"origin": "concept",
+"type": "single",
+"q": "A research lab performed whole-genome phylogenetic analysis of SFTS viruses from Korean dogs, Korean human patients, Chinese patients, and Japanese samples. Korean dog and human strains clustered together and were highly similar to Chinese strains, while Japanese strains were not directly linked. What is the most appropriate One Health interpretation?",
+"choices": [
+"SFTS no longer circulates in Korea",
+"Korean SFTS is mainly maintained by repeated introduction of Chinese-origin virus, guiding surveillance, vaccine design, and antiviral research",
+"Japan is the main source of Korean SFTS",
+"Dogs and humans are infected by completely unrelated viruses",
+"Phylogenetic data have no public-health use"
+],
+"answer": [
+2
+],
+"explain": "The molecular epidemiology (강의1 §6) showed Korean dog/human SFTSV clustering together and closely matching Chinese strains, with Japanese strains not directly connected → **Korean SFTS is sustained by continued China→Korea introduction**. This informs control strategy (quarantine, migratory-bird monitoring), vaccine design (current circulating variant), and antiviral targets.",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 294
+},
+{
+"part": "SFTS",
+"topic": "SFTS 예후 위험인자",
+"origin": "concept",
+"type": "single",
+"q": "An 80-year-old rice farmer presents in October with fever, fatigue, thrombocytopenia, and gross hematuria after working in the fields. He also has a history of diabetes. According to the epidemiologic report discussed in class, which finding(s) are statistically significant predictors of higher mortality?",
+"choices": [
+"Fatigue alone",
+"Young-onset symptoms",
+"Hematuria (p=0.006) and diabetes (p=0.018), together with old age",
+"Muscle pain",
+"Lymphadenopathy"
+],
+"answer": [
+3
+],
+"explain": "In the PHWR epidemiologic analysis (강의2 §6·7), **hematuria (p=0.006)** and **diabetes (p=0.018, OR 2.75)** were statistically significant mortality predictors, as was old age (≥60 yrs = 90% of deaths) and any comorbidity (aOR 2.96). Common symptoms like fever/fatigue were not significant. Hematuria signals advanced bleeding/DIC; diabetes worsens prognosis via oxidative stress.",
+"exam": "자작",
+"exams": [],
+"freq": 0,
+"flag": false,
+"level": "exam",
+"flagReason": "",
+"unit": "",
+"cardOrder": 99,
+"id": 295
 }
 ];
