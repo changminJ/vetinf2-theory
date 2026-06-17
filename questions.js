@@ -110,13 +110,13 @@ const LABQ = [
 "q": "Alphaherpesvirinae(알파헤르페스바이러스)가 평생 잠복(latency)하는 주된 부위는?",
 "choices": [
 "폐포 상피(alveolar epithelium)",
-"감각신경절(sensory ganglia)",
 "신장 세뇨관(renal tubule)",
 "간세포(hepatocyte)",
+"감각신경절(sensory ganglia)",
 "적혈구(erythrocyte)"
 ],
 "answer": [
-2
+4
 ],
 "explain": "Alphaherpesvirinae는 감각신경절(sensory ganglia)의 신경세포에 episomal DNA 형태로 평생 잠복한다(강의안 슬라이드 263·265). beta·gamma는 림프구·림프조직에 잠복한다.",
 "exam": "기본예제",
@@ -219,13 +219,13 @@ const LABQ = [
 "q": "BHV-1에 의한 IBR(전염성 비기관염)에서 괴사된 비점막이 드러나 나타나는 특징적 소견을 무엇이라 하는가?",
 "choices": [
 "White spot",
-"Red nose",
 "Green diarrhea",
 "Blue tongue",
-"Black leg"
+"Black leg",
+"Red nose"
 ],
 "answer": [
-2
+5
 ],
 "explain": "IBR(호흡기형, BHV-1.1)의 특징 소견은 비점막이 괴사되어 조직이 드러나는 \"Red nose\"이다(강의안 슬라이드 271).",
 "exam": "기본예제",
@@ -245,14 +245,14 @@ const LABQ = [
 "topic": "소(BHV-1, IBR/IPV, BHV-2, BHV-5)",
 "q": "BHV-1 IBR를 근절하기 위해 백신접종축과 자연감염축을 구분할 수 있도록 만든 백신은?",
 "choices": [
+"gE 유전자를 제거한 DIVA(marker) 백신",
 "전체 유전체를 보존한 야외주 백신",
 "재조합 단백질 보강 불활화 백신(전 유전자 포함)",
-"gE 유전자를 제거한 DIVA(marker) 백신",
 "항생제 함유 백신",
 "톡소이드(toxoid) 백신"
 ],
 "answer": [
-3
+1
 ],
 "explain": "gE 유전자를 제거한 DIVA(marker) 백신을 쓰면 gE 항체 유무로 백신접종축과 감염축을 구분할 수 있어 유럽 근절프로그램에 성공적으로 사용됐다(강의안 슬라이드 279).",
 "exam": "기본예제",
@@ -384,11 +384,11 @@ const LABQ = [
 "Bovine herpesvirus 1 (BHV-1)",
 "Suid herpesvirus 1 (PRV)",
 "Equine herpesvirus 1 (EHV-1)",
-"Canine herpesvirus 1 (CHV-1)",
-"Ovine herpesvirus 2 (OvHV-2)"
+"Ovine herpesvirus 2 (OvHV-2)",
+"Canine herpesvirus 1 (CHV-1)"
 ],
 "answer": [
-5
+4
 ],
 "explain": "MCF의 sheep형 원인체는 Ovine herpesvirus 2(OvHV-2)로 양을 자연숙주로 하며 전 세계에 분포한다. wildebeest(누)형은 AHV-1으로 아프리카에 한정된다(강의안 슬라이드 289–291).",
 "exam": "기본예제",
@@ -544,14 +544,14 @@ const LABQ = [
 "topic": "돼지(Aujeszky/오제스키, PRV, PCMV)",
 "q": "Aujeszky병(가성광견병, PRV)의 자연숙주(natural host, reservoir)는?",
 "choices": [
-"돼지",
 "개",
 "소",
 "양",
-"고양이"
+"고양이",
+"돼지"
 ],
 "answer": [
-1
+5
 ],
 "explain": "Aujeszky병(Suid herpesvirus 1)의 자연숙주는 돼지뿐이다. 소·개·고양이·야생동물은 2차숙주로, 감염되면 거의 항상 죽는다(강의안 슬라이드 300·306).",
 "exam": "기본예제",
@@ -571,14 +571,14 @@ const LABQ = [
 "topic": "돼지(Aujeszky/오제스키, PRV, PCMV)",
 "q": "Aujeszky병에 감염된 소·개 등 2차숙주에서 가장 특징적으로 나타나는 증상은?",
 "choices": [
-"극심한 가려움증(severe pruritus, 'mad itch')",
 "만성 설사",
+"극심한 가려움증(severe pruritus, 'mad itch')",
 "복부 팽만",
 "황달",
 "탈모성 피부염만 국한"
 ],
 "answer": [
-1
+2
 ],
 "explain": "Aujeszky병의 2차숙주(소·개·고양이 등)에서는 극심한 가려움증(severe pruritus, 'mad itch')이 특징적이며, 핥기·물어뜯기 같은 자가손상 후 빠르게 사망한다(강의안 슬라이드 306·307).",
 "exam": "기본예제",
@@ -599,13 +599,13 @@ const LABQ = [
 "q": "Aujeszky병에 걸린 개에서 나타나는 신경증상은 광견병(rabies)과 비슷하지만 명확히 다른 점은?",
 "choices": [
 "발열이 전혀 없다",
+"공격성(aggression)이 없다",
 "사람에게 직접 전파된다",
 "잠복기가 수년에 이른다",
-"반드시 회복된다",
-"공격성(aggression)이 없다"
+"반드시 회복된다"
 ],
 "answer": [
-5
+2
 ],
 "explain": "Aujeszky병에 걸린 개는 과흥분·연하곤란 등 광견병과 비슷한 신경증상을 보이지만 공격성(aggression)은 없다는 점이 감별 포인트이며, 보통 24–36시간 내 사망한다(강의안 슬라이드 307).",
 "exam": "기본예제",
@@ -709,12 +709,12 @@ const LABQ = [
 "choices": [
 "EHV-7",
 "EHV-2",
-"EHV-1",
 "EHV-3",
-"EHV-5"
+"EHV-5",
+"EHV-1"
 ],
 "answer": [
-3
+5
 ],
 "explain": "EHV-1은 혈관내피 tropism으로 viremia를 일으켜 태반 혈관염→유산, 척수 혈관염→신경증상(myeloencephalopathy)을 유발하는 말의 대표적 바이러스성 유산 원인이다. EHV-4는 주로 호흡기에 국한된다(강의안 슬라이드 312–319).",
 "exam": "기본예제",
@@ -736,12 +736,12 @@ const LABQ = [
 "choices": [
 "심한 호흡기병과 폐렴을 일으킨다",
 "뇌척수염을 일으킨다",
-"전신 viremia로 유산을 흔히 일으킨다",
 "생식기에 병변을 일으키지만 번식력(유산·불임)에는 영향이 없다",
+"전신 viremia로 유산을 흔히 일으킨다",
 "신생마구에서 치명적 전신병을 일으킨다"
 ],
 "answer": [
-4
+3
 ],
 "explain": "EHV-3는 성 전파성으로 생식기에 구진→수포→궤양을 만들지만 보통 2주 내 치유되며 유산·불임 등 번식력에는 영향이 없다(강의안 슬라이드 320–322).",
 "exam": "기본예제",
@@ -761,14 +761,14 @@ const LABQ = [
 "topic": "말(EHV)·염소(CapHV-1)",
 "q": "Caprine herpesvirus 1(CapHV-1)에 대한 설명으로 옳은 것은?",
 "choices": [
+"BHV-1과 매우 유사하지만 소·양은 감수성이 없고 염소만 감염된다",
 "사람에게 치명적인 인수공통 바이러스이다",
 "돼지에서 호흡기병을 일으킨다",
 "말에서 유산을 일으킨다",
-"BHV-1과 매우 유사하지만 소·양은 감수성이 없고 염소만 감염된다",
 "소에서 IBR를 일으키는 바이러스이다"
 ],
 "answer": [
-4
+1
 ],
 "explain": "Caprine herpesvirus 1은 BHV-1과 유전적·항원적으로 매우 유사하지만 소·양은 감수성이 없고 염소만 감염되며, 호흡기·결막염·유산·IPV 유사 생식기 병변을 일으킨다(강의안 슬라이드 325).",
 "exam": "기본예제",
@@ -899,12 +899,12 @@ const LABQ = [
 "choices": [
 "만성 신부전",
 "혀의 궤양(tongue ulcer)",
-"관절염",
 "궤양성 각막염 등 심한 안구질환",
+"관절염",
 "심한 황달"
 ],
 "answer": [
-4
+3
 ],
 "explain": "FHV-1은 비기관염·결막염과 함께 궤양성 각막염(ulcerative keratitis) 등 심한 안구질환이 특징이다. 혀 궤양은 오히려 calicivirus(FCV)에서 흔하다(강의안 슬라이드 335–340).",
 "exam": "기본예제",
@@ -924,14 +924,14 @@ const LABQ = [
 "topic": "개(CHV-1)·고양이(FHV-1)·영장류(B virus 등)",
 "q": "원숭이(macaque)에서는 입술·혀에 경미한 수포만 일으키지만 사람에게 감염되면 매우 위험한(치명적) 인수공통 herpesvirus는?",
 "choices": [
+"B virus (Cercopithecine herpesvirus 1)",
 "Equine herpesvirus 3 (EHV-3)",
 "Canine herpesvirus 1 (CHV-1)",
 "Feline herpesvirus 1 (FHV-1)",
-"Bovine herpesvirus 1 (BHV-1)",
-"B virus (Cercopithecine herpesvirus 1)"
+"Bovine herpesvirus 1 (BHV-1)"
 ],
 "answer": [
-5
+1
 ],
 "explain": "B virus(Cercopithecine herpesvirus 1)는 자연숙주인 macaque에서는 경미한 수포만 일으키지만, 물림·긁힘·분비물 접촉으로 사람에게 감염되면 신경계를 침범해 매우 위험하다(강의안 슬라이드 342).",
 "exam": "기본예제",
@@ -1568,13 +1568,13 @@ const LABQ = [
 "q": "대부분의 DNA 바이러스와 달리 Poxviridae가 복제(replication)를 주로 수행하는 세포 내 장소는?",
 "choices": [
 "리보솜",
-"세포질(cytoplasm)",
 "미토콘드리아",
 "핵(nucleus)",
+"세포질(cytoplasm)",
 "골지체"
 ],
 "answer": [
-2
+4
 ],
 "explain": "Poxvirus는 전사·복제에 필요한 효소를 virion 안에 싣고 다녀 핵을 쓰지 않고 세포질에서만 복제한다. 시험 단골 포인트다(Slide 390 'replication occurs mainly in the cytoplasm').",
 "exam": "기본예제",
@@ -1596,12 +1596,12 @@ const LABQ = [
 "choices": [
 "Capripoxvirus",
 "Orthopoxvirus",
-"Parapoxvirus",
 "Suipoxvirus",
-"Leporipoxvirus"
+"Leporipoxvirus",
+"Parapoxvirus"
 ],
 "answer": [
-3
+5
 ],
 "explain": "다른 poxvirus는 brick-shaped(약 220×450nm)이지만 Parapoxvirus만 예외로 oval-shaped + 규칙적 표면 패턴을 보인다(Slide 387).",
 "exam": "기본예제",
@@ -1622,13 +1622,13 @@ const LABQ = [
 "q": "Poxviridae의 유전체(genome) 종류로 옳은 것은?",
 "choices": [
 "단일가닥 DNA",
-"선형 이중가닥 DNA(linear dsDNA)",
 "선형 단일가닥 RNA",
 "원형 이중가닥 DNA",
+"선형 이중가닥 DNA(linear dsDNA)",
 "분절된 RNA"
 ],
 "answer": [
-2
+4
 ],
 "explain": "Poxvirus 유전체는 약 130kb 크기의 linear double-stranded DNA이며 최대 약 320개 단백질을 암호화한다(Slide 387).",
 "exam": "기본예제",
@@ -1648,14 +1648,14 @@ const LABQ = [
 "topic": "일반 특성·구조·복제 (개념카드)",
 "q": "Poxvirus 복제 과정에서 감염 후 수 분 이내에 가장 먼저 early mRNA 합성을 시작할 수 있는 이유로 옳은 것은?",
 "choices": [
-"숙주 핵의 RNA 중합효소를 즉시 빌려 쓰기 때문",
 "virion 안에 전사에 필요한 viral enzyme을 싣고 다니기 때문",
+"숙주 핵의 RNA 중합효소를 즉시 빌려 쓰기 때문",
 "감염 즉시 숙주 리보솜을 분해하기 때문",
 "역전사효소(reverse transcriptase)를 사용하기 때문",
 "유전체가 단일가닥 RNA라서 곧바로 번역되기 때문"
 ],
 "answer": [
-2
+1
 ],
 "explain": "슬라이드390 'Viral enzymes carried in the virion initiate early mRNA synthesis within minutes after infection' — poxvirus는 virion 안에 효소를 직접 싣고 다녀 감염 직후 세포질에서 early 전사를 시작한다. 핵을 빌리지 않으며(슬라이드390 'replication occurs mainly in the cytoplasm'), 유전체는 linear dsDNA다(슬라이드387). 역전사·단일가닥 RNA·리보솜 분해는 강의안에 없는 잘못된 진술이다.",
 "exam": "기본예제",
@@ -1675,14 +1675,14 @@ const LABQ = [
 "topic": "일반 특성·구조·복제 (개념카드)",
 "q": "Poxvirus 유전체(genome)에서 면역회피 유전자(immune evasion genes)와 host-response 조절 단백질 유전자가 주로 배치되는 구역은?",
 "choices": [
-"중심부(central region)",
 "말단부(terminal region)",
+"중심부(central region)",
 "외피(envelope)",
 "lateral body",
 "core wall"
 ],
 "answer": [
-2
+1
 ],
 "explain": "슬라이드388 'Terminal region (early stage) — Immune evasion genes, Host-response modulation proteins' — 면역회피·숙주반응 조절 유전자는 말단부(terminal region)에 위치한다. 중심부(central region)에는 replication genes·structural protein genes가 배치된다(슬라이드388). envelope·lateral body·core wall은 구조 요소일 뿐 유전자 배치 구역이 아니다(슬라이드387).",
 "exam": "기본예제",
@@ -1729,14 +1729,14 @@ const LABQ = [
 "topic": "Capripoxvirus — LSD·Sheeppox·Goatpox (개념카드)",
 "q": "Lumpy skin disease(LSD)의 원인체가 속하는 속(genus)은?",
 "choices": [
-"Capripoxvirus",
 "Suipoxvirus",
+"Capripoxvirus",
 "Parapoxvirus",
 "Orthopoxvirus",
 "Leporipoxvirus"
 ],
 "answer": [
-1
+2
 ],
 "explain": "LSD 원인체 Lumpy skin disease virus(LSDV)는 Capripoxvirus 속이며, 같은 속의 Sheeppox·Goatpox virus와 유전적 유사성이 높아 면역학적으로 구별이 어렵다(Slide 397).",
 "exam": "기본예제",
@@ -1756,14 +1756,14 @@ const LABQ = [
 "topic": "Capripoxvirus — LSD·Sheeppox·Goatpox (개념카드)",
 "q": "강의안에서 제시된 LSD의 주요(major) 전파 경로는?",
 "choices": [
-"절지동물(모기·흡혈파리·진드기)에 의한 기계적 전파",
 "공기를 통한 호흡기 전파",
 "오염된 백신 바늘 재사용만",
 "수직(태반) 전파",
+"절지동물(모기·흡혈파리·진드기)에 의한 기계적 전파",
 "물을 통한 경구 전파만"
 ],
 "answer": [
-1
+4
 ],
 "explain": "LSD의 major route는 모기·흡혈파리·진드기 같은 절지동물에 의한 기계적 전파다. 직접접촉·오염 사료/물·오염 바늘은 다른(기타) 경로로 제시된다(Slide 399).",
 "exam": "기본예제",
@@ -1784,13 +1784,13 @@ const LABQ = [
 "q": "한국에서 LSD(소 럼피스킨병)의 가축전염병 분류는?",
 "choices": [
 "인수공통감염병만 해당",
+"제1종 가축전염병",
 "제3종 가축전염병",
 "지정되지 않음",
-"제2종 가축전염병",
-"제1종 가축전염병"
+"제2종 가축전염병"
 ],
 "answer": [
-5
+2
 ],
 "explain": "LSD는 한국에서 제1종(Class I) 가축전염병으로 지정되어 있으며, 국내 최초 발생은 2023년이다(Slide 396).",
 "exam": "기본예제",
@@ -1837,14 +1837,14 @@ const LABQ = [
 "topic": "Capripoxvirus — LSD·Sheeppox·Goatpox (개념카드)",
 "q": "강의안에 제시된 Lumpy skin disease(LSD)의 합병증(complications)에 해당하지 않는 것은?",
 "choices": [
+"선위확장(proventricular dilatation)",
 "유산(abortion)",
 "고환염(orchitis)",
 "유방염(mastitis)",
-"일시적/영구적 불임(infertility)",
-"선위확장(proventricular dilatation)"
+"일시적/영구적 불임(infertility)"
 ],
 "answer": [
-5
+1
 ],
 "explain": "슬라이드401 'Complications — Keratitis, Pneumonia, Mastitis, Abortion, Orchitis, Temporary/permanent infertility' — LSD 합병증에는 각막염·폐렴·유방염·유산·고환염·불임이 포함된다. 선위확장(proventricular dilatation)은 PDD(avian bornavirus)의 소견으로 본 강의안 Poxviridae 어디에도 없다.",
 "exam": "기본예제",
@@ -1947,12 +1947,12 @@ const LABQ = [
 "choices": [
 "수액",
 "진통제",
-"코르티코스테로이드(corticosteroid)",
 "해열제",
+"코르티코스테로이드(corticosteroid)",
 "항생제"
 ],
 "answer": [
-3
+4
 ],
 "explain": "Feline cowpox에서 corticosteroid는 질병을 악화시킬 수 있다는 점이 중요한 경고로 제시된다. 또한 효과적인 백신이 없다(Slide 415).",
 "exam": "기본예제",
@@ -1999,14 +1999,14 @@ const LABQ = [
 "topic": "Orthopoxvirus — Cowpox·Mpox (개념카드)",
 "q": "강의안에 따르면 Feline cowpox(고양이 우두)의 가장 일반적인 감염 경로는?",
 "choices": [
-"감염된 설치류에게 물려서(bites from infected rodents)",
 "공기를 통한 호흡기 비말 흡입",
 "오염된 백신 바늘 재사용",
 "모기에 의한 기계적 전파",
-"어미에서 새끼로의 수직(태반) 전파"
+"어미에서 새끼로의 수직(태반) 전파",
+"감염된 설치류에게 물려서(bites from infected rodents)"
 ],
 "answer": [
-1
+5
 ],
 "explain": "슬라이드411 'Transmission — Usually through bites from infected rodents, Outdoor hunting cats at higher risk' — 고양이 우두는 보통 감염된 설치류에게 물려서 감염되며, 사냥하는 실외 고양이가 고위험군이다. wild rodents가 reservoir host로 제시된다(슬라이드411). 호흡기 비말·바늘 재사용·모기·수직전파는 본 슬라이드의 feline cowpox 전파 경로로 제시되지 않았다.",
 "exam": "기본예제",
@@ -2054,13 +2054,13 @@ const LABQ = [
 "q": "양·염소의 중요한 인수공통 질병으로, 입술·입 주변·잇몸·혀에 papule→vesicle→pustule→scab 병변을 일으키는 Parapoxvirus 질병은?",
 "choices": [
 "Swinepox",
-"Orf(전염성농포성피부염)",
 "Myxomatosis",
+"Orf(전염성농포성피부염)",
 "Mpox",
 "Lumpy skin disease"
 ],
 "answer": [
-2
+3
 ],
 "explain": "Orf(Contagious Ecthyma)는 Orf virus(Parapoxvirus)에 의한 양·염소의 인수공통 질병으로, 입술·입 주변·잇몸·혀에 호발한다(Slide 437-439).",
 "exam": "기본예제",
@@ -2083,11 +2083,11 @@ const LABQ = [
 "물결무늬",
 "별 모양",
 "정사각형",
-"삼각형",
-"말굽형(horseshoe)·고리형(ring)"
+"말굽형(horseshoe)·고리형(ring)",
+"삼각형"
 ],
 "answer": [
-5
+4
 ],
 "explain": "Pseudocowpox의 특징 병변은 유두·유방의 말굽형(horseshoe)·고리형(ring) 가피다. 사람에게는 손가락·손에 'Milker's nodule'을 유발한다(Slide 417-418).",
 "exam": "기본예제",
@@ -2108,13 +2108,13 @@ const LABQ = [
 "q": "Bovine papular stomatitis(BPS)의 중요한 감별진단으로 강의안이 강조하는 질병은?",
 "choices": [
 "브루셀라병",
-"구제역(FMD)·수포성구내염",
 "탄저",
 "결핵",
+"구제역(FMD)·수포성구내염",
 "광견병"
 ],
 "answer": [
-2
+4
 ],
 "explain": "BPS는 입술·구강점막·콧구멍·혀에 병변을 만들어 구제역(FMD)·수포성구내염(vesicular stomatitis)과 감별이 중요하다(Slide 421-422).",
 "exam": "기본예제",
@@ -2134,14 +2134,14 @@ const LABQ = [
 "topic": "Parapoxvirus — Orf·Pseudocowpox·BPS (개념카드)",
 "q": "Orf(Contagious Ecthyma)에 대한 설명으로 강의안 근거상 옳은 것은?",
 "choices": [
-"양·염소의 인수공통 질병이며 재감염이 가능하고 보통 self-limiting이다",
 "원인체는 Orthopoxvirus이며 평생 면역이 형성된다",
+"양·염소의 인수공통 질병이며 재감염이 가능하고 보통 self-limiting이다",
 "한 번 감염되면 재감염이 불가능하다",
 "주로 돼지의 복부에 병변을 일으킨다",
 "사람에게는 전혀 전파되지 않는다"
 ],
 "answer": [
-1
+2
 ],
 "explain": "슬라이드437 'Important zoonotic disease of sheep and goats — Orf virus, Genus: Parapoxvirus, Reinfection possible, Usually self-limiting' — Orf는 양·염소의 인수공통 질병으로 Parapoxvirus가 원인이며 재감염 가능, 보통 self-limiting이다. 사람은 close animal contact로 감염될 수 있다(슬라이드438). Orthopoxvirus·평생면역·돼지 복부 병변·비전파는 모두 잘못된 진술이다.",
 "exam": "기본예제",
@@ -2161,14 +2161,14 @@ const LABQ = [
 "topic": "Parapoxvirus — Orf·Pseudocowpox·BPS (개념카드)",
 "q": "강의안에서 사람의 손가락·손에 'Milker's nodule(착유자 결절)'을 유발하는 인수공통 Parapoxvirus 질병은?",
 "choices": [
-"Pseudocowpox(가성우두)",
 "Lumpy skin disease",
 "Swinepox(돈두)",
 "Rabbit myxomatosis",
+"Pseudocowpox(가성우두)",
 "Fowlpox(계두)"
 ],
 "answer": [
-1
+4
 ],
 "explain": "슬라이드417 'Zoonotic Infection — Causes Milker's nodules in humans (Fingers, Hands)' — 가성우두(Pseudocowpox)는 소의 유두·유방 질병이면서 사람 손가락·손에 Milker's nodule을 유발하는 인수공통 Parapoxvirus 질병이다. 특징 병변은 말굽형·고리형 가피다(슬라이드418). LSD·Swinepox·myxomatosis·Fowlpox는 Milker's nodule과 무관하다.",
 "exam": "기본예제",
@@ -2215,14 +2215,14 @@ const LABQ = [
 "topic": "Suipoxvirus·Avipoxvirus·Leporipoxvirus (개념카드)",
 "q": "Swinepox(돈두)의 주요 전파 매개체(벡터)로 강의안에 제시된 것은?",
 "choices": [
-"돼지 이(pig lice) Hematopinus suis",
 "모기",
 "벼룩",
+"돼지 이(pig lice) Hematopinus suis",
 "파리",
 "진드기"
 ],
 "answer": [
-1
+3
 ],
 "explain": "Swinepox의 major route는 돼지 이(pig lice)인 Hematopinus suis에 의한 기계적 전파다. 그 외 직접접촉·오염 환경/장비도 경로로 제시된다(Slide 426).",
 "exam": "기본예제",
@@ -2242,14 +2242,14 @@ const LABQ = [
 "topic": "Suipoxvirus·Avipoxvirus·Leporipoxvirus (개념카드)",
 "q": "Swinepox의 피부 병변이 가장 흔하게 나타나는 부위는?",
 "choices": [
-"눈꺼풀",
 "복부(abdomen) 등 털이 적은 부위",
+"눈꺼풀",
 "혀",
 "발굽",
 "꼬리 끝"
 ],
 "answer": [
-2
+1
 ],
 "explain": "Swinepox 병변은 전신에 생길 수 있으나 복부(abdomen)와 털이 적은(hairless) 부위에서 가장 흔하고 잘 보인다(Slide 427).",
 "exam": "기본예제",
@@ -2269,14 +2269,14 @@ const LABQ = [
 "topic": "Suipoxvirus·Avipoxvirus·Leporipoxvirus (개념카드)",
 "q": "Rabbit Myxomatosis(토끼 점액종증)에 대한 설명으로 옳은 것은?",
 "choices": [
-"European rabbit(Oryctolagus)에서 치명적이며 한국 제3종 가축전염병이다",
 "원인체는 Orthopoxvirus다",
+"European rabbit(Oryctolagus)에서 치명적이며 한국 제3종 가축전염병이다",
 "European rabbit에서 경증, American rabbit에서 치명적이다",
 "특이적 항바이러스 치료제가 있다",
 "전파는 오직 호흡기 경로뿐이다"
 ],
 "answer": [
-1
+2
 ],
 "explain": "Myxoma virus(Leporipoxvirus)에 의한 토끼 점액종증은 야생 American rabbit에서는 경증이지만 European rabbit(Oryctolagus cuniculus)에서는 치명적이며, 한국에서 제3종 가축전염병으로 지정되어 있다(Slide 443).",
 "exam": "기본예제",
@@ -2299,11 +2299,11 @@ const LABQ = [
 "Sheeppox",
 "Swinepox",
 "Avianpox",
-"Myxoma virus",
-"Feline cowpox"
+"Feline cowpox",
+"Myxoma virus"
 ],
 "answer": [
-5
+4
 ],
 "explain": "슬라이드392 'Mechanical transmission by insects occurs in: Sheeppox, Swinepox, Avianpox, Myxoma virus' — 곤충 기계적 전파 질병으로 sheeppox·swinepox·avianpox·myxoma virus가 묶여 제시된다. Feline cowpox는 감염 설치류에게 물려서 전파되는 것이 일반 경로로(슬라이드411) 이 곤충 기계적 전파 목록에 포함되지 않는다.",
 "exam": "기본예제",
@@ -2323,14 +2323,14 @@ const LABQ = [
 "topic": "Suipoxvirus·Avipoxvirus·Leporipoxvirus (개념카드)",
 "q": "Rabbit Myxomatosis(토끼 점액종증)의 초기 임상징후(early signs)로 강의안에 제시된 것은?",
 "choices": [
-"눈꺼풀결막염(blepharoconjunctivitis)·안면 부종·생식기/항문 주위 부종",
 "혈액성 거품 비강분비물과 급성 간괴사",
 "복부의 구진·농포·가피",
 "유두의 말굽형 가피",
+"눈꺼풀결막염(blepharoconjunctivitis)·안면 부종·생식기/항문 주위 부종",
 "혀·잇몸의 농포성 병변"
 ],
 "answer": [
-1
+4
 ],
 "explain": "슬라이드445 'Early Signs — Blepharoconjunctivitis, Facial swelling, Genital/perianal edema' — 토끼 점액종증의 초기 징후는 눈꺼풀결막염·안면 부종·생식기/항문 주위 부종이며, 이후 발열·기면·전신 점액종성 부종으로 진행한다. 혈액성 거품 비강분비물·간괴사는 RHD(rabbit hemorrhagic disease) 소견이고, 복부 병변은 swinepox, 유두 말굽형 가피는 pseudocowpox, 혀·잇몸 병변은 Orf의 소견으로 본 질병의 초기 징후가 아니다.",
 "exam": "기본예제",
@@ -2877,11 +2877,11 @@ const LABQ = [
 "혈청형은 1개뿐이라 어떤 백신이든 통한다",
 "백신은 생바이러스(약독화) 백신만 사용한다",
 "혈청형이 다르면 임상증상도 완전히 달라 쉽게 구별된다",
-"7개 혈청형(O, A, C, Asia1, SAT1·2·3)이 있고 혈청형 간 교차방어가 없어 백신은 혈청형 특이적이다",
-"한 번 감염되면 모든 혈청형에 평생 면역이 생긴다"
+"한 번 감염되면 모든 혈청형에 평생 면역이 생긴다",
+"7개 혈청형(O, A, C, Asia1, SAT1·2·3)이 있고 혈청형 간 교차방어가 없어 백신은 혈청형 특이적이다"
 ],
 "answer": [
-4
+5
 ],
 "explain": "FMDV는 O, A, C, Asia1, SAT1, SAT2, SAT3의 7개 혈청형을 가지며 혈청형 간 교차방어(cross-protection)가 없다. 따라서 백신은 유행 혈청형에 맞춘 혈청형 특이적(serotype-specific) 불활화 백신을 써야 한다. 강의안 슬라이드 349 'No cross-protection between serotypes', 슬라이드 356 'Inactivated vaccine, Serotype-specific protection' 부분.",
 "exam": "기본예제",
@@ -2901,14 +2901,14 @@ const LABQ = [
 "topic": "FMD 구제역 (개념카드·최빈출)",
 "q": "구제역에 걸린 어린 동물(송아지 등)에서 급사를 일으키며 'Tiger heart' 병변으로 나타나는 것은?",
 "choices": [
-"심근염(myocarditis)",
 "골수염",
 "간경변",
 "신부전",
-"뇌수막염"
+"뇌수막염",
+"심근염(myocarditis)"
 ],
 "answer": [
-1
+5
 ],
 "explain": "어린 동물에서는 심근염(myocarditis)이 생겨 급사할 수 있고, 심장에 'Tiger heart(호심)' 병변이 나타난다. 강의안 슬라이드 353 'Young Animals: Myocarditis → sudden death, Tiger heart lesion' 부분. 성축은 보통 입·발의 수포가 주 증상이지만 어린 동물은 심장 침범으로 폐사하는 점이 핵심이다.",
 "exam": "기본예제",
@@ -3064,13 +3064,13 @@ const LABQ = [
 "q": "Iflaviridae에 속하는 꿀벌 낭충봉아부패병(Sacbrood disease)에 대한 설명으로 옳은 것은?",
 "choices": [
 "효과적인 백신과 치료제가 이미 상용화되어 있다",
-"꿀벌 유충이 정상적으로 번데기화하지 못하고 액체가 찬 'sac-like(주머니 모양)' 외형을 보인다",
 "세균이 원인인 질병이다",
 "소와 돼지에서 발생한다",
+"꿀벌 유충이 정상적으로 번데기화하지 못하고 액체가 찬 'sac-like(주머니 모양)' 외형을 보인다",
 "성충 꿀벌의 호흡기 질병이다"
 ],
 "answer": [
-2
+4
 ],
 "explain": "Sacbrood disease는 Iflaviridae 과의 Sacbrood virus가 일으키는 꿀벌 유충의 바이러스 질병으로, 유충이 정상적으로 번데기화하지 못하고 액체가 찬 'sac-like' 외형을 보인다. 강의안 슬라이드 377·379 부분. 백신·치료제가 없어 감염 군체 제거와 위생·소독이 방제 핵심이다(슬라이드 381).",
 "exam": "기본예제",
@@ -3118,13 +3118,13 @@ const LABQ = [
 "q": "뇌심근염(EMC) 바이러스가 돼지 새끼(piglets)에서 일으키는 가장 특징적인 결과는?",
 "choices": [
 "혀·경구개의 궤양",
-"급사(치사율 약 100%)·발열·호흡곤란·심근염",
 "전신 마비로 진행하는 상행성 마비",
 "유선의 경화(hard udder)",
-"관절만곡증 같은 선천성 기형"
+"관절만곡증 같은 선천성 기형",
+"급사(치사율 약 100%)·발열·호흡곤란·심근염"
 ],
 "answer": [
-2
+5
 ],
 "explain": "EMC 바이러스에 감염된 piglets는 급사(mortality ~100%), 발열, 호흡곤란(dyspnea), 구토, 심근염(myocarditis)을 보인다. 강의안 슬라이드 372 'Piglets: Sudden death (mortality ~100%), Fever, Dyspnea, Vomiting, Myocarditis' 부분. 성돈에서는 번식장애·유산·미라화 태아가 나타난다(같은 슬라이드). 나머지 선지는 다른 질병의 소견이다.",
 "exam": "기본예제",
@@ -3368,12 +3368,12 @@ const LABQ = [
 "choices": [
 "무외피(non-enveloped)인 큰 DNA 바이러스이다",
 "역전사효소를 가진 레트로바이러스이다",
-"이중가닥 RNA를 가진 외피 바이러스이다",
 "외피(envelope)를 가진 +ssRNA 바이러스이다",
+"이중가닥 RNA를 가진 외피 바이러스이다",
 "외피가 없고 분절된 RNA를 가진다"
 ],
 "answer": [
-4
+3
 ],
 "explain": "Arteriviridae는 외피(enveloped)를 가진 양성가닥 단일가닥 RNA(+ssRNA) 바이러스다. 강의안 슬라이드 139 'Enveloped, positive-sense single-stranded RNA viruses' 부분. 무외피인 Picornaviridae·Caliciviridae와 구별되는 핵심 차이가 바로 외피의 유무다.",
 "exam": "기본예제",
@@ -3420,14 +3420,14 @@ const LABQ = [
 "topic": "과 일반특성 (Nidovirales·+ssRNA)",
 "q": "Arteriviridae가 속한 Nidovirales 목의 특징으로 옳은 것은?",
 "choices": [
+"구조단백질을 nested set의 subgenomic mRNA(sg mRNA)에서 번역한다",
 "Coronaviridae와 전혀 관련이 없다",
 "핵(nucleus) 안에서 DNA로 복제한다",
 "유전체가 분절되어 8개 조각으로 나뉜다",
-"구조단백질을 genomic RNA에서 직접 번역한다",
-"구조단백질을 nested set의 subgenomic mRNA(sg mRNA)에서 번역한다"
+"구조단백질을 genomic RNA에서 직접 번역한다"
 ],
 "answer": [
-5
+1
 ],
 "explain": "Nidovirales는 Coronaviridae와 근연이며, 구조단백질을 genomic RNA에서 직접 번역하지 않고 nested set의 subgenomic mRNA(sg mRNA)에서 번역하는 것이 특징이다. 강의안 슬라이드 141 'Production of nested set subgenomic mRNAs, Structural proteins are translated from sg mRNAs rather than directly from genomic RNA' 부분.",
 "exam": "기본예제",
@@ -3528,14 +3528,14 @@ const LABQ = [
 "topic": "PRRS — 돼지 생식기 호흡기 증후군",
 "q": "PRRSV가 주로 감염하는 표적 세포와 그 진입 수용체(receptor)의 연결로 옳은 것은?",
 "choices": [
+"폐포대식세포(PAM) — CD163",
 "간세포 — ACE2",
 "장상피세포 — CD163",
-"폐포대식세포(PAM) — CD163",
 "적혈구 — sialic acid",
 "신경세포 — CD4"
 ],
 "answer": [
-3
+1
 ],
 "explain": "PRRSV는 돼지 폐포대식세포(porcine alveolar macrophages, PAMs)를 CD163 수용체를 통해 감염한다. 대식세포가 파괴되면서 면역억제가 일어나 2차 감염이 쉬워진다. 강의안 슬라이드 153 'Virus infects porcine alveolar macrophages (PAMs), Entry via CD163 receptor' 부분.",
 "exam": "기본예제",
@@ -3582,14 +3582,14 @@ const LABQ = [
 "topic": "PRRS — 돼지 생식기 호흡기 증후군",
 "q": "PRRS의 임상 증상으로 옳게 짝지어진 것은?",
 "choices": [
+"모돈의 후기 유산·사산, 자돈의 발열·호흡곤란",
 "성축의 입·발 수포",
 "간괴사로 인한 급사",
 "혀와 경구개의 궤양",
-"신경마비와 경련만 나타남",
-"모돈의 후기 유산·사산, 자돈의 발열·호흡곤란"
+"신경마비와 경련만 나타남"
 ],
 "answer": [
-5
+1
 ],
 "explain": "PRRS는 모돈에서 후기 유산(late-term abortion)·사산·허약 자돈을, 자돈/육성돈에서는 발열·호흡곤란·성장지연·폐사 증가를 일으키며 특징적으로 'blue ear' 청색증이 나타날 수 있다. 강의안 슬라이드 159 부분. 입·발 수포(FMD/SVD), 간괴사 급사(RHDV), 혀·경구개 궤양(FCV)은 다른 질병의 특징이다.",
 "exam": "기본예제",
@@ -3692,12 +3692,12 @@ const LABQ = [
 "choices": [
 "모기 흡혈만",
 "수혈만",
-"진드기 매개만",
 "호흡기 경로(respiratory)와 교미(venereal) 경로",
+"진드기 매개만",
 "오염된 사료의 경구 섭취만"
 ],
 "answer": [
-4
+3
 ],
 "explain": "EAV는 주로 호흡기 경로(respiratory route, 비말·aerosol)와 교미 경로(venereal route)로 전파된다. 강의안 슬라이드 165 'Transmitted mainly through Respiratory route, Venereal route' 부분. 특히 지속감염된 종마가 정액으로 바이러스를 배출하는 교미 전파가 EAV의 특징적 경로다.",
 "exam": "기본예제",
@@ -3717,14 +3717,14 @@ const LABQ = [
 "topic": "EAV (말 바이러스성 동맥염) · LDV",
 "q": "EAV의 지속감염(carrier 상태)에 대한 설명으로 옳은 것은?",
 "choices": [
+"종마(stallion)에서 androgen(수컷호르몬) 의존적으로 형성되어 정액으로 바이러스를 배출한다",
 "감염 후 24시간이면 자연 소실된다",
 "암말(mare)에서만 형성된다",
 "거세마(gelding)에서 가장 흔하다",
-"모든 말에서 동일하게 나타난다",
-"종마(stallion)에서 androgen(수컷호르몬) 의존적으로 형성되어 정액으로 바이러스를 배출한다"
+"모든 말에서 동일하게 나타난다"
 ],
 "answer": [
-5
+1
 ],
 "explain": "EAV의 지속감염은 일부 종마(stallion)가 long-term carrier가 되어 생식관에 바이러스를 유지하고 정액으로 계속 배출하는 형태로 나타난다. 이 carrier 상태는 androgen(수컷호르몬) 의존적이라 암말·거세마·미성숙 수컷에서는 나타나지 않는다. 강의안 슬라이드 165 및 지속감염 슬라이드(global 165-177) 부분.",
 "exam": "기본예제",
@@ -3744,14 +3744,14 @@ const LABQ = [
 "topic": "EAV (말 바이러스성 동맥염) · LDV",
 "q": "EAV 병인에서 전신적으로 나타나는 핵심 병변은?",
 "choices": [
-"전신 혈관염(systemic vasculitis, pan-vasculitis)",
 "심근의 호심(Tiger heart) 병변",
 "구강 궤양",
+"전신 혈관염(systemic vasculitis, pan-vasculitis)",
 "간괴사",
 "비화농성 폴리오뇌척수염"
 ],
 "answer": [
-1
+3
 ],
 "explain": "EAV는 혈관 내피를 침범해 전신 혈관염(systemic vasculitis, pan-vasculitis)을 일으키고, 그 결과 괴사성 혈관염·혈관투과성 증가·부종·출혈이 나타난다. 강의안 슬라이드 167 'Systemic vasculitis (pan-vasculitis), Necrotizing vasculitis' 부분. 간괴사(RHDV), 폴리오뇌척수염(Teschovirus), 호심(FMD), 구강궤양(FCV)은 다른 질병의 병변이다.",
 "exam": "기본예제",
@@ -3798,14 +3798,14 @@ const LABQ = [
 "topic": "EAV (말 바이러스성 동맥염) · LDV",
 "q": "Arteriviridae 분류에서 LDV(Lactate dehydrogenase-elevating virus)의 genus와 숙주로 옳게 묶인 것은?",
 "choices": [
+"Gammaarterivirus — 설치류(rodents)",
 "Alphaarterivirus — 말",
 "Betaarterivirus — 돼지",
-"Gammaarterivirus — 설치류(rodents)",
 "Deltaarterivirus — 영장류",
 "Betaarterivirus — 설치류"
 ],
 "answer": [
-3
+1
 ],
 "explain": "LDV는 Gammaarterivirus이며 숙주는 설치류(rodents)이다. 강의안 슬라이드 139 'Gammaarterivirus : Lactate dehydrogenase-elevating virus (LDV) → rodents' 부분. Alphaarterivirus(EAV·말), Betaarterivirus(PRRSV·돼지), Deltaarterivirus(SHFV·영장류)와 구별된다.",
 "exam": "기본예제",
@@ -4025,13 +4025,13 @@ const LABQ = [
 "q": "'Caliciviridae'라는 이름의 유래로 옳은 것은?",
 "choices": [
 "외피(envelope)가 잔처럼 두껍기 때문",
-"전자현미경에서 보이는 컵(calix) 모양의 표면 함몰 때문",
 "고양이(cat)를 주로 감염시키기 때문",
+"전자현미경에서 보이는 컵(calix) 모양의 표면 함몰 때문",
 "칼슘(calcium)을 많이 함유하기 때문",
 "꼬리(tail) 모양 돌기 때문"
 ],
 "answer": [
-2
+3
 ],
 "explain": "Calicivirus라는 이름은 라틴어 'calix(컵)'에서 유래하며, 전자현미경에서 바이러스 표면에 보이는 컵 모양 함몰(cup-shaped depressions)을 가리킨다. 강의안 슬라이드 221 'derived from the Latin word calix (cup)' 부분.",
 "exam": "기본예제",
@@ -4051,14 +4051,14 @@ const LABQ = [
 "topic": "개념카드: Caliciviridae 총괄(FCV·RHDV·VESV)",
 "q": "고양이 칼리시바이러스(FCV) 감염의 특징적인 임상 소견으로 가장 옳은 것은?",
 "choices": [
-"혀와 경구개의 궤양(구강궤양)과 상부호흡기 증상",
 "입과 발의 수포",
 "후기 유산과 청색증(blue ear)",
 "전신 마비",
+"혀와 경구개의 궤양(구강궤양)과 상부호흡기 증상",
 "간괴사로 인한 급사"
 ],
 "answer": [
-1
+4
 ],
 "explain": "FCV는 고양이 상부호흡기 감염의 약 40%를 차지하며, 혀·경구개의 수포가 궤양으로 진행하는 구강궤양과 재채기·콧물 등 상부호흡기 증상이 특징이다. 강의안 슬라이드 235·240 부분. 간괴사 급사(RHDV), 입·발 수포(VESV/FMD), 유산·청색증(PRRS)은 다른 질병의 특징이다.",
 "exam": "기본예제",
@@ -4079,13 +4079,13 @@ const LABQ = [
 "q": "토끼출혈병바이러스(RHDV)의 주요 표적 장기와 치명적 병변으로 옳은 것은?",
 "choices": [
 "뇌의 비화농성 염증만",
+"간(liver)의 심한 괴사와 DIC, 폐사율 90% 이상",
 "폐의 수포 형성과 낮은 폐사율",
 "신장의 결석 형성",
-"간(liver)의 심한 괴사와 DIC, 폐사율 90% 이상",
 "장의 만성 궤양"
 ],
 "answer": [
-4
+2
 ],
 "explain": "RHDV(Lagovirus)는 간·폐·비장을 표적으로 하며, 특히 심한 간괴사(severe hepatic necrosis)와 파종성 혈관내응고(DIC)를 일으켜 폐사율이 흔히 90%를 넘는다. 강의안 슬라이드 250·253·254 부분. 잠복기 1~3일 후 발열과 함께 급사하는 것이 특징이다.",
 "exam": "기본예제",
@@ -4105,14 +4105,14 @@ const LABQ = [
 "topic": "개념카드: Caliciviridae 총괄(FCV·RHDV·VESV)",
 "q": "돼지 수포진(VES) 바이러스(VESV)와 임상적으로 동일한 수포 병변을 만드는 관련 바이러스로 강의안이 제시한 것은?",
 "choices": [
-"San Miguel sea lion virus",
 "Coxsackievirus B5",
 "Senecavirus A",
 "Rabbit hemorrhagic disease virus",
-"Feline herpesvirus 1"
+"Feline herpesvirus 1",
+"San Miguel sea lion virus"
 ],
 "answer": [
-1
+5
 ],
 "explain": "VESV와 밀접한 관련 바이러스로 San Miguel sea lion virus(SMSV)가 제시되며, SMSV는 돼지에서 VESV와 동일한(identical) 수포 병변을 만든다. 강의안 슬라이드 228 'Closely related virus: San Miguel sea lion virus, SMSV infection in pigs produces identical vesicular lesions' 부분. Senecavirus A는 감별진단 대상으로만 언급되며(슬라이드 227), 나머지는 무관하다.",
 "exam": "기본예제",
@@ -4358,14 +4358,14 @@ const LABQ = [
 "topic": "Togaviridae 개요 — 분류·외피·Alphavirus속",
 "q": "Togaviridae라는 이름이 유래한 라틴어 'toga'가 가리키는 바이러스 구조는 무엇인가?",
 "choices": [
-"외피(envelope)",
 "표면 가시(spike)",
 "유전체 RNA",
+"외피(envelope)",
 "역전사효소",
 "캡시드(capsid)"
 ],
 "answer": [
-1
+3
 ],
 "explain": "Togaviridae는 라틴어 toga(겉옷·망토)에서 유래했으며, 이는 이 과 모든 구성원이 가진 외피(envelope)를 가리킨다(강의안 p.45).",
 "exam": "기본예제",
@@ -4385,14 +4385,14 @@ const LABQ = [
 "topic": "Togaviridae 개요 — 분류·외피·Alphavirus속",
 "q": "Alphavirus가 대부분 속하는 바이러스 유형과 주된 매개체로 옳은 것은?",
 "choices": [
+"arbovirus(절지동물 매개) — 주로 모기",
 "호흡기 바이러스 — 비말",
 "혈액 바이러스 — 수혈",
 "장관계 바이러스 — 분변-경구",
-"토양 매개 — 풀 섭취",
-"arbovirus(절지동물 매개) — 주로 모기"
+"토양 매개 — 풀 섭취"
 ],
 "answer": [
-5
+1
 ],
 "explain": "Alphavirus는 대부분 절지동물 매개 바이러스(arbovirus)이며 주로 모기가 매개한다. 곤충 매개체와 척추동물 숙주 양쪽에서 증식할 수 있다(강의안 p.46).",
 "exam": "기본예제",
@@ -4412,14 +4412,14 @@ const LABQ = [
 "topic": "Togaviridae 개요 — 분류·외피·Alphavirus속",
 "q": "Alphavirus의 유전체 특성으로 옳은 것은?",
 "choices": [
-"양성가닥 단일가닥 RNA(+ssRNA)이며 직접 mRNA로 작동",
 "음성가닥 RNA로 별도 전사 필요",
 "단일가닥 DNA",
 "분절된 RNA 8개",
+"양성가닥 단일가닥 RNA(+ssRNA)이며 직접 mRNA로 작동",
 "이중가닥 DNA"
 ],
 "answer": [
-1
+4
 ],
 "explain": "Alphavirus 유전체는 단일 선형 양성가닥 단일가닥 RNA(+ssRNA)로 약 11~12 kb이며, RNA 자체가 직접 mRNA로 기능한다(강의안 p.49).",
 "exam": "기본예제",
@@ -4466,14 +4466,14 @@ const LABQ = [
 "topic": "Togaviridae 개요 — 분류·외피·Alphavirus속",
 "q": "Alphavirus속의 prototype(원형) 바이러스로 강의안에 제시된 것은?",
 "choices": [
-"Sindbis virus",
 "Semliki Forest virus",
 "Chikungunya virus",
+"Sindbis virus",
 "Salmonid Alphavirus",
 "Eastern Equine Encephalitis virus"
 ],
 "answer": [
-1
+3
 ],
 "explain": "슬라이드46 'Sindbis virus serves as the prototype for this genus' — Alphavirus속의 prototype은 Sindbis virus이다. Semliki Forest virus는 E3를 추가로 가진 예(슬라이드48), chikungunya는 사람 중요종 예시(슬라이드46)일 뿐 prototype이 아니다.",
 "exam": "기본예제",
@@ -4520,14 +4520,14 @@ const LABQ = [
 "topic": "말뇌염 3종(EEE·WEE·VEE) — 숙주·매개·역학·임상",
 "q": "EEE·WEE·VEE 말뇌염 3종이 공통적으로 가지는 매개체는 무엇인가?",
 "choices": [
-"모기(mosquito)",
 "진드기(tick)",
 "흡혈파리(stable fly)",
 "이(louse)",
-"벼룩(flea)"
+"벼룩(flea)",
+"모기(mosquito)"
 ],
 "answer": [
-1
+5
 ],
 "explain": "EEE·WEE·VEE 세 말뇌염 바이러스 모두 모기가 생물학적 매개체(biological vector)로 작용한다(강의안 p.54).",
 "exam": "기본예제",
@@ -4576,12 +4576,12 @@ const LABQ = [
 "choices": [
 "세 가지 모두 동일",
 "VEE에만 해당",
+"EEE(동부말뇌염)",
 "어느 것도 치명적이지 않음",
-"WEE(서부말뇌염)",
-"EEE(동부말뇌염)"
+"WEE(서부말뇌염)"
 ],
 "answer": [
-5
+3
 ],
 "explain": "EEE는 말에서 치명률이 50~90%로 매우 높고, WEE는 상대적으로 낮으며(0~40%), VEE는 변동이 크다(최대 80%)(강의안 p.65).",
 "exam": "기본예제",
@@ -4601,14 +4601,14 @@ const LABQ = [
 "topic": "말뇌염 3종(EEE·WEE·VEE) — 숙주·매개·역학·임상",
 "q": "강의안 비교표에서 VEE(베네수엘라 말뇌염)의 자연 저장소(natural reservoir)로 제시된 것은?",
 "choices": [
-"야생 조류(passerine birds)",
 "소형 설치류(small rodents)",
+"야생 조류(passerine birds)",
 "말(horse)",
 "사람(human)",
 "꿩·주금류(pheasants, ratites)"
 ],
 "answer": [
-2
+1
 ],
 "explain": "슬라이드65 표 'Natural Reservoir … VEE: Small rodents (in enzootic cycles)' 및 슬라이드52 표(VEEV reservoir=Rodents) — VEE의 자연 저장소는 소형 설치류다. 야생 조류는 EEE·WEE의 저장소(슬라이드52)다.",
 "exam": "기본예제",
@@ -4628,14 +4628,14 @@ const LABQ = [
 "topic": "말뇌염 3종(EEE·WEE·VEE) — 숙주·매개·역학·임상",
 "q": "EEE·VEE의 초기 뇌 병변(early cerebral lesions)에서 특징적으로 나타난다고 강의안이 제시한 염증세포는?",
 "choices": [
+"호중구(neutrophils)",
 "호산구(eosinophils)",
 "형질세포(plasma cells)",
 "비만세포(mast cells)",
-"호중구(neutrophils)",
 "거대세포(giant cells)"
 ],
 "answer": [
-4
+1
 ],
 "explain": "슬라이드59 'Neutrophils are a characteristic feature of early cerebral lesions in EEE and VEE' — EEE·VEE의 초기 뇌 병변에서는 호중구neutrophil가 회색질에 침윤하는 것이 특징이다. 병변은 perivascular cuffing·신경원괴사와 함께 나타난다.",
 "exam": "기본예제",
@@ -4837,11 +4837,11 @@ const LABQ = [
 "정이십면체 구형",
 "나선형 실 모양",
 "벽돌 모양",
-"탄환형(한쪽 끝이 둥근 막대 모양)",
-"별 모양"
+"별 모양",
+"탄환형(한쪽 끝이 둥근 막대 모양)"
 ],
 "answer": [
-4
+5
 ],
 "explain": "이름은 막대(rhabdos)에서 왔지만 실제 모양은 한쪽 끝이 둥근 탄환형(bullet-shaped)입니다(슬라이드 21). 나머지는 다른 바이러스의 형태이거나 해당되지 않습니다.",
 "exam": "기본예제",
@@ -4889,13 +4889,13 @@ const LABQ = [
 "q": "Rhabdoviridae가 환경 스트레스에 매우 민감한 가장 큰 이유는?",
 "choices": [
 "단백질 껍질이 없어서",
-"지질 외피(lipid envelope)를 가지고 있어서",
 "캡시드가 두꺼워서",
 "DNA 게놈이라서",
-"포자를 형성해서"
+"포자를 형성해서",
+"지질 외피(lipid envelope)를 가지고 있어서"
 ],
 "answer": [
-2
+5
 ],
 "explain": "지질 외피를 가지므로 표백제·알코올 소독제, 열·건조, 극단적 pH에 쉽게 불활화됩니다(슬라이드 24). '알칼리성·습한 환경에서 안정적'이라는 설명은 틀립니다.",
 "exam": "기본예제",
@@ -4916,13 +4916,13 @@ const LABQ = [
 "q": "Rhabdoviridae의 5대 구조단백질 중 RNA-dependent RNA polymerase(RNA 의존성 RNA 중합효소) 기능을 담당하는 것은?",
 "choices": [
 "N (Nucleoprotein)",
+"L (Large protein)",
 "P (Phosphoprotein)",
 "M (Matrix protein)",
-"G (Glycoprotein)",
-"L (Large protein)"
+"G (Glycoprotein)"
 ],
 "answer": [
-5
+2
 ],
 "explain": "슬라이드 22 'L (Large protein): The RNA-dependent RNA polymerase' 부분에 따라 L 단백질이 중합효소입니다. N은 RNA encapsidation, P는 polymerase complex 일부, M은 구조 안정성, G는 부착용 surface spike를 담당합니다.",
 "exam": "기본예제",
@@ -4943,13 +4943,13 @@ const LABQ = [
 "q": "Rhabdoviridae의 숙주범위(host range)와 전파에 대한 설명으로 옳은 것은?",
 "choices": [
 "오직 포유류만 감염시킨다",
-"척추동물·무척추동물·식물까지 감염하며, 모기·등에 같은 절지동물 매개체가 중요하다",
 "오직 조류만 감염시킨다",
+"척추동물·무척추동물·식물까지 감염하며, 모기·등에 같은 절지동물 매개체가 중요하다",
 "숙주범위가 매우 좁아 한 종에만 감염한다",
 "절지동물 매개체는 전파에 관여하지 않는다"
 ],
 "answer": [
-2
+3
 ],
 "explain": "슬라이드 23 'Rhabdoviruses have an exceptionally broad host range, infecting vertebrates, invertebrates, and even plants' 및 'Arthropod vectors, particularly mosquitoes and midges, play a crucial role' 부분에 따라, 매우 넓은 숙주범위와 모기·등에 매개가 핵심입니다.",
 "exam": "기본예제",
@@ -4998,12 +4998,12 @@ const LABQ = [
 "choices": [
 "소화관 점막을 통해 이동",
 "림프관을 통해 이동",
-"말초신경을 따라 retrograde axonal transport로 이동",
 "혈류를 타고 빠르게 이동",
-"공기로 폐를 통해 이동"
+"공기로 폐를 통해 이동",
+"말초신경을 따라 retrograde axonal transport로 이동"
 ],
 "answer": [
-3
+5
 ],
 "explain": "교상으로 근육·조직에 들어간 뒤 말초신경으로 진입해 retrograde(역행성) 축삭 수송으로 CNS까지 올라갑니다(슬라이드 38). 그래서 잠복기가 교상부와 CNS 사이 거리에 따라 달라집니다.",
 "exam": "기본예제",
@@ -5023,14 +5023,14 @@ const LABQ = [
 "topic": "Rabies 광견병",
 "q": "광견병의 결정적 병리학적 진단 지표인 봉입체의 이름은?",
 "choices": [
-"Negri body(호산성 세포질내 봉입체)",
 "Cowdry type A body",
 "Russell body",
 "Councilman body",
+"Negri body(호산성 세포질내 봉입체)",
 "Joest-Degen body"
 ],
 "answer": [
-1
+4
 ],
 "explain": "Negri body는 hippocampus·cerebellum 뉴런에서 보이는 호산성 세포질내 봉입체로 광견병의 결정적 표지입니다(슬라이드 41). Joest-Degen body는 Borna disease의 핵내 봉입체입니다.",
 "exam": "기본예제",
@@ -5050,14 +5050,14 @@ const LABQ = [
 "topic": "Rabies 광견병",
 "q": "광견병 진단의 gold standard로 제시되는 검사는?",
 "choices": [
-"뇌조직 직접형광항체법(FAT)",
 "분변 항원 신속검사",
 "혈액 배양",
+"뇌조직 직접형광항체법(FAT)",
 "흉부 X선",
 "소변 검사"
 ],
 "answer": [
-1
+3
 ],
 "explain": "뇌조직에 대한 직접형광항체검사(FAT)가 gold standard로, 조직 내 바이러스 항원을 직접 확인합니다(슬라이드 41). PCR·dRIT·바이러스 분리는 보조적입니다.",
 "exam": "기본예제",
@@ -5078,13 +5078,13 @@ const LABQ = [
 "q": "광견병 바이러스 주(strain) 중 실험실 적응주로 잠복기가 짧고 안정적이어서 백신 생산·진단에 사용되는 것은?",
 "choices": [
 "Street virus",
-"Fixed virus",
 "Vampire bat virus",
+"Fixed virus",
 "Negri strain",
 "Hydrophobia virus"
 ],
 "answer": [
-2
+3
 ],
 "explain": "슬라이드 37 'Fixed Virus: Laboratory-adapted strains with highly stable and shortened incubation periods, used for vaccine production and diagnostics' 부분에 따라 Fixed virus가 정답입니다. Street virus는 자연계 분리주로 잠복기가 가변적(variable)입니다.",
 "exam": "기본예제",
@@ -5105,13 +5105,13 @@ const LABQ = [
 "q": "광견병 바이러스가 CNS에서 증식한 뒤 침샘(salivary gland)으로 이동해 saliva를 통한 추가 전파를 가능하게 하는 확산 방식은?",
 "choices": [
 "Retrograde axonal transport(역행성 축삭수송)",
-"혈류를 통한 viremia 확산",
 "Centrifugal spread(원심성 확산, 뇌→침샘)",
+"혈류를 통한 viremia 확산",
 "림프관을 통한 확산",
 "소화관 점막을 통한 확산"
 ],
 "answer": [
-3
+2
 ],
 "explain": "슬라이드 38 'It then spreads centrifugally from the brain to the salivary glands, allowing for further transmission through saliva' 부분에 따라 정답은 원심성(centrifugal) 확산입니다. Retrograde axonal transport는 교상부에서 CNS로 올라가는 초기 경로입니다.",
 "exam": "기본예제",
@@ -5159,13 +5159,13 @@ const LABQ = [
 "q": "소 유행열(BEF)이 '3-Day Sickness'라고 불리는 이유로 가장 알맞은 것은?",
 "choices": [
 "3가지 백신이 필요해서",
+"갑작스럽게 발병하고 임상 경과가 짧아서",
 "3종류 동물만 감염되어서",
 "3년마다 발생해서",
-"증상이 3단계로 진행되어서",
-"갑작스럽게 발병하고 임상 경과가 짧아서"
+"증상이 3단계로 진행되어서"
 ],
 "answer": [
-5
+2
 ],
 "explain": "BEF는 발병이 갑작스럽고 임상 경과가 짧아 '3-Day Sickness'로 불립니다(슬라이드 26). 침흘림 때문에 FMD와 혼동되지만 수포는 만들지 않습니다.",
 "exam": "기본예제",
@@ -5186,13 +5186,13 @@ const LABQ = [
 "q": "소 유행열(BEF)과 구제역(FMD)을 임상적으로 구분하는 핵심 포인트는?",
 "choices": [
 "BEF는 어린 송아지만 걸린다",
+"BEF는 수포(vesicle)를 만들지 않는다",
 "BEF는 발이 부어오른다",
 "BEF는 발열이 없다",
-"BEF는 수포(vesicle)를 만들지 않는다",
 "BEF는 침을 흘리지 않는다"
 ],
 "answer": [
-4
+2
 ],
 "explain": "BEF는 침흘림 때문에 FMD와 혼동되지만, 수포(vesicle)를 만들지 않는 점이 결정적 구분 포인트입니다(슬라이드 26).",
 "exam": "기본예제",
@@ -5212,14 +5212,14 @@ const LABQ = [
 "topic": "BEF·VS 감별",
 "q": "수포성 구내염(VS)에 대한 설명으로 옳은 것은?",
 "choices": [
-"입·젖꼭지·발에 수포(vesicle)가 생기며 말도 감염될 수 있다",
 "수포를 만들지 않는다",
+"입·젖꼭지·발에 수포(vesicle)가 생기며 말도 감염될 수 있다",
 "말은 VS에 감염되지 않는다",
 "사람에게는 전혀 전파되지 않는다",
 "오직 소만 감염된다"
 ],
 "answer": [
-1
+2
 ],
 "explain": "VS는 입·젖꼭지·발의 수포가 특징이고 소·말·돼지를 감염시키며 인수공통 가능성이 있습니다(슬라이드 32-33). 특히 말은 FMD와 달리 VS에 감수성이 있어, 말의 수포 병변은 VS를 시사합니다.",
 "exam": "기본예제",
@@ -5240,13 +5240,13 @@ const LABQ = [
 "q": "소 유행열(BEF) 감염 시 젖소 생산성·번식에 미치는 영향으로 강의안에 제시된 것은?",
 "choices": [
 "유량이 거의 변하지 않는다",
-"젖소 유량이 최대 70% 감소할 수 있고, 수소는 6-8개월 일시적 불임이 올 수 있다",
 "수소는 영구 불임이 된다",
 "임신우에서 기형 송아지가 태어난다",
-"유량이 오히려 증가한다"
+"유량이 오히려 증가한다",
+"젖소 유량이 최대 70% 감소할 수 있고, 수소는 6-8개월 일시적 불임이 올 수 있다"
 ],
 "answer": [
-2
+5
 ],
 "explain": "슬라이드 29 'Dairy Cows: Experience a drastic drop in milk production (up to 70% decrease)' 및 'Bulls: High fever may lead to temporary infertility (6-8 months)' 부분에 따라, 유량 최대 70% 감소와 수소의 일시적(6-8개월) 불임이 정답입니다. 불임은 영구가 아니라 일시적입니다.",
 "exam": "기본예제",
@@ -5268,12 +5268,12 @@ const LABQ = [
 "choices": [
 "말은 VS에 감염되지 않는다",
 "말은 FMD에는 걸리지만 VS에는 걸리지 않는다",
-"말은 FMD와 달리 VS에 감수성이 있어, 말의 수포 병변은 VS를 시사한다",
 "말의 VS 병변은 항상 중추신경계에 국한된다",
-"말은 VS의 유일한 숙주이다"
+"말은 VS의 유일한 숙주이다",
+"말은 FMD와 달리 VS에 감수성이 있어, 말의 수포 병변은 VS를 시사한다"
 ],
 "answer": [
-3
+5
 ],
 "explain": "슬라이드 33 'Horses are susceptible to VS (unlike FMD)' 부분에 따라, 말은 FMD에 안 걸리지만 VS에는 감수성이 있어 말의 수포 병변은 VS를 시사합니다. VS 병변은 입·젖꼭지 상피에 국한되며(슬라이드 33), 소·돼지도 감염됩니다.",
 "exam": "기본예제",
@@ -5514,13 +5514,13 @@ const LABQ = [
 "q": "Bunyavirales(Bunyaviricetes)의 3분절 게놈에서 L 분절이 암호화하는 단백질은?",
 "choices": [
 "당단백 전구체",
-"RNA-dependent RNA polymerase(중합효소)",
 "비구조단백 NSs",
 "nucleocapsid(N) 단백질",
+"RNA-dependent RNA polymerase(중합효소)",
 "외피 지질"
 ],
 "answer": [
-2
+4
 ],
 "explain": "게놈은 L·M·S 3분절로, L=RNA-dependent RNA polymerase(중합효소), M=glycoprotein 전구체, S=nucleocapsid(N) 단백질입니다(슬라이드 195·204).",
 "exam": "기본예제",
@@ -5540,14 +5540,14 @@ const LABQ = [
 "topic": "개념카드: Bunyavirales(Bunyaviricetes) 총괄",
 "q": "Bornaviridae가 다른 음성가닥 RNA 바이러스와 구별되는 가장 특이한 복제 특징은?",
 "choices": [
-"예외적으로 세포 핵(nucleus)에서 복제한다",
 "미토콘드리아에서 복제한다",
 "세포질에서만 복제한다",
 "복제하지 않는다",
+"예외적으로 세포 핵(nucleus)에서 복제한다",
 "DNA 중간체를 만든다"
 ],
 "answer": [
-1
+4
 ],
 "explain": "대부분의 비분절 음성가닥 RNA 바이러스와 달리 Bornaviridae는 예외적으로 숙주세포 핵(nucleus)에서 복제하며 강한 neurotropic 특성을 보입니다(슬라이드 178~179). 특징 봉입체는 핵내 Joest-Degen body입니다.",
 "exam": "기본예제",
@@ -5569,12 +5569,12 @@ const LABQ = [
 "choices": [
 "Rift Valley fever(RVF)",
 "Borna disease",
-"Nairobi sheep disease(NSD)",
 "Akabane disease",
-"Bluetongue"
+"Bluetongue",
+"Nairobi sheep disease(NSD)"
 ],
 "answer": [
-3
+5
 ],
 "explain": "Nairobi sheep disease(NSD, Nairoviridae)는 brown ear tick(Rhipicephalus appendiculatus) 진드기가 매개합니다(슬라이드 196~197). Akabane은 midge/모기, RVF는 모기가 매개합니다.",
 "exam": "기본예제",
@@ -5594,14 +5594,14 @@ const LABQ = [
 "topic": "개념카드: Bunyavirales(Bunyaviricetes) 총괄",
 "q": "Bornaviridae(Borna disease)에서 신경세포 핵 내에서 관찰되는 특징적 봉입체의 이름은?",
 "choices": [
-"Negri body",
 "Joest-Degen bodies(때로 Cowdry type B body라 불림)",
+"Negri body",
 "Councilman body",
 "Russell body",
 "Guarnieri body"
 ],
 "answer": [
-2
+1
 ],
 "explain": "슬라이드 182 'Characteristic intranuclear inclusion bodies: Joest-Degen bodies (sometimes called Cowdry type B bodies)... found inside the nuclei of neurons' 부분에 따라 정답은 Joest-Degen bodies입니다. Negri body는 광견병의 세포질내 봉입체입니다.",
 "exam": "기본예제",
@@ -5621,14 +5621,14 @@ const LABQ = [
 "topic": "개념카드: Bunyavirales(Bunyaviricetes) 총괄",
 "q": "Bunyaviricetes(구 Bunyavirales) virion 구조에 대한 설명으로 옳은 것은?",
 "choices": [
-"무외피이며 단일 분절 게놈을 가진다",
 "외피를 가진 pleomorphic 입자로 표면에 Gn/Gc glycoprotein spike가 있고 게놈은 L·M·S 3분절 음성가닥 ssRNA이다",
+"무외피이며 단일 분절 게놈을 가진다",
 "이중가닥 DNA 게놈을 가진다",
 "게놈이 10~12개로 분절되어 있다",
 "표면에 spike가 없는 매끈한 무외피 입자이다"
 ],
 "answer": [
-2
+1
 ],
 "explain": "슬라이드 195 'Enveloped, pleomorphic viruses... Surface glycoprotein spikes present on envelope' 및 'Segmented negative-sense ssRNA genome, Three RNA segments: L, M, S' 부분에 따라, 외피·Gn/Gc spike·L·M·S 3분절 음성가닥 ssRNA가 정답입니다.",
 "exam": "기본예제",
@@ -5676,13 +5676,13 @@ const LABQ = [
 "q": "Akabane virus가 임신축의 태아에 감염되었을 때 나타나는 대표적 결과는?",
 "choices": [
 "호흡기 질환",
+"유산·사산·선천기형(hydranencephaly, arthrogryposis)",
 "간괴사",
 "수포성 구내염",
-"급성 출혈성 위장염",
-"유산·사산·선천기형(hydranencephaly, arthrogryposis)"
+"급성 출혈성 위장염"
 ],
 "answer": [
-5
+2
 ],
 "explain": "Akabane(Peribunyaviridae)는 성축은 보통 무증상이지만, 태아 감염 시 유산·사산과 선천기형(수무뇌증 hydranencephaly, 관절만곡증 arthrogryposis)을 일으킵니다(슬라이드 206~208). '기형→Akabane'로 기억하세요.",
 "exam": "기본예제",
@@ -5702,14 +5702,14 @@ const LABQ = [
 "topic": "개념카드: SFTS·RVF·CCHF·Akabane 감별 포인트",
 "q": "Rift Valley fever(RVF)의 매개체와 대표 병변을 옳게 짝지은 것은?",
 "choices": [
+"모기 매개 - 심한 간괴사(hepatic necrosis)",
 "사료 - 신부전",
 "공기 - 폐렴",
 "직접접촉 - 수포",
-"진드기 매개 - 선천기형",
-"모기 매개 - 심한 간괴사(hepatic necrosis)"
+"진드기 매개 - 선천기형"
 ],
 "answer": [
-5
+1
 ],
 "explain": "RVF(Phenuiviridae)는 모기 매개 인수공통 질병이며, 심한 간괴사(severe hepatic necrosis)와 비장병변이 대표 병변입니다(슬라이드 212~217). '모기→RVF, 간괴사→RVF'로 기억하세요.",
 "exam": "기본예제",
@@ -5757,13 +5757,13 @@ const LABQ = [
 "q": "Akabane virus 태아 감염 시 임신주령에 따른 결과를 옳게 짝지은 것은?",
 "choices": [
 "11-14주: 회백수염(poliomyelitis)",
-"11-14주: 수두증(hydranencephaly), 15-24주: 관절만곡(arthrogryposis), 25-33주: 회백수염(poliomyelitis)",
 "11-14주: 관절만곡, 15-24주: 수두증, 25-33주: 정상",
+"11-14주: 수두증(hydranencephaly), 15-24주: 관절만곡(arthrogryposis), 25-33주: 회백수염(poliomyelitis)",
 "전 시기에 동일하게 관절만곡만 나타난다",
 "임신주령과 무관하게 항상 무증상이다"
 ],
 "answer": [
-2
+3
 ],
 "explain": "슬라이드 208 'Fetal Infection: 11-14 weeks: Hydranencephaly / 15-24 weeks: Arthrogryposis / 25-33 weeks: Poliomyelitis' 부분에 따라, 이른 시기일수록 수두증, 중기는 관절만곡, 후기는 회백수염으로 결과가 달라집니다. 성축은 보통 무증상(subclinical)입니다.",
 "exam": "기본예제",
@@ -5783,14 +5783,14 @@ const LABQ = [
 "topic": "개념카드: SFTS·RVF·CCHF·Akabane 감별 포인트",
 "q": "Rift Valley fever(RVF) 발생이 폭발적으로 증가하는 환경 조건으로 강의안에 제시된 것은?",
 "choices": [
-"한파와 건조한 겨울",
 "폭우(heavy rainfall)와 홍수로 인한 모기 개체수 급증",
+"한파와 건조한 겨울",
 "진드기 개체수 증가",
 "사료 오염",
 "직접 접촉 증가"
 ],
 "answer": [
-2
+1
 ],
 "explain": "슬라이드 214 'Outbreaks associated with: Heavy rainfall, Increased mosquito populations' 및 슬라이드 215 'Heavy Rain + Floods = More Mosquitos' 부분에 따라, RVF는 폭우·홍수로 모기가 급증할 때 폭발적으로 발생하는 모기매개 인수공통 질병입니다.",
 "exam": "기본예제",
@@ -6017,14 +6017,14 @@ const LABQ = [
 "topic": "BRSV (소 호흡기 세포융합 바이러스) · Canine pneumovirus",
 "q": "Pneumoviridae의 유전체 종류로 옳은 것은?",
 "choices": [
-"단일가닥 음성가닥 RNA(-ssRNA)",
 "단일가닥 양성가닥 RNA(+ssRNA)",
 "단일가닥 DNA",
 "이중가닥 DNA",
+"단일가닥 음성가닥 RNA(-ssRNA)",
 "이중가닥 RNA"
 ],
 "answer": [
-1
+4
 ],
 "explain": "Pneumoviridae는 외피를 가지며 약 15.2 kb의 단일가닥 음성가닥 RNA(-ssRNA)를 유전체로 가진다(강의안 p.6).",
 "exam": "기본예제",
@@ -6045,13 +6045,13 @@ const LABQ = [
 "q": "BRSV 감염의 특징적(hallmark) 병변으로, 감염된 세포가 융합하여 만들어지는 것은?",
 "choices": [
 "섬유화 결절",
-"육아종",
 "다핵거대세포(syncytia)",
+"육아종",
 "농양",
 "봉입체만 단독으로"
 ],
 "answer": [
-3
+2
 ],
 "explain": "BRSV의 hallmark는 감염된 Type II pneumocyte가 융합해 다핵거대세포(multinucleated giant cells, syncytia)를 형성하는 것이다(강의안 p.10).",
 "exam": "기본예제",
@@ -6072,13 +6072,13 @@ const LABQ = [
 "q": "BRSV의 예방·관리에 대한 설명으로 옳은 것은?",
 "choices": [
 "BRSV 단독 백신만 권장됨",
-"특이 항바이러스제가 없어 다가백신과 2차 세균감염 관리가 핵심",
 "항생제는 전혀 사용하지 않음",
+"특이 항바이러스제가 없어 다가백신과 2차 세균감염 관리가 핵심",
 "특효 항바이러스제로 완치 가능",
 "백신이 전혀 없어 예방 불가"
 ],
 "answer": [
-2
+3
 ],
 "explain": "BRSV에는 특이 항바이러스제가 없으며, 2차 세균감염 관리를 위한 항생제와 live/inactivated 백신 접종이 핵심이다. BRSV 단독보다 mixed(다가) 백신이 권장된다(강의안 p.14).",
 "exam": "기본예제",
@@ -6098,14 +6098,14 @@ const LABQ = [
 "topic": "BRSV (소 호흡기 세포융합 바이러스) · Canine pneumovirus",
 "q": "강의안에서 Pneumoviridae가 현재 속해 있다고 제시된 목(order)은?",
 "choices": [
-"Mononegavirales",
 "Nidovirales",
 "Bunyavirales",
 "Picornavirales",
+"Mononegavirales",
 "Paramyxoviridae"
 ],
 "answer": [
-1
+4
 ],
 "explain": "슬라이드4 'They are now established as an independent family under the order Mononegavirales' — Pneumoviridae는 과거 Paramyxoviridae의 Pneumovirinae였으나 현재 Mononegavirales 목 내 독립 family다. Paramyxoviridae는 목이 아니라 과 이름이다.",
 "exam": "기본예제",
@@ -6126,13 +6126,13 @@ const LABQ = [
 "q": "강의안에서 Canine pneumovirus(CPnV)의 현재 분류·예방 상태로 옳은 것은?",
 "choices": [
 "ICTV 공식 종으로 분류되었고 상용 백신이 있다",
-"Orthopneumovirus속이나 아직 ICTV 공식 종은 아니며 상용 백신이 없다",
 "BRSV와 동일한 바이러스이며 소 백신으로 예방된다",
 "핵에서 복제하며 강아지에 선천성 기형을 일으킨다",
-"약독화 생백신으로 완전 방어가 가능하다"
+"약독화 생백신으로 완전 방어가 가능하다",
+"Orthopneumovirus속이나 아직 ICTV 공식 종은 아니며 상용 백신이 없다"
 ],
 "answer": [
-2
+5
 ],
 "explain": "슬라이드15 'Genetic analysis places this virus in the genus Orthopneumovirus … However, it has not yet been classified as a formal species by the ICTV' + 슬라이드19 'no commercial vaccine is currently available' — CPnV는 Orthopneumovirus속이지만 아직 ICTV 공식 종이 아니고 상용 백신이 없어 격리·대증치료로 관리한다.",
 "exam": "기본예제",
@@ -6305,14 +6305,14 @@ const LABQ = [
 "topic": "개념카드 1 — 일반특성·분류·항원변이",
 "q": "Reoviridae의 유전체(게놈)에 대한 설명으로 옳은 것은?",
 "choices": [
-"10~12개로 분절된 이중가닥 RNA(dsRNA)",
 "단일가닥 DNA",
+"10~12개로 분절된 이중가닥 RNA(dsRNA)",
 "분절 안 된 양성가닥 RNA",
 "분절 안 된 음성가닥 RNA",
 "이중가닥 DNA"
 ],
 "answer": [
-1
+2
 ],
 "explain": "Reoviridae는 10~12개의 분절(segment)로 된 이중가닥 RNA(dsRNA)를 가집니다(강의안 p.95~98). 분절 게놈이라 재집합(reassortment)이 가능합니다.",
 "exam": "기본예제",
@@ -6333,13 +6333,13 @@ const LABQ = [
 "q": "Antigenic shift(대변이)가 일어나는 메커니즘으로 가장 알맞은 것은?",
 "choices": [
 "DNA가 RNA로 바뀌어서",
-"한 세포에 두 바이러스가 동시감염해 분절들이 재집합(reassortment)되어서",
 "점돌연변이가 천천히 누적되어서",
 "외피 단백질이 떨어져 나가서",
-"숙주 효소가 게놈을 자르기 때문에"
+"숙주 효소가 게놈을 자르기 때문에",
+"한 세포에 두 바이러스가 동시감염해 분절들이 재집합(reassortment)되어서"
 ],
 "answer": [
-2
+5
 ],
 "explain": "Antigenic shift는 한 숙주세포에 같은 속의 두 바이러스가 동시감염할 때 서로 다른 분절이 재배열(reassortment)되어 새 바이러스가 생기는 것입니다. 분절 게놈이기 때문에 가능합니다. 점돌연변이 누적은 drift입니다(강의안 p.95).",
 "exam": "기본예제",
@@ -6359,14 +6359,14 @@ const LABQ = [
 "topic": "개념카드 1 — 일반특성·분류·항원변이",
 "q": "Reoviridae 바이러스 입자의 외피(envelope)와 캡시드 특징으로 옳은 것은?",
 "choices": [
-"외피가 없고(non-enveloped) 다층 정이십면체 캡시드",
 "외피가 있고 나선형 캡시드",
 "외피가 있고 단층 캡시드",
 "외피가 없고 막대형 캡시드",
-"외피가 있고 다층 캡시드"
+"외피가 있고 다층 캡시드",
+"외피가 없고(non-enveloped) 다층 정이십면체 캡시드"
 ],
 "answer": [
-1
+5
 ],
 "explain": "Reoviridae는 무외피(non-enveloped)이며 다층(multilayered) 정이십면체 캡시드를 가집니다(강의안 p.95~98). 그래서 환경 저항성이 비교적 높습니다.",
 "exam": "기본예제",
@@ -6386,14 +6386,14 @@ const LABQ = [
 "topic": "개념카드 1 — 일반특성·분류·항원변이",
 "q": "Reoviridae 2개 아과의 입자 표면 구조 차이로 옳은 것은?",
 "choices": [
-"Spinareovirinae는 12개 꼭짓점에 spike/turret 돌기, Sedoreovirinae는 smooth surface(매끈)",
 "Spinareovirinae는 매끈, Sedoreovirinae는 spike 돌기",
 "둘 다 외피(envelope)를 가진다",
 "둘 다 나선형 캡시드를 가진다",
+"Spinareovirinae는 12개 꼭짓점에 spike/turret 돌기, Sedoreovirinae는 smooth surface(매끈)",
 "두 아과의 표면 구조는 동일하다"
 ],
 "answer": [
-1
+4
 ],
 "explain": "슬라이드 98 'Spinareovirinae members typically feature \"spikes\" or \"turrets\" at the 12 vertices of the icosahedron. Sedoreovirinae members show smooth surface' 부분에 따라, Spinareovirinae는 spike/turret, Sedoreovirinae는 smooth surface입니다.",
 "exam": "기본예제",
@@ -6414,13 +6414,13 @@ const LABQ = [
 "q": "Reoviridae의 환경저항성에 대한 설명으로 옳은 것은?",
 "choices": [
 "모든 속이 환경에서 즉시 불활화된다",
-"Orbivirus·Rotavirus는 매우 안정하며, protease(단백분해효소) 처리로 감염성이 증가한다",
 "protease 처리로 즉시 사멸한다",
 "phenol·formalin·95% ethanol로는 불활화되지 않는다",
+"Orbivirus·Rotavirus는 매우 안정하며, protease(단백분해효소) 처리로 감염성이 증가한다",
 "Bluetongue virus는 실온 혈액에서 즉시 사멸한다"
 ],
 "answer": [
-2
+4
 ],
 "explain": "슬라이드 99 'Orbivirus and Rotavirus are exceptionally stable' 및 'The infectivity of Orthoreovirus, Aquareovirus, and Rotavirus is significantly increased by treatment with proteolytic enzymes (proteases)' 부분에 따라 정답입니다. 같은 슬라이드에서 phenol·formalin·95% ethanol로 불활화된다고 명시합니다.",
 "exam": "기본예제",
@@ -6521,14 +6521,14 @@ const LABQ = [
 "topic": "개념카드 2 — Rotavirus (신생설사·scours)",
 "q": "소 Rotavirus 감염에서 설사가 가장 흔하고 심하게 나타나는 연령군은?",
 "choices": [
-"어린 송아지(특히 1~3주령)",
 "임신 말기 소",
 "노령우",
 "성체 소",
-"수소만"
+"수소만",
+"어린 송아지(특히 1~3주령)"
 ],
 "answer": [
-1
+5
 ],
 "explain": "소 Rotavirus 감염은 어린 송아지, 특히 1~3주령에서 급성 장염·수양성 설사로 가장 심하게 나타납니다(강의안 p.101~105). 성체는 대개 무증상 보균(reservoir) 역할을 합니다.",
 "exam": "기본예제",
@@ -6549,13 +6549,13 @@ const LABQ = [
 "q": "소 Rotavirus(Group A)의 단백질 중 외부 캡시드 당단백으로 항체형성·혈청군 결정에 중요한 것은?",
 "choices": [
 "VP4 (P protein)",
-"VP7 (G protein)",
 "NSP4 enterotoxin",
 "VP1 (polymerase)",
-"VP6"
+"VP6",
+"VP7 (G protein)"
 ],
 "answer": [
-2
+5
 ],
 "explain": "슬라이드 101 'VP7 (G protein): Major outer capsid glycoprotein; critical for immune response and antibody formation; determining serological group' 부분에 따라 VP7이 정답입니다. VP4(P protein)는 protease 민감 단백으로 부착·감염성을 결정합니다.",
 "exam": "기본예제",
@@ -6576,13 +6576,13 @@ const LABQ = [
 "q": "Rotavirus 감염에서 NSP4가 설사 발생에 기여하는 방식으로 옳은 것은?",
 "choices": [
 "장 점막을 직접 천공시킨다",
-"enterotoxin으로 작용해 분비성(secretory) 설사에 기여한다",
 "혈액 응고를 촉진한다",
+"enterotoxin으로 작용해 분비성(secretory) 설사에 기여한다",
 "융모를 새로 자라게 한다",
 "음와 세포를 보호한다"
 ],
 "answer": [
-2
+3
 ],
 "explain": "슬라이드 103 도식의 'NSP4 enterotoxin » secretory diarrhea' 부분에 따라, NSP4는 enterotoxin으로 작용해 분비성 설사에 기여합니다. 융모끝 성숙 장세포 파괴에 의한 흡수장애성/삼투성 설사와 함께 작용합니다.",
 "exam": "기본예제",
@@ -6656,14 +6656,14 @@ const LABQ = [
 "topic": "개념카드 3 — Orbivirus 질병군 (BTV·AHS·Chuzan·Ibaraki)",
 "q": "Bluetongue(BTV)에서 '청설병(blue tongue)'이라는 이름의 원인이 되는 기전은?",
 "choices": [
+"혈관 손상으로 인한 청색증(cyanosis)",
 "탈수로 혀가 말라서",
 "혀에 색소가 침착되어서",
 "백신 부작용으로",
-"혀에 곰팡이가 자라서",
-"혈관 손상으로 인한 청색증(cyanosis)"
+"혀에 곰팡이가 자라서"
 ],
 "answer": [
-5
+1
 ],
 "explain": "BTV는 내피세포·대식세포·수지상세포를 표적으로 혈관을 손상시켜 혈전·출혈을 일으키고, 그 결과 청색증(cyanosis)이 나타나 '청설병'으로 불립니다(강의안 p.106, 109).",
 "exam": "기본예제",
@@ -6683,14 +6683,14 @@ const LABQ = [
 "topic": "개념카드 3 — Orbivirus 질병군 (BTV·AHS·Chuzan·Ibaraki)",
 "q": "아프리카마역(AHS)에서 사망률이 가장 높은 임상형은?",
 "choices": [
-"폐형(Dunkop, 95~100% 사망)",
 "피부형",
 "심장형(Dikkop)",
 "소화기형",
+"폐형(Dunkop, 95~100% 사망)",
 "무증상형"
 ],
 "answer": [
-1
+4
 ],
 "explain": "AHS의 폐형(Dunkop)은 95~100% 사망률로 가장 치명적이며, 고열·심한 호흡곤란·거품성 콧물 후 24~48시간 내 사망합니다(강의안 p.119). 심장형(Dikkop)은 두경부 부종에 약 50% 사망률입니다.",
 "exam": "기본예제",
@@ -6710,14 +6710,14 @@ const LABQ = [
 "topic": "개념카드 3 — Orbivirus 질병군 (BTV·AHS·Chuzan·Ibaraki)",
 "q": "Bluetongue(BTV) 백신에 대한 설명으로 옳은 것은?",
 "choices": [
-"약독화 생백신(MLV)은 면역이 약하지만 임신양에 완전히 안전하다",
 "약독화 생백신(MLV)은 강한 면역을 주지만 임신양에서 태아 미라화·뇌결손 위험이 있다",
+"약독화 생백신(MLV)은 면역이 약하지만 임신양에 완전히 안전하다",
 "불활화 백신은 추가접종이 전혀 필요 없다",
 "BTV에는 백신이 존재하지 않는다",
 "MLV가 불활화 백신보다 항상 더 안전하다"
 ],
 "answer": [
-2
+1
 ],
 "explain": "슬라이드 110 'Modified-Live Vaccines (MLV): Provide strong immunity but carry risks of fetal mummification or brain defects in pregnant ewes' 및 'Inactivated Vaccines: Safe and used successfully... but require boosters' 부분에 따라, MLV는 강한 면역이지만 임신양 태아 위험이 있습니다. '약독화가 더 안전'은 오류입니다.",
 "exam": "기본예제",
@@ -7072,14 +7072,14 @@ const LABQ = [
 "topic": "개념카드: Retroviridae 총괄(역전사·provirus·질병군)",
 "q": "Retroviridae의 이름 'retro(역방향)'가 가리키는 독특한 과정은 무엇인가?",
 "choices": [
-"RNA를 DNA로 만드는 역전사",
 "유전체가 역방향으로 읽힘",
 "외피가 거꾸로 출아",
+"RNA를 DNA로 만드는 역전사",
 "단백질을 RNA로 변환",
 "DNA를 RNA로 만드는 전사"
 ],
 "answer": [
-1
+3
 ],
 "explain": "Retrovirus는 역전사효소로 RNA에서 DNA를 만드는 reverse transcription 때문에 'retro(역방향)'라는 이름이 붙었다(강의안 p.67).",
 "exam": "기본예제",
@@ -7126,14 +7126,14 @@ const LABQ = [
 "topic": "개념카드: Retroviridae 총괄(역전사·provirus·질병군)",
 "q": "주로 면역결핍 질환과 연관되는 retrovirus 속(genus)은 무엇인가?",
 "choices": [
-"Spumavirus",
 "Lentivirus",
+"Spumavirus",
 "Deltaretrovirus",
 "Gammaretrovirus",
 "Alpharetrovirus"
 ],
 "answer": [
-2
+1
 ],
 "explain": "Lentivirus 속은 주로 면역결핍 질환(EIAV·FIV·MVV·CAEV 등)과 연결된다. Deltaretrovirus와 Gammaretrovirus는 특정 종양 유발과 연관된다(강의안 p.70).",
 "exam": "기본예제",
@@ -7153,14 +7153,14 @@ const LABQ = [
 "topic": "개념카드: Retroviridae 총괄(역전사·provirus·질병군)",
 "q": "강의안에서 마전염성빈혈(EIA)의 항체 검출 gold standard로 제시된 검사는?",
 "choices": [
-"Coggins test(AGID, p26 단백 항체 검출)",
 "p27 capsid 단백 ELISA",
 "Western Blot",
+"Coggins test(AGID, p26 단백 항체 검출)",
 "PMCA",
 "IgM-capture ELISA"
 ],
 "answer": [
-1
+3
 ],
 "explain": "슬라이드78 'The Coggins test (AGID) is the internationally recognized gold standard for detecting antibodies to the p26 protein' — EIA 항체 검출 gold standard는 p26 단백을 보는 Coggins test(AGID)다. p27 ELISA는 FeLV(슬라이드84) 검사다.",
 "exam": "기본예제",
@@ -7180,14 +7180,14 @@ const LABQ = [
 "topic": "개념카드: Retroviridae 총괄(역전사·provirus·질병군)",
 "q": "강의안에서 소백혈병바이러스(BLV)의 종양화 기전으로 제시된 것은?",
 "choices": [
-"전통적 oncogene을 직접 전사해 종양 유발",
 "전통적 oncogene 없이 조절단백 Tax·Rex가 종양화를 유도",
+"전통적 oncogene을 직접 전사해 종양 유발",
 "provirus가 cellular oncogene 옆에 삽입되어 과발현",
 "E2 당단백 변이로 epizootic strain 출현",
 "역전사효소 결핍으로 세포 변형"
 ],
 "answer": [
-2
+1
 ],
 "explain": "슬라이드73 'BLV does not possess a traditional oncogene. Tumorigenesis is driven by regulatory proteins Tax and Rex, which are encoded by the X region at the 3 prime end of the env gene' — BLV는 전통적 oncogene이 없고 env 3' X region이 암호화하는 Tax·Rex 조절단백이 B세포 림프종을 추동한다. provirus 삽입 활성화(선지3)는 FeLV 기전(슬라이드83)이다.",
 "exam": "기본예제",
@@ -7373,14 +7373,14 @@ const LABQ = [
 "topic": "프리온 생물학 — PrPc→PrPsc 구조변환·해면상뇌증·저항성",
 "q": "정상 프리온 단백 PrP^C가 병원성 PrP^Sc로 전환될 때 일어나는 2차 구조 변화로 옳은 것은?",
 "choices": [
-"알파-나선이 우세하다가 베타-시트가 증가",
 "당단백에서 지질로 변화",
 "베타-시트에서 알파-나선으로 변화",
 "구조 변화 없이 농도만 증가",
-"단백질이 핵산으로 변환"
+"단백질이 핵산으로 변환",
+"알파-나선이 우세하다가 베타-시트가 증가"
 ],
 "answer": [
-1
+5
 ],
 "explain": "PrP^C는 알파-나선(α-helix)이 우세하지만, 병원성 PrP^Sc로 전환되면 베타-시트(β-sheet)가 증가하면서 고도로 안정해진다(강의안 p.123).",
 "exam": "기본예제",
@@ -7403,11 +7403,11 @@ const LABQ = [
 "70℃ 저온 살균",
 "포르말린(알데하이드) 고정",
 "일반 자외선 조사",
-"알코올 소독",
-"고농도 차아염소산나트륨 또는 뜨거운 수산화나트륨"
+"고농도 차아염소산나트륨 또는 뜨거운 수산화나트륨",
+"알코올 소독"
 ],
 "answer": [
-5
+4
 ],
 "explain": "알코올·알데하이드 같은 일반 소독제는 프리온을 죽이지 못하고 오히려 안정화시킨다. 효과적 불활화에는 고농도 차아염소산나트륨이나 뜨거운 수산화나트륨이 필요하다(강의안 p.124).",
 "exam": "기본예제",
@@ -7430,11 +7430,11 @@ const LABQ = [
 "백질에만 림프구 침윤이 일어난다",
 "혈관 내 혈전이 주된 병변이다",
 "뇌부종 없이 정상 조직만 관찰된다",
-"강한 화농성 염증이 동반된다",
-"회색질에 미세 공포가 형성되고 염증반응이 없다"
+"회색질에 미세 공포가 형성되고 염증반응이 없다",
+"강한 화농성 염증이 동반된다"
 ],
 "answer": [
-5
+4
 ],
 "explain": "PrP^Sc 축적은 뇌 회색질에 미세 공포(해면상 변화)를 형성하며, 숙주 면역계는 misfolded 단백에 대해 염증·면역반응을 일으키지 않는다(강의안 p.122, p.124).",
 "exam": "기본예제",
@@ -7455,13 +7455,13 @@ const LABQ = [
 "q": "강의안에서 전염성 해면상뇌증(TSE)의 공통 특징으로 제시한 것은?",
 "choices": [
 "짧은 잠복기와 강한 화농성 염증반응",
-"긴 잠복기와 염증반응 없는 진행성 뇌 손상",
 "급성 발열과 혈소판 감소",
+"긴 잠복기와 염증반응 없는 진행성 뇌 손상",
 "급성 출혈성 간괴사",
 "수포성 병변과 빠른 자연치유"
 ],
 "answer": [
-2
+3
 ],
 "explain": "슬라이드122 'characterized by long incubation periods and progressive brain damage without an inflammatory response' — TSE는 긴 잠복기와 염증반응 없는 진행성 뇌 손상이 특징이며, Scrapie·BSE·CWD·CJD가 예로 제시된다.",
 "exam": "기본예제",
@@ -7482,13 +7482,13 @@ const LABQ = [
 "q": "정상 프리온 단백질 PrP^C의 기능으로 강의안에 제시되지 않은 것은?",
 "choices": [
 "면역반응 조절(regulating immune responses)",
+"역전사효소 활성(reverse transcriptase activity)",
 "신호전달(signal transduction)",
 "구리 결합(copper binding)",
-"세포자멸사 방지(preventing apoptosis)",
-"역전사효소 활성(reverse transcriptase activity)"
+"세포자멸사 방지(preventing apoptosis)"
 ],
 "answer": [
-5
+2
 ],
 "explain": "슬라이드123 'Functions include regulating immune responses, signal transduction, copper binding, and preventing apoptosis' — PrP^C의 기능은 면역조절·신호전달·구리결합·세포자멸사 방지다. 역전사효소reverse transcriptase는 retrovirus 효소(Retroviridae 슬라이드67)로 prion과 무관하다.",
 "exam": "기본예제",
@@ -7537,12 +7537,12 @@ const LABQ = [
 "choices": [
 "진드기 교상",
 "공기 중 비말 전파",
-"프리온에 오염된 육골분(MBM) 급여",
 "오염된 물 섭취",
+"프리온에 오염된 육골분(MBM) 급여",
 "모기에 의한 매개 전파"
 ],
 "answer": [
-3
+4
 ],
 "explain": "BSE 유행의 핵심 원인은 프리온에 오염된 육골분(Meat-and-Bone Meal, MBM)을 소에게 급여한 것이다. 오염 사료 섭취가 소의 유일한 유의 감염경로다(강의안 p.125).",
 "exam": "기본예제",
@@ -7562,14 +7562,14 @@ const LABQ = [
 "topic": "주요 프리온병 — BSE·Scrapie·CWD 감별 + 진단·정책",
 "q": "양의 Scrapie에서 저항성 및 높은 감수성과 각각 연관된 PrP 대립유전자를 옳게 짝지은 것은?",
 "choices": [
-"ARR=저항성, VRQ=높은 감수성",
 "둘 다 감수성",
 "유전자와 무관",
+"ARR=저항성, VRQ=높은 감수성",
 "ARR=높은 감수성, VRQ=저항성",
 "둘 다 저항성"
 ],
 "answer": [
-1
+3
 ],
 "explain": "Scrapie 감수성은 PrP 유전자 다형성과 강하게 연관된다. 양에서 ARR 대립유전자는 저항성, VRQ 대립유전자는 높은 감수성과 관련된다(강의안 p.130).",
 "exam": "기본예제",
@@ -7589,14 +7589,14 @@ const LABQ = [
 "topic": "주요 프리온병 — BSE·Scrapie·CWD 감별 + 진단·정책",
 "q": "Scrapie와 달리 CWD(사슴 만성소모성질병)에서 나타나지 않는다고 제시된 임상 징후는?",
 "choices": [
-"가려움(pruritus)",
 "다음·다뇨(polydipsia·polyuria)",
 "과다 유연(침흘림)",
+"가려움(pruritus)",
 "체중 감소",
 "보행곤란"
 ],
 "answer": [
-1
+3
 ],
 "explain": "Scrapie의 특징적 징후는 심한 가려움(pruritus)이지만, CWD에서는 pruritus가 보이지 않는다고 제시되어 두 질병의 감별점이 된다(강의안 p.134).",
 "exam": "기본예제",
@@ -7616,14 +7616,14 @@ const LABQ = [
 "topic": "주요 프리온병 — BSE·Scrapie·CWD 감별 + 진단·정책",
 "q": "강의안에서 조직 절편의 PrP^Sc 검출에 대한 gold standard로 제시된 진단법은?",
 "choices": [
-"면역조직화학(IHC)",
 "조직병리(Histopathology)",
 "ELISA",
 "Western Blot",
+"면역조직화학(IHC)",
 "PMCA"
 ],
 "answer": [
-1
+4
 ],
 "explain": "슬라이드135 'Immunohistochemistry (IHC): The gold standard for detecting PrPSc in tissue sections' — 조직 절편의 PrP^Sc 검출 gold standard는 IHC다. ELISA·Western Blot은 대규모 신속선별, PMCA는 극미량 증폭 고감도 도구다.",
 "exam": "기본예제",
@@ -7643,14 +7643,14 @@ const LABQ = [
 "topic": "주요 프리온병 — BSE·Scrapie·CWD 감별 + 진단·정책",
 "q": "강의안에서 BSE 관리의 가장 핵심적(most critical)인 통제 조치로 제시된 것은?",
 "choices": [
-"반추동물 사료에 포유류 단백 사용을 금지하는 MBM Ban",
 "모기 매개체 관리(vector control)",
 "약독화 생백신(attenuated live vaccine) 접종",
 "항생제(antibiotic) 투여",
+"반추동물 사료에 포유류 단백 사용을 금지하는 MBM Ban",
 "감염축 격리 후 치료(treatment)"
 ],
 "answer": [
-1
+4
 ],
 "explain": "슬라이드136 'MBM Ban: The global ban on using mammalian protein in ruminant feed is the most critical control measure' — 반추동물 사료에 포유류 단백 사용을 막는 MBM 금지가 가장 핵심 조치다. prion은 백신·항생제·치료가 제시되지 않으며 모기 매개도 아니다.",
 "exam": "기본예제",
@@ -7851,12 +7851,12 @@ const LABQ = [
 "choices": [
 "인간→동물 한 방향으로만 전파된다",
 "동물→인간 한 방향으로만 전파된다",
-"인간↔동물 양방향으로 전파가 일어난다",
 "환경은 감염병과 무관하다",
+"인간↔동물 양방향으로 전파가 일어난다",
 "백신으로 모두 차단된다"
 ],
 "answer": [
-3
+4
 ],
 "explain": "원헬스는 사람·동물·생태계를 하나로 보며, 인수공통감염병은 인간↔동물 **양방향**으로 전파됩니다(강의1 §1). 코로나19가 대표 예시입니다.",
 "exam": "기본예제",
@@ -7878,12 +7878,12 @@ const LABQ = [
 "choices": [
 "약 10%",
 "약 30%",
-"약 60%",
 "약 90%",
-"100%"
+"100%",
+"약 60%"
 ],
 "answer": [
-3
+5
 ],
 "explain": "강의1 §1.3에서 최근 50년 신종 감염병의 **약 60%가 인수공통감염병**이라고 제시했습니다. 매년 전세계 약 10억 건 발생·수백만 사망.",
 "exam": "기본예제",
@@ -7904,13 +7904,13 @@ const LABQ = [
 "q": "니파바이러스 사례가 보여주는 신종 인수공통감염병 출현 경로로 옳은 것은?",
 "choices": [
 "백신 부작용으로 출현",
-"산림개발→과일박쥐 이동→돼지 농장 감염→사람 전파",
 "실험실 유출",
 "오염된 수돗물",
-"모기 단독 전파"
+"모기 단독 전파",
+"산림개발→과일박쥐 이동→돼지 농장 감염→사람 전파"
 ],
 "answer": [
-2
+5
 ],
 "explain": "산림 파괴로 과일박쥐가 과수원으로 밀려나 옆 돼지 농장을 감염시키고 사람으로 전파된 사례로, **산림개발→야생동물 서식지 변화→가축→사람**의 전형입니다(강의1 §1.4 4요인 중 기후·토지이용).",
 "exam": "기본예제",
@@ -7958,13 +7958,13 @@ const LABQ = [
 "q": "인수공통감염병(zoonotic disease)에 대한 강의안 설명으로 옳은 것은?",
 "choices": [
 "사람에서 사람으로만 전파되는 감염병이다",
-"동물과 사람 사이에 상호(양방향) 전파되는 병원체에 의한 감염병이다",
 "동물에게만 발생하고 사람은 절대 걸리지 않는다",
 "환경 요인과는 전혀 관계가 없다",
+"동물과 사람 사이에 상호(양방향) 전파되는 병원체에 의한 감염병이다",
 "모두 백신으로 완전히 차단된다"
 ],
 "answer": [
-2
+4
 ],
 "explain": "강의1 §1에서 인수공통감염병은 동물과 사람 사이에 상호(양방향) 전파되는 병원체에 의한 감염병으로 정의하며, 매개체는 인간·야생동물·진드기·반려동물입니다. SFTS·SARS·코로나19 등이 예시입니다.",
 "exam": "기본예제",
@@ -8011,14 +8011,14 @@ const LABQ = [
 "topic": "개념카드: 병원체·매개체·전파 사이클",
 "q": "SFTS 병원체의 분류와 유전체 특성으로 옳은 것은?",
 "choices": [
-"Dabie bandavirus — Bunyaviridae — 음성가닥 RNA, 3분절",
 "SARS-CoV-2 — Coronaviridae — 양성가닥 RNA",
 "인플루엔자 — Orthomyxoviridae — 8분절 RNA",
+"Dabie bandavirus — Bunyaviridae — 음성가닥 RNA, 3분절",
 "Dabie bandavirus — DNA 바이러스",
 "비분절 양성가닥 RNA 바이러스"
 ],
 "answer": [
-1
+3
 ],
 "explain": "SFTS의 원인체는 **Dabie bandavirus(SFTSV)**로 **Bunyaviridae**에 속하며 **음성가닥(−)ssRNA, 3분절(L·M·S)** 바이러스입니다(강의1 §3, 강의2 §2.1).",
 "exam": "기본예제",
@@ -8092,14 +8092,14 @@ const LABQ = [
 "topic": "개념카드: 병원체·매개체·전파 사이클",
 "q": "강의안에서 SFTS 바이러스가 처음 보고된 시기와 지역으로 옳은 것은?",
 "choices": [
-"2009년 중국(후베이·허난) → 동아시아 확산",
 "1980년 미국 → 전 세계 확산",
 "2017년 일본에서 최초 보고",
 "2003년 유럽에서 최초 보고",
-"2020년 아프리카에서 최초 보고"
+"2020년 아프리카에서 최초 보고",
+"2009년 중국(후베이·허난) → 동아시아 확산"
 ],
 "answer": [
-1
+5
 ],
 "explain": "강의1 §3·강의2 §2.1에서 Dabie bandavirus는 2009년 중국(후베이·허난)에서 처음 보고된 뒤 동아시아로 확산되었습니다. 매개 진드기는 2017년 미국에도 정착했으나, 바이러스 최초 보고는 2009년 중국입니다.",
 "exam": "기본예제",
@@ -8119,14 +8119,14 @@ const LABQ = [
 "topic": "개념카드: 병원체·매개체·전파 사이클",
 "q": "작은소피참진드기(Haemaphysalis longicornis)가 SFTS 바이러스를 자연계에서 세대·발육단계 간에 유지하는 두 가지 전파 방식으로 옳은 것은?",
 "choices": [
-"비말 전파와 경구 전파",
 "경란전파(transovarial)와 경발육단계전파(transstadial)",
+"비말 전파와 경구 전파",
 "수혈 전파와 성접촉 전파",
 "공기 전파와 매개물 전파",
 "태반 전파와 모유 전파"
 ],
 "answer": [
-2
+1
 ],
 "explain": "강의1 §5.3에서 매개 진드기는 알을 통해 다음 세대로 옮기는 경란전파(transovarial)와, 유충→약충→성충 발육단계 사이에서 바이러스를 유지하는 경발육단계전파(transstadial)로 SFTS를 자연계에 유지합니다. 단위생식까지 더해져 폭발적으로 퍼집니다.",
 "exam": "기본예제",
@@ -8175,12 +8175,12 @@ const LABQ = [
 "choices": [
 "고열",
 "혈소판 감소증(thrombocytopenia)",
+"호중구 증가증(neutrophilia)",
 "백혈구 감소증(leukopenia)",
-"위장 장애(구토·설사)",
-"호중구 증가증(neutrophilia)"
+"위장 장애(구토·설사)"
 ],
 "answer": [
-5
+3
 ],
 "explain": "SFTS의 4대 소견은 **고열·혈소판 감소증·백혈구 감소증·위장 장애**입니다(강의1 §4.1). 백혈구는 감소하므로 호중구 증가증은 해당되지 않습니다.",
 "exam": "기본예제",
@@ -8201,13 +8201,13 @@ const LABQ = [
 "q": "SFTS에서 혈소판 감소(thrombocytopenia)가 나타나는 기전으로 옳은 것은?",
 "choices": [
 "골수에서 혈소판을 전혀 만들지 않아서",
-"혈관 출혈에 동원되어 소모되고, 비장 매크로파지가 혈소판을 격리해서",
 "간에서 혈소판을 분해해서",
 "신장으로 혈소판이 배설되어서",
-"혈소판이 적혈구로 전환되어서"
+"혈소판이 적혈구로 전환되어서",
+"혈관 출혈에 동원되어 소모되고, 비장 매크로파지가 혈소판을 격리해서"
 ],
 "answer": [
-2
+5
 ],
 "explain": "바이러스가 전신 혈관에 출혈·염증을 일으켜 혈소판이 **소모(consumption)**되고, 여기에 **비장 매크로파지의 혈소판 격리(sequestration)**가 더해져 혈소판이 감소합니다(강의1 §4.2 병태생리).",
 "exam": "기본예제",
@@ -8228,13 +8228,13 @@ const LABQ = [
 "q": "강의안 역학분석에서 SFTS 사망 위험을 통계적으로 유의하게 높인다고 제시한 인자로 옳은 것은?",
 "choices": [
 "발열만 있으면 사망 위험 급증",
-"젊은 연령",
 "혈뇨(p=0.006)와 당뇨병(p=0.018)",
+"젊은 연령",
 "근육통",
 "림프절 종대"
 ],
 "answer": [
-3
+2
 ],
 "explain": "강의2 역학분석에서 **혈뇨(hematuria, p=0.006)**와 **당뇨병(p=0.018, OR 2.75)**, 기저질환 보유(aOR 2.96)가 사망과 통계적으로 유의하게 연관됐습니다. 발열·피로 등은 유의차가 없었습니다(강의2 §6·7).",
 "exam": "기본예제",
@@ -8256,12 +8256,12 @@ const LABQ = [
 "choices": [
 "수 시간 이내",
 "1~2일",
-"5~14일(6일~2주)",
 "1~2개월",
-"6개월 이상"
+"6개월 이상",
+"5~14일(6일~2주)"
 ],
 "answer": [
-3
+5
 ],
 "explain": "강의1 §4에서 SFTS의 잠복기는 5~14일(6일~2주)로 제시됩니다. 이후 고열·혈소판 감소·백혈구 감소·위장 장애의 4대 소견이 나타납니다.",
 "exam": "기본예제",
@@ -8281,14 +8281,14 @@ const LABQ = [
 "topic": "개념카드: 임상 증상·병태생리(사이토카인 스톰)",
 "q": "SFTS 병태생리에서 사이토카인 스톰(cytokine storm)에 대한 강의안 설명으로 옳은 것은?",
 "choices": [
-"IL-10·IL-6·IL-4·IP-10·IFN-γ 등이 과도하게 분비되어 감염세포까지 공격하고 다발성 장기부전으로 이어진다",
 "단일 사이토카인만 미량 분비되어 증상이 거의 없다",
 "사이토카인이 전혀 관여하지 않는 순수 세균 감염이다",
 "혈소판을 증가시켜 출혈을 막는 보호 반응이다",
+"IL-10·IL-6·IL-4·IP-10·IFN-γ 등이 과도하게 분비되어 감염세포까지 공격하고 다발성 장기부전으로 이어진다",
 "간세포만 직접 파괴하고 면역반응은 일어나지 않는다"
 ],
 "answer": [
-1
+4
 ],
 "explain": "강의1 §4 병태생리에서 사이토카인 스톰은 IL-10·IL-6·IL-4·IP-10·IFN-γ가 과도 분비되어 감염세포까지 공격하며, 이후 다발성 장기부전(심↑CKMB·간↑AST/ALT·신↑BUN)으로 진행합니다. 병태생리 7단계 중 6단계에 해당합니다.",
 "exam": "기본예제",
@@ -8336,13 +8336,13 @@ const LABQ = [
 "q": "강의안 기준 SFTS의 계절성·고위험군으로 옳은 것은?",
 "choices": [
 "겨울철(12–2월) 피크, 도시 사무직",
-"4–11월 발생·10월 피크, 50대 이상 농·임업 종사자",
 "연중 균일, 영유아",
 "여름만 발생, 어부",
+"4–11월 발생·10월 피크, 50대 이상 농·임업 종사자",
 "봄에만 발생, 학생"
 ],
 "answer": [
-2
+4
 ],
 "explain": "SFTS는 진드기 활동기인 **4–11월에 발생하고 10월에 피크**이며, **50대 이상 농·임업 종사자**(+수의사·애견미용사)가 고위험군입니다(강의2 §4·5, 강의1 §3.4).",
 "exam": "기본예제",
@@ -8362,14 +8362,14 @@ const LABQ = [
 "topic": "개념카드: 역학·동물 전파·원헬스 감시·분자역학",
 "q": "한국 동물종별 SFTS 항체 양성률이 가장 높은 동물은?",
 "choices": [
+"고라니",
 "멧돼지",
 "개",
 "염소",
-"고라니",
 "닭"
 ],
 "answer": [
-4
+1
 ],
 "explain": "강의1 §5.4 기준 항체 양성률은 **고라니 23.8%(최고)** > 개 13.9% > 염소 6.9–14.4% > 멧돼지 1.9% 순입니다. 고라니·멧돼지는 증상이 가벼워 매개체로서 역할이 큽니다.",
 "exam": "기본예제",
@@ -8391,12 +8391,12 @@ const LABQ = [
 "choices": [
 "고양이에게 물리거나 긁혀서",
 "진드기에 직접 물려서",
-"고양이의 혈액·체액·비말(에어로졸) 노출",
 "사료 공유",
-"공기 중 장거리 전파"
+"공기 중 장거리 전파",
+"고양이의 혈액·체액·비말(에어로졸) 노출"
 ],
 "answer": [
-3
+5
 ],
 "explain": "일본 사례에서 고양이와 환자의 바이러스 유전자가 100% 일치했고, 전파는 물림·긁힘이 아니라 **고양이의 혈액·체액·비말(에어로졸)**로 추정됩니다 → 진료 시 마스크·장갑·**고글** 필수(강의1 §5.8).",
 "exam": "기본예제",
@@ -8416,14 +8416,14 @@ const LABQ = [
 "topic": "개념카드: 역학·동물 전파·원헬스 감시·분자역학",
 "q": "일본 고양이 매개 SFTS 사례에서 고양이의 주요 임상 증상으로 강의안이 제시한 것은?",
 "choices": [
-"황달",
 "탈모",
 "백내장",
 "관절염",
-"청력 소실"
+"청력 소실",
+"황달"
 ],
 "answer": [
-1
+5
 ],
 "explain": "강의1 §5.8에서 고양이 SFTS의 주요 증상은 황달로 제시됩니다. 일본 2차 감염 사례 대부분이 고양이 매개였고, 고양이 폐사 10일 후 사람이 발병하며 바이러스 유전자가 100% 일치해 직접 전파가 증명되었습니다.",
 "exam": "기본예제",
@@ -8444,13 +8444,13 @@ const LABQ = [
 "q": "한국 SFTS 바이러스의 전장유전체 phylogenetic(분자역학) 분석 결과로 강의안이 제시한 해석은?",
 "choices": [
 "한국 SFTS는 일본에서 직접 유입되어 유지된다",
-"한국 SFTS는 중국 유래 바이러스의 지속 유입으로 유지된다",
 "한국 SFTS는 외부 유입 없이 자체적으로만 발생한다",
+"한국 SFTS는 중국 유래 바이러스의 지속 유입으로 유지된다",
 "한국에는 더 이상 SFTS가 순환하지 않는다",
 "동물과 사람은 서로 전혀 무관한 바이러스에 감염된다"
 ],
 "answer": [
-2
+3
 ],
 "explain": "강의2 §4·5, 강의1 §6의 전장유전체 phylogenetic 분석에서 한국 SFTS는 중국 유래 바이러스의 지속 유입으로 유지되며, 일본→한국 직접 연결은 약한 것으로 나타났습니다.",
 "exam": "기본예제",
@@ -8497,14 +8497,14 @@ const LABQ = [
 "topic": "개념카드: 진단·치료·예방·백신 + 진드기 매개 다른 질병",
 "q": "SFTS의 급성기 진단에서 혈액 내 바이러스 RNA를 검출하는 가장 적절한 방법은?",
 "choices": [
-"RT-PCR(역전사 중합효소 연쇄반응)",
 "그람 염색",
 "세균 배양",
 "X-ray",
-"소변 배양"
+"소변 배양",
+"RT-PCR(역전사 중합효소 연쇄반응)"
 ],
 "answer": [
-1
+5
 ],
 "explain": "급성기 SFTS는 혈액 내 바이러스 RNA를 **RT-PCR**로 검출하며 민감도·특이도가 높습니다. 시간이 지나면 RNA 검출률이 떨어지고, IgM/IgG ELISA는 교차반응에 주의합니다(강의1 §8.1).",
 "exam": "기본예제",
@@ -8525,13 +8525,13 @@ const LABQ = [
 "q": "현재 SFTS의 치료·백신 현실로 옳은 것은?",
 "choices": [
 "효과적인 항바이러스제와 상용 백신이 모두 있다",
-"상용 백신은 없고 치료는 대증요법에 의존한다",
 "백신은 있으나 치료제만 없다",
 "항생제로 완치된다",
+"상용 백신은 없고 치료는 대증요법에 의존한다",
 "예방접종이 의무화되어 있다"
 ],
 "answer": [
-2
+4
 ],
 "explain": "현재 SFTS는 **상용 백신·효과적 항바이러스제가 없어 대증요법**에 의존합니다. 불활화·약독화·DNA·mRNA 백신이 연구 단계이며, 지역 한정 질병이라 사업성 문제로 개발이 더딥니다(강의1 §8.3).",
 "exam": "기본예제",
@@ -8551,14 +8551,14 @@ const LABQ = [
 "topic": "개념카드: 진단·치료·예방·백신 + 진드기 매개 다른 질병",
 "q": "진드기 매개 감염병 진단·관리에서 동시감염(co-infection)을 고려해야 하는 이유로 옳은 것은?",
 "choices": [
-"진드기는 한 가지 병원체만 옮기므로 고려 불필요",
 "하나의 진드기가 여러 병원체(라임·바베시아 등)를 함께 옮길 수 있어 패널 검사가 필요",
+"진드기는 한 가지 병원체만 옮기므로 고려 불필요",
 "동시감염은 존재하지 않음",
 "백신으로 모두 예방됨",
 "항생제 한 종으로 모두 치료됨"
 ],
 "answer": [
-2
+1
 ],
 "explain": "같은 진드기가 SFTS·라임병·바베시아·아나플라스마 등 **여러 병원체를 함께 전파**할 수 있어(라임+바베시아 약 30% 동시감염) 한 질병만 진단·치료하면 다른 질병을 놓칩니다 → **패널 검사** 필요(강의1 §7.5·§8).",
 "exam": "기본예제",
@@ -8579,13 +8579,13 @@ const LABQ = [
 "q": "강의안에서 연구 단계에 있는 SFTS 백신 4종 중 '병원성 복귀(독성 회복) 위험'이 단점으로 지적된 것은?",
 "choices": [
 "불활화 백신(BPL+Al(OH)₃)",
-"약독화 백신",
 "DNA 백신",
+"약독화 백신",
 "mRNA 백신",
 "재조합 단백질 백신"
 ],
 "answer": [
-2
+3
 ],
 "explain": "강의1 §8.3에서 약독화 백신은 강한 면역이 장점이지만 병원성 복귀(독성 회복) 위험이 단점으로 지적됩니다. 불활화는 면역이 약하고, DNA는 효과 불확실, mRNA는 콜드체인·비용이 단점입니다.",
 "exam": "기본예제",
@@ -8606,13 +8606,13 @@ const LABQ = [
 "q": "강의안이 제시한 진드기 매개 감염병 중 백신이 존재하는 질병으로 옳은 것은?",
 "choices": [
 "라임병(Borrelia)",
-"바베시아증(Babesia)",
 "진드기매개뇌염(TBE)",
+"바베시아증(Babesia)",
 "록키산반점열(Rickettsia)",
 "아나플라스마증"
 ],
 "answer": [
-3
+2
 ],
 "explain": "강의1 §7·§8에서 진드기매개뇌염(TBE)은 백신이 있는 것으로 명시됩니다. 라임병·록키산반점열·아나플라스마·바베시아는 별도 백신이 제시되지 않으며, SFTS 역시 상용 백신이 없습니다.",
 "exam": "기본예제",
