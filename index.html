@@ -282,6 +282,7 @@ const FILTERS=[
   ['🔥 찐핵심 객관식 (주제별 1문항)','#ff3b30','CORE_MC'],
   ['✍️ 찐핵심 주관식 (주제별 1문항)','#ff8aae','CORE_SA'],
   ['🆕 2026자작 몰아풀기','#1ED760','EXAM'],
+  ['📝 예제만 몰아풀기(한국어)','#7ee0c0','BASIC'],
   ['⚡ 전체 ① 객관식','#ffd54f','MC'],
   ['⚡ 전체 ② 주관식','#ffce54','SA'],
   ['전체','#1DB954',q=>true],
@@ -320,6 +321,7 @@ function soloListFor(m){
   if(m==='CORE_MC')return CORE.filter(q=>['ox','single','multi'].includes(q.type));
   if(m==='CORE_SA')return CORE.filter(q=>['short','calc','essay'].includes(q.type));
   if(m==='EXAM')return QUESTIONS.filter(q=>q.origin==='concept'&&q.level==='exam'&&['ox','single','multi'].includes(q.type));
+  if(m==='BASIC')return QUESTIONS.filter(q=>q.origin==='concept'&&q.level==='basic'&&['ox','single','multi'].includes(q.type));
   return QUESTIONS.filter(q=>q.origin==='jokbo'&&(m==='SA'?['short','calc','essay']:['ox','single','multi']).includes(q.type));}
 function soloList(){return soloListFor(soloMode());}
 function save(){localStorage.setItem(LS,JSON.stringify(ST));}
